@@ -1,22 +1,12 @@
 network1_id,network1_name,network1_location
 42,Dick Shore,Thames riverside near Tower
-64,Mr Brigden's (Fleet Street),Fleet Street
 74,Ale-house (City,unspecified)
-89,Mr Adam Chard's House,Westminster or City (exact location unspecified)
 92,Ale-house (Westminster,unspecified)
 98,Tavern (Westminster,unspecified)
-106,Sir John Robinson's House (Tower),Tower of London
 116,Mr Lucy's House,City of London (exact location unspecified)
 133,Church Stile (Walthamstow),Walthamstow
-136,Mr Young's House (Cornhill),Cornhill
-137,Mr Thornbury's House,King Street area
 138,Chocolate House,Westminster (exact location unspecified)
-180,Mr Holland's House (Bridewell),Bridewell
 191,Samson Tavern (St Paul's Churchyard),St Paul's Churchyard
-192,Mr Hodges's House,Lincoln's Inn Fields
-200,Portholme Meadow,near Huntingdon
-208,Sturtlow,Sturtlow
-210,Sir Robert Bernard's House,Huntingdon
 212,Goody Gorum's,Brampton area
 229,Mrs Terry's House,City of London (exact location unspecified)
 231,Mrs Whately's House,City of London (exact location unspecified)
@@ -24,15 +14,12 @@ network1_id,network1_name,network1_location
 247,Mrs Symonds's House,Westminster (exact location unspecified)
 250,Mrs Utbeck's House,City of London (exact location unspecified)
 262,Welwyn,Welwyn
-263,Holloway,Holloway
 265,Mr Sedgewick's House (Cambridge),Cambridge
 266,Stourbridge (Fair),Stourbridge
 271,The Mews (Charing Cross),Charing Cross
-280,Paternoster Row,Paternoster Row
 283,Mr Pim's Tailor's Shop,Westminster (exact location unspecified)
 287,Mrs Goldsborough's House,City of London (exact location unspecified)
 291,Ringo Ale-house,Westminster / City (exact location unspecified)
-293,Sir Robert Bernard's London Chambers,City of London (exact location unspecified)
 302,Mrs Battersby's House,Westminster (exact location unspecified)
 303,Mrs Scott's House (cozen),City of London (exact location unspecified)
 310,Old Jewry,Old Jewry
@@ -43,41 +30,30 @@ network1_id,network1_name,network1_location
 337,Tavern near Vere Street Theatre,Clare Market area
 338,Mr Berkenshaw's House,Southwark
 340,Pewterer's Shop,City of London (exact location unspecified)
-343,The Lewes (merchant ship),River Thames
 348,The Grange (near Opera House),Lincoln's Inn Fields area
-361,Havant,Havant
 363,Mr Wiard's House (surgeon),Portsmouth
 364,Mrs Stephens's Lodgings,Portsmouth
 368,Mr Tippets's House,Portsmouth Dockyard
-369,Gosport,Gosport
-370,Southampton,Southampton
 371,Mayor's House (Southampton),Southampton
 374,The Swallow (ship),Portsmouth Dockyard
 375,Mayor's House (Portsmouth),Portsmouth
 381,Goldsmith's Shop (near Wardrobe),Carter Lane area
 385,Italian Puppet Play (Covent Garden),Covent Garden
-388,Teddington,Teddington
 390,Mr Marriott's House (Hampton Court),Hampton Court
 396,Triumph Tavern (Charing Cross),Charing Cross
 399,Mum House (Leadenhall),Leadenhall
 404,Mrs Clarke's House,Westminster (exact location unspecified)
 406,Short's Ale-house (Old Bailey),Old Bailey
-412,Wright's Painting Studio,London (exact location unspecified)
 425,Medway (guardships area),River Medway
-431,Waltham Forest,Essex
 434,Mr Barwell's (saddler,Fleet Street)
 436,Lombard Street Ordinary,Lombard Street
 442,Hermitage (wharf),Wapping
 452,Sheriff Maynell's House,City of London (exact location unspecified)
-454,Mr Young's House (Blackfriars),Blackfriars
-463,Sir Robert Bernard's Office (Huntingdon),Huntingdon
 475,Italian Puppet Show (Charing Cross),Charing Cross
 477,Sir Edward Hale's Chambers (Temple),Temple area
-486,Sir John Berkenheade's House,London (exact location unspecified)
 491,Mr Peat's House (Woolwich),Woolwich
 504,Serjeant Bernard's Chambers (Temple),Temple
 505,Mr Lovell's Office (proctor),London (near Doctors' Commons)
-509,Cuckold's Point (Thames),Thames riverside
 514,Mr Wayth's House (Deptford),Deptford area
 525,Shishe's Timber Yard (Thames),Thames waterside (exact location unspecified)
 528,Alehouse in Westminster Market Place,Westminster (exact location unspecified)
@@ -91,20 +67,12 @@ network1_id,network1_name,network1_location
 564,Mr Game's Stable (horse-hire),City of London (exact location unspecified)
 569,Mr Barrow's House (Chatham),Chatham
 573,Wise's Viol Maker's Shop (Bishopsgate Street),Bishopsgate Street
-583,Durdans (near Epsom),Epsom area
-584,Ashtead Church,Ashtead
-596,Puppet Show (Lincoln's Inn Fields),Lincoln's Inn Fields
-598,Mrs Russell's House (near Navy Office),City of London (near Seething Lane)
 616,Gorrum's (drinking house Brampton),Brampton
 623,Grafham village,Grafham
 633,Scrivener at Bedlam (Moorfields),Moorfields
-634,St Katherine's Docks (Dutch ships),Thames waterside near Tower
-652,Shoreditch (funeral procession),Shoreditch
 666,Balty St Michel's Lodgings,London (exact location unspecified)
 670,Mr Cade's Print/Picture Shop (Cornhill),Cornhill
-677,Sir Harry Wright's House,"King Street area, Westminster"
 685,Mr Gunning's (church / chapel),Westminster (exact location unspecified)
-687,Mr Fage's (apothecary / physician),City of London (exact location unspecified)
 710,"Plough (hat shop, Fleet Street)","Fleet Street, London"
 712,"Herring's (merchant, Coleman Street)","Coleman Street, City of London"
 714,Mr Cumberland's House,Westminster or City (exact location unspecified)
@@ -113,18 +81,12 @@ network1_id,network1_name,network1_location
 730,Admiralty Office,Westminster (various locations 1660)
 733,Short's (firing supplier),Westminster (exact location unspecified)
 742,Tony Robins's (tavern / eating house),Westminster (exact location unspecified)
-745,Mr Mossum's Church (St Paul's Covent Garden area),Westminster (exact location unspecified)
 752,Poole's Tavern (Deal),"Deal, Kent"
 754,Scheveling (Scheveningen),"Scheveningen, Holland"
-756,Lausdune (Loosduinen),"Loosduinen, Holland"
-758,Sittingbourne (inn),"Sittingbourne, Kent"
 767,Sir Geoffrey Palmer's Chambers,Westminster (exact location unspecified)
-770,Sir Edward Walker's Lodgings (St Giles area),"St Giles, London"
-774,Dorset House,"Fleet Street area, London"
 783,Harvey's (eating house near father's),"Salisbury Court area, London"
 800,Mr Wivell's (eating house Hoop Tavern area),City of London (exact location unspecified)
 802,"Axe Yard (former home, used for visits)","Axe Yard, Westminster"
-805,Reindeer Tavern (Westminster),Westminster (exact location unspecified)
 814,Southwark Fair / Bridge Foot,"Southwark, Surrey"
 820,Axe Tavern (Westminster area),Westminster (exact location unspecified)
 826,Brazennose Tavern (Strand area),"The Strand, London"
@@ -146,25 +108,17 @@ network1_id,network1_name,network1_location
 951,St. Giles's Church,"St. Giles-in-the-Fields, London"
 960,Harman's (upholsterer),City of London (exact location unspecified)
 974,Nellson's (bewper dealer),City of London
-987,Mr. Downing's Office/House,Westminster
 989,Dr. Whore's House,Westminster (exact location unspecified)
-990,Mr. Vines's House,Westminster (exact location unspecified)
 997,Mr. Vernon's House,City of London
 1026,Sheriff Waterman's House,City of London (exact location unspecified)
 1049,Sheldon's House (Woolwich),"Woolwich, Kent"
-1057,Mr. Gauden's House (Clapham),"Clapham, Surrey"
-1069,Swakeley (Sir R. Viner's),"Ickenham, Middlesex"
-1081,Syon House (Isleworth),"Isleworth, Middlesex"
 1091,Mr. Cuttle's House (Greenwich),"Greenwich, Kent"
 1109,Stangold (Stangate),"Lambeth, Surrey"
-1123,Milk House (Strand),"The Strand, London"
-1124,Katherine Wheel Tavern (Islington),"Islington, Middlesex"
 1129,Sir Christopher Mings's Funeral Church,City of London
 1130,Mr Debasty's House,City of London
 1131,Mr Penny's Tailor's Shop,Westminster
 1137,Longreach (Thames anchorage),"Longreach, Thames Estuary"
 1145,Uxbridge Road (country airing),Middlesex
-1160,Merchant Tailors' Hall (church nearby),"Threadneedle Street, City of London"
 1161,Stokes the Goldsmith's (Lombard St),"Lombard Street, City of London"
 1166,Old Fish Street Cook-shop (wedding dinner house),"Old Fish Street, City of London"
 1170,Iron Gate Stairs (Tower area),"Tower Hill, City of London"
@@ -173,52 +127,35 @@ network1_id,network1_name,network1_location
 1218,Devonshire House (burial),"Bishopsgate, City of London"
 1219,"Lindeboome (prize ship, Thames)",River Thames
 1220,Strand Bridge / Watergate stairs,"The Strand, Westminster"
-1221,Polichinelli show (Charing Cross),"Charing Cross, Westminster"
-1225,Mr Johnson's House (Blackwall),"Blackwall, Middlesex"
 1233,Cake House (Southampton Market),"Southampton Street, Westminster"
 1252,Lord Mayor's dinner (Sessions),"Old Bailey, City of London"
-1265,Bottle of Hay (St John Street),"St John Street, Clerkenwell"
 1272,Mrs Manuel's House (singing),London
-1280,Polichinelli show (Bartholomew Fair),"West Smithfield, City of London"
 1289,St Giles coachman's house,"St Giles-in-the-Fields, Westminster"
-1293,Reindeer Inn (Bishop's Stortford),"Bishop's Stortford, Hertfordshire"
 1307,"Tavern (St Clement's Churchyard, Royal Society)","St Clement's, Westminster"
-1308,Cary House (Royal Society dinner),"Strand, Westminster"
 1311,Turlington's (spectacle-maker),London
 1313,Goldsmith's shop (basin for christening),City of London
-1320,"Groom-Porter's (gaming room, Whitehall)","Whitehall, Westminster"
-1322,Drumbleby's (flageolet/pipe maker),Westminster
-1323,Durham Yard (Commissioners for Accounts),"Durham Yard, Strand"
 1336,Charles Porter's chamber (Temple),"Temple, City of London"
-1340,Blue Balls tavern (Strand/Covent Garden area),"Covent Garden, Westminster"
-1341,"Chatelin's (French house, Covent Garden)","Covent Garden, Westminster"
 1342,"Mr Chichly's house (Queen Street, Covent Garden)","Covent Garden, Westminster"
 1351,"Hayward's (virginall/espinette maker, Aldgate Street)","Aldgate Street, City of London"
-1353,Mr Cooper's house (portrait painter),City of London
 1361,Teddiman's (Old Street brew-house),"Old Street, City of London"
 1370,Gun Inn (Mile End),"Mile End, Middlesex"
 1372,Whey House (by New Exchange),"Strand, Westminster"
-1406,"Dr Turberville's (Westminster, eye doctor)",Westminster
 1414,"Mr Chichly's (Hampstead area, dined)","Hampstead area, Middlesex"
 1423,Mr Hosier's Lodgings (Gravesend),Gravesend
 1436,Queen's Drawing Room (Whitehall),"Whitehall, Westminster"
 1438,My vintner's shop,City of London
 1439,Glove and ribbon shop (Fenchurch Street),"Fenchurch Street, City of London"
 1446,Coachmaker's (Cow Lane),"Cow Lane, Smithfield"
-1466,Southampton Buildings (Creed's lodgings),"Holborn, Westminster"
 1469,Gracious Street oyster-woman's,"Gracious Street (Gracechurch Street), City of London"
-1477,Elizabeth Pepys's mother's house,Westminster
 1479,Cabinet-maker's shops (near New Exchange),"Strand, Westminster"
 1480,Tall woman's lodgings (Holborn),Holborn
 1495,Mrs Gotier's (Queen's tire-woman),Westminster
 1498,"Bedlam (Bethlem Royal Hospital, Moorfields)","Moorfields, City of London"
-1526,"Whitechapel (air ride, towards Bow)","Whitechapel, City of London"
 1569,Dr Clarke's lodgings (Portsmouth),Portsmouth
 1577,"The Garter (inn, Windsor)","Windsor, Berkshire"
 1582,Grande Salle (States General Hall),"The Hague, Holland"
 1584,Lodging (The Hague),"The Hague, Holland"
 1588,Queen of Bohemia's Residence (The Hague),"The Hague, Holland"
-1589,Princess Dowager's House (Huis ten Bosch),"near The Hague, Holland"
 1591,Tavern (The Hague),"The Hague, Holland"
 1592,Scheveling Church,"Scheveningen, Holland"
 1593,House of Entertainment (Scheveling),"Scheveningen, Holland"
