@@ -40,14 +40,11 @@ network1_id,network1_name,network1_location
 381,Goldsmith's Shop (near Wardrobe),Carter Lane area
 385,Italian Puppet Play (Covent Garden),Covent Garden
 390,Mr Marriott's House (Hampton Court),Hampton Court
-396,Triumph Tavern (Charing Cross),Charing Cross
-399,Mum House (Leadenhall),Leadenhall
 404,Mrs Clarke's House,Westminster (exact location unspecified)
 406,Short's Ale-house (Old Bailey),Old Bailey
 425,Medway (guardships area),River Medway
 434,Mr Barwell's (saddler,Fleet Street)
 436,Lombard Street Ordinary,Lombard Street
-442,Hermitage (wharf),Wapping
 452,Sheriff Maynell's House,City of London (exact location unspecified)
 475,Italian Puppet Show (Charing Cross),Charing Cross
 477,Sir Edward Hale's Chambers (Temple),Temple area
@@ -69,7 +66,6 @@ network1_id,network1_name,network1_location
 573,Wise's Viol Maker's Shop (Bishopsgate Street),Bishopsgate Street
 616,Gorrum's (drinking house Brampton),Brampton
 623,Grafham village,Grafham
-633,Scrivener at Bedlam (Moorfields),Moorfields
 666,Balty St Michel's Lodgings,London (exact location unspecified)
 670,Mr Cade's Print/Picture Shop (Cornhill),Cornhill
 685,Mr Gunning's (church / chapel),Westminster (exact location unspecified)
@@ -82,7 +78,6 @@ network1_id,network1_name,network1_location
 733,Short's (firing supplier),Westminster (exact location unspecified)
 742,Tony Robins's (tavern / eating house),Westminster (exact location unspecified)
 752,Poole's Tavern (Deal),"Deal, Kent"
-754,Scheveling (Scheveningen),"Scheveningen, Holland"
 767,Sir Geoffrey Palmer's Chambers,Westminster (exact location unspecified)
 783,Harvey's (eating house near father's),"Salisbury Court area, London"
 800,Mr Wivell's (eating house Hoop Tavern area),City of London (exact location unspecified)
@@ -129,6 +124,7 @@ network1_id,network1_name,network1_location
 1220,Strand Bridge / Watergate stairs,"The Strand, Westminster"
 1233,Cake House (Southampton Market),"Southampton Street, Westminster"
 1252,Lord Mayor's dinner (Sessions),"Old Bailey, City of London"
+1265,Bottle of Hay (St John Street),"St John Street, Clerkenwell"
 1272,Mrs Manuel's House (singing),London
 1289,St Giles coachman's house,"St Giles-in-the-Fields, Westminster"
 1307,"Tavern (St Clement's Churchyard, Royal Society)","St Clement's, Westminster"
@@ -142,22 +138,16 @@ network1_id,network1_name,network1_location
 1372,Whey House (by New Exchange),"Strand, Westminster"
 1414,"Mr Chichly's (Hampstead area, dined)","Hampstead area, Middlesex"
 1423,Mr Hosier's Lodgings (Gravesend),Gravesend
-1436,Queen's Drawing Room (Whitehall),"Whitehall, Westminster"
 1438,My vintner's shop,City of London
 1439,Glove and ribbon shop (Fenchurch Street),"Fenchurch Street, City of London"
 1446,Coachmaker's (Cow Lane),"Cow Lane, Smithfield"
 1469,Gracious Street oyster-woman's,"Gracious Street (Gracechurch Street), City of London"
 1479,Cabinet-maker's shops (near New Exchange),"Strand, Westminster"
-1480,Tall woman's lodgings (Holborn),Holborn
 1495,Mrs Gotier's (Queen's tire-woman),Westminster
-1498,"Bedlam (Bethlem Royal Hospital, Moorfields)","Moorfields, City of London"
 1569,Dr Clarke's lodgings (Portsmouth),Portsmouth
 1577,"The Garter (inn, Windsor)","Windsor, Berkshire"
 1582,Grande Salle (States General Hall),"The Hague, Holland"
 1584,Lodging (The Hague),"The Hague, Holland"
-1588,Queen of Bohemia's Residence (The Hague),"The Hague, Holland"
 1591,Tavern (The Hague),"The Hague, Holland"
-1592,Scheveling Church,"Scheveningen, Holland"
 1593,House of Entertainment (Scheveling),"Scheveningen, Holland"
 1596,"Van Tromp's Church (Oude Kerk, Delft)","Delft, Holland"
-1598,Shell-work Woman's House,"between Scheveningen and The Hague, Holland"
