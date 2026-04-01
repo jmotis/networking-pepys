@@ -1,49 +1,42 @@
 network2_id,network2_name,network2_location
-acton,Acton,Middlesex
-admiralty,Admiralty,Whitehall
 blockhouse_gravesend,Blockhouse,"near Gravesend, Kent"
-botolphs_church,Botolph's Church,Cambridge
 bottle_beer_house_strand,Bottle Beer House,Strand
+brazennose_tavern,Brazennose Tavern,Savoy
 brentford_church,Church,"Brentford, Middlesex"
 brentford_inn,Inn,"Brentford, Middlesex"
 capuchin_monastery,Capuchin Monastery,St. James's
+clapham,Clapham,Surrey
 dickshore,Dick Shore,Wapping/Limehouse
 dr_hardys_church,Dr. Hardy's Church,London
 engraver_tower,Engraver's Workshop,Tower of London
-fullers_deal,Fuller's,"alehouse, Deal"
+faithornes,Faithorne's,"print-seller, London"
 goldsmith_new_exchange,Goldsmith,near New Exchange
 greenwich_vestry,Church Vestry,Greenwich Church
 hargrave_house,Hargrave's,St. Martin's Lane
-herrings_house,Herring's,"merchant, Coleman Street, London"
 horsleydown,Horsleydown,Southwark
-isle_of_dogs,Isle of Dogs,Middlesex
 lodging_hague,Lodging,The Hague
 mark_lane_tavern,A Tavern,Mark Lane
 mings_funeral_church,Church,Sir Christopher Mings's funeral
-mr_ashburnhams,Mr. Ashburnham's,"Old Palace Yard, Westminster"
 mr_butlers_house,Mr. Butler's House,London
-mr_chaplins_house,Mr. Chaplin's House,London
 mr_cumberland_house,Mr. Cumberland's House,London
 mr_debastys,Mr. Debasty's,London
 mr_frosts_house,Mr. Frost's House,London
-mr_herrings_church,Mr. Herring's Church,London
-mr_knightlys_house,Mr. Knightly's House,London
 mr_laxtons_house,Mr. Laxton's,"apothecary, London"
-mr_lucys_house,Mr. Lucy's House,"merchant, London"
 mr_phelps_house,Mr. Phelps's House,Westminster
 mr_sherwins_house,Mr. Sherwin's House,London
 mr_stephens_house,Mr. Stephens's House,"Treasurer's man, London"
 mr_symons_house,Mr. Symons's House,London
-mr_vernons_house,Mr. Vernon's House,London
 mr_wm_montagus_chamber,Mr. Wm. Montagu's Chamber,London
 mrs_clarkes_house,Mrs. Clarke's House,Westminster
 mrs_eastwoods_lodging,Mrs. Eastwood's Lodging,"new market, Lord Treasurer's, Westminster"
 mrs_stokes_paternoster_row,Mrs. Stokes's,"goldsmith, Paternoster Row"
-mrs_terrys_house,Mrs. Terry's House,London
-mrs_whatelys_house,Mrs. Whately's House,London
+office_exchequer,Office,"Exchequer, Westminster"
 parish_church_fenner,Church,near Uncle Fenner's
 pooles_deal,Poole's,"tavern, Deal"
+shadwell,Shadwell,Middlesex
 sheriffe_hookers,Sheriff Hooker's House,Greenwich
+ship_naseby,Naseby,ship
+ship_plimouth,Plimouth,ship
 ship_swallow,Swallow,"ship, Portsmouth Dock"
 swayns,Swayn's,Westminster
 tavern_cornhill,Tavern,"Cornhill, City of London"
@@ -52,6 +45,4 @@ tavern_harwich,A Tavern,London
 tavern_near_home,A Tavern,near Seething Lane
 tavern_savoy,A Tavern,near Savoy
 thames_street_tavern,A Tavern,Thames Street
-the_grange,The Grange,near Lincoln's Inn
-the_spits,The Spits,Thames Estuary
 welwyn,Welwyn,Hertfordshire
