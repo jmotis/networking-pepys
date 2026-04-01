@@ -1,0 +1,120 @@
+network1_id,network1_name,network1_location
+42,Dick Shore,Thames riverside near Tower
+133,Church Stile (Walthamstow),Walthamstow
+138,Chocolate House,Westminster (exact location unspecified)
+235,Alehouse near Tom Trice's,City of London (exact location unspecified)
+247,Mrs Symonds's House,Westminster (exact location unspecified)
+250,Mrs Utbeck's House,City of London (exact location unspecified)
+262,Welwyn,Welwyn
+287,Mrs Goldsborough's House,City of London (exact location unspecified)
+303,Mrs Scott's House (cozen),City of London (exact location unspecified)
+327,Mr Faulconberge's House,City of London (exact location unspecified)
+328,Stationer's Shop (City),City of London (exact location unspecified)
+335,Mrs Chappell's House (Stepney),Stepney
+337,Tavern near Vere Street Theatre,Clare Market area
+340,Pewterer's Shop,City of London (exact location unspecified)
+346,Bowes (shop),The Strand
+364,Mrs Stephens's Lodgings,Portsmouth
+368,Mr Tippets's House,Portsmouth Dockyard
+374,The Swallow (ship),Portsmouth Dockyard
+381,Goldsmith's Shop (near Wardrobe),Carter Lane area
+385,Italian Puppet Play (Covent Garden),Covent Garden
+390,Mr Marriott's House (Hampton Court),Hampton Court
+404,Mrs Clarke's House,Westminster (exact location unspecified)
+425,Medway (guardships area),River Medway
+434,Mr Barwell's (saddler,Fleet Street)
+436,Lombard Street Ordinary,Lombard Street
+452,Sheriff Maynell's House,City of London (exact location unspecified)
+469,St John's College Library (Cambridge),Cambridge
+475,Italian Puppet Show (Charing Cross),Charing Cross
+477,Sir Edward Hale's Chambers (Temple),Temple area
+491,Mr Peat's House (Woolwich),Woolwich
+504,Serjeant Bernard's Chambers (Temple),Temple
+505,Mr Lovell's Office (proctor),London (near Doctors' Commons)
+525,Shishe's Timber Yard (Thames),Thames waterside (exact location unspecified)
+543,Mr Beacham Goldsmith's (Westminster),Westminster (exact location unspecified)
+546,Blackbury's Timber Yard (Thames),Thames waterside
+548,Whey-house,London (exact location unspecified)
+549,Wife's coach departure inn,London (exact location unspecified)
+552,Brewer's House (picture dealer),London (exact location unspecified)
+553,Stacy's (tar merchant),London (exact location unspecified)
+564,Mr Game's Stable (horse-hire),City of London (exact location unspecified)
+569,Mr Barrow's House (Chatham),Chatham
+573,Wise's Viol Maker's Shop (Bishopsgate Street),Bishopsgate Street
+616,Gorrum's (drinking house Brampton),Brampton
+623,Grafham village,Grafham
+659,Mr Fen's House,London (exact location unspecified)
+666,Balty St Michel's Lodgings,London (exact location unspecified)
+670,Mr Cade's Print/Picture Shop (Cornhill),Cornhill
+685,Mr Gunning's (church / chapel),Westminster (exact location unspecified)
+714,Mr Cumberland's House,Westminster or City (exact location unspecified)
+721,Mr Phelps's House (Westminster),Westminster (exact location unspecified)
+726,Mr Laxton's (Lord's apothecary),City of London (exact location unspecified)
+742,Tony Robins's (tavern / eating house),Westminster (exact location unspecified)
+752,Poole's Tavern (Deal),"Deal, Kent"
+767,Sir Geoffrey Palmer's Chambers,Westminster (exact location unspecified)
+783,Harvey's (eating house near father's),"Salisbury Court area, London"
+800,Mr Wivell's (eating house Hoop Tavern area),City of London (exact location unspecified)
+802,"Axe Yard (former home, used for visits)","Axe Yard, Westminster"
+814,Southwark Fair / Bridge Foot,"Southwark, Surrey"
+820,Axe Tavern (Westminster area),Westminster (exact location unspecified)
+826,Brazennose Tavern (Strand area),"The Strand, London"
+843,Mr Wm. Montagu's Chambers,"Temple area, London"
+865,Leadenhall Street / Lyme Street (execution site),"Leadenhall Street, City of London"
+868,Mr. Honiwood's House,London (exact location unspecified)
+869,Mr. Commander's House (Warwick Lane),"Warwick Lane, City of London"
+882,Milliner's Shop (near home),City of London (exact location unspecified)
+884,Friend's House (Fleet Street),"Fleet Street, London"
+907,Milliner's Shop (Birchin Lane),"Birchin Lane, City of London"
+918,Mr. Pagett's House,London (exact location unspecified)
+920,Mr. Hollyard's House (surgeon),City of London (exact location unspecified)
+922,"Quest House (Old Bailey, by church)","Old Bailey, City of London"
+929,Sir H. Finch's Garden (Kensington),"Kensington, Middlesex"
+934,City Granaries,City of London
+935,Queen's Bedchamber / Closet (Whitehall),"Whitehall, Westminster"
+938,Dean Honiwood's House (Westminster),Westminster
+946,Mr. Barwell's (King's Squire Sadler),"Fleet Street area, London"
+951,St. Giles's Church,"St. Giles-in-the-Fields, London"
+974,Nellson's (bewper dealer),City of London
+1026,Sheriff Waterman's House,City of London (exact location unspecified)
+1049,Sheldon's House (Woolwich),"Woolwich, Kent"
+1091,Mr. Cuttle's House (Greenwich),"Greenwich, Kent"
+1109,Stangold (Stangate),"Lambeth, Surrey"
+1129,Sir Christopher Mings's Funeral Church,City of London
+1130,Mr Debasty's House,City of London
+1137,Longreach (Thames anchorage),"Longreach, Thames Estuary"
+1145,Uxbridge Road (country airing),Middlesex
+1161,Stokes the Goldsmith's (Lombard St),"Lombard Street, City of London"
+1166,Old Fish Street Cook-shop (wedding dinner house),"Old Fish Street, City of London"
+1170,Iron Gate Stairs (Tower area),"Tower Hill, City of London"
+1202,"Swedes Resident's House (Piazza, Covent Garden)","Covent Garden, Westminster"
+1205,Pell Mell (walking),"Pall Mall, Westminster"
+1219,"Lindeboome (prize ship, Thames)",River Thames
+1220,Strand Bridge / Watergate stairs,"The Strand, Westminster"
+1265,Bottle of Hay (St John Street),"St John Street, Clerkenwell"
+1272,Mrs Manuel's House (singing),London
+1289,St Giles coachman's house,"St Giles-in-the-Fields, Westminster"
+1307,"Tavern (St Clement's Churchyard, Royal Society)","St Clement's, Westminster"
+1311,Turlington's (spectacle-maker),London
+1313,Goldsmith's shop (basin for christening),City of London
+1336,Charles Porter's chamber (Temple),"Temple, City of London"
+1342,"Mr Chichly's house (Queen Street, Covent Garden)","Covent Garden, Westminster"
+1351,"Hayward's (virginall/espinette maker, Aldgate Street)","Aldgate Street, City of London"
+1361,Teddiman's (Old Street brew-house),"Old Street, City of London"
+1370,Gun Inn (Mile End),"Mile End, Middlesex"
+1372,Whey House (by New Exchange),"Strand, Westminster"
+1414,"Mr Chichly's (Hampstead area, dined)","Hampstead area, Middlesex"
+1423,Mr Hosier's Lodgings (Gravesend),Gravesend
+1438,My vintner's shop,City of London
+1439,Glove and ribbon shop (Fenchurch Street),"Fenchurch Street, City of London"
+1446,Coachmaker's (Cow Lane),"Cow Lane, Smithfield"
+1469,Gracious Street oyster-woman's,"Gracious Street (Gracechurch Street), City of London"
+1479,Cabinet-maker's shops (near New Exchange),"Strand, Westminster"
+1495,Mrs Gotier's (Queen's tire-woman),Westminster
+1569,Dr Clarke's lodgings (Portsmouth),Portsmouth
+1577,"The Garter (inn, Windsor)","Windsor, Berkshire"
+1582,Grande Salle (States General Hall),"The Hague, Holland"
+1584,Lodging (The Hague),"The Hague, Holland"
+1591,Tavern (The Hague),"The Hague, Holland"
+1593,House of Entertainment (Scheveling),"Scheveningen, Holland"
+1596,"Van Tromp's Church (Oude Kerk, Delft)","Delft, Holland"
