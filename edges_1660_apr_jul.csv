@@ -1,0 +1,366 @@
+source,target,year,month,day,mode,companion
+261,251,1660,4,13,boat,
+251,778,1660,4,30,boat,William Howe|Mr. Sheply
+778,251,1660,4,30,boat,William Howe|Mr. Sheply
+251,239,1660,4,30,boat,William Howe|Mr. Sheply
+239,251,1660,4,30,boat,William Howe|Mr. Sheply
+251,136,1660,5,3,boat,
+136,251,1660,5,3,boat,
+251,495,1660,5,14,boat,
+495,570,1660,5,14,coach,Mr. Creed
+570,495,1660,5,14,walk,
+495,251,1660,5,14,boat,
+251,495,1660,5,15,boat,
+495,570,1660,5,15,walk,
+570,572,1660,5,15,walk,
+572,570,1660,5,15,walk,
+570,495,1660,5,15,coach,
+495,251,1660,5,15,boat,
+251,495,1660,5,17,boat,Mr. Edward Pickering|William Howe
+495,570,1660,5,17,coach,Mr. Edward Pickering|William Howe
+570,717,1660,5,17,coach,Mr. Edward Pickering|William Howe
+717,570,1660,5,17,coach,Mr. Edward Pickering|William Howe
+570,598,1660,5,17,walk,
+598,495,1660,5,17,wagon,
+495,570,1660,5,17,wagon,
+251,495,1660,5,18,boat,Mr. Edward Pickering
+495,570,1660,5,18,wagon,Mr. Edward Pickering
+570,137,1660,5,18,boat,Mr. Edward Pickering
+137,717,1660,5,18,coach,Commissioner Pett
+717,570,1660,5,18,coach,Commissioner Pett
+570,495,1660,5,18,wagon,
+251,495,1660,5,19,boat,
+495,570,1660,5,19,wagon,Mr. Pinkney
+570,730,1660,5,19,walk,
+730,570,1660,5,19,walk,
+570,495,1660,5,20,wagon,William Howe|Mr. Ibbott
+495,732,1660,5,20,walk,
+732,251,1660,5,20,boat,Commissioner Pett
+251,495,1660,5,22,boat,
+495,570,1660,5,22,boat,
+570,495,1660,5,22,boat,
+495,251,1660,5,22,boat,
+251,495,1660,5,23,boat,Edward Montagu
+495,251,1660,5,23,boat,
+251,150,1660,5,25,boat,Edward Montagu
+150,251,1660,5,25,boat,
+251,136,1660,5,29,horse,Edward Montagu|Mr. Hetly
+136,251,1660,5,29,horse,Edward Montagu|Mr. Hetly
+251,136,1660,6,8,boat,
+136,72,1660,6,8,horse,Edward Montagu
+72,718,1660,6,8,horse,Edward Montagu
+718,478,1660,6,8,horse,Edward Montagu
+478,203,1660,6,8,horse,Edward Montagu
+203,566,1660,6,9,boat,Mr. Moore|William Howe
+566,374,1660,6,9,walk,Mr. Moore
+374,174,1660,6,9,walk,
+174,642,1660,6,9,walk,Edward Montagu
+174,320,1660,6,10,walk,Elizabeth Pepys
+174,650,1660,6,11,walk,Edward Montagu
+650,642,1660,6,11,walk,Edward Montagu
+642,374,1660,6,11,coach,Edward Montagu
+374,610,1660,6,11,walk,
+610,314,1660,6,11,walk,Mr. Moore
+314,374,1660,6,11,walk,
+374,704,1660,6,11,walk,Edward Montagu
+704,374,1660,6,11,walk,
+374,174,1660,6,11,walk,
+174,650,1660,6,12,walk,Edward Montagu
+650,642,1660,6,12,walk,Edward Montagu
+642,374,1660,6,12,walk,
+374,174,1660,6,12,walk,
+174,650,1660,6,13,walk,Edward Montagu
+650,396,1660,6,13,walk,Mr. Creed
+396,374,1660,6,13,walk,
+374,642,1660,6,13,boat,Edward Montagu
+642,476,1660,6,13,walk,
+476,650,1660,6,13,walk,
+650,174,1660,6,13,walk,
+174,650,1660,6,14,walk,Edward Montagu
+650,374,1660,6,14,walk,
+374,306,1660,6,14,walk,
+306,659,1660,6,14,walk,
+659,63,1660,6,14,walk,William Symons
+63,174,1660,6,14,walk,
+174,422,1660,6,15,walk,
+422,149,1660,6,15,walk,Mr. Turner
+149,650,1660,6,15,boat,
+650,174,1660,6,15,walk,
+174,591,1660,6,15,walk,
+591,174,1660,6,15,walk,
+174,650,1660,6,16,walk,Edward Montagu
+650,642,1660,6,16,walk,Edward Montagu
+642,374,1660,6,16,walk,
+374,642,1660,6,16,walk,Edward Montagu
+642,691,1660,6,16,walk,Edward Montagu
+691,174,1660,6,16,walk,
+174,689,1660,6,17,walk,
+689,174,1660,6,17,walk,
+174,689,1660,6,17,walk,
+689,650,1660,6,17,walk,Edward Montagu
+650,207,1660,6,17,walk,Edward Montagu
+207,174,1660,6,17,walk,
+174,650,1660,6,18,walk,Edward Montagu
+650,451,1660,6,18,walk,Edward Montagu
+451,650,1660,6,18,walk,
+650,588,1660,6,18,boat,Edward Montagu
+588,642,1660,6,18,boat,Edward Montagu
+642,650,1660,6,18,walk,Edward Montagu
+650,374,1660,6,18,walk,
+374,174,1660,6,18,walk,
+174,650,1660,6,19,walk,Edward Montagu
+650,451,1660,6,19,walk,Edward Montagu
+451,642,1660,6,19,walk,
+642,374,1660,6,19,walk,
+374,306,1660,6,19,walk,
+306,650,1660,6,19,walk,Edward Montagu
+650,642,1660,6,19,walk,
+642,174,1660,6,19,walk,
+174,650,1660,6,20,walk,Edward Montagu
+650,451,1660,6,20,walk,Edward Montagu
+451,104,1660,6,20,walk,Edward Montagu
+104,264,1660,6,20,walk,Elizabeth Pepys
+264,306,1660,6,20,walk,
+306,104,1660,6,20,walk,
+104,642,1660,6,20,walk,
+642,85,1660,6,20,walk,
+85,174,1660,6,20,walk,Elizabeth Pepys
+174,264,1660,6,20,walk,
+174,650,1660,6,21,walk,Edward Montagu
+650,621,1660,6,21,walk,Edward Montagu
+621,148,1660,6,21,walk,
+148,374,1660,6,21,walk,Edward Montagu
+374,576,1660,6,21,walk,Edward Montagu
+576,642,1660,6,21,walk,Edward Montagu
+642,264,1660,6,21,walk,Elizabeth Pepys
+264,174,1660,6,21,walk,
+174,650,1660,6,22,walk,Edward Montagu
+650,642,1660,6,22,walk,Edward Montagu
+642,561,1660,6,22,walk,Mr. Fuller
+561,374,1660,6,22,walk,Mr. Fuller
+374,576,1660,6,22,coach,
+576,224,1660,6,22,walk,
+224,264,1660,6,22,walk,
+264,174,1660,6,22,walk,Mr. Moore
+174,374,1660,6,22,walk,
+374,691,1660,6,22,walk,Edward Montagu
+691,264,1660,6,22,walk,
+264,650,1660,6,23,boat,Mr. Hill
+650,642,1660,6,23,walk,Edward Montagu
+642,3,1660,6,23,walk,Mr. Chetwind
+3,81,1660,6,23,walk,Mr. Chetwind
+81,642,1660,6,23,walk,Edward Montagu
+642,264,1660,6,23,walk,
+264,231,1660,6,24,walk,
+231,264,1660,6,24,walk,
+264,174,1660,6,24,walk,Elizabeth Pepys
+174,374,1660,6,24,walk,Elizabeth Pepys
+374,689,1660,6,24,walk,Mr. Moore
+689,642,1660,6,24,walk,
+642,374,1660,6,24,walk,
+374,264,1660,6,24,walk,
+264,650,1660,6,25,walk,Edward Montagu
+650,314,1660,6,25,walk,
+314,642,1660,6,25,walk,
+642,374,1660,6,25,coach,Edward Montagu
+374,264,1660,6,25,walk,Elizabeth Pepys
+264,704,1660,6,25,coach,Elizabeth Pepys
+704,264,1660,6,25,coach,Elizabeth Pepys
+264,650,1660,6,25,walk,
+650,642,1660,6,26,walk,
+642,580,1660,6,26,walk,Mr. Throgmorton
+580,264,1660,6,26,walk,Elizabeth Pepys
+264,576,1660,6,26,boat,Elizabeth Pepys|Father
+576,174,1660,6,26,walk,
+174,264,1660,6,26,walk,
+264,650,1660,6,27,walk,Edward Montagu
+650,642,1660,6,27,walk,Edward Montagu
+642,562,1660,6,27,walk,Edward Montagu
+562,610,1660,6,27,coach,William Howe
+610,264,1660,6,27,walk,
+264,371,1660,6,28,walk,
+371,650,1660,6,28,walk,Edward Montagu
+650,100,1660,6,28,walk,Elizabeth Pepys
+100,396,1660,6,28,walk,
+396,264,1660,6,28,walk,
+264,650,1660,6,28,walk,
+650,264,1660,6,28,walk,
+264,642,1660,6,29,walk,
+642,650,1660,6,29,walk,Edward Montagu
+650,753,1660,6,29,walk,
+753,314,1660,6,29,walk,
+314,642,1660,6,29,walk,
+642,650,1660,6,29,walk,
+650,264,1660,6,29,walk,
+264,642,1660,6,30,walk,Edward Montagu
+642,264,1660,6,30,walk,
+264,690,1660,6,30,walk,
+690,374,1660,6,30,walk,
+374,642,1660,6,30,walk,Mr. Moore
+642,650,1660,6,30,walk,
+650,264,1660,6,30,walk,
+264,609,1660,7,1,walk,Elizabeth Pepys
+609,406,1660,7,1,walk,
+406,650,1660,7,1,walk,
+650,264,1660,7,1,walk,
+264,36,1660,7,2,walk,
+36,650,1660,7,2,walk,Edward Montagu
+650,264,1660,7,2,walk,
+264,503,1660,7,3,walk,
+503,650,1660,7,3,walk,Edward Montagu
+650,264,1660,7,3,walk,
+264,193,1660,7,4,boat,Elizabeth Pepys
+193,422,1660,7,4,walk,Commissioner Pett
+422,170,1660,7,4,walk,
+170,3,1660,7,4,walk,
+3,650,1660,7,4,coach,
+650,610,1660,7,4,walk,
+610,561,1660,7,4,walk,
+561,650,1660,7,4,walk,
+650,264,1660,7,4,walk,
+264,642,1660,7,5,walk,
+642,541,1660,7,5,walk,Mr. Blackburne
+541,650,1660,7,5,walk,
+650,264,1660,7,5,walk,
+264,642,1660,7,6,walk,Edward Montagu
+642,610,1660,7,6,walk,
+610,561,1660,7,6,walk,
+561,650,1660,7,6,walk,
+650,422,1660,7,6,walk,Edward Montagu
+422,650,1660,7,6,walk,
+650,264,1660,7,6,walk,
+264,650,1660,7,7,walk,
+650,621,1660,7,7,walk,
+621,789,1660,7,7,walk,
+789,592,1660,7,7,walk,Mr. Uncle Wight
+592,422,1660,7,7,walk,
+422,650,1660,7,7,walk,
+650,264,1660,7,7,walk,
+264,619,1660,7,8,walk,Edward Montagu
+619,264,1660,7,8,walk,
+264,174,1660,7,8,walk,
+174,264,1660,7,8,walk,
+264,753,1660,7,9,walk,
+753,422,1660,7,9,walk,
+422,566,1660,7,9,walk,
+566,650,1660,7,9,walk,
+650,264,1660,7,9,walk,
+264,199,1660,7,10,walk,Elizabeth Pepys
+199,419,1660,7,10,walk,
+419,642,1660,7,10,walk,Edward Montagu
+642,264,1660,7,10,walk,Elizabeth Pepys
+264,422,1660,7,11,boat,William Penn
+422,149,1660,7,11,walk,
+149,422,1660,7,11,walk,
+422,642,1660,7,11,walk,
+642,465,1660,7,11,walk,
+465,422,1660,7,11,coach,
+422,642,1660,7,12,coach,Commissioner Pett
+642,465,1660,7,12,walk,
+465,521,1660,7,12,walk,
+521,642,1660,7,12,walk,
+642,398,1660,7,12,walk,
+398,650,1660,7,12,walk,
+650,422,1660,7,12,walk,
+422,398,1660,7,13,walk,
+398,668,1660,7,13,walk,
+668,422,1660,7,13,walk,
+422,668,1660,7,13,walk,
+668,264,1660,7,13,coach,Elizabeth Pepys
+264,422,1660,7,13,walk,Elizabeth Pepys
+422,698,1660,7,13,walk,Elizabeth Pepys
+698,650,1660,7,13,walk,
+650,422,1660,7,13,walk,
+422,650,1660,7,14,walk,
+650,231,1660,7,14,walk,
+231,650,1660,7,14,walk,Edward Montagu
+650,610,1660,7,14,walk,
+610,314,1660,7,14,walk,Mr. Eglin
+314,422,1660,7,14,coach,
+422,396,1660,7,14,walk,
+396,650,1660,7,14,walk,
+650,264,1660,7,14,walk,
+264,656,1660,7,15,walk,Mr. Sheply
+656,609,1660,7,15,walk,
+609,650,1660,7,15,walk,Edward Montagu
+650,609,1660,7,15,walk,
+609,541,1660,7,15,walk,William Bowyer
+541,231,1660,7,15,walk,
+231,650,1660,7,15,walk,
+650,264,1660,7,15,walk,
+264,422,1660,7,16,walk,
+422,650,1660,7,16,walk,
+650,264,1660,7,16,walk,
+264,650,1660,7,17,walk,Edward Montagu
+650,788,1660,7,17,coach,Elizabeth Pepys
+788,757,1660,7,17,walk,
+757,650,1660,7,17,boat,
+650,788,1660,7,17,walk,
+788,422,1660,7,18,walk,
+422,788,1660,7,18,walk,
+788,650,1660,7,18,boat,
+650,174,1660,7,18,walk,
+174,788,1660,7,18,walk,
+788,193,1660,7,19,boat,Elizabeth Pepys
+193,650,1660,7,19,walk,Edward Montagu
+650,610,1660,7,19,walk,
+610,148,1660,7,19,walk,Mr. Michell
+148,465,1660,7,19,walk,
+465,788,1660,7,19,walk,
+788,422,1660,7,20,walk,
+422,174,1660,7,20,walk,
+174,642,1660,7,20,walk,Edward Montagu
+642,788,1660,7,20,walk,
+788,398,1660,7,21,walk,
+398,650,1660,7,21,walk,Edward Montagu
+650,521,1660,7,21,walk,
+521,788,1660,7,21,walk,
+788,642,1660,7,21,walk,
+642,788,1660,7,21,walk,
+788,591,1660,7,22,walk,Elizabeth Pepys
+591,642,1660,7,22,walk,Edward Montagu
+642,541,1660,7,22,walk,
+541,650,1660,7,22,walk,
+650,757,1660,7,22,walk,
+757,788,1660,7,22,boat,
+788,422,1660,7,23,walk,
+422,650,1660,7,23,walk,Edward Montagu
+650,642,1660,7,23,walk,Edward Montagu
+642,85,1660,7,23,walk,
+85,788,1660,7,23,boat,
+788,642,1660,7,24,walk,
+642,788,1660,7,24,walk,
+788,422,1660,7,25,walk,
+422,642,1660,7,25,walk,
+642,314,1660,7,25,walk,
+314,788,1660,7,25,walk,
+788,642,1660,7,26,walk,Edward Montagu
+642,465,1660,7,26,walk,
+465,314,1660,7,26,walk,
+314,394,1660,7,26,walk,
+394,449,1660,7,26,walk,T. Doling
+449,788,1660,7,26,walk,
+788,422,1660,7,27,walk,
+422,788,1660,7,27,walk,
+788,650,1660,7,27,walk,Edward Montagu
+650,535,1660,7,27,coach,
+535,788,1660,7,27,walk,
+788,642,1660,7,28,walk,
+642,562,1660,7,28,walk,
+562,788,1660,7,28,walk,
+788,619,1660,7,29,walk,Edward Montagu
+619,650,1660,7,29,walk,Edward Montagu
+650,323,1660,7,29,walk,Dick Vines|Payton
+323,650,1660,7,29,walk,Dick Vines|Payton
+650,174,1660,7,29,walk,
+174,788,1660,7,29,walk,
+788,422,1660,7,30,walk,
+422,642,1660,7,30,walk,Mr. Moore
+642,476,1660,7,30,walk,Mr. Moore
+476,788,1660,7,30,walk,
+788,642,1660,7,31,walk,Edward Montagu
+642,747,1660,7,31,walk,Mr. Blackburne
+747,642,1660,7,31,walk,
+642,465,1660,7,31,walk,
+465,561,1660,7,31,walk,
+561,788,1660,7,31,coach,
