@@ -520,13 +520,15 @@ source,target,year,month,day,mode,companion
 422,566,1661,11,21,walk,
 566,149,1661,11,21,walk,Sir W. Batten
 149,788,1661,11,21,walk,
-788,610,1661,11,22,walk,Elizabeth Pepys
-610,149,1661,11,22,walk,
+788,149,1661,11,22,walk,Elizabeth Pepys;Sir W. Batten
 149,566,1661,11,22,walk,
 566,788,1661,11,22,walk,
+788,642,1661,11,23,walk,Elizabeth Pepys
+642,788,1661,11,23,walk,
 788,491,1661,11,23,coach,Commissioner Pett
 491,576,1661,11,23,walk,
-576,788,1661,11,23,walk,
+576,422,1661,11,23,walk,
+422,788,1661,11,23,walk,
 533,533,1661,11,24,walk,Captain Cocke
 533,561,1661,11,24,walk,
 561,576,1661,11,24,walk,

@@ -28,8 +28,8 @@ source,target,year,month,day,mode,companion
 788,422,1662,10,2,walk,
 422,788,1662,10,2,walk,
 788,650,1662,10,2,coach,Mr. Moore
-650,104,1662,10,2,walk,
-104,650,1662,10,2,walk,
+650,647,1662,10,2,walk,
+647,650,1662,10,2,walk,
 650,59,1662,10,3,walk,
 59,546,1662,10,3,walk,
 546,788,1662,10,3,walk,
@@ -50,11 +50,10 @@ source,target,year,month,day,mode,companion
 642,650,1662,10,6,walk,Mr. Coventry
 650,576,1662,10,6,boat,
 576,788,1662,10,6,walk,
-788,650,1662,10,7,boat,
-650,576,1662,10,7,boat,Will Howe
-576,610,1662,10,7,walk,Will Howe
+788,576,1662,10,7,coach,Elizabeth Pepys
+576,610,1662,10,7,boat,Will Howe
 610,650,1662,10,7,coach,
-650,426,1662,10,7,walk,Dr. Williams
+650,426,1662,10,7,walk,Dr. Williams;Elizabeth Pepys
 426,59,1662,10,7,walk,Dr. Williams
 59,788,1662,10,7,coach,Elizabeth Pepys
 788,650,1662,10,8,boat,

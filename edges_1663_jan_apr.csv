@@ -56,9 +56,8 @@ source,target,year,month,day,mode,companion
 86,789,1663,1,12,walk,John Creed
 789,650,1663,1,12,walk,John Creed
 650,642,1663,1,12,walk,Lord Sandwich
-642,788,1663,1,12,coach,
-788,395,1663,1,12,coach,
-395,514,1663,1,12,walk,
+642,365,1663,1,12,coach,
+365,514,1663,1,12,walk,
 514,788,1663,1,12,walk,
 788,422,1663,1,13,walk,
 422,788,1663,1,13,walk,
@@ -431,11 +430,11 @@ source,target,year,month,day,mode,companion
 59,544,1663,4,26,walk,father
 544,788,1663,4,26,walk,father
 788,642,1663,4,27,boat,
-642,650,1663,4,27,walk,John Creed
-650,459,1663,4,27,walk,John Creed
-459,610,1663,4,27,walk,John Creed
-610,576,1663,4,27,walk,
-576,788,1663,4,27,coach,
+642,540,1663,4,27,walk,Mr. Coventry;Sir W. Penn
+540,642,1663,4,27,walk,
+642,650,1663,4,27,walk,
+650,610,1663,4,27,walk,John Creed
+610,788,1663,4,27,coach,
 788,422,1663,4,28,walk,
 422,788,1663,4,28,walk,
 788,59,1663,4,29,coach,father
