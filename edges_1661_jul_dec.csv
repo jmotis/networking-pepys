@@ -529,18 +529,19 @@ source,target,year,month,day,mode,companion
 491,576,1661,11,23,walk,
 576,422,1661,11,23,walk,
 422,788,1661,11,23,walk,
-533,533,1661,11,24,walk,Captain Cocke
-533,561,1661,11,24,walk,
+788,533,1661,11,24,walk,Captain Cocke
+533,561,1661,11,24,walk,Captain Cocke
 561,576,1661,11,24,walk,
 576,419,1661,11,24,walk,
-419,576,1661,11,24,walk,
-576,788,1661,11,24,walk,
+419,358,1661,11,24,walk,Mr. Young
+358,514,1661,11,24,walk,
+514,788,1661,11,24,walk,
 788,610,1661,11,25,walk,Captain Lambert
-610,563,1661,11,25,walk,Sir W. Penn
-563,577,1661,11,25,walk,Sir W. Penn
+610,149,1661,11,25,walk,Sir W. Penn;Major General Massy
+149,577,1661,11,25,walk,Sir W. Penn
 577,158,1661,11,25,walk,Mr. Sanchy
 158,180,1661,11,25,walk,
-180,358,1661,11,25,walk,
+180,358,1661,11,25,coach,Mr. Sanchy
 358,788,1661,11,25,walk,
 788,491,1661,11,27,walk,
 491,576,1661,11,27,walk,Captain Ferrers;Mr. Moore
