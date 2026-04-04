@@ -217,8 +217,8 @@ source,target,year,month,day,mode,companion
 610,642,1667,12,30,walk,Cholmly
 642,576,1667,12,30,coach,Cooling
 576,789,1667,12,30,coach,Cooling
-789,341,1667,12,30,coach,Cocke;Temple
-341,577,1667,12,30,coach,Carteret
+789,319,1667,12,30,coach,Cocke;Temple
+319,577,1667,12,30,coach,Carteret
 577,788,1667,12,30,coach,
 788,577,1667,12,30,coach,
 577,418,1667,12,30,walk,Knepp
