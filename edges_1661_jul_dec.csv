@@ -3,6 +3,7 @@ source,target,year,month,day,mode,companion
 145,788,1661,6,29,boat,Sir W. Batten;Sir W. Penn
 788,34,1661,6,29,walk,
 34,788,1661,6,29,walk,
+788,544,1661,6,30,walk,
 544,788,1661,6,30,walk,
 788,642,1661,6,30,boat,Sir W. Batten;Sir W. Penn
 642,207,1661,6,30,walk,
@@ -57,8 +58,8 @@ source,target,year,month,day,mode,companion
 174,650,1661,7,22,walk,
 650,788,1661,7,22,walk,
 788,516,1661,7,23,walk,
-788,514,1661,7,23,walk,
-788,610,1661,7,23,walk,
+516,514,1661,7,23,walk,
+514,610,1661,7,23,walk,
 610,577,1661,7,23,walk,
 577,174,1661,7,23,walk,
 174,592,1661,7,23,walk,
@@ -66,6 +67,7 @@ source,target,year,month,day,mode,companion
 788,642,1661,7,24,boat,Elizabeth Pepys
 642,576,1661,7,24,walk,
 576,788,1661,7,24,boat,Elizabeth Pepys
+788,422,1661,7,25,walk,
 422,789,1661,7,25,walk,
 789,174,1661,7,25,walk,
 174,158,1661,7,25,walk,Henry Moore
@@ -77,11 +79,14 @@ source,target,year,month,day,mode,companion
 576,788,1661,7,27,boat,Elizabeth Pepys;Lady Jemima;Lady Paulina
 788,576,1661,7,27,boat,Elizabeth Pepys;Lady Jemima;Lady Paulina
 576,788,1661,7,27,coach,Elizabeth Pepys
+788,544,1661,7,28,walk,
 544,576,1661,7,28,boat,Sir W. Penn
 576,788,1661,7,28,walk,
+788,422,1661,7,29,walk,
 422,510,1661,7,29,walk,Sir R. Slingsby
 510,422,1661,7,29,walk,Sir R. Slingsby
 422,642,1661,7,29,walk,Sir R. Slingsby
+642,788,1661,7,29,walk,
 788,642,1661,7,30,walk,
 642,610,1661,7,30,walk,
 610,576,1661,7,30,boat,
@@ -89,9 +94,11 @@ source,target,year,month,day,mode,companion
 422,788,1661,7,30,walk,
 788,234,1661,7,30,walk,
 234,788,1661,7,30,walk,
+788,422,1661,8,1,walk,
 422,145,1661,8,1,coach,Sir W. Batten;Sir W. Penn;Elizabeth Pepys;Mrs. Pen
 145,788,1661,8,1,coach,Sir W. Batten;Sir W. Penn;Elizabeth Pepys;Mrs. Pen
 788,422,1661,8,2,walk,
+422,788,1661,8,2,walk,
 788,606,1661,8,2,horse,
 606,23,1661,8,3,horse,
 23,65,1661,8,3,horse,
@@ -128,6 +135,7 @@ source,target,year,month,day,mode,companion
 788,650,1661,8,10,walk,
 650,158,1661,8,10,coach,
 158,788,1661,8,10,coach,
+788,544,1661,8,11,walk,
 544,99,1661,8,11,walk,
 99,207,1661,8,11,walk,
 207,174,1661,8,11,walk,
@@ -135,6 +143,7 @@ source,target,year,month,day,mode,companion
 788,374,1661,8,12,walk,
 374,576,1661,8,12,walk,
 576,788,1661,8,12,walk,
+788,642,1661,8,13,walk,
 642,576,1661,8,13,walk,
 576,174,1661,8,13,walk,
 174,396,1661,8,13,walk,
@@ -146,16 +155,19 @@ source,target,year,month,day,mode,companion
 516,149,1661,8,14,walk,Sir W. Penn
 149,514,1661,8,14,walk,Sir W. Penn
 514,788,1661,8,14,walk,
+788,642,1661,8,15,walk,
 642,576,1661,8,15,walk,Sir W. Penn
 576,158,1661,8,15,walk,Captain Ferrers
 158,149,1661,8,15,walk,
 149,514,1661,8,15,walk,
 514,788,1661,8,15,walk,
+788,422,1661,8,17,walk,
 422,541,1661,8,17,walk,Ned Pickering
 541,576,1661,8,17,walk,
 576,158,1661,8,17,coach,Captain Ferrers
 158,146,1661,8,17,walk,Captain Ferrers
 146,788,1661,8,17,coach,
+788,576,1661,8,18,walk,
 576,642,1661,8,18,walk,
 642,418,1661,8,18,walk,
 418,541,1661,8,18,walk,

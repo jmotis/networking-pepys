@@ -1,20 +1,27 @@
 source,target,year,month,day,mode,companion
+788,667,1665,7,28,boat,
 667,212,1665,7,28,boat,
+212,788,1665,7,28,boat,
 788,789,1665,7,29,walk,
 789,290,1665,7,29,coach,
 290,788,1665,7,29,walk,
+788,145,1665,7,30,boat,
 145,212,1665,7,31,boat,Sir G. Carteret
 212,145,1665,7,31,coach,Sir G. Carteret
+145,131,1665,7,31,coach,Sir G. Carteret
+131,788,1665,8,1,coach,
 667,422,1665,8,4,boat,
 422,145,1665,8,4,boat,
 145,225,1665,8,5,walk,Sir W. Warren
 225,475,1665,8,5,walk,Sir W. Warren
 475,422,1665,8,5,walk,
+788,370,1665,8,28,walk,
 370,789,1665,8,28,walk,
 789,422,1665,8,28,walk,
 422,667,1665,8,28,boat,
 422,212,1665,8,26,boat,
 212,422,1665,8,26,boat,
+422,788,1665,8,26,boat,
 667,212,1665,8,29,coach,Commissioner Pett
 212,422,1665,8,29,walk,
 422,514,1665,8,29,walk,
@@ -32,14 +39,17 @@ source,target,year,month,day,mode,companion
 667,214,1665,9,2,walk,
 214,145,1665,9,2,walk,
 145,214,1665,9,2,walk,
+214,667,1665,9,2,boat,
 667,214,1665,9,3,boat,
 214,217,1665,9,3,walk,Captain Cocke
 217,77,1665,9,3,walk,
 77,667,1665,9,3,boat,
+667,214,1665,9,4,boat,
 214,422,1665,9,4,walk,
 422,667,1665,9,4,walk,
 667,214,1665,9,5,walk,
 214,77,1665,9,5,walk,Captain Cocke;Lord Brouncker
+77,667,1665,9,5,boat,
 667,214,1665,9,6,boat,
 214,788,1665,9,6,boat,
 788,642,1665,9,6,boat,
@@ -52,9 +62,11 @@ source,target,year,month,day,mode,companion
 788,667,1665,9,7,boat,
 667,214,1665,9,8,walk,
 214,422,1665,9,8,walk,
+422,667,1665,9,8,boat,
 667,214,1665,9,9,walk,
 214,334,1665,9,9,walk,Lord Brouncker
 334,667,1665,9,9,boat,Lord Brouncker
+667,214,1665,9,10,boat,
 214,667,1665,9,10,walk,
 667,214,1665,9,10,walk,Mr. Andrews
 214,77,1665,9,10,walk,Captain Cocke
@@ -66,6 +78,7 @@ source,target,year,month,day,mode,companion
 667,214,1665,9,12,walk,
 214,422,1665,9,12,walk,
 422,214,1665,9,12,walk,
+214,667,1665,9,12,boat,
 667,214,1665,9,13,walk,
 214,77,1665,9,13,walk,Captain Cocke
 77,601,1665,9,13,coach,Lord Brouncker;Sir W. Batten
@@ -78,6 +91,7 @@ source,target,year,month,day,mode,companion
 511,422,1665,9,14,walk,
 422,788,1665,9,14,walk,
 788,667,1665,9,14,boat,
+667,214,1665,9,15,boat,
 214,422,1665,9,15,boat,
 422,145,1665,9,15,boat,
 145,214,1665,9,15,boat,Captain Cocke
@@ -86,6 +100,7 @@ source,target,year,month,day,mode,companion
 214,334,1665,9,16,walk,Lord Brouncker
 334,214,1665,9,16,walk,Lord Brouncker
 214,77,1665,9,16,walk,Captain Cocke
+77,667,1665,9,16,boat,
 667,214,1665,9,17,walk,Captain Cocke
 214,217,1665,9,17,walk,Captain Cocke
 217,77,1665,9,17,walk,Captain Cocke
@@ -95,6 +110,7 @@ source,target,year,month,day,mode,companion
 237,89,1665,9,18,coach,Commissioner Pett
 89,203,1665,9,18,coach,Commissioner Pett
 203,422,1665,9,18,boat,
+422,214,1665,9,18,boat,
 214,642,1665,9,19,boat,
 642,334,1665,9,19,coach,Lord Brouncker
 334,77,1665,9,19,coach,Captain Cocke
@@ -139,6 +155,7 @@ source,target,year,month,day,mode,companion
 214,435,1665,9,29,horse,
 435,214,1665,9,29,horse,
 214,77,1665,9,29,walk,Captain Cocke
+77,214,1665,9,29,walk,
 214,215,1665,9,30,walk,Lord Brouncker;Sir W. Boreman
 215,214,1665,9,30,walk,
 214,667,1665,9,30,boat,
@@ -151,11 +168,11 @@ source,target,year,month,day,mode,companion
 203,167,1665,10,2,boat,
 167,667,1665,10,2,boat,
 667,214,1665,10,3,walk,
-213,214,1665,10,3,walk,
 214,422,1665,10,3,walk,
 422,213,1665,10,3,walk,Captain Cocke;Lord Rutherford
 213,418,1665,10,3,walk,
 418,213,1665,10,3,walk,
+213,214,1665,10,3,walk,
 214,422,1665,10,4,walk,
 422,213,1665,10,4,walk,
 213,214,1665,10,4,walk,
@@ -166,8 +183,10 @@ source,target,year,month,day,mode,companion
 145,379,1665,10,5,walk,Mr. Evelyn
 379,214,1665,10,5,coach,Mr. Evelyn
 214,422,1665,10,5,walk,
+422,214,1665,10,5,boat,
 214,642,1665,10,6,coach,Mr. Gawden
 642,214,1665,10,6,coach,Mr. Gawden
+214,213,1665,10,6,walk,
 213,214,1665,10,7,walk,
 214,213,1665,10,8,walk,Captain Cocke
 213,422,1665,10,8,boat,
@@ -199,6 +218,7 @@ source,target,year,month,day,mode,companion
 309,642,1665,10,17,walk,
 642,214,1665,10,17,boat,
 214,422,1665,10,18,boat,
+422,642,1665,10,18,boat,
 642,214,1665,10,18,boat,
 214,422,1665,10,19,walk,
 422,642,1665,10,19,boat,

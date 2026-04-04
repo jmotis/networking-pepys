@@ -41,6 +41,7 @@ source,target,year,month,day,mode,companion
 642,788,1668,1,13,coach,
 788,789,1668,1,13,walk,
 789,642,1668,1,13,coach,Elizabeth Pepys;Deb Willet
+642,788,1668,1,13,coach,Elizabeth Pepys;Deb Willet
 788,566,1668,1,14,coach,Elizabeth Pepys;Deb Willet
 566,354,1668,1,14,walk,Gibson
 354,418,1668,1,14,coach,
@@ -307,6 +308,7 @@ source,target,year,month,day,mode,companion
 788,295,1668,4,1,coach,
 295,788,1668,4,1,coach,
 788,354,1668,4,2,coach,Elizabeth Pepys;Betty Turner;Deb Willet;Jane
+354,788,1668,4,2,walk,
 788,643,1668,4,2,coach,Lord Brouncker
 643,567,1668,4,2,coach,
 567,642,1668,4,2,walk,
