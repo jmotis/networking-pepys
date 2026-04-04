@@ -270,11 +270,13 @@ source,target,year,month,day,mode,companion
 788,576,1661,9,8,walk,Elizabeth Pepys
 576,174,1661,9,9,walk,
 174,788,1661,9,9,walk,
-422,465,1661,9,9,walk,Captain Morrice
-465,297,1661,9,9,walk,
-297,610,1661,9,9,walk,
+788,465,1661,9,9,walk,Captain Morrice
+465,297,1661,9,9,walk,Captain Morrice
+297,642,1661,9,9,walk,Captain Morrice
+642,610,1661,9,9,walk,
 610,488,1661,9,9,walk,
-488,788,1661,9,9,walk,
+488,149,1661,9,9,walk,
+149,788,1661,9,9,walk,
 788,149,1661,9,10,walk,Mr. Moore
 149,576,1661,9,10,walk,Elizabeth Pepys
 576,59,1661,9,10,walk,
@@ -298,17 +300,22 @@ source,target,year,month,day,mode,companion
 422,422,1661,9,15,walk,
 591,544,1661,9,15,walk,Elizabeth Pepys
 544,788,1661,9,15,walk,Elizabeth Pepys
-788,465,1661,9,17,walk,
-465,576,1661,9,17,walk,
-576,606,1661,9,17,horse,Elizabeth Pepys
+788,576,1661,9,17,walk,
+576,788,1661,9,17,walk,
+788,606,1661,9,17,horse,Elizabeth Pepys
 606,65,1661,9,18,horse,Elizabeth Pepys
-65,67,1661,9,18,horse,Elizabeth Pepys
+65,67,1661,9,18,walk,Elizabeth Pepys
+67,66,1661,9,18,walk,
+66,67,1661,9,18,walk,
 67,277,1661,9,18,horse,Elizabeth Pepys
 277,65,1661,9,19,horse,
+65,31,1661,9,19,horse,Elizabeth Pepys
 65,772,1661,9,19,horse,
-772,771,1661,9,19,horse,Elizabeth Pepys
-771,65,1661,9,19,horse,
-65,51,1661,9,19,horse,Elizabeth Pepys
+772,65,1661,9,19,horse,Elizabeth Pepys
+65,771,1661,9,19,horse,Elizabeth Pepys
+771,65,1661,9,19,horse,Elizabeth Pepys
+65,31,1661,9,19,horse,Elizabeth Pepys
+31,51,1661,9,19,horse,Elizabeth Pepys
 51,202,1661,9,20,horse,Will Stankes
 202,438,1661,9,20,horse,
 438,51,1661,9,20,horse,Will Stankes
@@ -318,9 +325,10 @@ source,target,year,month,day,mode,companion
 51,18,1661,9,23,horse,Elizabeth Pepys
 18,558,1661,9,23,horse,Elizabeth Pepys
 558,608,1661,9,23,horse,Elizabeth Pepys
-608,788,1661,9,24,horse,Elizabeth Pepys
-788,650,1661,9,24,walk,
-650,788,1661,9,24,walk,
+608,683,1661,9,24,horse,Elizabeth Pepys
+683,788,1661,9,24,horse,Elizabeth Pepys
+788,576,1661,9,24,walk,
+576,788,1661,9,24,walk,
 788,698,1661,9,25,coach,Sir W. Penn
 698,642,1661,9,25,coach,Sir R. Slingsby
 642,337,1661,9,25,walk,

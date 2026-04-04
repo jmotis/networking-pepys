@@ -325,9 +325,9 @@ source,target,year,month,day,mode,companion
 642,788,1662,12,8,coach,
 788,422,1662,12,9,walk,
 422,788,1662,12,9,walk,
-788,422,1662,12,10,walk,
-422,788,1662,12,10,walk,
-788,149,1662,12,10,walk,Sir J. Minnes;Sir W. Batten;Sir G. Carteret
+788,642,1662,12,10,walk,
+642,422,1662,12,10,coach,Sir J. Minnes
+422,149,1662,12,10,walk,Sir J. Minnes;Sir W. Batten
 149,788,1662,12,10,walk,
 788,422,1662,12,11,walk,Mr. Creed
 422,788,1662,12,11,walk,Mr. Creed
@@ -335,23 +335,27 @@ source,target,year,month,day,mode,companion
 422,788,1662,12,12,walk,
 788,422,1662,12,13,walk,
 422,516,1662,12,13,walk,Mr. Coventry
-516,788,1662,12,13,walk,
+516,422,1662,12,13,walk,Mr. Coventry
+422,788,1662,12,13,walk,
 788,544,1662,12,14,walk,Elizabeth Pepys
-544,642,1662,12,14,walk,
+544,788,1662,12,14,walk,Elizabeth Pepys
+788,642,1662,12,14,walk,
 642,646,1662,12,14,walk,
 646,650,1662,12,14,walk,
-650,656,1662,12,14,walk,Mr. Creed;Mr. Howe
-656,788,1662,12,14,walk,
-788,642,1662,12,15,walk,
-642,541,1662,12,15,walk,
+650,128,1662,12,14,walk,Captain Ferrers
+128,650,1662,12,14,walk,
+650,128,1662,12,14,walk,
+128,650,1662,12,15,walk,
+650,541,1662,12,15,walk,
 541,642,1662,12,15,walk,Mr. Coventry;Lord Sandwich
-642,656,1662,12,15,walk,Mr. Creed;Mr. Moore;Will Howe
-656,642,1662,12,15,walk,
+642,650,1662,12,15,walk,Mr. Creed;Mr. Moore;Will Howe
+650,129,1662,12,15,walk,Mr. Creed;Mr. Moore;Will Howe
+129,642,1662,12,15,walk,
 642,788,1662,12,15,coach,
-788,540,1662,12,16,walk,Mr. Coventry
-540,788,1662,12,16,coach,
-788,642,1662,12,16,coach,
-642,650,1662,12,16,walk,Mr. Moore
+788,422,1662,12,16,walk,
+422,642,1662,12,16,coach,
+642,476,1662,12,16,walk,
+476,650,1662,12,16,walk,Mr. Moore
 650,59,1662,12,16,coach,
 59,788,1662,12,16,coach,
 788,422,1662,12,17,walk,
@@ -367,16 +371,20 @@ source,target,year,month,day,mode,companion
 422,540,1662,12,20,coach,Mr. Coventry
 540,642,1662,12,20,walk,Mr. Coventry
 642,788,1662,12,20,coach,
+788,544,1662,12,21,walk,Elizabeth Pepys
+544,788,1662,12,21,walk,Elizabeth Pepys
 788,59,1662,12,21,walk,
 59,642,1662,12,21,walk,
 642,646,1662,12,21,walk,
 646,650,1662,12,21,walk,
-650,788,1662,12,21,walk,
-788,650,1662,12,22,walk,
-650,540,1662,12,22,walk,
-540,642,1662,12,22,horse,Mr. Coventry
-642,667,1662,12,22,horse,Mr. Coventry
-667,642,1662,12,22,horse,Mr. Coventry
+650,128,1662,12,21,walk,Mr. Creed;Captain Ferrers
+128,650,1662,12,22,walk,
+650,540,1662,12,22,walk,Mr. Coventry
+540,642,1662,12,22,walk,Mr. Coventry
+642,275,1662,12,22,horse,Mr. Coventry
+275,309,1662,12,22,horse,Mr. Coventry
+309,667,1662,12,22,horse,Mr. Coventry
+667,642,1662,12,22,boat,Mr. Coventry
 642,788,1662,12,22,coach,
 788,422,1662,12,23,walk,
 422,788,1662,12,23,walk,
