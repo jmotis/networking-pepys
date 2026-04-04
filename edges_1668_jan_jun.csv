@@ -218,6 +218,8 @@ source,target,year,month,day,mode,companion
 578,642,1668,3,11,boat,
 642,610,1668,3,11,walk,
 610,319,1668,3,11,walk,
+319,788,1668,3,11,walk,
+788,319,1668,3,13,walk,
 319,706,1668,3,13,walk,Lord Brouncker;Sir J. Minnes;Sir W. Penn;T. Harvey
 706,642,1668,3,13,walk,
 642,295,1668,3,13,coach,
@@ -715,9 +717,13 @@ source,target,year,month,day,mode,companion
 295,788,1668,5,7,coach,Mercer;Mrs. Turner
 788,43,1668,5,23,coach,
 43,65,1668,5,23,coach,
+65,788,1668,5,24,coach,
+788,65,1668,5,26,coach,
 65,43,1668,5,26,coach,
 43,788,1668,5,26,coach,
 28,269,1668,6,10,coach,Elizabeth Pepys;W. Hewer
 269,487,1668,6,11,coach,Elizabeth Pepys;W. Hewer
 487,763,1668,6,12,coach,Elizabeth Pepys;W. Hewer
+763,28,1668,6,12,coach,Elizabeth Pepys;W. Hewer
+28,763,1668,6,14,coach,Elizabeth Pepys;W. Hewer
 763,28,1668,6,14,coach,Elizabeth Pepys;W. Hewer

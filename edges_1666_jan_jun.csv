@@ -10,6 +10,7 @@ source,target,year,month,day,mode,companion
 788,422,1666,1,4,walk,
 422,334,1666,1,4,walk,
 334,788,1666,1,4,walk,
+788,334,1666,1,5,coach,
 334,788,1666,1,5,coach,Lord Brouncker
 788,334,1666,1,5,walk,
 334,642,1666,1,5,coach,Lord Brouncker;Mrs. Williams
@@ -74,6 +75,7 @@ source,target,year,month,day,mode,companion
 788,341,1666,2,2,walk,
 341,789,1666,2,2,coach,
 789,788,1666,2,2,coach,
+788,610,1666,2,6,walk,
 610,789,1666,2,6,coach,
 789,788,1666,2,6,coach,
 788,422,1666,2,6,walk,
@@ -93,6 +95,7 @@ source,target,year,month,day,mode,companion
 343,123,1666,2,10,coach,Elizabeth Pepys
 123,789,1666,2,10,coach,
 789,788,1666,2,10,coach,Elizabeth Pepys
+788,789,1666,2,11,coach,
 789,788,1666,2,11,coach,
 788,642,1666,2,11,boat,
 642,541,1666,2,11,walk,
@@ -123,6 +126,7 @@ source,target,year,month,day,mode,companion
 789,788,1666,2,16,coach,
 788,642,1666,2,18,walk,
 642,788,1666,2,18,coach,
+788,642,1666,2,19,coach,
 642,789,1666,2,19,coach,
 789,788,1666,2,19,coach,
 788,422,1666,2,19,walk,
@@ -181,6 +185,7 @@ source,target,year,month,day,mode,companion
 475,145,1666,3,9,boat,Lord Brouncker;Lady Batten
 145,514,1666,3,9,boat,
 514,422,1666,3,9,walk,
+422,788,1666,3,9,walk,
 422,642,1666,3,11,boat,
 642,788,1666,3,11,boat,Lord Brouncker
 788,544,1666,3,11,walk,
@@ -203,6 +208,7 @@ source,target,year,month,day,mode,companion
 789,129,1666,3,16,walk,Lord Brouncker
 129,422,1666,3,16,walk,
 422,788,1666,3,16,walk,
+788,422,1666,3,17,walk,
 422,418,1666,3,17,coach,
 418,788,1666,3,17,coach,
 788,422,1666,3,17,walk,
@@ -259,6 +265,7 @@ source,target,year,month,day,mode,companion
 789,788,1666,4,4,coach,
 788,384,1666,4,4,coach,
 384,788,1666,4,4,coach,
+788,610,1666,4,7,walk,
 610,384,1666,4,7,coach,
 384,788,1666,4,7,coach,
 788,422,1666,4,7,walk,
@@ -295,12 +302,15 @@ source,target,year,month,day,mode,companion
 562,384,1666,4,18,coach,
 384,418,1666,4,18,coach,
 418,788,1666,4,18,coach,
+788,418,1666,4,19,coach,
 418,788,1666,4,19,coach,
 788,422,1666,4,19,walk,
 422,459,1666,4,19,walk,Sir W. Warren
 459,422,1666,4,19,walk,
 422,788,1666,4,19,walk,
 788,422,1666,4,20,coach,Mrs. Martin
+422,788,1666,4,20,walk,
+788,422,1666,4,23,walk,
 422,610,1666,4,23,coach,Sir W. Batten;Lord Brouncker
 610,384,1666,4,23,coach,Balty
 384,562,1666,4,23,walk,
@@ -430,6 +440,7 @@ source,target,year,month,day,mode,companion
 642,541,1666,6,3,coach,John Creed
 541,789,1666,6,3,coach,
 789,788,1666,6,3,coach,
+788,789,1666,6,4,coach,
 789,788,1666,6,4,coach,
 788,541,1666,6,4,coach,Sir J. Minnes;Sir W. Penn
 541,642,1666,6,4,walk,
@@ -545,6 +556,7 @@ source,target,year,month,day,mode,companion
 788,422,1666,1,10,coach,
 422,789,1666,1,11,walk,
 789,422,1666,1,11,walk,
+422,788,1666,1,11,walk,
 788,503,1666,2,5,walk,Sir W. Batten
 503,610,1666,2,5,walk,
 610,788,1666,2,5,walk,
@@ -552,6 +564,7 @@ source,target,year,month,day,mode,companion
 540,788,1666,3,7,coach,
 788,422,1666,3,10,walk,
 422,788,1666,3,10,coach,Mrs. Pierce
+788,422,1666,3,11,walk,
 788,503,1666,3,24,walk,
 503,788,1666,3,24,walk,
 788,169,1666,4,3,walk,

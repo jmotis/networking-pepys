@@ -487,6 +487,7 @@ source,target,year,month,day,mode,companion
 788,642,1669,2,22,coach,Sir H. Cholmly
 642,788,1669,2,22,coach,Sir H. Cholmly
 788,275,1669,2,22,coach,Elizabeth Pepys
+275,788,1669,2,22,coach,Elizabeth Pepys
 788,526,1669,3,21,boat,
 526,642,1669,3,21,boat,
 642,788,1669,3,21,boat,
@@ -494,6 +495,7 @@ source,target,year,month,day,mode,companion
 242,90,1669,3,25,boat,
 90,594,1669,3,26,walk,Colonel Middleton
 594,90,1669,3,26,walk,Colonel Middleton
+788,642,1669,4,3,coach,
 642,422,1669,4,3,coach,Colonel Middleton
 422,788,1669,4,3,walk,
 788,170,1669,4,10,walk,

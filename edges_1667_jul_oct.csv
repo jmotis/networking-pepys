@@ -445,18 +445,23 @@ source,target,year,month,day,mode,companion
 566,788,1667,10,31,coach,Sir D. Gawden
 788,640,1667,7,30,coach,
 640,788,1667,7,30,coach,
+788,422,1667,8,3,walk,
 422,344,1667,8,3,walk,
 344,788,1667,8,3,coach,
+788,422,1667,8,10,walk,
 422,426,1667,8,10,walk,
 426,788,1667,8,10,walk,
 788,26,1667,8,11,coach,Mrs. Turner;W. Hewer
 26,25,1667,8,11,coach,Mrs. Turner;W. Hewer
 25,232,1667,8,11,coach,Mrs. Turner;W. Hewer
 232,788,1667,8,11,coach,Mrs. Turner;W. Hewer
+788,422,1667,8,22,walk,
 422,583,1667,8,22,walk,Lord Brouncker;Sir J. Minnes;Sir W. Penn
 583,422,1667,8,22,walk,Lord Brouncker;Sir J. Minnes;Sir W. Penn
+422,788,1667,8,22,walk,
 788,540,1667,9,24,coach,Sir W. Batten;Sir W. Penn
 540,788,1667,9,24,coach,Sir W. Batten;Sir W. Penn
+788,422,1667,10,2,walk,
 422,344,1667,10,2,walk,
 344,426,1667,10,2,coach,
 426,295,1667,10,2,coach,Elizabeth Pepys;Deb Willet
