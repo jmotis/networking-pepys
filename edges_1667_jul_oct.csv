@@ -249,8 +249,9 @@ source,target,year,month,day,mode,companion
 540,788,1667,9,7,walk,
 788,540,1667,9,8,walk,
 540,642,1667,9,8,walk,Lord Bruncker
-642,469,1667,9,8,walk,
-469,642,1667,9,8,walk,Creed
+642,541,1667,9,8,walk,Creed
+541,468,1667,9,8,walk,Creed
+468,642,1667,9,8,walk,Creed
 642,503,1667,9,8,walk,Sir G. Carteret
 503,788,1667,9,8,boat,
 788,540,1667,9,9,coach,
