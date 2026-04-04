@@ -16,9 +16,10 @@ source,target,year,month,day,mode,companion
 203,91,1665,8,3,horse,Sir G. Carteret
 91,90,1665,8,4,walk,Lady Slanning
 90,91,1665,8,4,walk,
-91,667,1665,8,4,boat,
-667,422,1665,8,4,boat,
-422,145,1665,8,4,boat,
+91,203,1665,8,4,horse,
+203,788,1665,8,4,boat,
+788,667,1665,8,4,boat,
+667,145,1665,8,5,boat,
 145,225,1665,8,5,walk,Sir W. Warren
 225,475,1665,8,5,walk,Sir W. Warren
 475,422,1665,8,5,walk,
