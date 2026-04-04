@@ -23,13 +23,12 @@ source,target,year,month,day,mode,companion
 570,598,1660,5,17,walk,
 598,495,1660,5,17,wagon,
 495,570,1660,5,17,wagon,
-251,495,1660,5,18,boat,Mr. Edward Pickering
+570,495,1660,5,18,wagon,Mr. Edward Pickering
 495,570,1660,5,18,wagon,Mr. Edward Pickering
 570,137,1660,5,18,boat,Mr. Edward Pickering
 137,717,1660,5,18,coach,Commissioner Pett
 717,570,1660,5,18,coach,Commissioner Pett
-570,495,1660,5,18,wagon,
-251,495,1660,5,19,boat,
+570,495,1660,5,19,wagon,
 495,570,1660,5,19,wagon,Mr. Pinkney
 570,730,1660,5,19,walk,
 730,570,1660,5,19,walk,
@@ -55,7 +54,9 @@ source,target,year,month,day,mode,companion
 566,374,1660,6,9,walk,Henry Moore
 374,174,1660,6,9,walk,
 174,642,1660,6,9,walk,Edward Montagu
+642,174,1660,6,9,walk,
 174,320,1660,6,10,walk,Elizabeth Pepys
+320,174,1660,6,10,walk,Elizabeth Pepys
 174,650,1660,6,11,walk,Edward Montagu
 650,642,1660,6,11,walk,Edward Montagu
 642,374,1660,6,11,coach,Edward Montagu
@@ -96,6 +97,7 @@ source,target,year,month,day,mode,companion
 691,174,1660,6,16,walk,
 174,689,1660,6,17,walk,
 689,174,1660,6,17,walk,
+174,689,1660,6,17,walk,
 689,650,1660,6,17,walk,Edward Montagu
 650,207,1660,6,17,walk,Edward Montagu
 207,174,1660,6,17,walk,
@@ -125,6 +127,7 @@ source,target,year,month,day,mode,companion
 642,85,1660,6,20,walk,
 85,174,1660,6,20,walk,Elizabeth Pepys
 174,264,1660,6,20,walk,
+264,174,1660,6,20,walk,
 174,650,1660,6,21,walk,Edward Montagu
 650,621,1660,6,21,walk,Edward Montagu
 621,148,1660,6,21,walk,

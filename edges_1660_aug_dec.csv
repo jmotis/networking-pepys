@@ -82,6 +82,7 @@ source,target,year,month,day,mode,companion
 358,788,1660,9,14,walk,
 788,610,1660,9,15,walk,
 610,788,1660,9,15,boat,
+788,610,1660,9,15,walk,
 610,174,1660,9,15,walk,
 174,788,1660,9,15,walk,
 788,544,1660,9,16,walk,
@@ -234,6 +235,7 @@ source,target,year,month,day,mode,companion
 788,422,1660,10,22,walk,
 422,650,1660,10,22,walk,
 650,788,1660,10,22,walk,
+788,650,1660,10,22,walk,
 650,642,1660,10,23,walk,
 642,607,1660,10,23,walk,
 607,642,1660,10,23,walk,
@@ -416,6 +418,7 @@ source,target,year,month,day,mode,companion
 149,788,1660,11,23,walk,
 788,422,1660,11,23,walk,
 422,149,1660,11,23,walk,John Creed
+149,788,1660,11,23,walk,
 788,650,1660,11,24,walk,
 650,476,1660,11,24,walk,Mr. Townsend;Rumball;Mr. Blackburne;John Creed;Mr. Shepley
 476,610,1660,11,24,walk,
