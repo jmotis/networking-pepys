@@ -434,7 +434,7 @@ source,target,year,month,day,mode,companion
 384,642,1666,6,14,coach,John Creed
 642,541,1666,6,14,coach,John Creed
 541,788,1666,6,14,walk,
-788,283,1666,6,14,coach,Elizabeth Pepys;father Pepys;sister;Mercer
+788,283,1666,6,14,coach,Elizabeth Pepys;father Pepys;Paulina Pepys;Mercer
 283,788,1666,6,14,coach,
 788,169,1666,6,15,boat,
 169,788,1666,6,15,boat,
@@ -446,7 +446,7 @@ source,target,year,month,day,mode,companion
 541,667,1666,6,16,boat,
 667,145,1666,6,16,boat,
 145,788,1666,6,16,boat,
-788,541,1666,6,17,walk,Elizabeth Pepys;sister;Mercer
+788,541,1666,6,17,walk,Elizabeth Pepys;Paulina Pepys;Mercer
 541,8,1666,6,17,walk,
 8,205,1666,6,17,walk,father Pepys
 205,8,1666,6,17,walk,father Pepys

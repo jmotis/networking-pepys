@@ -320,9 +320,9 @@ source,target,year,month,day,mode,companion
 90,788,1663,8,3,horse,Sir W. Coventry
 788,203,1663,8,3,horse,Sir W. Coventry
 203,788,1663,8,4,boat,Sir W. Coventry
-788,667,1663,8,4,boat,brother John;Will
-667,212,1663,8,4,walk,brother John;Will
-212,604,1663,8,4,boat,brother John;Will
+788,667,1663,8,4,boat,brother John;Will Hewer
+667,212,1663,8,4,walk,brother John;Will Hewer
+212,604,1663,8,4,boat,brother John;Will Hewer
 604,788,1663,8,4,walk,brother John
 788,422,1663,8,5,walk,
 422,789,1663,8,5,walk,

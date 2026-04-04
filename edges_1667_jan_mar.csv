@@ -68,10 +68,10 @@ source,target,year,month,day,mode,companion
 444,642,1667,1,20,walk,
 642,544,1667,1,20,walk,
 544,788,1667,1,20,walk,
-788,642,1667,1,20,boat,brother
-642,336,1667,1,20,walk,brother
-336,541,1667,1,20,walk,brother
-541,642,1667,1,20,walk,brother
+788,642,1667,1,20,boat,brother John
+642,336,1667,1,20,walk,brother John
+336,541,1667,1,20,walk,brother John
+541,642,1667,1,20,walk,brother John
 642,516,1667,1,20,walk,
 516,788,1667,1,20,walk,
 788,563,1667,1,21,coach,Sir W. Batten;Sir W. Penn;R. Ford

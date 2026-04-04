@@ -78,7 +78,7 @@ source,target,year,month,day,mode,companion
 225,788,1662,5,20,boat,Elizabeth Pepys
 788,642,1662,5,21,boat,Elizabeth Pepys
 642,610,1662,5,21,walk,Elizabeth Pepys
-610,656,1662,5,21,walk,Elizabeth Pepys;Sarah
+610,656,1662,5,21,walk,Elizabeth Pepys;Mrs. Sarah
 656,577,1662,5,21,walk,Elizabeth Pepys
 577,59,1662,5,21,coach,Elizabeth Pepys
 59,788,1662,5,21,walk,Elizabeth Pepys
@@ -157,23 +157,23 @@ source,target,year,month,day,mode,companion
 788,503,1662,6,13,walk,Sir G. Carteret
 503,59,1662,6,13,walk,
 59,650,1662,6,13,walk,
-650,225,1662,6,13,walk,Elizabeth Pepys;Sarah
-225,788,1662,6,13,walk,Elizabeth Pepys;Sarah
+650,225,1662,6,13,walk,Elizabeth Pepys;Mrs. Sarah
+225,788,1662,6,13,walk,Elizabeth Pepys;Mrs. Sarah
 788,145,1662,6,14,walk,
 145,588,1662,6,14,boat,
 588,422,1662,6,14,walk,
 422,788,1662,6,14,walk,
 788,544,1662,6,15,walk,
 544,788,1662,6,15,walk,
-788,422,1662,6,16,walk,Will
-422,532,1662,6,16,walk,Will
-532,145,1662,6,16,boat,Will
+788,422,1662,6,16,walk,Will Hewer
+422,532,1662,6,16,walk,Will Hewer
+532,145,1662,6,16,boat,Will Hewer
 145,475,1662,6,16,walk,
 475,586,1662,6,16,boat,
 586,576,1662,6,16,boat,Elizabeth Pepys
 576,212,1662,6,16,boat,Elizabeth Pepys;children
 212,576,1662,6,16,boat,Elizabeth Pepys;children
-576,788,1662,6,16,walk,Will;Elizabeth Pepys
+576,788,1662,6,16,walk,Will Hewer;Elizabeth Pepys
 788,422,1662,6,17,walk,
 422,514,1662,6,17,walk,Sir J. Minnes;Sir W. Penn
 514,788,1662,6,17,walk,
@@ -344,10 +344,10 @@ source,target,year,month,day,mode,companion
 788,422,1662,8,1,walk,Mr. Cooper
 422,789,1662,8,1,walk,John Creed;Henry Moore
 789,788,1662,8,1,coach,
-788,422,1662,8,2,walk,Will
-422,586,1662,8,2,boat,Will
-586,212,1662,8,2,boat,Will
-212,76,1662,8,2,walk,Will;Captain Cocke
+788,422,1662,8,2,walk,Will Hewer
+422,586,1662,8,2,boat,Will Hewer
+586,212,1662,8,2,boat,Will Hewer
+212,76,1662,8,2,walk,Will Hewer;Captain Cocke
 76,203,1662,8,2,boat,Captain Cocke
 203,479,1662,8,2,horse,Captain Cocke
 479,237,1662,8,2,horse,Captain Cocke
