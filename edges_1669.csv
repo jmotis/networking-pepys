@@ -21,15 +21,14 @@ source,target,year,month,day,mode,companion
 593,577,1669,1,13,coach,wife;The. Turner
 577,788,1669,1,13,coach,wife
 788,515,1669,1,15,coach,
-515,788,1669,1,walk,
-788,642,1669,1,15,coach,W. Hewer
+515,642,1669,1,15,walk,
 642,788,1669,1,15,coach,
 788,515,1669,1,18,walk,W. Hewer
 515,342,1669,1,18,walk,Lord Sandwich
 342,642,1669,1,18,walk,Lord Sandwich
 642,788,1669,1,18,coach,W. Hewer;Sidney Montagu;Sheres
-788,459,1669,1,18,walk,
-459,642,1669,1,18,walk,
+788,460,1669,1,18,walk,
+460,642,1669,1,18,walk,
 642,593,1669,1,18,walk,wife
 593,788,1669,1,18,coach,wife
 788,577,1669,1,19,coach,wife;The. Turner
@@ -87,8 +86,8 @@ source,target,year,month,day,mode,companion
 515,642,1669,2,5,coach,
 642,788,1669,2,5,coach,
 788,280,1669,2,4,coach,wife;Spong
-280,419,1669,2,4,coach,wife
-419,427,1669,2,4,coach,wife
+280,122,1669,2,4,coach,wife
+122,427,1669,2,4,coach,wife
 427,788,1669,2,4,coach,wife
 788,642,1669,2,8,coach,wife;W. Hewer
 642,593,1669,2,8,walk,wife
@@ -107,12 +106,12 @@ source,target,year,month,day,mode,companion
 788,235,1669,2,12,coach,wife;Tom
 235,134,1669,2,12,coach,wife;Tom
 134,642,1669,2,12,coach,wife
-642,419,1669,2,12,coach,wife
-419,788,1669,2,12,coach,wife
+642,122,1669,2,12,coach,wife
+122,788,1669,2,12,coach,wife
 788,642,1669,2,14,coach,
 642,788,1669,2,14,coach,W. Hewer
-788,419,1669,2,14,coach,wife;W. Hewer
-419,592,1669,2,14,coach,wife;W. Hewer
+788,122,1669,2,14,coach,wife;W. Hewer
+122,592,1669,2,14,coach,wife;W. Hewer
 592,788,1669,2,14,walk,wife;W. Hewer
 788,642,1669,2,15,walk,W. Hewer
 642,610,1669,2,17,coach,W. Hewer
@@ -133,10 +132,9 @@ source,target,year,month,day,mode,companion
 599,788,1669,2,24,walk,wife;two girls
 788,158,1669,2,25,coach,wife;two girls
 158,422,1669,2,25,walk,
-788,577,1669,2,26,coach,wife;two girls
-577,788,1669,2,26,coach,wife;two girls
-788,599,1669,2,26,walk,wife;two girls
-599,788,1669,2,26,walk,wife;two girls
+788,609,1669,2,23,coach,wife;two girls
+609,158,1669,2,23,coach,wife;two girls
+193,788,1669,2,23,coach,wife;two girls
 788,642,1669,3,1,coach,
 642,610,1669,3,1,walk,
 610,788,1669,3,1,walk,
@@ -155,34 +153,35 @@ source,target,year,month,day,mode,companion
 788,583,1669,3,5,boat,
 583,593,1669,3,5,coach,wife;W. Hewer
 593,788,1669,3,5,coach,wife;W. Hewer
-788,50,1669,3,5,coach,wife
+788,5,1669,3,5,coach,wife
+5,50,1669,3,5,coach,wife
 50,788,1669,3,5,coach,wife
 788,583,1669,3,6,walk,
 583,422,1669,3,6,walk,
 422,788,1669,3,6,walk,
 788,583,1669,3,7,coach,
 583,788,1669,3,7,coach,
-788,723,1669,3,7,coach,wife
-723,642,1669,3,7,coach,
+788,122,1669,3,7,coach,wife
+122,642,1669,3,7,coach,
 642,788,1669,3,7,coach,wife
 788,642,1669,3,8,coach,W. Hewer
 642,230,1669,3,8,walk,W. Hewer
 230,427,1669,3,8,walk,W. Hewer
-427,419,1669,3,8,walk,
-419,577,1669,3,8,coach,wife
-577,419,1669,3,8,coach,wife;Roger Pepys
-419,788,1669,3,8,coach,wife
+427,122,1669,3,8,walk,
+122,577,1669,3,8,coach,wife
+577,122,1669,3,8,coach,wife;Roger Pepys
+122,788,1669,3,8,coach,wife
 788,583,1669,3,9,walk,
 583,422,1669,3,9,walk,
-422,642,1669,3,9,coach,W. Hewer
+422,122,1669,3,9,coach,W. Hewer
 788,642,1669,3,10,coach,
 642,610,1669,3,10,walk,
 610,642,1669,3,10,boat,W. Hewer
 642,560,1669,3,10,coach,W. Hewer
 560,642,1669,3,10,coach,
 642,788,1669,3,10,boat,
-788,419,1669,3,10,coach,wife
-419,788,1669,3,10,coach,wife
+788,122,1669,3,10,coach,wife
+122,788,1669,3,10,coach,wife
 788,583,1669,3,11,walk,
 583,422,1669,3,11,walk,
 422,788,1669,3,11,walk,
@@ -193,9 +192,8 @@ source,target,year,month,day,mode,companion
 788,583,1669,3,13,walk,
 583,422,1669,3,13,walk,
 422,788,1669,3,13,walk,
-788,609,1669,3,14,coach,wife
-609,419,1669,3,14,coach,wife
-419,788,1669,3,14,coach,wife
+788,122,1669,3,14,coach,wife
+122,788,1669,3,14,coach,wife
 788,574,1669,3,15,boat,W. Hewer
 574,541,1669,3,15,walk,W. Hewer
 541,642,1669,3,15,boat,W. Hewer
@@ -233,13 +231,17 @@ source,target,year,month,day,mode,companion
 135,90,1669,3,23,coach,Colonel Middleton
 90,351,1669,3,24,coach,Gibson;Coney
 351,90,1669,3,24,coach,Gibson;Coney
-90,74,1669,3,24,coach,Gibson;Coney
-74,788,1669,3,27,coach,Colonel Middleton;Huchinson
+90,302,1669,3,24,coach,Gibson;Coney
+302,74,1669,3,24,coach,Gibson;Coney
+74,90,1669,3,24,walk,Gibson;Coney
+90,788,1669,3,27,coach,Colonel Middleton;Huchinson
 788,642,1669,3,29,boat,
 642,513,1669,3,29,walk,
 513,788,1669,3,29,coach,
 788,212,1669,3,29,boat,Tom
 212,145,1669,3,29,walk,
+145,141,1669,3,29,walk,
+141,145,1669,3,29,walk,
 145,499,1669,3,29,walk,
 499,788,1669,3,29,boat,
 788,515,1669,3,30,coach,
@@ -250,8 +252,8 @@ source,target,year,month,day,mode,companion
 642,788,1669,3,31,walk,
 788,642,1669,4,1,boat,Colonel Middleton
 642,516,1669,4,1,coach,wife;Colonel Middleton
-516,419,1669,4,1,coach,wife;Lord Brouncker
-419,788,1669,4,1,coach,wife;Lord Brouncker
+516,122,1669,4,1,coach,wife;Lord Brouncker
+122,788,1669,4,1,coach,wife;Lord Brouncker
 788,642,1669,4,2,boat,W. Hewer
 642,788,1669,4,2,coach,W. Hewer
 788,642,1669,4,2,coach,W. Hewer
@@ -263,30 +265,30 @@ source,target,year,month,day,mode,companion
 642,421,1669,4,5,coach,wife;Mr. Sheres;Betty Turner
 421,275,1669,4,5,coach,wife;Mr. Sheres;Betty Turner
 275,421,1669,4,5,coach,wife;Mr. Sheres
-421,419,1669,4,5,coach,wife;Mr. Sheres
-419,788,1669,4,5,coach,wife;W. Batelier
-788,741,1669,4,6,walk,
-741,422,1669,4,6,walk,
+421,122,1669,4,5,coach,wife;Mr. Sheres
+122,788,1669,4,5,coach,wife;W. Batelier
+788,170,1669,4,6,walk,
+170,422,1669,4,6,walk,
 422,363,1669,4,6,coach,wife
 363,642,1669,4,6,coach,
 642,788,1669,4,6,coach,wife
-788,419,1669,4,7,coach,
-419,610,1669,4,7,coach,
+788,122,1669,4,7,coach,
+122,610,1669,4,7,coach,
 610,427,1669,4,7,walk,W. Hewer;Gibson
-427,419,1669,4,7,walk,
-419,788,1669,4,7,coach,wife
-419,564,1669,4,7,coach,wife;Betty Turner
-564,788,1669,4,7,coach,wife
+427,122,1669,4,7,walk,
+122,788,1669,4,7,coach,wife
+564,788,1669,4,7,coach,wife;Betty Turner
 788,642,1669,4,8,coach,W. Hewer
-642,422,1669,4,8,walk,
+642,170,1669,4,8,walk,
+170,422,1669,4,8,walk,
 422,788,1669,4,8,walk,
 788,282,1669,4,8,coach,wife
 282,788,1669,4,8,coach,wife
 788,642,1669,4,9,boat,W. Hewer
 642,610,1669,4,9,boat,
 610,788,1669,4,9,coach,W. Hewer
-788,741,1669,4,9,coach,W. Hewer
-741,610,1669,4,9,coach,W. Hewer
+788,170,1669,4,9,coach,W. Hewer
+170,610,1669,4,9,coach,W. Hewer
 610,788,1669,4,9,coach,W. Hewer
 788,642,1669,4,12,boat,
 642,167,1669,4,12,walk,Sheres
@@ -312,10 +314,12 @@ source,target,year,month,day,mode,companion
 788,422,1669,4,15,coach,
 422,359,1669,4,15,coach,
 359,610,1669,4,15,walk,
+610,415,1669,4,15,walk,
+415,610,1669,4,15,walk,
 610,788,1669,4,15,coach,
 788,577,1669,4,17,coach,wife;Pierce
 577,515,1669,4,17,coach,wife
-515,788,1669,4,coach,wife
+515,788,1669,4,17,coach,wife
 788,642,1669,4,18,coach,Sir J. Minnes
 642,199,1669,4,18,coach,
 199,788,1669,4,18,coach,
@@ -323,7 +327,8 @@ source,target,year,month,day,mode,companion
 540,642,1669,4,19,coach,Tom
 642,610,1669,4,19,boat,
 610,415,1669,4,19,walk,
-415,642,1669,4,19,boat,
+415,610,1669,4,19,walk,
+610,642,1669,4,19,boat,
 642,788,1669,4,19,coach,
 788,642,1669,4,20,coach,W. Hewer
 642,439,1669,4,20,coach,guests
@@ -332,8 +337,8 @@ source,target,year,month,day,mode,companion
 788,566,1669,4,21,coach,
 566,540,1669,4,21,walk,
 540,642,1669,4,21,walk,
-642,419,1669,4,21,coach,wife;Mrs. Turner;The. Turner
-419,275,1669,4,21,coach,wife;Mrs. Turner;The. Turner
+642,122,1669,4,21,coach,wife;Mrs. Turner;The. Turner
+122,275,1669,4,21,coach,wife;Mrs. Turner;The. Turner
 275,235,1669,4,21,coach,wife;Mrs. Turner;The. Turner
 235,788,1669,4,21,coach,wife
 788,642,1669,4,23,boat,W. Hewer
@@ -368,26 +373,26 @@ source,target,year,month,day,mode,companion
 788,422,1669,5,4,walk,
 422,154,1669,5,4,walk,
 154,788,1669,5,4,walk,
+788,219,1669,5,5,walk,
+219,540,1669,5,5,walk,
+540,642,1669,5,5,walk,
+642,311,1669,5,10,boat,Mr. Wren
+311,642,1669,5,10,boat,Mr. Wren
+788,311,1669,5,5,boat,
+311,788,1669,5,5,boat,Mr. Wren
 788,540,1669,5,5,walk,
 540,642,1669,5,5,walk,
-642,609,1669,5,5,boat,Mr. Wren
-609,642,1669,5,5,boat,Mr. Wren
-642,337,1669,5,5,walk,Tom
-337,642,1669,5,5,walk,Tom
-642,540,1669,5,5,walk,
-540,642,1669,5,5,walk,
 642,610,1669,5,5,boat,
-610,415,1669,5,5,walk,Doll
-415,786,1669,5,5,walk,
-786,642,1669,5,5,walk,
-642,593,1669,5,5,coach,wife
-593,788,1669,5,5,coach,wife
+610,415,1669,5,5,walk,
+562,788,1669,5,5,walk,
+642,337,1669,5,5,walk,Tom
+337,788,1669,5,5,walk,Tom
 788,515,1669,5,6,boat,
 515,422,1669,5,6,boat,
-422,210,1669,5,6,coach,wife
-210,788,1669,5,6,coach,wife
-788,540,1669,5,7,coach,
-540,642,1669,5,7,walk,
+422,211,1669,5,6,coach,wife
+211,788,1669,5,6,coach,wife
+788,515,1669,5,7,coach,
+515,642,1669,5,7,walk,
 642,344,1669,5,7,walk,
 344,222,1669,5,7,walk,
 222,788,1669,5,7,walk,
@@ -398,15 +403,11 @@ source,target,year,month,day,mode,companion
 303,669,1669,5,9,coach,wife;brother John
 669,275,1669,5,9,coach,wife;brother John
 275,788,1669,5,9,coach,wife;brother John
-788,610,1669,5,10,coach,Gibson
-610,422,1669,5,10,coach,Gibson
-422,642,1669,5,10,coach,
-642,609,1669,5,10,boat,Mr. Wren
-609,642,1669,5,10,boat,
+788,540,1669,5,10,coach,Gibson
+540,642,1669,5,10,coach,Mr. Wren
 642,337,1669,5,10,walk,Tom
 337,788,1669,5,10,walk,Tom
-788,642,1669,5,12,walk,
-642,610,1669,5,12,walk,
+788,610,1669,5,12,walk,
 610,415,1669,5,12,walk,
 415,788,1669,5,12,walk,
 788,158,1669,5,12,coach,wife
@@ -415,7 +416,7 @@ source,target,year,month,day,mode,companion
 788,540,1669,5,14,coach,Gibson
 540,642,1669,5,14,coach,Mr. Wren
 642,311,1669,5,14,boat,Mr. Wren
-311,642,1669,5,14,boat,Mr. Wren
+311,642,1669,5,14,boat,
 642,593,1669,5,14,walk,wife
 593,788,1669,5,14,boat,wife;brother
 788,577,1669,5,17,coach,wife;brother John;Gibson
@@ -434,6 +435,8 @@ source,target,year,month,day,mode,companion
 609,540,1669,5,23,coach,
 540,788,1669,5,23,coach,wife
 788,642,1669,5,24,coach,W. Hewer
+642,562,1669,5,24,boat,W. Hewer
+562,642,1669,5,24,boat,W. Hewer
 642,541,1669,5,24,walk,W. Hewer
 541,593,1669,5,24,walk,wife
 593,788,1669,5,24,coach,wife
@@ -441,9 +444,8 @@ source,target,year,month,day,mode,companion
 642,788,1669,5,26,walk,
 788,540,1669,5,28,coach,
 540,642,1669,5,28,walk,Creed
-642,741,1669,5,28,walk,Creed
-741,642,1669,5,28,walk,
-642,788,1669,5,28,boat,
+642,219,1669,5,27,walk,
+219,788,1669,5,27,walk,
 788,311,1669,5,28,boat,wife;brother
 311,788,1669,5,28,boat,wife;brother
 788,642,1669,5,29,walk,
@@ -454,7 +456,6 @@ source,target,year,month,day,mode,companion
 642,275,1669,5,31,coach,wife;Mary Batelier
 275,669,1669,5,31,coach,wife;Mary Batelier
 669,788,1669,5,31,coach,wife;Mary Batelier
-788,540,1669,5,30,boat,
-540,515,1669,5,30,walk,
+788,515,1669,5,30,boat,
 515,642,1669,5,30,walk,
 642,788,1669,5,30,walk,
