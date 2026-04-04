@@ -29,6 +29,7 @@ source,target,year,month,day,mode,companion
 788,444,1666,8,6,walk,
 444,610,1666,8,6,walk,
 610,788,1666,8,6,walk,
+610,509,1666,8,7,walk,
 509,788,1666,8,7,walk,
 788,422,1666,8,7,walk,
 422,788,1666,8,7,walk,
@@ -126,6 +127,7 @@ source,target,year,month,day,mode,companion
 610,540,1666,9,6,walk,
 540,642,1666,9,6,walk,
 642,788,1666,9,6,coach,
+642,145,1666,9,7,boat,
 145,788,1666,9,7,boat,
 788,422,1666,9,7,walk,Sir J. Minnes
 422,642,1666,9,7,coach,Sir J. Minnes
@@ -135,11 +137,14 @@ source,target,year,month,day,mode,companion
 788,219,1666,9,8,walk,Sir W. Batten
 219,514,1666,9,8,walk,
 514,788,1666,9,8,walk,
+516,544,1666,9,9,walk,
+544,518,1666,9,9,walk,brother John
+518,788,1666,9,9,walk,
+788,544,1666,9,9,walk,
+544,788,1666,9,9,walk,
 788,422,1666,9,9,walk,
-422,788,1666,9,9,walk,
-788,422,1666,9,9,walk,
-422,514,1666,9,9,walk,
-514,788,1666,9,9,walk,
+422,516,1666,9,9,walk,
+422,514,1666,9,10,walk,
 514,788,1666,9,10,walk,
 788,540,1666,9,10,coach,
 540,518,1666,9,10,coach,
@@ -171,6 +176,7 @@ source,target,year,month,day,mode,companion
 642,540,1666,9,17,coach,
 540,511,1666,9,17,coach,Elizabeth Pepys
 511,788,1666,9,17,coach,
+511,788,1666,9,19,coach,
 788,329,1666,9,19,coach,John Creed
 329,788,1666,9,19,coach,
 788,395,1666,9,19,coach,
@@ -296,6 +302,7 @@ source,target,year,month,day,mode,companion
 788,610,1666,10,26,boat,
 610,148,1666,10,26,walk,Doll Lane
 148,788,1666,10,26,coach,
+148,788,1666,10,27,walk,
 788,422,1666,10,27,walk,
 422,789,1666,10,27,coach,Mrs. Pierce;Mrs. Knipp
 789,788,1666,10,27,coach,

@@ -4,6 +4,7 @@ source,target,year,month,day,mode,companion
 422,212,1666,1,2,walk,
 212,155,1666,1,3,walk,
 155,788,1666,1,3,walk,
+155,788,1666,1,4,coach,
 788,422,1666,1,4,walk,
 422,788,1666,1,4,walk,
 788,422,1666,1,4,walk,
