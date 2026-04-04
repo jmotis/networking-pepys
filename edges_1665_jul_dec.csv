@@ -10,6 +10,7 @@ source,target,year,month,day,mode,companion
 212,145,1665,7,31,coach,Sir G. Carteret
 145,131,1665,7,31,coach,Sir G. Carteret
 131,788,1665,8,1,coach,
+788,131,1665,8,3,horse,
 131,788,1665,8,3,horse,
 788,145,1665,8,3,horse,
 145,131,1665,8,3,horse,
@@ -29,6 +30,7 @@ source,target,year,month,day,mode,companion
 370,789,1665,8,28,walk,
 789,422,1665,8,28,walk,
 422,667,1665,8,28,boat,
+788,422,1665,8,26,walk,
 422,212,1665,8,26,boat,
 212,422,1665,8,26,boat,
 422,788,1665,8,26,boat,
@@ -500,6 +502,7 @@ source,target,year,month,day,mode,companion
 788,212,1665,8,24,boat,
 212,788,1665,8,24,boat,
 788,422,1665,8,26,walk,
+422,788,1665,8,26,walk,
 214,788,1665,11,15,boat,
 788,422,1665,11,15,walk,
 422,588,1665,11,15,walk,
