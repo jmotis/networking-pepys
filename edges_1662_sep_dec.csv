@@ -182,6 +182,8 @@ source,target,year,month,day,mode,companion
 516,788,1662,11,4,walk,
 788,422,1662,11,5,walk,
 422,788,1662,11,5,walk,
+788,422,1662,11,6,walk,
+422,788,1662,11,6,walk,
 788,583,1662,11,7,walk,Mr. Lee
 583,650,1662,11,7,coach,Mr. Lee
 650,59,1662,11,7,walk,

@@ -579,8 +579,7 @@ source,target,year,month,day,mode,companion
 491,597,1661,12,5,walk,Sir W. Batten;Sir W. Penn
 597,788,1661,12,5,walk,Sir W. Penn;Elizabeth Pepys
 788,158,1661,12,5,coach,Elizabeth Pepys
-158,566,1661,12,5,walk,
-566,419,1661,12,5,walk,
+158,419,1661,12,5,walk,
 419,788,1661,12,5,walk,
 788,610,1661,12,6,boat,
 610,148,1661,12,6,walk,Mr. Spicer;Mr. Hawly
