@@ -51,7 +51,7 @@ source,target,year,month,day,mode,companion
 588,788,1664,1,13,walk,
 788,422,1664,1,14,walk,
 422,503,1664,1,14,walk,
-503,11,1664,1,14,coach,Sir G. Carteret; Sir J. Minnes
+503,11,1664,1,14,coach,Sir G. Carteret;Sir J. Minnes
 11,516,1664,1,14,coach,
 516,422,1664,1,14,walk,
 422,788,1664,1,14,walk,
@@ -60,7 +60,7 @@ source,target,year,month,day,mode,companion
 789,788,1664,1,15,walk,
 788,422,1664,1,16,walk,
 422,789,1664,1,16,walk,
-789,610,1664,1,16,water,
+789,610,1664,1,16,boat,
 610,788,1664,1,16,coach,
 788,642,1664,1,18,walk,
 642,650,1664,1,18,walk,
@@ -76,10 +76,10 @@ source,target,year,month,day,mode,companion
 788,650,1664,1,20,coach,
 650,429,1664,1,20,walk,
 429,650,1664,1,20,walk,
-650,59,1664,1,20,water,
+650,59,1664,1,20,boat,
 59,789,1664,1,20,walk,Sir R. Ford
 789,788,1664,1,20,walk,
-788,642,1664,1,20,water,
+788,642,1664,1,20,boat,
 642,788,1664,1,20,walk,
 788,59,1664,1,20,walk,
 59,788,1664,1,20,walk,
@@ -92,7 +92,7 @@ source,target,year,month,day,mode,companion
 788,667,1664,1,22,boat,
 667,212,1664,1,22,boat,
 212,145,1664,1,22,walk,
-145,788,1664,1,22,water,
+145,788,1664,1,22,boat,
 788,422,1664,1,23,walk,
 422,789,1664,1,25,coach,
 789,788,1664,1,25,coach,Sir W. Batten
@@ -108,10 +108,10 @@ source,target,year,month,day,mode,companion
 59,788,1664,1,27,walk,
 788,422,1664,1,28,walk,
 422,503,1664,1,28,walk,
-503,145,1664,1,28,water,Mr. Wayth
+503,145,1664,1,28,boat,Mr. Wayth
 145,788,1664,1,28,walk,
 788,422,1664,1,29,walk,
-422,604,1664,1,29,water,Mr. Hartlibb; wife
+422,604,1664,1,29,boat,Mr. Hartlibb;Elizabeth Pepys
 604,180,1664,1,29,walk,
 180,106,1664,1,29,walk,
 106,592,1664,1,29,walk,
@@ -126,7 +126,7 @@ source,target,year,month,day,mode,companion
 577,106,1664,2,1,walk,
 106,788,1664,2,1,walk,
 788,422,1664,2,2,walk,
-422,789,1664,2,2,coach,Mr. Coventry
+422,789,1664,2,2,coach,Sir W. Coventry
 789,106,1664,2,2,walk,Captain Cocke
 106,789,1664,2,2,walk,
 789,561,1664,2,2,walk,Sir W. Warren
@@ -140,12 +140,12 @@ source,target,year,month,day,mode,companion
 788,106,1664,2,4,walk,
 106,548,1664,2,4,coach,
 548,788,1664,2,4,walk,
-788,422,1664,2,5,water,
-422,212,1664,2,5,water,
+788,422,1664,2,5,boat,
+422,212,1664,2,5,boat,
 212,667,1664,2,5,walk,
 667,212,1664,2,5,walk,
 212,145,1664,2,5,walk,
-145,788,1664,2,5,water,
+145,788,1664,2,5,boat,
 788,642,1664,2,8,coach,
 642,650,1664,2,8,walk,
 650,610,1664,2,8,walk,
@@ -153,13 +153,13 @@ source,target,year,month,day,mode,companion
 789,222,1664,2,8,walk,
 222,788,1664,2,8,walk,
 788,422,1664,2,9,walk,
-422,789,1664,2,9,coach,Mr. Coventry
+422,789,1664,2,9,coach,Sir W. Coventry
 789,788,1664,2,9,walk,
-788,2,1664,2,13,walk,Mr. Coventry
-2,426,1664,2,13,walk,Creed
-426,788,1664,2,13,coach,Creed
-788,3,1664,2,13,coach,Creed
-3,59,1664,2,13,walk,Creed
+788,2,1664,2,13,walk,Sir W. Coventry
+2,426,1664,2,13,walk,John Creed
+426,788,1664,2,13,coach,John Creed
+788,3,1664,2,13,coach,John Creed
+3,59,1664,2,13,walk,John Creed
 59,358,1664,2,13,walk,
 358,788,1664,2,13,walk,
 788,642,1664,2,15,coach,
@@ -172,7 +172,7 @@ source,target,year,month,day,mode,companion
 788,642,1664,2,17,walk,
 642,789,1664,2,17,walk,
 789,788,1664,2,17,walk,
-788,2,1664,2,18,walk,Mr. Coventry
+788,2,1664,2,18,walk,Sir W. Coventry
 2,788,1664,2,18,walk,
 788,422,1664,2,19,walk,
 422,789,1664,2,19,walk,
@@ -180,51 +180,50 @@ source,target,year,month,day,mode,companion
 788,389,1664,2,19,walk,uncle Wight
 389,788,1664,2,19,walk,
 788,422,1664,2,20,walk,
-422,789,1664,2,20,coach,Mr. Coventry
+422,789,1664,2,20,coach,Sir W. Coventry
 789,667,1664,2,20,boat,
 667,212,1664,2,20,walk,
-212,145,1664,2,20,water,
-145,788,1664,2,20,water,
+212,145,1664,2,20,boat,
+145,788,1664,2,20,boat,
 788,422,1664,2,22,walk,
 422,789,1664,2,22,walk,
 789,541,1664,2,22,coach,
-541,789,1664,2,22,walk,Mr. Moore
+541,789,1664,2,22,walk,Henry Moore
 789,788,1664,2,22,coach,
 788,422,1664,2,23,walk,
 422,789,1664,2,23,walk,Sir W. Rider
 789,788,1664,2,23,walk,
-788,642,1664,2,24,water,
+788,642,1664,2,24,boat,
 642,523,1664,2,24,walk,
-523,106,1664,2,24,water,
+523,106,1664,2,24,boat,
 106,789,1664,2,24,walk,
 789,788,1664,2,24,walk,
-788,2,1664,2,25,coach,Mr. Coventry
-2,788,1664,2,25,walk,Creed
-788,145,1664,2,25,walk,Creed
-145,788,1664,2,25,walk,Creed
+788,2,1664,2,25,coach,Sir W. Coventry
+2,788,1664,2,25,walk,John Creed
+788,145,1664,2,25,walk,John Creed
+145,788,1664,2,25,walk,John Creed
 788,422,1664,2,26,walk,
 422,789,1664,2,26,walk,
 789,788,1664,2,26,walk,
 788,422,1664,2,27,walk,
-422,2,1664,2,27,walk,Mr. Coventry
+422,2,1664,2,27,walk,Sir W. Coventry
 2,788,1664,2,27,walk,
 788,545,1664,2,28,walk,
 545,788,1664,2,28,coach,Sir J. Robinson
-788,540,1664,2,29,coach,Sir W. Pen
+788,540,1664,2,29,coach,Sir W. Penn
 540,539,1664,2,29,walk,Sir Philip Warwick
 539,642,1664,2,29,walk,
-642,755,1664,2,29,walk,Sir W. Pen
+642,755,1664,2,29,walk,Sir W. Penn
 755,789,1664,2,29,walk,Sir W. Warren
-789,789,1664,2,29,walk,
-789,419,1664,2,29,water,
+789,419,1664,2,29,boat,
 419,788,1664,2,29,walk,
 788,514,1664,2,29,walk,
 514,788,1664,2,29,walk,
 788,422,1664,3,1,walk,
 422,789,1664,3,1,walk,
-789,788,1664,3,1,walk,Creed; Mr. Hunt
-788,145,1664,3,1,walk,Creed
-145,788,1664,3,1,walk,Creed
+789,788,1664,3,1,walk,John Creed;Mr. Hunt
+788,145,1664,3,1,walk,John Creed
+145,788,1664,3,1,walk,John Creed
 788,422,1664,3,2,walk,
 422,106,1664,3,2,walk,
 106,789,1664,3,2,walk,
@@ -233,11 +232,11 @@ source,target,year,month,day,mode,companion
 422,788,1664,3,3,walk,W. Howe
 788,422,1664,3,4,walk,
 422,341,1664,3,4,coach,
-341,566,1664,3,4,water,
-566,667,1664,3,4,water,Mr. Shish
+341,566,1664,3,4,boat,
+566,667,1664,3,4,boat,Mr. Shish
 667,212,1664,3,4,walk,
 212,145,1664,3,4,walk,
-145,788,1664,3,4,water,uncle Wight
+145,788,1664,3,4,boat,uncle Wight
 788,341,1664,3,4,coach,uncle Wight
 341,642,1664,3,4,walk,
 642,341,1664,3,4,walk,
@@ -251,7 +250,7 @@ source,target,year,month,day,mode,companion
 788,158,1664,3,7,coach,
 158,788,1664,3,7,walk,
 788,422,1664,3,8,walk,
-422,789,1664,3,8,coach,Mr. Coventry
+422,789,1664,3,8,coach,Sir W. Coventry
 789,788,1664,3,8,walk,Luellin
 788,158,1664,3,8,walk,
 158,788,1664,3,8,walk,
@@ -273,7 +272,7 @@ source,target,year,month,day,mode,companion
 225,788,1664,3,12,walk,
 788,341,1664,3,13,walk,
 341,567,1664,3,13,walk,
-567,667,1664,3,13,water,Mr. Shish
+567,667,1664,3,13,boat,Mr. Shish
 667,145,1664,3,13,walk,
 145,212,1664,3,13,walk,
 212,788,1664,3,13,walk,
@@ -302,24 +301,23 @@ source,target,year,month,day,mode,companion
 544,788,1664,3,18,coach,
 788,59,1664,3,19,coach,
 59,788,1664,3,19,coach,
-788,59,1664,3,21,walk,father; brother John
-59,788,1664,3,21,walk,father; brother John
-788,419,1664,3,25,water,
-419,788,1664,3,25,water,
+788,59,1664,3,21,walk,father Pepys;brother John
+59,788,1664,3,21,walk,father Pepys;brother John
+788,419,1664,3,25,boat,
+419,788,1664,3,25,boat,
 788,174,1664,3,25,coach,
 174,788,1664,3,25,coach,
 788,422,1664,3,26,walk,
 422,789,1664,3,26,walk,
 789,788,1664,3,26,walk,
-788,145,1664,3,31,walk,Creed
-145,788,1664,3,31,walk,Creed
+788,145,1664,3,31,walk,John Creed
+145,788,1664,3,31,walk,John Creed
 788,174,1664,3,31,coach,
 174,788,1664,3,31,coach,
 788,422,1664,4,1,walk,
 422,789,1664,4,1,walk,
 789,642,1664,4,1,coach,
-642,642,1664,4,1,walk,
-642,789,1664,4,1,walk,Creed
+642,789,1664,4,1,walk,John Creed
 789,788,1664,4,1,walk,
 788,422,1664,4,2,walk,
 422,106,1664,4,2,walk,
@@ -328,7 +326,7 @@ source,target,year,month,day,mode,companion
 605,212,1664,4,2,walk,Sir W. Warren
 212,667,1664,4,2,walk,Sir W. Warren
 667,212,1664,4,2,walk,Sir W. Warren
-212,604,1664,4,2,water,Sir W. Warren
+212,604,1664,4,2,boat,Sir W. Warren
 604,788,1664,4,2,walk,Sir W. Warren
 788,448,1664,4,4,walk,
 448,650,1664,4,4,walk,
@@ -336,7 +334,7 @@ source,target,year,month,day,mode,companion
 540,610,1664,4,4,walk,
 610,442,1664,4,4,walk,Sir J. Minnes
 442,540,1664,4,4,walk,
-540,788,1664,4,4,coach,Mr. Coventry; Sir W. Batten; Sir W. Pen
+540,788,1664,4,4,coach,Sir W. Coventry;Sir W. Batten;Sir W. Penn
 788,341,1664,4,4,coach,
 341,642,1664,4,4,walk,
 642,788,1664,4,4,walk,
@@ -356,35 +354,34 @@ source,target,year,month,day,mode,companion
 788,341,1664,4,7,walk,
 341,789,1664,4,7,walk,
 789,788,1664,4,7,walk,
-788,642,1664,4,8,water,Sir W. Batten
-642,145,1664,4,8,water,Sir W. Batten
-145,788,1664,4,8,water,
+788,642,1664,4,8,boat,Sir W. Batten
+642,145,1664,4,8,boat,Sir W. Batten
+145,788,1664,4,8,boat,
 788,540,1664,4,9,coach,
 540,642,1664,4,9,walk,
 642,174,1664,4,9,coach,
 174,788,1664,4,9,walk,
 788,540,1664,4,11,walk,
-540,541,1664,4,11,walk,Creed
+540,541,1664,4,11,walk,John Creed
 541,174,1664,4,11,walk,
 174,610,1664,4,11,walk,
 610,414,1664,4,11,walk,
 414,788,1664,4,11,walk,Mr. Blagrave
-788,788,1664,4,11,walk,
 788,411,1664,4,11,walk,
-411,275,1664,4,11,coach,Mrs. Hunt; aunt Wight; Mrs. Steward
+411,275,1664,4,11,coach,Mrs. Hunt;aunt Wight;Mrs. Steward
 275,788,1664,4,11,coach,
 788,341,1664,4,12,coach,W. Howe
 341,392,1664,4,12,walk,W. Howe
 392,341,1664,4,12,walk,W. Howe
 341,788,1664,4,12,coach,
-788,174,1664,4,13,coach,father; brother John
+788,174,1664,4,13,coach,father Pepys;brother John
 174,540,1664,4,13,coach,
-540,85,1664,4,13,coach,Mr. Coventry
+540,85,1664,4,13,coach,Sir W. Coventry
 85,788,1664,4,13,coach,Colonel Froud
 788,422,1664,4,14,walk,
 422,540,1664,4,14,walk,
-540,642,1664,4,14,walk,Creed
-642,106,1664,4,14,walk,Creed
+540,642,1664,4,14,walk,John Creed
+642,106,1664,4,14,walk,John Creed
 106,788,1664,4,14,coach,
 788,789,1664,4,15,walk,
 789,158,1664,4,15,coach,
@@ -392,54 +389,53 @@ source,target,year,month,day,mode,companion
 419,592,1664,4,15,coach,
 592,788,1664,4,15,coach,
 788,422,1664,4,16,walk,
-422,2,1664,4,16,walk,Mr. Coventry
+422,2,1664,4,16,walk,Sir W. Coventry
 2,788,1664,4,16,walk,
 788,416,1664,4,16,walk,
 416,788,1664,4,16,walk,
 788,540,1664,4,18,coach,
 540,610,1664,4,18,walk,
-610,789,1664,4,18,coach,Sir W. Pen
+610,789,1664,4,18,coach,Sir W. Penn
 789,540,1664,4,18,coach,
-540,610,1664,4,18,walk,
 610,364,1664,4,18,walk,Mr. Blagrave
 364,610,1664,4,18,walk,
 610,411,1664,4,18,walk,
-411,275,1664,4,18,coach,aunt Wight; Mrs. Hunt; Mrs. Steward
+411,275,1664,4,18,coach,aunt Wight;Mrs. Hunt;Mrs. Steward
 275,788,1664,4,18,coach,
 788,610,1664,4,19,walk,
-610,566,1664,4,19,water,Creed; Vernaty
+610,566,1664,4,19,boat,John Creed;Vernaty
 566,789,1664,4,19,walk,
 789,788,1664,4,19,walk,
 788,610,1664,4,20,coach,
-610,789,1664,4,20,coach,Sir W. Pen
+610,789,1664,4,20,coach,Sir W. Penn
 789,540,1664,4,20,coach,
-540,788,1664,4,20,coach,Sir W. Pen
-788,540,1664,4,21,coach,Creed
-540,610,1664,4,21,walk,Creed
+540,788,1664,4,20,coach,Sir W. Penn
+788,540,1664,4,21,coach,John Creed
+540,610,1664,4,21,walk,John Creed
 610,789,1664,4,21,walk,
 789,592,1664,4,21,walk,
 592,788,1664,4,21,walk,
-788,422,1664,4,22,water,
-422,212,1664,4,22,water,
+788,422,1664,4,22,boat,
+422,212,1664,4,22,boat,
 212,667,1664,4,22,walk,Mr. Deane
 667,212,1664,4,22,walk,Mr. Deane
 212,341,1664,4,22,coach,Mr. Deane
 341,419,1664,4,22,coach,
-419,275,1664,4,22,coach,Mrs. Turner; The. Turner
+419,275,1664,4,22,coach,Mrs. Turner;The. Turner
 275,419,1664,4,22,coach,
 419,541,1664,4,22,coach,
 541,419,1664,4,22,coach,
 419,788,1664,4,22,coach,
-788,605,1664,4,23,water,Sir W. Warren
+788,605,1664,4,23,boat,Sir W. Warren
 605,789,1664,4,23,walk,
 789,788,1664,4,23,walk,
-788,341,1664,4,25,coach,Sir W. Pen
-341,540,1664,4,25,walk,Sir W. Pen; Mr. Coventry; Sir W. Rider
-540,341,1664,4,25,walk,Mr. Coventry; Sir W. Rider
+788,341,1664,4,25,coach,Sir W. Penn
+341,540,1664,4,25,walk,Sir W. Penn;Sir W. Coventry;Sir W. Rider
+540,341,1664,4,25,walk,Sir W. Coventry;Sir W. Rider
 341,788,1664,4,25,coach,
-788,640,1664,4,26,coach,Lord Sandwich; Creed
-640,540,1664,4,26,walk,Lord Sandwich; Creed
-540,789,1664,4,26,walk,Creed
+788,640,1664,4,26,coach,Edward Montagu;John Creed
+640,540,1664,4,26,walk,Edward Montagu;John Creed
+540,789,1664,4,26,walk,John Creed
 789,642,1664,4,26,coach,
 642,789,1664,4,26,walk,
 789,788,1664,4,26,walk,
@@ -448,30 +444,30 @@ source,target,year,month,day,mode,companion
 789,629,1664,4,27,walk,
 629,341,1664,4,27,coach,
 341,788,1664,4,27,coach,
-788,540,1664,4,29,walk,Sir W. Rider; Cutler
+788,540,1664,4,29,walk,Sir W. Rider;Cutler
 540,789,1664,4,29,walk,
-789,341,1664,4,29,coach,Luellin; Mount
+789,341,1664,4,29,coach,Luellin;Mr. Mount
 341,788,1664,4,29,coach,
 788,422,1664,4,30,walk,
-422,789,1664,4,30,walk,Sir W. Rider; Cutler
-789,442,1664,4,30,walk,Sir W. Rider; Cutler
-442,667,1664,4,30,water,Sir W. Warren
+422,789,1664,4,30,walk,Sir W. Rider;Cutler
+789,442,1664,4,30,walk,Sir W. Rider;Cutler
+442,667,1664,4,30,boat,Sir W. Warren
 667,212,1664,4,30,walk,Sir W. Warren
-212,788,1664,4,30,water,Sir W. Warren
-788,540,1664,5,2,water,Sir W. Batten; Sir J. Minnes
+212,788,1664,4,30,boat,Sir W. Warren
+788,540,1664,5,2,boat,Sir W. Batten;Sir J. Minnes
 540,610,1664,5,2,walk,
 610,789,1664,5,2,coach,Mr. Rawlinson
 789,341,1664,5,2,walk,
 341,577,1664,5,2,coach,Captain Ferrers
 577,541,1664,5,2,coach,Captain Ferrers
 541,788,1664,5,2,coach,
-788,395,1664,5,3,water,Mr. Bland
-395,540,1664,5,3,walk,Creed; Vernaty; Sir W. Rider
-540,610,1664,5,3,walk,Creed
+788,395,1664,5,3,boat,Mr. Bland
+395,540,1664,5,3,walk,John Creed;Vernaty;Sir W. Rider
+540,610,1664,5,3,walk,John Creed
 610,788,1664,5,3,coach,
 788,422,1664,5,4,walk,
 422,341,1664,5,4,coach,
-341,788,1664,5,4,water,
+341,788,1664,5,4,boat,
 788,106,1664,5,4,walk,
 106,789,1664,5,4,walk,
 789,788,1664,5,4,walk,
@@ -483,43 +479,43 @@ source,target,year,month,day,mode,companion
 788,544,1664,5,8,walk,
 544,516,1664,5,8,walk,
 516,788,1664,5,8,walk,
-788,540,1664,5,9,coach,Sir W. Pen
+788,540,1664,5,9,coach,Sir W. Penn
 540,341,1664,5,9,walk,
 341,788,1664,5,9,coach,
-788,667,1664,5,12,water,
+788,667,1664,5,12,boat,
 667,212,1664,5,12,walk,Mr. Deane
 212,145,1664,5,12,walk,Commissioner Pett
-145,788,1664,5,12,water,
-788,667,1664,5,13,water,
-667,788,1664,5,13,water,
+145,788,1664,5,12,boat,
+788,667,1664,5,13,boat,
+667,788,1664,5,13,boat,
 788,448,1664,5,13,walk,
-448,788,1664,5,13,walk,Creed
+448,788,1664,5,13,walk,John Creed
 788,540,1664,5,16,walk,
 540,394,1664,5,16,walk,Mr. Pierce
 394,610,1664,5,16,walk,
 610,788,1664,5,16,coach,
 788,642,1664,5,18,walk,
 642,788,1664,5,18,walk,
-788,85,1664,5,19,coach,Sir W. Pen
-85,540,1664,5,19,walk,Sir W. Pen
+788,85,1664,5,19,coach,Sir W. Penn
+85,540,1664,5,19,walk,Sir W. Penn
 540,642,1664,5,19,walk,Mr. Povy
 642,788,1664,5,19,coach,
-788,667,1664,5,22,water,Creed
-667,145,1664,5,22,water,Creed
+788,667,1664,5,22,boat,John Creed
+667,145,1664,5,22,boat,John Creed
 145,225,1664,5,22,walk,Mr. Wayth
-225,788,1664,5,22,water,Creed
-788,667,1664,5,23,water,Mr. Hater
-667,145,1664,5,23,water,Mr. Hater
-145,788,1664,5,23,water,Mr. Hater; rain
+225,788,1664,5,22,boat,John Creed
+788,667,1664,5,23,boat,Mr. Hater
+667,145,1664,5,23,boat,Mr. Hater
+145,788,1664,5,23,boat,Mr. Hater;rain
 788,422,1664,5,26,walk,
 422,788,1664,5,26,walk,
 788,341,1664,5,26,coach,
 341,788,1664,5,26,coach,
 788,422,1664,5,27,walk,
-422,256,1664,5,27,water,Mr. Wayth
+422,256,1664,5,27,boat,Mr. Wayth
 256,788,1664,5,27,walk,
 788,540,1664,5,28,walk,
-540,789,1664,5,28,walk,Mr. Cutler; Sir W. Rider
+540,789,1664,5,28,walk,Mr. Cutler;Sir W. Rider
 789,788,1664,5,28,walk,Mr. Deane
 788,540,1664,5,29,walk,Mr. Povy
 540,642,1664,5,29,walk,Mr. Povy
@@ -530,64 +526,64 @@ source,target,year,month,day,mode,companion
 422,540,1664,5,31,coach,
 540,341,1664,5,31,walk,
 341,788,1664,5,31,coach,
-788,667,1664,6,1,water,
-667,145,1664,6,1,water,
-145,523,1664,6,1,water,
+788,667,1664,6,1,boat,
+667,145,1664,6,1,boat,
+145,523,1664,6,1,boat,
 523,123,1664,6,1,walk,
-123,577,1664,6,1,walk,wife
+123,577,1664,6,1,walk,Elizabeth Pepys
 577,788,1664,6,1,coach,
 788,422,1664,6,2,walk,
 422,789,1664,6,2,walk,
-789,540,1664,6,2,coach,Sir J. Minnes; Mr. Coventry
+789,540,1664,6,2,coach,Sir J. Minnes;Sir W. Coventry
 540,642,1664,6,2,walk,
 642,788,1664,6,2,coach,Sir J. Minnes
 788,540,1664,6,3,coach,
 540,642,1664,6,3,coach,
 642,788,1664,6,3,coach,
 788,540,1664,6,4,coach,
-540,422,1664,6,4,water,Mr. Coventry
-422,540,1664,6,4,water,Mr. Coventry
+540,422,1664,6,4,boat,Sir W. Coventry
+422,540,1664,6,4,boat,Sir W. Coventry
 540,788,1664,6,4,coach,
-788,642,1664,6,6,water,Mr. Gauden
+788,642,1664,6,6,boat,Mr. Gauden
 642,341,1664,6,6,coach,
-341,145,1664,6,6,water,
-145,588,1664,6,6,water,Sir W. Batten
+341,145,1664,6,6,boat,
+145,588,1664,6,6,boat,Sir W. Batten
 588,642,1664,6,6,barge,Sir W. Batten
 642,788,1664,6,6,coach,
 788,540,1664,6,9,coach,
 540,642,1664,6,9,coach,
 642,788,1664,6,9,coach,
-788,642,1664,6,10,water,
+788,642,1664,6,10,boat,
 642,541,1664,6,10,walk,Captain Taylor
 541,789,1664,6,10,walk,
-789,788,1664,6,10,water,
-788,145,1664,6,13,water,Captain Taylor
-145,642,1664,6,13,water,
-642,540,1664,6,13,walk,Mr. Coventry
-540,582,1664,6,13,water,Mr. Creed
-582,212,1664,6,13,boat,Mr. Creed
-212,788,1664,6,13,boat,Mr. Creed
+789,788,1664,6,10,boat,
+788,145,1664,6,13,boat,Captain Taylor
+145,642,1664,6,13,boat,
+642,540,1664,6,13,walk,Sir W. Coventry
+540,582,1664,6,13,boat,John Creed
+582,212,1664,6,13,boat,John Creed
+212,788,1664,6,13,boat,John Creed
 788,291,1664,6,14,coach,
 291,341,1664,6,14,coach,
 341,788,1664,6,14,coach,
-788,667,1664,6,15,walk,Captain Witham; Mr. Tooker
+788,667,1664,6,15,walk,Captain Witham;Mr. Tooker
 667,788,1664,6,15,walk,
-788,341,1664,6,15,walk,Creed; Lord Sandwich's daughters
-341,212,1664,6,15,water,Creed; Lord Sandwich's daughters
-212,523,1664,6,15,water,Creed; Lord Sandwich's daughters
-523,341,1664,6,15,coach,Creed; Lord Sandwich's daughters
-341,788,1664,6,15,coach,Creed
+788,341,1664,6,15,walk,John Creed;Lord Sandwich's daughters
+341,212,1664,6,15,boat,John Creed;Lord Sandwich's daughters
+212,523,1664,6,15,boat,John Creed;Lord Sandwich's daughters
+523,341,1664,6,15,coach,John Creed;Lord Sandwich's daughters
+341,788,1664,6,15,coach,John Creed
 788,303,1664,6,16,walk,
 303,540,1664,6,16,walk,
 540,642,1664,6,16,walk,
 642,788,1664,6,16,coach,
-788,789,1664,6,16,walk,Creed
-789,788,1664,6,16,walk,Creed
+788,789,1664,6,16,walk,John Creed
+789,788,1664,6,16,walk,John Creed
 788,422,1664,6,17,walk,
-422,667,1664,6,17,water,
-667,145,1664,6,17,water,Sir W. Batten; Lady Batten
-145,788,1664,6,17,water,
-788,642,1664,6,20,water,
+422,667,1664,6,17,boat,
+667,145,1664,6,17,boat,Sir W. Batten;Lady Batten
+145,788,1664,6,17,boat,
+788,642,1664,6,20,boat,
 642,610,1664,6,20,walk,
 610,650,1664,6,20,walk,
 650,788,1664,6,20,walk,

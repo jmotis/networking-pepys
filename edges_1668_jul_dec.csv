@@ -1,7 +1,7 @@
 source,target,year,month,day,mode,companion
-422,642,1668,7,1,coach,Col. Middleton
-642,540,1668,7,1,walk,Col. Middleton
-540,642,1668,7,1,walk,Col. Middleton
+422,642,1668,7,1,coach,Colonel Middleton
+642,540,1668,7,1,walk,Colonel Middleton
+540,642,1668,7,1,walk,Colonel Middleton
 642,565,1668,7,1,walk,
 565,789,1668,7,1,coach,
 789,788,1668,7,1,coach,
@@ -56,13 +56,13 @@ source,target,year,month,day,mode,companion
 789,788,1668,7,15,coach,wife/Deb
 788,642,1668,7,17,walk,
 642,577,1668,7,17,coach,wife/Deb
-577,358,1668,7,17,boat,wife
-358,185,1668,7,17,boat,wife
-185,788,1668,7,17,boat,wife
+577,358,1668,7,17,boat,Elizabeth Pepys
+358,185,1668,7,17,boat,Elizabeth Pepys
+185,788,1668,7,17,boat,Elizabeth Pepys
 788,540,1668,7,18,boat,
-540,789,1668,7,18,coach,wife
-789,593,1668,7,18,walk,wife
-593,642,1668,7,18,walk,wife
+540,789,1668,7,18,coach,Elizabeth Pepys
+789,593,1668,7,18,walk,Elizabeth Pepys
+593,642,1668,7,18,walk,Elizabeth Pepys
 642,788,1668,7,18,boat,
 788,502,1668,7,20,coach,Mr. Colvill
 502,789,1668,7,20,coach,Mr. Colvill
@@ -117,8 +117,8 @@ source,target,year,month,day,mode,companion
 158,610,1668,8,5,walk,
 610,788,1668,8,5,coach,
 788,540,1668,8,6,walk,
-540,642,1668,8,6,boat,wife
-642,788,1668,8,6,coach,wife
+540,642,1668,8,6,boat,Elizabeth Pepys
+642,788,1668,8,6,coach,Elizabeth Pepys
 788,221,1668,8,6,coach,wife/Deb/Fitzgerald
 221,196,1668,8,6,coach,wife/Deb/Fitzgerald
 196,788,1668,8,8,boat,Fitzgerald
@@ -175,7 +175,7 @@ source,target,year,month,day,mode,companion
 373,27,1668,8,27,coach,wife/Deb/Mercer/Batelier
 27,788,1668,8,27,coach,wife/Deb/Mercer/Batelier
 788,642,1668,8,28,boat,
-642,788,1668,8,28,walk,W. Coventry
+642,788,1668,8,28,walk,Sir W. Coventry
 788,566,1668,8,29,walk,
 566,158,1668,8,29,walk,
 158,788,1668,8,29,walk,wife/Deb/Mercer
@@ -197,7 +197,7 @@ source,target,year,month,day,mode,companion
 154,788,1668,9,1,coach,
 788,203,1668,9,6,boat,Henry Russell
 203,788,1668,9,6,boat,
-788,642,1668,9,7,boat,W. Gibson
+788,642,1668,9,7,boat,Gibson
 642,566,1668,9,7,coach,wife/Deb/W. Hewer
 566,651,1668,9,7,coach,J.Minnes/W.Penn
 651,788,1668,9,7,coach,J.Minnes/W.Penn
@@ -213,9 +213,7 @@ source,target,year,month,day,mode,companion
 717,158,1668,9,10,coach,wife/Deb/Mercer/W.Hewer
 158,593,1668,9,10,walk,wife/Deb/Mercer/W.Hewer
 593,642,1668,9,10,walk,wife/Deb/Mercer/W.Hewer
-642,788,1668,9,10,boat,
 788,540,1668,9,13,walk,
-540,540,1668,9,13,coach,
 540,788,1668,9,13,coach,
 788,642,1668,9,14,walk,
 642,540,1668,9,14,coach,
@@ -278,37 +276,36 @@ source,target,year,month,day,mode,companion
 577,788,1668,10,14,coach,Sir W. Penn
 788,540,1668,10,16,coach,Mr. Hater
 540,642,1668,10,16,coach,Mr. Hater
-642,788,1668,10,16,coach,J. Minnes
+642,788,1668,10,16,coach,Sir J. Minnes
 788,327,1668,10,18,walk,
-327,415,1668,10,18,walk,Brouncker
-415,318,1668,10,18,walk,Brouncker
-318,642,1668,10,18,walk,Brouncker
-642,788,1668,10,18,coach,Brouncker
+327,415,1668,10,18,walk,Lord Brouncker
+415,318,1668,10,18,walk,Lord Brouncker
+318,642,1668,10,18,walk,Lord Brouncker
+642,788,1668,10,18,coach,Lord Brouncker
 788,540,1668,10,19,coach,wife/Deb/Mr. Harman
 540,158,1668,10,19,coach,wife/Deb
 158,788,1668,10,19,coach,wife/Deb
 788,540,1668,10,21,walk,
 540,315,1668,10,21,walk,
-315,341,1668,10,21,coach,wife
+315,341,1668,10,21,coach,Elizabeth Pepys
 341,642,1668,10,21,walk,
-642,788,1668,10,21,coach,wife
-788,540,1668,10,23,coach,Col. Middleton
+642,788,1668,10,21,coach,Elizabeth Pepys
+788,540,1668,10,23,coach,Colonel Middleton
 540,642,1668,10,23,walk,
 642,341,1668,10,23,walk,Mr. Pierce
 341,788,1668,10,23,coach,
 788,540,1668,10,26,coach,wife/Mr. Wren
 540,642,1668,10,26,walk,wife/Mr. Wren
-642,642,1668,10,26,walk,
 642,610,1668,10,26,walk,
 610,85,1668,10,26,walk,
 85,642,1668,10,26,walk,
 642,788,1668,10,26,coach,
-788,642,1668,10,28,coach,W. Gibson
-642,566,1668,10,28,walk,Lord Sandwich
+788,642,1668,10,28,coach,Gibson
+642,566,1668,10,28,walk,Edward Montagu
 566,788,1668,10,28,coach,
 788,540,1668,11,2,boat,
 540,642,1668,11,2,walk,
-642,116,1668,11,2,walk,Creed
+642,116,1668,11,2,walk,John Creed
 116,395,1668,11,2,walk,
 395,788,1668,11,2,walk,
 788,540,1668,11,4,coach,
@@ -347,7 +344,7 @@ source,target,year,month,day,mode,companion
 234,159,1668,11,23,coach,wife/W.Hewer/Deb
 159,788,1668,11,23,coach,wife/W.Hewer/Deb
 788,642,1668,11,25,coach,W. Hewer
-642,341,1668,11,25,walk,Lord Sandwich
+642,341,1668,11,25,walk,Edward Montagu
 341,642,1668,11,25,walk,
 642,566,1668,11,25,walk,
 566,642,1668,11,25,walk,
@@ -363,8 +360,8 @@ source,target,year,month,day,mode,companion
 9,788,1668,11,30,coach,
 788,642,1668,12,2,coach,wife/Deb
 642,577,1668,12,2,coach,wife/Deb
-577,642,1668,12,2,coach,wife
-642,788,1668,12,2,coach,wife
+577,642,1668,12,2,coach,Elizabeth Pepys
+642,788,1668,12,2,coach,Elizabeth Pepys
 788,642,1668,12,3,boat,W. Hewer
 642,422,1668,12,3,boat,
 422,158,1668,12,3,coach,wife/Deb
@@ -390,12 +387,12 @@ source,target,year,month,day,mode,companion
 788,642,1668,12,18,coach,
 642,58,1668,12,18,coach,
 58,422,1668,12,18,coach,
-422,593,1668,12,18,coach,wife
-593,566,1668,12,18,coach,wife
+422,593,1668,12,18,coach,Elizabeth Pepys
+593,566,1668,12,18,coach,Elizabeth Pepys
 566,788,1668,12,18,coach,W. Hewer
-788,577,1668,12,19,coach,wife
-577,788,1668,12,19,coach,wife
-788,544,1668,12,20,walk,wife
+788,577,1668,12,19,coach,Elizabeth Pepys
+577,788,1668,12,19,coach,Elizabeth Pepys
+788,544,1668,12,20,walk,Elizabeth Pepys
 544,642,1668,12,20,coach,wife/W.Hewer
 642,788,1668,12,20,coach,wife/W.Hewer
 788,566,1668,12,21,coach,Tom
@@ -408,11 +405,11 @@ source,target,year,month,day,mode,companion
 789,788,1668,12,22,walk,
 788,789,1668,12,23,walk,
 789,788,1668,12,23,walk,
-788,789,1668,12,23,coach,wife
-789,516,1668,12,23,coach,wife
-516,789,1668,12,23,coach,wife
-789,334,1668,12,23,coach,wife
-334,788,1668,12,23,coach,wife
+788,789,1668,12,23,coach,Elizabeth Pepys
+789,516,1668,12,23,coach,Elizabeth Pepys
+516,789,1668,12,23,coach,Elizabeth Pepys
+789,334,1668,12,23,coach,Elizabeth Pepys
+334,788,1668,12,23,coach,Elizabeth Pepys
 788,642,1668,12,25,walk,
 642,788,1668,12,25,walk,
 788,642,1668,12,26,coach,wife/Deb
@@ -421,6 +418,6 @@ source,target,year,month,day,mode,companion
 788,642,1668,12,27,walk,W. Hewer
 642,541,1668,12,27,walk,W. Hewer
 541,788,1668,12,27,coach,
-788,158,1668,12,30,coach,wife
-158,789,1668,12,30,coach,wife
-789,788,1668,12,30,coach,wife
+788,158,1668,12,30,coach,Elizabeth Pepys
+158,789,1668,12,30,coach,Elizabeth Pepys
+789,788,1668,12,30,coach,Elizabeth Pepys

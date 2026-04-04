@@ -30,7 +30,7 @@ source,target,year,month,day,mode,companion
 561,788,1660,7,31,walk,
 788,642,1660,9,1,walk,
 642,465,1660,9,1,walk,
-465,63,1660,9,1,walk,Mr. Moore
+465,63,1660,9,1,walk,Henry Moore
 63,642,1660,9,1,walk,
 642,788,1660,9,1,walk,
 788,642,1660,9,2,walk,
@@ -40,11 +40,11 @@ source,target,year,month,day,mode,companion
 650,723,1660,9,3,walk,
 723,309,1660,9,3,coach,
 309,788,1660,9,3,walk,
-788,374,1660,9,3,walk,Mr. Moore
+788,374,1660,9,3,walk,Henry Moore
 374,788,1660,9,3,walk,
 788,422,1660,9,4,walk,
 422,642,1660,9,4,walk,
-642,63,1660,9,4,walk,Mr. Moore
+642,63,1660,9,4,walk,Henry Moore
 63,650,1660,9,4,walk,
 650,264,1660,9,4,walk,
 264,788,1660,9,4,boat,
@@ -54,7 +54,7 @@ source,target,year,month,day,mode,companion
 422,788,1660,9,5,walk,
 788,514,1660,9,5,walk,Sir W. Batten;Sir W. Penn
 514,788,1660,9,5,walk,
-788,642,1660,9,6,boat,Sir William Batten
+788,642,1660,9,6,boat,Sir W. Batten
 642,780,1660,9,6,walk,
 780,650,1660,9,6,walk,
 650,788,1660,9,6,walk,
@@ -82,7 +82,6 @@ source,target,year,month,day,mode,companion
 358,788,1660,9,14,walk,
 788,610,1660,9,15,walk,
 610,788,1660,9,15,boat,
-788,610,1660,9,15,walk,
 610,174,1660,9,15,walk,
 174,788,1660,9,15,walk,
 788,544,1660,9,16,walk,
@@ -93,7 +92,7 @@ source,target,year,month,day,mode,companion
 642,788,1660,9,16,walk,
 788,642,1660,9,17,walk,
 642,788,1660,9,17,walk,
-788,610,1660,9,18,coach,Sir William Batten;Sir W. Penn
+788,610,1660,9,18,coach,Sir W. Batten;Sir W. Penn
 610,476,1660,9,18,walk,Mr. Wayte
 476,374,1660,9,18,walk,
 374,788,1660,9,18,walk,
@@ -113,7 +112,7 @@ source,target,year,month,day,mode,companion
 650,231,1660,9,22,walk,
 231,723,1660,9,22,coach,
 723,788,1660,9,22,coach,
-788,544,1660,9,23,walk,Sir William Batten
+788,544,1660,9,23,walk,Sir W. Batten
 544,788,1660,9,23,walk,
 788,642,1660,9,23,walk,
 642,609,1660,9,23,walk,Mr. Pierce
@@ -121,8 +120,8 @@ source,target,year,month,day,mode,companion
 642,650,1660,9,23,walk,
 650,174,1660,9,23,walk,
 174,788,1660,9,23,walk,
-788,567,1660,9,24,coach,Elizabeth Pepys;Sir William Batten
-567,642,1660,9,24,boat,Sir William Batten
+788,567,1660,9,24,coach,Elizabeth Pepys;Sir W. Batten
+567,642,1660,9,24,boat,Sir W. Batten
 642,580,1660,9,24,walk,
 580,650,1660,9,24,walk,
 650,132,1660,9,24,coach,Mr. Butler
@@ -144,8 +143,6 @@ source,target,year,month,day,mode,companion
 650,788,1660,9,27,walk,
 788,544,1660,9,30,walk,
 544,788,1660,9,30,walk,
-788,544,1660,9,30,walk,
-544,788,1660,9,30,walk,
 788,642,1660,10,1,walk,
 642,422,1660,10,1,walk,
 422,358,1660,10,1,walk,father Pepys;uncle Wight
@@ -154,11 +151,11 @@ source,target,year,month,day,mode,companion
 642,314,1660,10,2,walk,Captain Clerk
 314,642,1660,10,2,walk,
 642,148,1660,10,2,walk,Luellin;Mr. Fage
-148,658,1660,10,2,walk,Mr. Spicer
-658,609,1660,10,2,walk,Mr. Spicer
+148,658,1660,10,2,walk,Jack Spicer
+658,609,1660,10,2,walk,Jack Spicer
 609,174,1660,10,2,coach,
 174,788,1660,10,2,walk,
-788,642,1660,10,3,boat,Sir William Batten;Sir W. Penn
+788,642,1660,10,3,boat,Sir W. Batten;Sir W. Penn
 642,650,1660,10,3,walk,
 650,642,1660,10,3,walk,
 642,788,1660,10,3,walk,
@@ -168,7 +165,7 @@ source,target,year,month,day,mode,companion
 609,748,1660,10,4,walk,
 748,650,1660,10,4,walk,
 650,788,1660,10,4,boat,
-788,642,1660,10,6,walk,Mr. Creed
+788,642,1660,10,6,walk,John Creed
 642,788,1660,10,6,walk,
 788,174,1660,10,7,walk,Dr. Fairbrother
 174,642,1660,10,7,walk,
@@ -176,7 +173,7 @@ source,target,year,month,day,mode,companion
 650,609,1660,10,7,walk,
 609,788,1660,10,7,walk,
 788,422,1660,10,8,walk,
-422,174,1660,10,8,walk,Mr. Moore
+422,174,1660,10,8,walk,Henry Moore
 174,374,1660,10,8,walk,
 374,650,1660,10,8,walk,
 650,788,1660,10,8,boat,
@@ -185,49 +182,49 @@ source,target,year,month,day,mode,companion
 371,475,1660,10,9,boat,Sir W. Penn
 475,145,1660,10,9,walk,Sir W. Penn
 145,788,1660,10,9,barge,Sir W. Penn
-788,650,1660,10,11,walk,Mr. Creed
-650,476,1660,10,11,walk,Mr. Creed;Mr. Blackburne
-476,314,1660,10,11,walk,Mr. Creed
-314,541,1660,10,11,walk,Mr. Salisbury;Mr. Creed
-541,647,1660,10,11,walk,Mr. Salisbury;Mr. Creed
-647,234,1660,10,11,walk,Mr. Creed
+788,650,1660,10,11,walk,John Creed
+650,476,1660,10,11,walk,John Creed;Mr. Blackburne
+476,314,1660,10,11,walk,John Creed
+314,541,1660,10,11,walk,Mr. Salisbury;John Creed
+541,647,1660,10,11,walk,Mr. Salisbury;John Creed
+647,234,1660,10,11,walk,John Creed
 234,788,1660,10,11,walk,
-788,149,1660,10,12,walk,Sir William Batten
+788,149,1660,10,12,walk,Sir W. Batten
 149,788,1660,10,12,walk,
 788,642,1660,10,12,walk,
 642,788,1660,10,12,walk,
 788,650,1660,10,13,walk,Captain Cuttance
 650,85,1660,10,13,walk,
 85,650,1660,10,13,walk,
-650,561,1660,10,13,walk,Captain Cuttance;Mr. Sheply
+650,561,1660,10,13,walk,Captain Cuttance;Mr. Shepley
 561,788,1660,10,13,boat,
 788,174,1660,10,14,walk,Dr. Fairbrother
 174,619,1660,10,14,walk,
 619,650,1660,10,14,walk,
 650,788,1660,10,14,boat,Elizabeth Pepys
 788,650,1660,10,15,boat,
-650,642,1660,10,15,walk,Sir William Batten;Sir W. Penn
+650,642,1660,10,15,walk,Sir W. Batten;Sir W. Penn
 642,174,1660,10,15,coach,
 174,788,1660,10,15,coach,Elizabeth Pepys
-788,647,1660,10,16,walk,Mr. Moore
+788,647,1660,10,16,walk,Henry Moore
 647,788,1660,10,16,boat,
 788,650,1660,10,16,boat,
 650,788,1660,10,16,boat,
 788,422,1660,10,17,walk,
-422,177,1660,10,17,walk,Mr. Creed;Captain Cuttance
+422,177,1660,10,17,walk,John Creed;Captain Cuttance
 177,788,1660,10,17,walk,
 788,432,1660,10,18,walk,
 432,591,1660,10,18,walk,
 591,174,1660,10,18,walk,
 174,650,1660,10,18,walk,
-650,404,1660,10,18,walk,Mr. Creed
+650,404,1660,10,18,walk,John Creed
 404,788,1660,10,18,coach,Elizabeth Pepys
 788,650,1660,10,20,walk,
 650,735,1660,10,20,walk,
 735,788,1660,10,20,walk,
 788,544,1660,10,21,walk,
 544,650,1660,10,21,walk,
-650,609,1660,10,21,walk,Spicer;D. Vines
+650,609,1660,10,21,walk,Jack Spicer;D. Vines
 609,746,1660,10,21,walk,
 746,610,1660,10,21,walk,
 610,609,1660,10,21,walk,
@@ -274,14 +271,14 @@ source,target,year,month,day,mode,companion
 306,788,1660,10,29,walk,
 788,647,1660,10,30,walk,
 647,374,1660,10,30,walk,
-374,234,1660,10,30,walk,Mr. Moore
+374,234,1660,10,30,walk,Henry Moore
 234,788,1660,10,30,walk,
 788,422,1660,10,31,walk,
 422,610,1660,10,31,walk,
 610,788,1660,10,31,walk,
 788,601,1660,11,1,horse,Sir W. Penn
-601,51,1660,11,1,horse,Sir W. Penn;Sir William Batten
-51,788,1660,11,1,horse,Sir W. Penn;Sir William Batten
+601,51,1660,11,1,horse,Sir W. Penn;Sir W. Batten
+51,788,1660,11,1,horse,Sir W. Penn;Sir W. Batten
 788,642,1660,11,2,walk,
 642,309,1660,11,2,boat,
 309,642,1660,11,2,boat,
@@ -296,14 +293,14 @@ source,target,year,month,day,mode,companion
 544,788,1660,11,4,walk,
 788,650,1660,11,4,walk,
 650,609,1660,11,4,walk,
-609,650,1660,11,4,walk,Mr. Pierce;Mr. Sheply
+609,650,1660,11,4,walk,Mr. Pierce;Mr. Shepley
 650,174,1660,11,4,walk,
 174,788,1660,11,4,walk,
-788,642,1660,11,6,boat,Sir William Batten;Sir W. Penn
-642,650,1660,11,6,walk,Mr. Creed
-650,610,1660,11,6,walk,Mr. Creed;Mr. Chetwind
-610,561,1660,11,6,walk,Mr. Creed;Mr. Chetwind
-561,656,1660,11,6,walk,Mr. Creed
+788,642,1660,11,6,boat,Sir W. Batten;Sir W. Penn
+642,650,1660,11,6,walk,John Creed
+650,610,1660,11,6,walk,John Creed;Mr. Chetwind
+610,561,1660,11,6,walk,John Creed;Mr. Chetwind
+561,656,1660,11,6,walk,John Creed
 656,422,1660,11,6,walk,
 422,788,1660,11,6,walk,
 788,650,1660,11,7,boat,
@@ -313,28 +310,28 @@ source,target,year,month,day,mode,companion
 650,381,1660,11,7,walk,
 381,231,1660,11,7,walk,father Bowyer
 231,788,1660,11,7,coach,
-788,145,1660,11,8,barge,Sir William Batten;Treasurer
+788,145,1660,11,8,barge,Sir W. Batten;Treasurer
 145,376,1660,11,8,walk,Commissioner Pett
 376,145,1660,11,8,walk,
 145,471,1660,11,8,walk,Commissioner Pett
 471,145,1660,11,8,walk,
 145,788,1660,11,8,boat,
 788,422,1660,11,9,walk,
-422,265,1660,11,9,walk,Mr. Wivell;Mr. Sheply
+422,265,1660,11,9,walk,Mr. Wivell;Mr. Shepley
 265,642,1660,11,9,walk,
-642,691,1660,11,9,walk,Mr. Sheply
+642,691,1660,11,9,walk,Mr. Shepley
 691,174,1660,11,9,walk,
 174,788,1660,11,9,walk,
 788,422,1660,11,10,walk,
-422,588,1660,11,10,walk,Sir William Batten
+422,588,1660,11,10,walk,Sir W. Batten
 588,451,1660,11,10,walk,Treasurer;Comptroller
 451,107,1660,11,10,walk,Comptroller
 107,642,1660,11,10,walk,
 642,374,1660,11,10,walk,
 374,546,1660,11,10,walk,
 546,788,1660,11,10,walk,
-788,514,1660,11,11,walk,Sir William Batten
-514,544,1660,11,11,walk,Sir William Batten;Sir W. Penn
+788,514,1660,11,11,walk,Sir W. Batten
+514,544,1660,11,11,walk,Sir W. Batten;Sir W. Penn
 544,788,1660,11,11,walk,
 788,642,1660,11,11,walk,
 642,174,1660,11,11,walk,Elizabeth Pepys
@@ -352,15 +349,15 @@ source,target,year,month,day,mode,companion
 174,400,1660,11,12,walk,father Pepys
 400,174,1660,11,12,walk,
 174,788,1660,11,12,coach,Elizabeth Pepys
-788,650,1660,11,13,walk,Mr. Moore
-650,576,1660,11,13,boat,Mr. Moore
+788,650,1660,11,13,walk,Henry Moore
+650,576,1660,11,13,boat,Henry Moore
 576,169,1660,11,13,walk,Jack Spicer
 169,148,1660,11,13,walk,Jack Spicer
 148,788,1660,11,13,walk,
 788,546,1660,11,14,walk,
 546,788,1660,11,14,walk,
 788,422,1660,11,14,walk,
-422,149,1660,11,14,walk,Sir W. Penn;Comptroller;Sir William Batten
+422,149,1660,11,14,walk,Sir W. Penn;Comptroller;Sir W. Batten
 149,788,1660,11,14,walk,
 788,561,1660,11,15,boat,
 561,377,1660,11,15,walk,Jack Spicer
@@ -370,17 +367,17 @@ source,target,year,month,day,mode,companion
 169,265,1660,11,15,boat,
 265,514,1660,11,15,walk,Sir Arnold Brames
 514,788,1660,11,15,walk,
-788,174,1660,11,16,walk,Mr. Moore
-174,566,1660,11,16,walk,Mr. Moore
+788,174,1660,11,16,walk,Henry Moore
+174,566,1660,11,16,walk,Henry Moore
 566,610,1660,11,16,walk,
 610,562,1660,11,16,walk,Mr. Fontleroy
-562,788,1660,11,16,boat,father Pepys;Mr. Snow;Mr. Moore
+562,788,1660,11,16,boat,father Pepys;Mr. Snow;Henry Moore
 788,422,1660,11,16,walk,
 422,788,1660,11,16,walk,
 788,465,1660,11,17,walk,
 465,650,1660,11,17,walk,
 650,374,1660,11,17,walk,Major Hart
-374,146,1660,11,17,walk,Mr. Sheply;Mr. Moore
+374,146,1660,11,17,walk,Mr. Shepley;Henry Moore
 146,788,1660,11,17,walk,
 788,544,1660,11,18,walk,
 544,788,1660,11,18,walk,
@@ -389,16 +386,16 @@ source,target,year,month,day,mode,companion
 514,788,1660,11,18,walk,Elizabeth Pepys
 788,642,1660,11,19,coach,Treasurer
 642,650,1660,11,19,walk,
-650,561,1660,11,19,walk,Mr. Sheply
+650,561,1660,11,19,walk,Mr. Shepley
 561,377,1660,11,19,walk,
 377,610,1660,11,19,walk,
-610,314,1660,11,19,walk,Sir William Batten
+610,314,1660,11,19,walk,Sir W. Batten
 314,789,1660,11,19,boat,
 789,422,1660,11,19,walk,
 422,788,1660,11,19,walk,
 788,650,1660,11,20,walk,Will
-650,566,1660,11,20,walk,Mr. Moore
-566,428,1660,11,20,walk,Mr. Sheply
+650,566,1660,11,20,walk,Henry Moore
+566,428,1660,11,20,walk,Mr. Shepley
 428,174,1660,11,20,walk,
 174,591,1660,11,20,walk,
 591,788,1660,11,20,walk,
@@ -418,10 +415,9 @@ source,target,year,month,day,mode,companion
 788,149,1660,11,23,walk,Captain Straughan
 149,788,1660,11,23,walk,
 788,422,1660,11,23,walk,
-422,149,1660,11,23,walk,Mr. Creed
-149,788,1660,11,23,walk,
+422,149,1660,11,23,walk,John Creed
 788,650,1660,11,24,walk,
-650,476,1660,11,24,walk,Mr. Townsend;Rumball;Blackburne;Mr. Creed;Mr. Sheply
+650,476,1660,11,24,walk,Mr. Townsend;Rumball;Mr. Blackburne;John Creed;Mr. Shepley
 476,610,1660,11,24,walk,
 610,650,1660,11,24,walk,
 650,377,1660,11,24,boat,Will
@@ -434,25 +430,23 @@ source,target,year,month,day,mode,companion
 422,358,1660,11,26,walk,Comptroller
 358,788,1660,11,26,walk,
 788,642,1660,11,27,walk,
-642,610,1660,11,27,walk,Mr. Creed
-610,233,1660,11,27,walk,Mr. Creed
+642,610,1660,11,27,walk,John Creed
+610,233,1660,11,27,walk,John Creed
 233,650,1660,11,27,walk,
 650,428,1660,11,27,walk,
-428,174,1660,11,27,walk,Mr. Moore
-174,400,1660,11,27,walk,Mr. Moore;father Pepys
+428,174,1660,11,27,walk,Henry Moore
+174,400,1660,11,27,walk,Henry Moore;father Pepys
 400,788,1660,11,27,walk,
 788,650,1660,11,28,walk,
-650,561,1660,11,28,walk,Mr. Sheply;Pinkney
+650,561,1660,11,28,walk,Mr. Shepley;Pinkney
 561,788,1660,11,28,walk,
 788,465,1660,12,1,walk,
 465,642,1660,12,1,walk,
 642,650,1660,12,1,walk,
-650,742,1660,12,1,walk,Mr. Sheply
+650,742,1660,12,1,walk,Mr. Shepley
 742,546,1660,12,1,walk,
-546,553,1660,12,1,walk,Mr. Sheply
+546,553,1660,12,1,walk,Mr. Shepley
 553,788,1660,12,1,walk,
-788,544,1660,12,2,walk,
-544,788,1660,12,2,walk,
 788,544,1660,12,2,walk,
 544,788,1660,12,2,walk,
 788,422,1660,12,3,walk,
@@ -470,7 +464,7 @@ source,target,year,month,day,mode,companion
 174,788,1660,12,5,walk,
 788,614,1660,12,6,boat,Elizabeth Pepys
 614,465,1660,12,6,walk,
-465,314,1660,12,6,walk,Mr. Moore
+465,314,1660,12,6,walk,Henry Moore
 314,374,1660,12,6,walk,
 374,383,1660,12,6,walk,
 383,566,1660,12,6,walk,
@@ -478,7 +472,7 @@ source,target,year,month,day,mode,companion
 788,422,1660,12,7,walk,
 422,642,1660,12,7,walk,
 642,650,1660,12,7,walk,
-650,169,1660,12,7,walk,Mr. Spicer
+650,169,1660,12,7,walk,Jack Spicer
 169,465,1660,12,7,walk,
 465,788,1660,12,7,boat,
 788,465,1660,12,8,walk,
@@ -488,7 +482,7 @@ source,target,year,month,day,mode,companion
 394,788,1660,12,8,walk,Elizabeth Pepys
 788,514,1660,12,9,walk,
 514,642,1660,12,9,boat,
-642,622,1660,12,9,walk,Mr. Coventry
+642,622,1660,12,9,walk,Sir W. Coventry
 622,619,1660,12,9,walk,
 619,650,1660,12,9,walk,
 650,378,1660,12,9,walk,Mr. Kennard
@@ -505,7 +499,7 @@ source,target,year,month,day,mode,companion
 788,667,1660,12,11,barge,Lady Batten;Elizabeth Pepys
 667,642,1660,12,11,barge,
 642,465,1660,12,11,walk,
-465,358,1660,12,11,walk,Mr. Moore
+465,358,1660,12,11,walk,Henry Moore
 358,788,1660,12,11,walk,
 788,642,1660,12,12,walk,
 642,650,1660,12,12,walk,
@@ -555,7 +549,7 @@ source,target,year,month,day,mode,companion
 3,374,1660,12,26,coach,
 374,650,1660,12,26,walk,
 650,371,1660,12,26,walk,Sir Thomas Bond
-371,422,1660,12,26,walk,Sir William Batten;Sir W. Penn
+371,422,1660,12,26,walk,Sir W. Batten;Sir W. Penn
 422,642,1660,12,26,walk,
 642,650,1660,12,26,walk,Lady Sandwich
 650,367,1660,12,26,walk,Elizabeth Pepys
@@ -582,592 +576,6 @@ source,target,year,month,day,mode,companion
 546,374,1660,12,31,walk,
 374,428,1660,12,31,walk,
 428,650,1660,12,31,walk,
-650,231,1660,12,31,walk,Mr. Sheply
-231,642,1660,12,31,walk,
-642,788,1660,12,31,coach,
-788,544,1660,7,26,walk,
-544,788,1660,7,26,walk,
-788,544,1660,7,26,walk,Elizabeth Pepys
-544,788,1660,7,26,walk,Elizabeth Pepys
-788,465,1660,7,27,walk,
-465,63,1660,7,27,walk,Mr. Mount;Luellin
-63,174,1660,7,27,walk,
-174,591,1660,7,27,walk,
-591,788,1660,7,27,walk,
-788,465,1660,7,28,walk,
-465,788,1660,7,28,coach,
-788,422,1660,7,29,walk,
-422,544,1660,7,29,walk,
-544,788,1660,7,29,walk,
-788,465,1660,7,29,walk,
-465,63,1660,7,29,walk,Mr. Mount;Luellin
-63,174,1660,7,29,walk,
-174,591,1660,7,29,walk,
-591,788,1660,7,29,walk,
-788,642,1660,7,30,walk,
-642,610,1660,7,30,walk,
-610,642,1660,7,30,walk,
-642,788,1660,7,30,walk,
-788,642,1660,7,31,walk,
-642,422,1660,7,31,walk,
-422,642,1660,7,31,walk,
-642,465,1660,7,31,walk,
-465,561,1660,7,31,walk,Mr. Bickerstaffe;Mr. Matthews
-561,788,1660,7,31,walk,
-788,642,1660,9,1,walk,
-642,465,1660,9,1,walk,
-465,63,1660,9,1,walk,Mr. Moore
-63,642,1660,9,1,walk,
-642,788,1660,9,1,walk,
-788,642,1660,9,2,walk,
-642,543,1660,9,2,walk,
-543,406,1660,9,2,walk,
-406,650,1660,9,2,walk,
-650,723,1660,9,3,walk,
-723,309,1660,9,3,coach,
-309,788,1660,9,3,walk,
-788,374,1660,9,3,walk,Mr. Moore
-374,788,1660,9,3,walk,
-788,422,1660,9,4,walk,
-422,642,1660,9,4,walk,
-642,63,1660,9,4,walk,Mr. Moore
-63,650,1660,9,4,walk,
-650,264,1660,9,4,walk,
-264,788,1660,9,4,boat,
-788,422,1660,9,5,walk,
-422,396,1660,9,5,coach,
-396,422,1660,9,5,walk,
-422,788,1660,9,5,walk,
-788,514,1660,9,5,walk,Sir W. Batten;Sir W. Penn
-514,788,1660,9,5,walk,
-788,642,1660,9,6,boat,Sir William Batten
-642,780,1660,9,6,walk,
-780,650,1660,9,6,walk,
-650,788,1660,9,6,walk,
-788,516,1660,9,8,walk,
-516,788,1660,9,8,walk,
-788,544,1660,9,9,walk,Sir W. Penn
-544,788,1660,9,9,walk,Sir W. Penn
-788,544,1660,9,9,walk,Elizabeth Pepys
-544,788,1660,9,9,walk,Elizabeth Pepys
-788,642,1660,9,10,walk,Col. Slingsby
-642,32,1660,9,10,boat,Col. Slingsby
-32,586,1660,9,10,walk,
-586,422,1660,9,10,walk,
-422,514,1660,9,10,walk,
-514,788,1660,9,10,walk,
-788,514,1660,9,11,walk,Sir W. Penn
-514,422,1660,9,11,walk,
-422,514,1660,9,11,walk,
-514,788,1660,9,11,walk,
-788,610,1660,9,13,walk,
-610,562,1660,9,13,walk,Mr. Hawly;W. Bowyer
-562,788,1660,9,13,boat,
-788,422,1660,9,14,walk,
-422,358,1660,9,14,walk,Luellin
-358,788,1660,9,14,walk,
-788,610,1660,9,15,walk,
-610,788,1660,9,15,boat,
-788,610,1660,9,15,walk,
-610,174,1660,9,15,walk,
-174,788,1660,9,15,walk,
-788,544,1660,9,16,walk,
-544,788,1660,9,16,walk,
-788,609,1660,9,16,walk,
-609,541,1660,9,16,walk,
-541,642,1660,9,16,walk,
-642,788,1660,9,16,walk,
-788,642,1660,9,17,walk,
-642,788,1660,9,17,walk,
-788,610,1660,9,18,coach,Sir William Batten;Sir W. Penn
-610,476,1660,9,18,walk,Mr. Wayte
-476,374,1660,9,18,walk,
-374,788,1660,9,18,walk,
-788,422,1660,9,19,walk,
-422,358,1660,9,19,walk,Luellin;W. Symons
-358,788,1660,9,19,coach,Elizabeth Pepys
-788,642,1660,9,20,walk,
-642,693,1660,9,20,walk,
-693,788,1660,9,20,boat,
-788,422,1660,9,21,walk,
-422,642,1660,9,21,boat,
-642,265,1660,9,21,boat,
-265,779,1660,9,21,walk,Mr. Chaplin;Nicholas Osborne
-779,788,1660,9,21,walk,
-788,610,1660,9,22,walk,Luellin
-610,650,1660,9,22,walk,
-650,231,1660,9,22,walk,
-231,723,1660,9,22,coach,
-723,788,1660,9,22,coach,
-788,544,1660,9,23,walk,Sir William Batten
-544,788,1660,9,23,walk,
-788,642,1660,9,23,walk,
-642,609,1660,9,23,walk,Mr. Pierce
-609,642,1660,9,23,walk,Mr. Pierce
-642,650,1660,9,23,walk,
-650,174,1660,9,23,walk,
-174,788,1660,9,23,walk,
-788,567,1660,9,24,coach,Elizabeth Pepys;Sir William Batten
-567,642,1660,9,24,boat,Sir William Batten
-642,580,1660,9,24,walk,
-580,650,1660,9,24,walk,
-650,132,1660,9,24,coach,Mr. Butler
-132,788,1660,9,24,walk,
-788,422,1660,9,25,walk,
-422,586,1660,9,25,barge,Col. Birch
-586,145,1660,9,25,barge,Sir G. Carteret;Sir W. Penn
-145,143,1660,9,25,walk,
-143,145,1660,9,25,walk,
-145,374,1660,9,25,boat,Col. Slingsby
-374,788,1660,9,25,coach,
-788,544,1660,9,26,walk,
-544,788,1660,9,26,walk,
-788,422,1660,9,26,walk,
-422,788,1660,9,26,walk,
-788,374,1660,9,27,walk,
-374,788,1660,9,27,walk,
-788,650,1660,9,27,walk,
-650,788,1660,9,27,walk,
-788,544,1660,9,30,walk,
-544,788,1660,9,30,walk,
-788,544,1660,9,30,walk,
-544,788,1660,9,30,walk,
-788,642,1660,10,1,walk,
-642,422,1660,10,1,walk,
-422,358,1660,10,1,walk,father Pepys;uncle Wight
-358,788,1660,10,1,walk,
-788,642,1660,10,2,boat,Sir W. Penn
-642,314,1660,10,2,walk,Captain Clerk
-314,642,1660,10,2,walk,
-642,148,1660,10,2,walk,Luellin;Mr. Fage
-148,658,1660,10,2,walk,Mr. Spicer
-658,609,1660,10,2,walk,Mr. Spicer
-609,174,1660,10,2,coach,
-174,788,1660,10,2,walk,
-788,642,1660,10,3,boat,Sir William Batten;Sir W. Penn
-642,650,1660,10,3,walk,
-650,642,1660,10,3,walk,
-642,788,1660,10,3,walk,
-788,422,1660,10,4,walk,
-422,642,1660,10,4,boat,
-642,609,1660,10,4,walk,Lieut. Lambert
-609,748,1660,10,4,walk,
-748,650,1660,10,4,walk,
-650,788,1660,10,4,boat,
-788,642,1660,10,6,walk,Mr. Creed
-642,788,1660,10,6,walk,
-788,174,1660,10,7,walk,Dr. Fairbrother
-174,642,1660,10,7,walk,
-642,650,1660,10,7,walk,
-650,609,1660,10,7,walk,
-609,788,1660,10,7,walk,
-788,422,1660,10,8,walk,
-422,174,1660,10,8,walk,Mr. Moore
-174,374,1660,10,8,walk,
-374,650,1660,10,8,walk,
-650,788,1660,10,8,boat,
-788,642,1660,10,9,walk,Sir W. Penn
-642,371,1660,10,9,walk,Sir W. Penn
-371,475,1660,10,9,boat,Sir W. Penn
-475,145,1660,10,9,walk,Sir W. Penn
-145,788,1660,10,9,barge,Sir W. Penn
-788,650,1660,10,11,walk,Mr. Creed
-650,476,1660,10,11,walk,Mr. Creed;Mr. Blackburne
-476,314,1660,10,11,walk,Mr. Creed
-314,541,1660,10,11,walk,Mr. Salisbury;Mr. Creed
-541,647,1660,10,11,walk,Mr. Salisbury;Mr. Creed
-647,234,1660,10,11,walk,Mr. Creed
-234,788,1660,10,11,walk,
-788,149,1660,10,12,walk,Sir William Batten
-149,788,1660,10,12,walk,
-788,642,1660,10,12,walk,
-642,788,1660,10,12,walk,
-788,650,1660,10,13,walk,Captain Cuttance
-650,85,1660,10,13,walk,
-85,650,1660,10,13,walk,
-650,561,1660,10,13,walk,Captain Cuttance;Mr. Sheply
-561,788,1660,10,13,boat,
-788,174,1660,10,14,walk,Dr. Fairbrother
-174,619,1660,10,14,walk,
-619,650,1660,10,14,walk,
-650,788,1660,10,14,boat,Elizabeth Pepys
-788,650,1660,10,15,boat,
-650,642,1660,10,15,walk,Sir William Batten;Sir W. Penn
-642,174,1660,10,15,coach,
-174,788,1660,10,15,coach,Elizabeth Pepys
-788,647,1660,10,16,walk,Mr. Moore
-647,788,1660,10,16,boat,
-788,650,1660,10,16,boat,
-650,788,1660,10,16,boat,
-788,422,1660,10,17,walk,
-422,177,1660,10,17,walk,Mr. Creed;Captain Cuttance
-177,788,1660,10,17,walk,
-788,432,1660,10,18,walk,
-432,591,1660,10,18,walk,
-591,174,1660,10,18,walk,
-174,650,1660,10,18,walk,
-650,404,1660,10,18,walk,Mr. Creed
-404,788,1660,10,18,coach,Elizabeth Pepys
-788,650,1660,10,20,walk,
-650,735,1660,10,20,walk,
-735,788,1660,10,20,walk,
-788,544,1660,10,21,walk,
-544,650,1660,10,21,walk,
-650,609,1660,10,21,walk,Spicer;D. Vines
-609,746,1660,10,21,walk,
-746,610,1660,10,21,walk,
-610,609,1660,10,21,walk,
-609,650,1660,10,21,walk,
-650,174,1660,10,21,walk,
-174,788,1660,10,21,walk,
-788,422,1660,10,22,walk,
-422,650,1660,10,22,walk,
-650,788,1660,10,22,walk,
-650,642,1660,10,23,walk,
-642,607,1660,10,23,walk,
-607,642,1660,10,23,walk,
-642,314,1660,10,23,walk,Mr. Ashwell
-314,642,1660,10,23,walk,
-642,650,1660,10,23,walk,
-650,377,1660,10,23,walk,
-377,642,1660,10,23,walk,Mr. Spong
-642,399,1660,10,23,walk,Mr. Spong
-399,788,1660,10,23,coach,Mr. Booker
-788,422,1660,10,24,walk,
-422,642,1660,10,24,walk,
-642,377,1660,10,24,walk,
-377,390,1660,10,24,walk,Mr. Spong
-390,383,1660,10,24,walk,Mr. Spong
-383,390,1660,10,24,walk,Mr. Spong
-390,788,1660,10,24,coach,Mr. Booker
-788,610,1660,10,25,walk,
-610,788,1660,10,25,walk,
-788,422,1660,10,26,walk,
-422,642,1660,10,26,walk,
-642,610,1660,10,26,walk,
-610,788,1660,10,26,walk,
-788,642,1660,10,27,walk,
-642,546,1660,10,27,walk,
-546,788,1660,10,27,walk,
-788,609,1660,10,28,walk,
-609,650,1660,10,28,walk,
-650,619,1660,10,28,walk,
-619,650,1660,10,28,walk,
-650,788,1660,10,28,walk,
-788,576,1660,10,29,walk,Lady Sandwich
-576,546,1660,10,29,walk,
-546,306,1660,10,29,walk,Lady Pickering
-306,788,1660,10,29,walk,
-788,647,1660,10,30,walk,
-647,374,1660,10,30,walk,
-374,234,1660,10,30,walk,Mr. Moore
-234,788,1660,10,30,walk,
-788,422,1660,10,31,walk,
-422,610,1660,10,31,walk,
-610,788,1660,10,31,walk,
-788,601,1660,11,1,horse,Sir W. Penn
-601,51,1660,11,1,horse,Sir W. Penn;Sir William Batten
-51,788,1660,11,1,horse,Sir W. Penn;Sir William Batten
-788,642,1660,11,2,walk,
-642,309,1660,11,2,boat,
-309,642,1660,11,2,boat,
-642,650,1660,11,2,walk,
-650,642,1660,11,2,coach,Mr. Childe
-642,301,1660,11,2,walk,
-301,788,1660,11,2,walk,
-788,642,1660,11,3,walk,
-642,610,1660,11,3,walk,Tom Doling
-610,788,1660,11,3,walk,
-788,544,1660,11,4,walk,
-544,788,1660,11,4,walk,
-788,650,1660,11,4,walk,
-650,609,1660,11,4,walk,
-609,650,1660,11,4,walk,Mr. Pierce;Mr. Sheply
-650,174,1660,11,4,walk,
-174,788,1660,11,4,walk,
-788,642,1660,11,6,boat,Sir William Batten;Sir W. Penn
-642,650,1660,11,6,walk,Mr. Creed
-650,610,1660,11,6,walk,Mr. Creed;Mr. Chetwind
-610,561,1660,11,6,walk,Mr. Creed;Mr. Chetwind
-561,656,1660,11,6,walk,Mr. Creed
-656,422,1660,11,6,walk,
-422,788,1660,11,6,walk,
-788,650,1660,11,7,boat,
-650,642,1660,11,7,walk,
-642,381,1660,11,7,walk,
-381,650,1660,11,7,walk,
-650,381,1660,11,7,walk,
-381,231,1660,11,7,walk,father Bowyer
-231,788,1660,11,7,coach,
-788,145,1660,11,8,barge,Sir William Batten;Treasurer
-145,376,1660,11,8,walk,Commissioner Pett
-376,145,1660,11,8,walk,
-145,471,1660,11,8,walk,Commissioner Pett
-471,145,1660,11,8,walk,
-145,788,1660,11,8,boat,
-788,422,1660,11,9,walk,
-422,265,1660,11,9,walk,Mr. Wivell;Mr. Sheply
-265,642,1660,11,9,walk,
-642,691,1660,11,9,walk,Mr. Sheply
-691,174,1660,11,9,walk,
-174,788,1660,11,9,walk,
-788,422,1660,11,10,walk,
-422,588,1660,11,10,walk,Sir William Batten
-588,451,1660,11,10,walk,Treasurer;Comptroller
-451,107,1660,11,10,walk,Comptroller
-107,642,1660,11,10,walk,
-642,374,1660,11,10,walk,
-374,546,1660,11,10,walk,
-546,788,1660,11,10,walk,
-788,514,1660,11,11,walk,Sir William Batten
-514,544,1660,11,11,walk,Sir William Batten;Sir W. Penn
-544,788,1660,11,11,walk,
-788,642,1660,11,11,walk,
-642,174,1660,11,11,walk,Elizabeth Pepys
-174,788,1660,11,11,walk,Elizabeth Pepys
-788,114,1660,11,12,walk,Comptroller
-114,723,1660,11,12,coach,
-723,610,1660,11,12,walk,
-610,377,1660,11,12,walk,
-377,610,1660,11,12,walk,
-610,233,1660,11,12,walk,Comptroller
-233,658,1660,11,12,walk,Jack Spicer
-658,381,1660,11,12,walk,Jack Spicer
-381,169,1660,11,12,coach,Jack Spicer
-169,174,1660,11,12,walk,
-174,400,1660,11,12,walk,father Pepys
-400,174,1660,11,12,walk,
-174,788,1660,11,12,coach,Elizabeth Pepys
-788,650,1660,11,13,walk,Mr. Moore
-650,576,1660,11,13,boat,Mr. Moore
-576,169,1660,11,13,walk,Jack Spicer
-169,148,1660,11,13,walk,Jack Spicer
-148,788,1660,11,13,walk,
-788,546,1660,11,14,walk,
-546,788,1660,11,14,walk,
-788,422,1660,11,14,walk,
-422,149,1660,11,14,walk,Sir W. Penn;Comptroller;Sir William Batten
-149,788,1660,11,14,walk,
-788,561,1660,11,15,boat,
-561,377,1660,11,15,walk,Jack Spicer
-377,650,1660,11,15,walk,
-650,642,1660,11,15,boat,
-642,169,1660,11,15,walk,
-169,265,1660,11,15,boat,
-265,514,1660,11,15,walk,Sir Arnold Brames
-514,788,1660,11,15,walk,
-788,174,1660,11,16,walk,Mr. Moore
-174,566,1660,11,16,walk,Mr. Moore
-566,610,1660,11,16,walk,
-610,562,1660,11,16,walk,Mr. Fontleroy
-562,788,1660,11,16,boat,father Pepys;Mr. Snow;Mr. Moore
-788,422,1660,11,16,walk,
-422,788,1660,11,16,walk,
-788,465,1660,11,17,walk,
-465,650,1660,11,17,walk,
-650,374,1660,11,17,walk,Major Hart
-374,146,1660,11,17,walk,Mr. Sheply;Mr. Moore
-146,788,1660,11,17,walk,
-788,544,1660,11,18,walk,
-544,788,1660,11,18,walk,
-788,544,1660,11,18,walk,Elizabeth Pepys
-544,514,1660,11,18,walk,Lady Batten;Elizabeth Pepys
-514,788,1660,11,18,walk,Elizabeth Pepys
-788,642,1660,11,19,coach,Treasurer
-642,650,1660,11,19,walk,
-650,561,1660,11,19,walk,Mr. Sheply
-561,377,1660,11,19,walk,
-377,610,1660,11,19,walk,
-610,314,1660,11,19,walk,Sir William Batten
-314,789,1660,11,19,boat,
-789,422,1660,11,19,walk,
-422,788,1660,11,19,walk,
-788,650,1660,11,20,walk,Will
-650,566,1660,11,20,walk,Mr. Moore
-566,428,1660,11,20,walk,Mr. Sheply
-428,174,1660,11,20,walk,
-174,591,1660,11,20,walk,
-591,788,1660,11,20,walk,
-788,684,1660,11,21,walk,Elizabeth Pepys
-684,368,1660,11,21,walk,Elizabeth Pepys
-368,459,1660,11,21,walk,
-459,788,1660,11,21,walk,
-788,422,1660,11,21,walk,
-422,788,1660,11,21,walk,
-788,789,1660,11,22,walk,Elizabeth Pepys
-789,642,1660,11,22,coach,Elizabeth Pepys
-642,650,1660,11,22,walk,
-650,428,1660,11,22,walk,
-428,650,1660,11,22,walk,
-650,642,1660,11,22,walk,
-642,788,1660,11,22,walk,
-788,149,1660,11,23,walk,Captain Straughan
-149,788,1660,11,23,walk,
-788,422,1660,11,23,walk,
-422,149,1660,11,23,walk,Mr. Creed
-149,788,1660,11,23,walk,
-788,650,1660,11,24,walk,
-650,476,1660,11,24,walk,Mr. Townsend;Rumball;Blackburne;Mr. Creed;Mr. Sheply
-476,610,1660,11,24,walk,
-610,650,1660,11,24,walk,
-650,377,1660,11,24,boat,Will
-377,788,1660,11,24,boat,Will
-788,544,1660,11,25,walk,
-544,566,1660,11,25,walk,
-566,174,1660,11,25,walk,
-174,788,1660,11,25,walk,
-788,422,1660,11,26,walk,
-422,358,1660,11,26,walk,Comptroller
-358,788,1660,11,26,walk,
-788,642,1660,11,27,walk,
-642,610,1660,11,27,walk,Mr. Creed
-610,233,1660,11,27,walk,Mr. Creed
-233,650,1660,11,27,walk,
-650,428,1660,11,27,walk,
-428,174,1660,11,27,walk,Mr. Moore
-174,400,1660,11,27,walk,Mr. Moore;father Pepys
-400,788,1660,11,27,walk,
-788,650,1660,11,28,walk,
-650,561,1660,11,28,walk,Mr. Sheply;Pinkney
-561,788,1660,11,28,walk,
-788,465,1660,12,1,walk,
-465,642,1660,12,1,walk,
-642,650,1660,12,1,walk,
-650,742,1660,12,1,walk,Mr. Sheply
-742,546,1660,12,1,walk,
-546,553,1660,12,1,walk,Mr. Sheply
-553,788,1660,12,1,walk,
-788,544,1660,12,2,walk,
-544,788,1660,12,2,walk,
-788,544,1660,12,2,walk,
-544,788,1660,12,2,walk,
-788,422,1660,12,3,walk,
-422,788,1660,12,3,walk,
-788,642,1660,12,4,walk,
-642,622,1660,12,4,walk,Sir G. Carteret;officers
-622,642,1660,12,4,walk,
-642,650,1660,12,4,walk,
-650,788,1660,12,4,boat,
-788,514,1660,12,4,walk,
-514,788,1660,12,4,walk,Sir W. Penn
-788,422,1660,12,5,walk,
-422,428,1660,12,5,walk,
-428,174,1660,12,5,walk,
-174,788,1660,12,5,walk,
-788,614,1660,12,6,boat,Elizabeth Pepys
-614,465,1660,12,6,walk,
-465,314,1660,12,6,walk,Mr. Moore
-314,374,1660,12,6,walk,
-374,383,1660,12,6,walk,
-383,566,1660,12,6,walk,
-566,788,1660,12,6,boat,
-788,422,1660,12,7,walk,
-422,642,1660,12,7,walk,
-642,650,1660,12,7,walk,
-650,169,1660,12,7,walk,Mr. Spicer
-169,465,1660,12,7,walk,
-465,788,1660,12,7,boat,
-788,465,1660,12,8,walk,
-465,610,1660,12,8,walk,
-610,422,1660,12,8,boat,Sir W. Penn
-422,394,1660,12,8,walk,Elizabeth Pepys
-394,788,1660,12,8,walk,Elizabeth Pepys
-788,514,1660,12,9,walk,
-514,642,1660,12,9,boat,
-642,622,1660,12,9,walk,Mr. Coventry
-622,619,1660,12,9,walk,
-619,650,1660,12,9,walk,
-650,378,1660,12,9,walk,Mr. Kennard
-378,650,1660,12,9,walk,Mr. Kennard
-650,174,1660,12,9,walk,
-174,114,1660,12,9,walk,
-114,788,1660,12,9,walk,
-788,367,1660,12,10,boat,Elizabeth Pepys
-367,610,1660,12,10,walk,Col. Slingsby
-610,422,1660,12,10,coach,Col. Slingsby
-422,788,1660,12,10,walk,
-788,107,1660,12,10,walk,Col. Slingsby
-107,788,1660,12,10,walk,
-788,667,1660,12,11,barge,Lady Batten;Elizabeth Pepys
-667,642,1660,12,11,barge,
-642,465,1660,12,11,walk,
-465,358,1660,12,11,walk,Mr. Moore
-358,788,1660,12,11,walk,
-788,642,1660,12,12,walk,
-642,650,1660,12,12,walk,
-650,465,1660,12,12,walk,
-465,169,1660,12,12,walk,Jack Spicer
-169,174,1660,12,12,coach,
-174,400,1660,12,12,walk,father Pepys
-400,788,1660,12,12,walk,
-788,514,1660,12,13,walk,
-514,788,1660,12,13,walk,
-788,422,1660,12,14,walk,
-422,107,1660,12,14,walk,Comptroller
-107,788,1660,12,14,walk,
-788,544,1660,12,16,walk,
-544,788,1660,12,16,walk,
-788,642,1660,12,16,walk,
-642,650,1660,12,16,walk,
-650,174,1660,12,16,walk,
-174,788,1660,12,16,walk,
-788,422,1660,12,17,walk,
-422,788,1660,12,17,walk,
-788,642,1660,12,19,walk,
-642,422,1660,12,19,walk,
-422,788,1660,12,19,walk,
-788,614,1660,12,21,boat,Elizabeth Pepys
-614,465,1660,12,21,walk,
-465,169,1660,12,21,walk,
-169,562,1660,12,21,walk,W. Bowyer;Mr. Hales
-562,650,1660,12,21,walk,
-650,422,1660,12,21,walk,
-422,642,1660,12,21,walk,
-642,788,1660,12,21,walk,
-788,561,1660,12,22,walk,Sir W. Penn
-561,788,1660,12,22,walk,Sir W. Penn
-788,544,1660,12,23,walk,
-544,788,1660,12,23,walk,
-788,544,1660,12,23,walk,Elizabeth Pepys
-544,788,1660,12,23,walk,Elizabeth Pepys
-788,3,1660,12,24,walk,
-3,422,1660,12,24,walk,
-422,788,1660,12,24,walk,
-788,544,1660,12,25,walk,
-544,788,1660,12,25,walk,
-788,544,1660,12,25,walk,Elizabeth Pepys
-544,788,1660,12,25,walk,Elizabeth Pepys
-788,3,1660,12,26,walk,
-3,374,1660,12,26,coach,
-374,650,1660,12,26,walk,
-650,371,1660,12,26,walk,Sir Thomas Bond
-371,422,1660,12,26,walk,Sir William Batten;Sir W. Penn
-422,642,1660,12,26,walk,
-642,650,1660,12,26,walk,Lady Sandwich
-650,367,1660,12,26,walk,Elizabeth Pepys
-367,788,1660,12,26,boat,Elizabeth Pepys
-788,3,1660,12,27,coach,Alderman Backwell
-3,650,1660,12,27,coach,
-650,788,1660,12,27,walk,
-788,514,1660,12,27,walk,Elizabeth Pepys
-514,788,1660,12,27,walk,
-788,422,1660,12,28,walk,
-422,788,1660,12,28,walk,
-788,516,1660,12,29,walk,Captain Robert Blake
-516,788,1660,12,29,walk,
-788,3,1660,12,29,walk,
-3,650,1660,12,29,coach,
-650,174,1660,12,29,walk,
-174,591,1660,12,29,walk,father Pepys
-591,788,1660,12,29,walk,father Pepys
-788,650,1660,12,30,walk,Will
-650,609,1660,12,30,walk,
-609,174,1660,12,30,walk,
-174,788,1660,12,30,walk,
-788,546,1660,12,31,walk,
-546,374,1660,12,31,walk,
-374,428,1660,12,31,walk,
-428,650,1660,12,31,walk,
-650,231,1660,12,31,walk,Mr. Sheply
+650,231,1660,12,31,walk,Mr. Shepley
 231,642,1660,12,31,walk,
 642,788,1660,12,31,coach,

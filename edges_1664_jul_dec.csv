@@ -24,8 +24,8 @@ source,target,year,month,day,mode,companion
 26,299,1664,7,11,horse,
 299,788,1664,7,11,horse,
 788,145,1664,7,12,boat,Sir G. Carteret;Sir J. Minnes;Sir W. Batten
-145,47,1664,7,12,boat,Mr. Coventry
-47,788,1664,7,12,boat,Mr. Coventry
+145,47,1664,7,12,boat,Sir W. Coventry
+47,788,1664,7,12,boat,Sir W. Coventry
 788,650,1664,7,13,walk,
 650,642,1664,7,13,boat,Mr. Ferrers
 642,788,1664,7,13,boat,
@@ -46,7 +46,7 @@ source,target,year,month,day,mode,companion
 788,789,1664,7,16,walk,
 789,588,1664,7,16,walk,
 588,642,1664,7,16,walk,
-642,650,1664,7,16,coach,Mr. Creed
+642,650,1664,7,16,coach,John Creed
 650,788,1664,7,16,coach,
 788,650,1664,7,17,walk,
 650,788,1664,7,17,walk,
@@ -55,8 +55,8 @@ source,target,year,month,day,mode,companion
 540,287,1664,7,18,walk,
 287,336,1664,7,18,walk,
 336,789,1664,7,18,walk,
-789,395,1664,7,18,walk,Mr. Creed
-395,788,1664,7,18,coach,Mr. Creed
+789,395,1664,7,18,walk,John Creed
+395,788,1664,7,18,coach,John Creed
 788,667,1664,7,19,boat,Sir W. Batten
 667,145,1664,7,19,boat,
 145,788,1664,7,19,boat,
@@ -64,7 +64,7 @@ source,target,year,month,day,mode,companion
 642,158,1664,7,20,walk,
 158,610,1664,7,20,walk,
 610,788,1664,7,20,walk,
-788,546,1664,7,21,walk,Mr. Creed
+788,546,1664,7,21,walk,John Creed
 546,787,1664,7,22,walk,Sir J. Minnes
 787,788,1664,7,22,boat,
 788,789,1664,7,22,walk,
@@ -83,8 +83,8 @@ source,target,year,month,day,mode,companion
 667,145,1664,7,26,boat,
 145,642,1664,7,26,boat,
 642,788,1664,7,26,boat,
-788,546,1664,7,27,walk,Mr. Creed
-546,540,1664,7,27,coach,Mr. Creed
+788,546,1664,7,27,walk,John Creed
+546,540,1664,7,27,coach,John Creed
 540,788,1664,7,27,boat,
 788,667,1664,7,27,boat,
 667,788,1664,7,27,boat,
@@ -106,7 +106,7 @@ source,target,year,month,day,mode,companion
 544,505,1664,7,31,walk,
 505,788,1664,7,31,walk,
 788,540,1664,8,1,coach,Sir J. Minnes;Sir W. Batten;Sir W. Penn
-540,566,1664,8,1,walk,Mr. Coventry
+540,566,1664,8,1,walk,Sir W. Coventry
 566,107,1664,8,1,walk,
 107,8,1664,8,1,coach,
 8,788,1664,8,1,coach,
@@ -130,8 +130,8 @@ source,target,year,month,day,mode,companion
 788,540,1664,8,8,coach,Sir W. Batten
 540,107,1664,8,8,walk,
 107,788,1664,8,8,walk,
-788,364,1664,8,9,walk,Mr. Coventry
-364,642,1664,8,9,walk,Mr. Coventry
+788,364,1664,8,9,walk,Sir W. Coventry
+364,642,1664,8,9,walk,Sir W. Coventry
 642,610,1664,8,9,walk,
 610,589,1664,8,9,walk,
 589,610,1664,8,9,walk,
@@ -146,7 +146,7 @@ source,target,year,month,day,mode,companion
 788,540,1664,8,15,coach,Sir J. Minnes
 540,107,1664,8,15,walk,
 107,789,1664,8,15,walk,
-789,788,1664,8,15,coach,Mr. Creed
+789,788,1664,8,15,coach,John Creed
 788,789,1664,8,16,walk,
 789,788,1664,8,16,walk,
 788,642,1664,8,17,walk,
@@ -176,7 +176,7 @@ source,target,year,month,day,mode,companion
 375,788,1664,8,27,walk,
 788,145,1664,8,29,boat,
 145,788,1664,8,29,boat,
-788,650,1664,8,29,walk,Mr. Creed
+788,650,1664,8,29,walk,John Creed
 650,787,1664,8,29,walk,
 787,788,1664,8,29,walk,
 788,667,1664,8,30,boat,
@@ -221,8 +221,8 @@ source,target,year,month,day,mode,companion
 423,609,1664,9,12,boat,
 609,287,1664,9,12,walk,
 287,610,1664,9,12,walk,
-610,373,1664,9,12,walk,Mr. Creed
-373,789,1664,9,12,walk,Mr. Creed
+610,373,1664,9,12,walk,John Creed
+373,789,1664,9,12,walk,John Creed
 789,592,1664,9,12,walk,
 592,788,1664,9,12,walk,
 788,179,1664,9,13,walk,
@@ -261,8 +261,7 @@ source,target,year,month,day,mode,companion
 158,600,1664,9,28,walk,
 600,290,1664,9,28,walk,
 290,788,1664,9,28,walk,
-788,503,1664,9,29,walk,Mr. Creed
-503,503,1664,9,29,walk,Mr. Cutler
+788,503,1664,9,29,walk,John Creed
 503,788,1664,9,29,walk,
 788,789,1664,10,1,walk,
 789,788,1664,10,1,walk,
@@ -312,7 +311,7 @@ source,target,year,month,day,mode,companion
 25,788,1664,10,16,horse,W. Joyce;T. Trice
 788,540,1664,10,17,coach,Sir W. Batten
 540,337,1664,10,17,walk,
-337,789,1664,10,17,walk,Mr. Creed
+337,789,1664,10,17,walk,John Creed
 789,788,1664,10,17,walk,
 788,540,1664,10,18,walk,
 540,642,1664,10,18,coach,Mr. Gray
@@ -321,7 +320,6 @@ source,target,year,month,day,mode,companion
 788,789,1664,10,21,walk,
 789,788,1664,10,21,walk,
 788,642,1664,10,24,coach,Sir J. Minnes;Mrs. Turner
-642,642,1664,10,24,walk,
 642,576,1664,10,24,walk,
 576,788,1664,10,24,walk,
 788,642,1664,10,25,walk,
@@ -337,7 +335,7 @@ source,target,year,month,day,mode,companion
 150,642,1664,10,27,coach,Sir G. Carteret
 642,789,1664,10,27,coach,
 789,788,1664,10,27,walk,
-788,642,1664,10,31,coach,Mr. Creed
+788,642,1664,10,31,coach,John Creed
 642,788,1664,10,31,coach,
 788,640,1664,11,1,walk,
 640,788,1664,11,1,walk,
@@ -348,7 +346,7 @@ source,target,year,month,day,mode,companion
 789,359,1664,11,3,walk,Bagwell's wife
 359,788,1664,11,3,walk,
 788,540,1664,11,4,walk,
-540,642,1664,11,4,walk,Mr. Coventry
+540,642,1664,11,4,walk,Sir W. Coventry
 642,789,1664,11,4,walk,
 789,788,1664,11,4,boat,
 788,789,1664,11,5,walk,
@@ -432,7 +430,7 @@ source,target,year,month,day,mode,companion
 610,416,1664,12,5,walk,Mrs. Lane
 416,610,1664,12,5,walk,
 610,789,1664,12,5,coach,
-789,55,1664,12,5,coach,Mr. Creed;Mr. Povy;Mr. Gauden
+789,55,1664,12,5,coach,John Creed;Mr. Povy;Mr. Gauden
 55,788,1664,12,5,coach,
 788,650,1664,12,7,coach,
 650,642,1664,12,7,walk,
