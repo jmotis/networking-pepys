@@ -343,3 +343,29 @@ source,target,year,month,day,mode,companion
 462,461,1662,4,29,coach,Mrs. Pierce
 461,462,1662,4,30,walk,Sir G. Carteret;Sir W. Penn
 462,461,1662,4,30,walk,
+788,546,1662,1,16,walk,
+546,491,1662,1,16,walk,
+491,514,1662,1,16,walk,
+514,788,1662,1,16,walk,
+788,514,1662,1,20,walk,Sir W. Batten
+514,788,1662,1,20,walk,
+788,491,1662,1,28,walk,Elizabeth Pepys
+491,422,1662,1,28,walk,
+422,788,1662,1,28,walk,
+788,422,1662,2,12,walk,
+422,610,1662,2,12,walk,
+610,337,1662,2,12,walk,
+337,576,1662,2,12,walk,
+576,788,1662,2,12,walk,
+788,422,1662,3,10,walk,
+422,640,1662,3,10,walk,Sir W. Pen;Sir W. Batten
+640,514,1662,3,10,walk,
+514,788,1662,3,10,walk,
+788,145,1662,3,24,boat,Sir G. Carteret;Sir W. Batten
+145,788,1662,3,24,boat,
+788,422,1662,3,26,walk,
+422,503,1662,3,26,walk,
+503,788,1662,3,26,walk,
+788,422,1662,4,8,walk,
+422,642,1662,4,8,coach,
+642,788,1662,4,8,coach,Elizabeth Pepys

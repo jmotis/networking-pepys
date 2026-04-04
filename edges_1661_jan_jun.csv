@@ -746,3 +746,8 @@ source,target,year,month,day,mode,companion
 788,642,1661,6,30,boat,Sir W. Batten;Sir W. Penn
 642,207,1661,6,30,walk,
 207,788,1661,6,30,walk,
+788,422,1661,1,6,walk,
+422,514,1661,1,6,walk,
+514,788,1661,1,6,walk,
+788,135,1661,3,22,horse,Lady Batten;Sir W. Pen
+135,788,1661,3,22,coach,Lady Batten;Sir W. Pen
