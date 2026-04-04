@@ -1,4 +1,5 @@
 source,target,year,month,day,mode,companion
+788,59,1662,9,27,walk,Elizabeth Pepys
 59,493,1662,9,28,walk,Tom Pepys
 493,59,1662,9,28,walk,Tom Pepys
 59,788,1662,9,28,walk,
@@ -94,6 +95,7 @@ source,target,year,month,day,mode,companion
 788,145,1662,10,17,boat,Commissioner Pett
 145,788,1662,10,17,boat,Commissioner Pett
 788,516,1662,10,17,walk,
+516,788,1662,10,17,walk,
 788,516,1662,10,18,walk,
 516,788,1662,10,18,walk,
 788,59,1662,10,19,walk,
@@ -124,6 +126,7 @@ source,target,year,month,day,mode,companion
 788,145,1662,10,24,boat,
 145,788,1662,10,24,boat,
 788,514,1662,10,24,walk,
+514,788,1662,10,24,walk,
 788,422,1662,10,25,walk,
 422,788,1662,10,25,walk,
 788,544,1662,10,26,walk,

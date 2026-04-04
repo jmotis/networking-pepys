@@ -1,6 +1,6 @@
 source,target,year,month,day,mode,companion
-788,461,1662,5,1,coach,Sir G. Carteret;Sir W. Penn
-461,221,1662,5,1,coach,Sir G. Carteret;Sir W. Penn
+461,455,1662,5,1,coach,Sir G. Carteret;Sir W. Penn
+455,221,1662,5,1,coach,Sir G. Carteret;Sir W. Penn
 221,788,1662,5,2,coach,
 788,389,1662,5,2,coach,Elizabeth Pepys
 389,650,1662,5,2,coach,
@@ -223,8 +223,10 @@ source,target,year,month,day,mode,companion
 358,422,1662,6,28,walk,
 422,788,1662,6,28,walk,
 788,544,1662,6,29,walk,Elizabeth Pepys
-544,516,1662,6,29,walk,Elizabeth Pepys
-516,544,1662,6,29,walk,Elizabeth Pepys
+544,788,1662,6,29,walk,Elizabeth Pepys
+788,544,1662,6,29,walk,Elizabeth Pepys
+544,788,1662,6,29,walk,
+788,516,1662,6,29,walk,
 516,788,1662,6,29,walk,
 788,576,1662,6,30,walk,Elizabeth Pepys;Lady Sandwich
 576,145,1662,6,30,coach,Elizabeth Pepys;Lady Sandwich
@@ -351,7 +353,6 @@ source,target,year,month,day,mode,companion
 76,203,1662,8,2,boat,Captain Cocke
 203,479,1662,8,2,horse,Captain Cocke
 479,237,1662,8,2,horse,Captain Cocke
-788,237,1662,8,3,walk,Captain Cocke
 237,112,1662,8,3,walk,Captain Cocke
 112,544,1662,8,3,coach,Commissioner Pett;Captain Cocke
 544,237,1662,8,3,walk,Commissioner Pett;Captain Cocke
