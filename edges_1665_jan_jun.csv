@@ -9,6 +9,7 @@ source,target,year,month,day,mode,companion
 509,395,1665,1,3,walk,
 395,789,1665,1,3,walk,
 789,788,1665,1,3,walk,
+788,514,1665,1,3,walk,
 514,788,1665,1,3,walk,
 788,331,1665,1,4,walk,
 331,106,1665,1,4,walk,
@@ -131,18 +132,22 @@ source,target,year,month,day,mode,companion
 317,788,1665,2,13,walk,
 788,789,1665,2,14,coach,
 789,788,1665,2,14,walk,
-788,642,1665,2,16,walk,Mr. Andrews
-642,789,1665,2,16,walk,
-789,788,1665,2,16,walk,
-788,789,1665,2,17,coach,
-789,471,1665,2,18,walk,
-471,788,1665,2,18,walk,
 788,588,1665,2,15,walk,John Creed
 588,219,1665,2,15,walk,John Creed
 219,129,1665,2,15,walk,John Creed
 129,788,1665,2,15,walk,
+788,642,1665,2,16,walk,Mr. Andrews
+642,789,1665,2,16,walk,
+789,788,1665,2,16,walk,
+788,789,1665,2,17,coach,
+789,788,1665,2,17,walk,
 788,395,1665,2,17,coach,
 395,788,1665,2,17,walk,Mr. Andrews
+788,789,1665,2,17,walk,
+789,788,1665,2,17,walk,
+788,789,1665,2,18,walk,
+789,471,1665,2,18,walk,
+471,788,1665,2,18,walk,
 788,789,1665,2,18,walk,
 789,485,1665,2,18,walk,
 485,788,1665,2,18,walk,
@@ -319,8 +324,10 @@ source,target,year,month,day,mode,companion
 561,788,1665,4,11,walk,
 788,642,1665,4,12,walk,
 642,788,1665,4,12,walk,
+788,642,1665,4,12,boat,
 642,344,1665,4,12,walk,Sir G. Carteret;Lord Brouncker;Sir T. Harvy
 344,788,1665,4,12,walk,
+788,514,1665,4,12,walk,
 514,788,1665,4,12,walk,
 788,395,1665,4,14,walk,
 395,610,1665,4,14,walk,John Creed
@@ -405,12 +412,12 @@ source,target,year,month,day,mode,companion
 667,145,1665,5,5,walk,Mr. Tooker
 145,223,1665,5,5,coach,John Creed;Elizabeth Pepys;Mercer
 223,788,1665,5,5,coach,John Creed;Elizabeth Pepys;Mercer
+788,610,1665,5,5,boat,
+610,788,1665,5,5,boat,
 788,540,1665,5,8,walk,Sir W. Batten
 540,155,1665,5,8,walk,
 155,789,1665,5,8,walk,Sir W. Warren
 789,788,1665,5,8,walk,
-788,610,1665,5,5,boat,
-610,788,1665,5,5,boat,
 788,169,1665,5,12,boat,
 169,593,1665,5,12,walk,Elizabeth Pepys
 593,789,1665,5,12,walk,
@@ -552,6 +559,7 @@ source,target,year,month,day,mode,companion
 788,344,1665,6,24,walk,John Creed;Mr. Povy
 344,286,1665,6,24,walk,
 286,503,1665,6,24,walk,
+503,788,1665,6,24,walk,
 788,212,1665,6,25,boat,
 212,788,1665,6,25,boat,
 788,642,1665,6,25,boat,
@@ -576,3 +584,4 @@ source,target,year,month,day,mode,companion
 667,642,1665,6,30,walk,
 642,503,1665,6,30,boat,
 503,788,1665,6,30,boat,
+788,667,1665,6,30,boat,
