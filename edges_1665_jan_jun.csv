@@ -138,7 +138,9 @@ source,target,year,month,day,mode,companion
 788,789,1665,2,17,coach,
 789,788,1665,2,17,walk,
 788,789,1665,2,18,walk,
-789,471,1665,2,18,walk,
+789,485,1665,2,18,walk,
+485,788,1665,2,18,walk,
+788,471,1665,2,18,walk,
 471,788,1665,2,18,walk,
 788,588,1665,2,15,walk,John Creed
 588,219,1665,2,15,walk,John Creed
@@ -146,8 +148,6 @@ source,target,year,month,day,mode,companion
 129,788,1665,2,15,walk,
 788,395,1665,2,17,coach,
 395,788,1665,2,17,walk,Mr. Andrews
-789,485,1665,2,18,walk,
-485,788,1665,2,18,walk,
 788,540,1665,2,20,walk,Sir J. Minnes
 540,642,1665,2,20,walk,
 642,268,1665,2,20,walk,

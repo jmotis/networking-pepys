@@ -135,6 +135,7 @@ source,target,year,month,day,mode,companion
 788,544,1666,9,9,walk,
 544,788,1666,9,9,walk,
 788,518,1666,9,9,walk,
+518,788,1666,9,9,walk,
 788,540,1666,9,10,coach,
 540,518,1666,9,10,coach,
 518,422,1666,9,10,walk,
@@ -165,6 +166,7 @@ source,target,year,month,day,mode,companion
 540,503,1666,9,17,coach,Sir W. Batten;Lord Brouncker
 503,788,1666,9,17,walk,
 788,503,1666,9,17,walk,
+503,788,1666,9,17,walk,
 788,642,1666,9,19,coach,Sir W. Penn
 642,540,1666,9,19,walk,Sir W. Batten;Sir W. Penn
 540,642,1666,9,19,walk,
@@ -292,6 +294,7 @@ source,target,year,month,day,mode,companion
 789,407,1666,10,26,walk,Doll Lane
 407,788,1666,10,26,coach,
 788,610,1666,10,26,boat,
+610,788,1666,10,26,boat,
 788,642,1666,10,27,coach,
 642,337,1666,10,27,walk,
 337,788,1666,10,27,coach,
