@@ -3,8 +3,12 @@ source,target,year,month,day,mode,companion
 422,212,1666,1,2,walk,
 212,155,1666,1,3,walk,
 155,788,1666,1,3,walk,
+788,422,1666,1,4,walk,
 422,788,1666,1,4,walk,
 788,422,1666,1,4,walk,
+422,334,1666,1,4,walk,
+334,788,1666,1,4,walk,
+788,334,1666,1,5,walk,
 334,642,1666,1,5,coach,Lord Brouncker;Mrs. Williams
 642,789,1666,1,5,walk,
 789,788,1666,1,5,coach,Lord Brouncker

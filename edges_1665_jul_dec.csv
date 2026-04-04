@@ -420,3 +420,4 @@ source,target,year,month,day,mode,companion
 214,422,1665,12,31,boat,
 422,642,1665,12,31,boat,
 642,214,1665,12,31,boat,
+214,212,1665,12,31,walk,
