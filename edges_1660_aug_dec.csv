@@ -82,7 +82,6 @@ source,target,year,month,day,mode,companion
 358,788,1660,9,14,walk,
 788,610,1660,9,15,walk,
 610,788,1660,9,15,boat,
-788,610,1660,9,15,boat,
 610,174,1660,9,15,walk,
 174,788,1660,9,15,walk,
 788,544,1660,9,16,walk,
@@ -235,7 +234,6 @@ source,target,year,month,day,mode,companion
 788,422,1660,10,22,walk,
 422,650,1660,10,22,walk,
 650,788,1660,10,22,walk,
-788,650,1660,10,22,walk,
 650,642,1660,10,23,walk,
 642,607,1660,10,23,walk,
 607,642,1660,10,23,walk,
@@ -395,7 +393,7 @@ source,target,year,month,day,mode,companion
 314,789,1660,11,19,boat,
 789,422,1660,11,19,walk,
 422,788,1660,11,19,walk,
-788,650,1660,11,20,walk,Will Hewer
+788,650,1660,11,20,walk,Will
 650,566,1660,11,20,walk,Henry Moore
 566,428,1660,11,20,walk,Mr. Shepley
 428,174,1660,11,20,walk,
@@ -418,13 +416,12 @@ source,target,year,month,day,mode,companion
 149,788,1660,11,23,walk,
 788,422,1660,11,23,walk,
 422,149,1660,11,23,walk,John Creed
-149,788,1660,11,23,walk,
 788,650,1660,11,24,walk,
 650,476,1660,11,24,walk,Mr. Townsend;Rumball;Mr. Blackburne;John Creed;Mr. Shepley
 476,610,1660,11,24,walk,
 610,650,1660,11,24,walk,
-650,377,1660,11,24,boat,Will Hewer
-377,788,1660,11,24,boat,Will Hewer
+650,377,1660,11,24,boat,Will
+377,788,1660,11,24,boat,Will
 788,544,1660,11,25,walk,
 544,566,1660,11,25,walk,
 566,174,1660,11,25,walk,
@@ -571,7 +568,7 @@ source,target,year,month,day,mode,companion
 650,174,1660,12,29,walk,
 174,591,1660,12,29,walk,father Pepys
 591,788,1660,12,29,walk,father Pepys
-788,650,1660,12,30,walk,Will Hewer
+788,650,1660,12,30,walk,Will
 650,609,1660,12,30,walk,
 609,174,1660,12,30,walk,
 174,788,1660,12,30,walk,

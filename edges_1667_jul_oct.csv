@@ -1,7 +1,6 @@
 source,target,year,month,day,mode,companion
 203,788,1667,7,1,coach,John Creed
 788,422,1667,7,2,walk,
-422,788,1667,7,3,walk,
 788,422,1667,7,3,walk,
 422,642,1667,7,3,boat,
 642,610,1667,7,3,walk,
@@ -121,7 +120,6 @@ source,target,year,month,day,mode,companion
 516,158,1667,8,5,coach,Sir W. Penn
 158,788,1667,8,5,coach,
 788,422,1667,8,6,walk,
-422,788,1667,8,8,walk,
 788,540,1667,8,8,walk,
 540,610,1667,8,8,walk,
 610,344,1667,8,8,walk,
@@ -199,7 +197,6 @@ source,target,year,month,day,mode,companion
 514,642,1667,8,26,boat,Sir J. Minnes
 642,788,1667,8,26,walk,
 788,516,1667,8,26,walk,
-516,788,1667,8,27,walk,
 788,540,1667,8,27,coach,Sir W. Penn
 540,667,1667,8,27,coach,
 667,788,1667,8,27,coach,
@@ -289,7 +286,7 @@ source,target,year,month,day,mode,companion
 544,788,1667,9,15,walk,
 788,540,1667,9,16,walk,Sir H. Cholmly
 540,789,1667,9,16,walk,Sir H. Cholmly
-789,418,1667,9,16,coach,Mercer
+789,418,1667,9,16,coach,Mrs. Mercer
 418,577,1667,9,16,coach,
 577,158,1667,9,16,coach,
 158,788,1667,9,16,coach,

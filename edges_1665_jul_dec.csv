@@ -1,30 +1,20 @@
 source,target,year,month,day,mode,companion
 667,212,1665,7,28,boat,
-212,788,1665,7,28,boat,
 788,789,1665,7,29,walk,
 789,290,1665,7,29,coach,
 290,788,1665,7,29,walk,
-788,145,1665,7,29,boat,
 145,212,1665,7,31,boat,Sir G. Carteret
 212,145,1665,7,31,coach,Sir G. Carteret
-145,667,1665,7,31,boat,
 667,422,1665,8,4,boat,
 422,145,1665,8,4,boat,
 145,225,1665,8,5,walk,Sir W. Warren
 225,475,1665,8,5,walk,Sir W. Warren
 475,422,1665,8,5,walk,
-422,667,1665,8,5,boat,
-667,422,1665,8,26,walk,
-422,212,1665,8,26,boat,
-212,422,1665,8,26,boat,
-422,370,1665,8,26,walk,
-370,422,1665,8,26,walk,
-422,370,1665,8,28,walk,
 370,789,1665,8,28,walk,
 789,422,1665,8,28,walk,
 422,667,1665,8,28,boat,
-667,370,1665,8,28,boat,
-370,667,1665,8,29,walk,
+422,212,1665,8,26,boat,
+212,422,1665,8,26,boat,
 667,212,1665,8,29,coach,Commissioner Pett
 212,422,1665,8,29,walk,
 422,514,1665,8,29,walk,
@@ -42,17 +32,14 @@ source,target,year,month,day,mode,companion
 667,214,1665,9,2,walk,
 214,145,1665,9,2,walk,
 145,214,1665,9,2,walk,
-214,667,1665,9,2,boat,
 667,214,1665,9,3,boat,
 214,217,1665,9,3,walk,Captain Cocke
 217,77,1665,9,3,walk,
 77,667,1665,9,3,boat,
-667,214,1665,9,3,boat,
 214,422,1665,9,4,walk,
 422,667,1665,9,4,walk,
 667,214,1665,9,5,walk,
 214,77,1665,9,5,walk,Captain Cocke;Lord Brouncker
-77,667,1665,9,5,boat,
 667,214,1665,9,6,boat,
 214,788,1665,9,6,boat,
 788,642,1665,9,6,boat,
@@ -65,11 +52,9 @@ source,target,year,month,day,mode,companion
 788,667,1665,9,7,boat,
 667,214,1665,9,8,walk,
 214,422,1665,9,8,walk,
-422,667,1665,9,8,boat,
 667,214,1665,9,9,walk,
 214,334,1665,9,9,walk,Lord Brouncker
 334,667,1665,9,9,boat,Lord Brouncker
-667,214,1665,9,9,boat,
 214,667,1665,9,10,walk,
 667,214,1665,9,10,walk,Mr. Andrews
 214,77,1665,9,10,walk,Captain Cocke
@@ -81,7 +66,6 @@ source,target,year,month,day,mode,companion
 667,214,1665,9,12,walk,
 214,422,1665,9,12,walk,
 422,214,1665,9,12,walk,
-214,667,1665,9,12,boat,
 667,214,1665,9,13,walk,
 214,77,1665,9,13,walk,Captain Cocke
 77,601,1665,9,13,coach,Lord Brouncker;Sir W. Batten
@@ -94,7 +78,6 @@ source,target,year,month,day,mode,companion
 511,422,1665,9,14,walk,
 422,788,1665,9,14,walk,
 788,667,1665,9,14,boat,
-667,214,1665,9,14,boat,
 214,422,1665,9,15,boat,
 422,145,1665,9,15,boat,
 145,214,1665,9,15,boat,Captain Cocke
@@ -103,17 +86,15 @@ source,target,year,month,day,mode,companion
 214,334,1665,9,16,walk,Lord Brouncker
 334,214,1665,9,16,walk,Lord Brouncker
 214,77,1665,9,16,walk,Captain Cocke
-77,667,1665,9,16,boat,
 667,214,1665,9,17,walk,Captain Cocke
 214,217,1665,9,17,walk,Captain Cocke
 217,77,1665,9,17,walk,Captain Cocke
 77,667,1665,9,17,boat,Lord Brouncker;Captain Cocke (Bezan yacht)
-667,573,1665,9,18,boat,Lord Brouncker;Captain Cocke
+667,573,1665,9,18,boat,Lord Brouncker;Captain Cocke (Bezan)
 573,237,1665,9,18,boat,
 237,89,1665,9,18,coach,Commissioner Pett
 89,203,1665,9,18,coach,Commissioner Pett
 203,422,1665,9,18,boat,
-422,214,1665,9,18,boat,
 214,642,1665,9,19,boat,
 642,334,1665,9,19,coach,Lord Brouncker
 334,77,1665,9,19,coach,Captain Cocke
@@ -132,11 +113,11 @@ source,target,year,month,day,mode,companion
 642,583,1665,9,23,walk,Sir W. Batten
 583,214,1665,9,23,boat,
 214,422,1665,9,23,boat,
-422,214,1665,9,23,boat,Captain Cocke
-214,573,1665,9,24,boat,Captain Cocke
+422,214,1665,9,23,boat,Captain Cocke (yacht)
+214,573,1665,9,24,boat,Captain Cocke (yacht)
 573,203,1665,9,24,boat,
 203,573,1665,9,24,boat,
-573,258,1665,9,25,boat,Captain Cocke
+573,258,1665,9,25,boat,Captain Cocke (yacht)
 258,479,1665,9,25,boat,Captain Cocke
 479,203,1665,9,25,horse,
 203,167,1665,9,25,boat,
@@ -158,12 +139,11 @@ source,target,year,month,day,mode,companion
 214,435,1665,9,29,horse,
 435,214,1665,9,29,horse,
 214,77,1665,9,29,walk,Captain Cocke
-77,214,1665,9,29,boat,
 214,215,1665,9,30,walk,Lord Brouncker;Sir W. Boreman
 215,214,1665,9,30,walk,
 214,667,1665,9,30,boat,
-667,214,1665,10,1,boat,Captain Cocke
-214,258,1665,10,1,boat,Captain Cocke
+667,214,1665,10,1,boat,Captain Cocke (Bezan)
+214,258,1665,10,1,boat,Captain Cocke (Bezan)
 258,193,1665,10,2,boat,Captain Cocke
 193,89,1665,10,2,walk,Commissioner Pett;Captain Cocke
 89,479,1665,10,2,walk,
@@ -171,13 +151,11 @@ source,target,year,month,day,mode,companion
 203,167,1665,10,2,boat,
 167,667,1665,10,2,boat,
 667,214,1665,10,3,walk,
-214,213,1665,10,3,boat,
 213,214,1665,10,3,walk,
 214,422,1665,10,3,walk,
 422,213,1665,10,3,walk,Captain Cocke;Lord Rutherford
 213,418,1665,10,3,walk,
 418,213,1665,10,3,walk,
-213,214,1665,10,3,boat,
 214,422,1665,10,4,walk,
 422,213,1665,10,4,walk,
 213,214,1665,10,4,walk,
@@ -188,10 +166,8 @@ source,target,year,month,day,mode,companion
 145,379,1665,10,5,walk,Mr. Evelyn
 379,214,1665,10,5,coach,Mr. Evelyn
 214,422,1665,10,5,walk,
-422,214,1665,10,5,boat,
 214,642,1665,10,6,coach,Mr. Gawden
 642,214,1665,10,6,coach,Mr. Gawden
-214,213,1665,10,6,boat,
 213,214,1665,10,7,walk,
 214,213,1665,10,8,walk,Captain Cocke
 213,422,1665,10,8,boat,
@@ -202,10 +178,10 @@ source,target,year,month,day,mode,companion
 422,309,1665,10,10,coach,Captain Cocke
 309,642,1665,10,10,coach,Captain Cocke
 642,214,1665,10,10,coach,Captain Cocke
-214,667,1665,10,11,boat,Captain Cocke
+214,667,1665,10,11,boat,Captain Cocke (Bezan)
 667,167,1665,10,11,boat,
 167,214,1665,10,11,boat,
-214,667,1665,10,12,boat,Captain Cocke
+214,667,1665,10,12,boat,Captain Cocke's coach
 667,214,1665,10,12,coach,Captain Cocke
 214,213,1665,10,13,walk,Sir W. Warren
 213,642,1665,10,13,boat,
@@ -223,7 +199,6 @@ source,target,year,month,day,mode,companion
 309,642,1665,10,17,walk,
 642,214,1665,10,17,boat,
 214,422,1665,10,18,boat,
-422,642,1665,10,18,boat,
 642,214,1665,10,18,boat,
 214,422,1665,10,19,walk,
 422,642,1665,10,19,boat,
@@ -249,13 +224,11 @@ source,target,year,month,day,mode,companion
 214,667,1665,10,27,coach,Captain Cocke
 667,214,1665,10,28,boat,
 214,422,1665,10,29,walk,
-422,214,1665,10,29,boat,
 214,167,1665,10,29,coach,Captain Cocke;Mr. Deane
 167,214,1665,10,29,horse,Captain Cocke;Mr. Deane
-214,667,1665,10,29,boat,Captain Cocke
+214,667,1665,10,29,boat,Captain Cocke (Bezan)
 667,214,1665,10,30,walk,
 214,77,1665,10,30,walk,Sir W. Batten
-77,214,1665,10,30,boat,
 214,422,1665,11,1,boat,Sir W. Batten
 422,309,1665,11,1,coach,Sir W. Batten
 309,214,1665,11,1,coach,Sir W. Batten
@@ -293,7 +266,7 @@ source,target,year,month,day,mode,companion
 422,642,1665,11,12,boat,
 642,77,1665,11,12,boat,
 77,214,1665,11,12,boat,
-214,309,1665,11,13,boat,Sir J. Minnes
+214,309,1665,11,13,boat,Sir J. Minnes (coach)
 309,642,1665,11,13,coach,
 642,214,1665,11,13,coach,
 214,422,1665,11,14,coach,Captain Cocke (through Kent Street)
@@ -342,13 +315,11 @@ source,target,year,month,day,mode,companion
 214,422,1665,11,30,boat,
 422,214,1665,11,30,boat,
 214,422,1665,12,1,walk,
-422,214,1665,12,1,boat,
 214,422,1665,12,2,walk,
 422,788,1665,12,4,boat,
 788,789,1665,12,4,walk,
 789,145,1665,12,4,walk,
 145,788,1665,12,4,walk,
-788,789,1665,12,4,walk,
 789,214,1665,12,4,boat,
 214,422,1665,12,5,boat,
 422,145,1665,12,5,boat,Mr. Stevens
@@ -374,7 +345,6 @@ source,target,year,month,day,mode,companion
 217,422,1665,12,9,boat,
 422,214,1665,12,9,boat,
 214,422,1665,12,10,walk,Captain Cocke
-422,214,1665,12,10,boat,
 214,422,1665,12,11,boat,
 422,131,1665,12,11,walk,Mr. Gawden
 131,422,1665,12,11,walk,
@@ -399,7 +369,6 @@ source,target,year,month,day,mode,companion
 214,223,1665,12,17,coach,Mr. Cutler
 223,145,1665,12,17,coach,Mr. Cutler
 145,214,1665,12,17,walk,Mr. Evelyn
-214,145,1665,12,17,boat,
 145,214,1665,12,17,walk,
 214,422,1665,12,18,walk,
 422,788,1665,12,18,walk,
@@ -427,4 +396,3 @@ source,target,year,month,day,mode,companion
 214,422,1665,12,31,boat,
 422,642,1665,12,31,boat,
 642,214,1665,12,31,boat,
-214,212,1665,12,31,boat,

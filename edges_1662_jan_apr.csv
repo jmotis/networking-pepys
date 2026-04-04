@@ -23,14 +23,12 @@ source,target,year,month,day,mode,companion
 516,788,1662,1,4,walk,Elizabeth Pepys
 788,544,1662,1,5,walk,
 544,788,1662,1,5,walk,
-788,544,1662,1,5,walk,
 544,514,1662,1,5,walk,
 514,788,1662,1,5,walk,
 788,422,1662,1,6,walk,
 422,516,1662,1,6,walk,
 516,788,1662,1,6,walk,
 788,516,1662,1,6,walk,
-516,788,1662,1,7,walk,
 788,534,1662,1,7,walk,Sir W. Penn
 534,788,1662,1,7,coach,Elizabeth Pepys;Sir W. Penn
 788,422,1662,1,7,walk,
@@ -332,7 +330,6 @@ source,target,year,month,day,mode,companion
 455,685,1662,4,23,horse,
 685,461,1662,4,23,horse,
 461,462,1662,4,24,walk,Sir W. Penn
-462,461,1662,4,24,walk,
 461,686,1662,4,26,horse,Sir G. Carteret
 686,687,1662,4,26,horse,Sir G. Carteret
 687,461,1662,4,26,horse,Sir G. Carteret
@@ -346,4 +343,3 @@ source,target,year,month,day,mode,companion
 462,461,1662,4,29,coach,Mrs. Pierce
 461,462,1662,4,30,walk,Sir G. Carteret;Sir W. Penn
 462,461,1662,4,30,walk,
-461,788,1662,4,30,walk,

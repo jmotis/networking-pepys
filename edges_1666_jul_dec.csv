@@ -22,7 +22,6 @@ source,target,year,month,day,mode,companion
 444,788,1666,8,5,walk,
 788,610,1666,8,6,boat,
 610,509,1666,8,6,walk,
-509,788,1666,8,6,walk,
 788,422,1666,8,7,walk,
 422,788,1666,8,7,walk,
 788,566,1666,8,8,walk,
@@ -99,7 +98,6 @@ source,target,year,month,day,mode,companion
 642,545,1666,9,2,coach,Captain Cocke;John Creed
 545,788,1666,9,2,walk,
 788,583,1666,9,2,boat,
-583,642,1666,9,2,boat,
 642,19,1666,9,2,boat,
 19,788,1666,9,2,walk,
 788,518,1666,9,3,coach,
@@ -119,7 +117,6 @@ source,target,year,month,day,mode,companion
 642,788,1666,9,6,walk,
 788,510,1666,9,6,walk,Sir W. Batten
 510,145,1666,9,6,boat,
-145,788,1666,9,6,boat,
 788,212,1666,9,7,boat,
 212,145,1666,9,7,walk,
 145,503,1666,9,7,boat,
@@ -133,9 +130,7 @@ source,target,year,month,day,mode,companion
 540,518,1666,9,9,coach,brother John
 518,788,1666,9,9,walk,
 788,544,1666,9,9,walk,
-544,788,1666,9,9,walk,
 788,518,1666,9,9,walk,
-518,788,1666,9,9,walk,
 788,540,1666,9,10,coach,
 540,518,1666,9,10,coach,
 518,422,1666,9,10,walk,
@@ -166,7 +161,6 @@ source,target,year,month,day,mode,companion
 540,503,1666,9,17,coach,Sir W. Batten;Lord Brouncker
 503,788,1666,9,17,walk,
 788,503,1666,9,17,walk,
-503,788,1666,9,17,walk,
 788,642,1666,9,19,coach,Sir W. Penn
 642,540,1666,9,19,walk,Sir W. Batten;Sir W. Penn
 540,642,1666,9,19,walk,
@@ -251,8 +245,8 @@ source,target,year,month,day,mode,companion
 540,770,1666,10,13,coach,
 770,642,1666,10,13,coach,Lord Bellasses
 642,788,1666,10,13,coach,
-788,540,1666,10,14,boat,brother John
-540,609,1666,10,14,walk,brother John
+788,540,1666,10,14,boat,brother
+540,609,1666,10,14,walk,brother
 609,642,1666,10,14,walk,
 642,593,1666,10,14,walk,Elizabeth Pepys
 593,788,1666,10,14,coach,
@@ -294,7 +288,6 @@ source,target,year,month,day,mode,companion
 789,407,1666,10,26,walk,Doll Lane
 407,788,1666,10,26,coach,
 788,610,1666,10,26,boat,
-610,788,1666,10,26,walk,
 788,642,1666,10,27,coach,
 642,337,1666,10,27,walk,
 337,788,1666,10,27,coach,
@@ -332,7 +325,7 @@ source,target,year,month,day,mode,companion
 540,283,1666,11,11,coach,Sir W. Penn
 283,788,1666,11,11,coach,
 788,422,1666,11,12,walk,
-422,518,1666,11,12,coach,brother John
+422,518,1666,11,12,coach,brother
 518,788,1666,11,12,walk,
 788,610,1666,11,14,boat,
 610,413,1666,11,14,coach,
@@ -413,7 +406,7 @@ source,target,year,month,day,mode,companion
 444,642,1666,12,1,boat,
 642,610,1666,12,1,walk,
 610,788,1666,12,1,coach,
-788,610,1666,12,2,coach,Sir W. Penn;Betty Michell;B. Michell husband;Elizabeth Pepys
+788,610,1666,12,2,coach,Sir W. Penn;Betty Michell;husband;Elizabeth Pepys
 610,415,1666,12,2,coach,
 415,642,1666,12,2,coach,
 642,788,1666,12,2,coach,
@@ -436,7 +429,7 @@ source,target,year,month,day,mode,companion
 610,419,1666,12,11,walk,Elizabeth Pepys
 419,788,1666,12,11,coach,
 788,789,1666,12,12,walk,
-789,518,1666,12,12,coach,brother John
+789,518,1666,12,12,coach,brother
 518,788,1666,12,12,walk,
 788,44,1666,12,13,walk,
 44,788,1666,12,13,walk,
@@ -467,9 +460,9 @@ source,target,year,month,day,mode,companion
 540,788,1666,12,20,walk,
 788,610,1666,12,22,walk,
 610,788,1666,12,22,boat,
-788,642,1666,12,23,coach,Betty Michell;B. Michell husband;Elizabeth Pepys
+788,642,1666,12,23,coach,Betty Michell;husband;Elizabeth Pepys
 642,358,1666,12,23,coach,
-358,788,1666,12,23,coach,Betty Michell;B. Michell husband
+358,788,1666,12,23,coach,Betty Michell;husband
 788,642,1666,12,24,walk,Lord Brouncker
 642,788,1666,12,24,walk,
 788,642,1666,12,25,walk,

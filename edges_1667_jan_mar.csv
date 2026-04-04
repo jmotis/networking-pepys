@@ -68,10 +68,10 @@ source,target,year,month,day,mode,companion
 444,642,1667,1,20,walk,
 642,544,1667,1,20,walk,
 544,788,1667,1,20,walk,
-788,642,1667,1,20,boat,brother John
-642,336,1667,1,20,walk,brother John
-336,541,1667,1,20,walk,brother John
-541,642,1667,1,20,walk,brother John
+788,642,1667,1,20,boat,brother
+642,336,1667,1,20,walk,brother
+336,541,1667,1,20,walk,brother
+541,642,1667,1,20,walk,brother
 642,516,1667,1,20,walk,
 516,788,1667,1,20,walk,
 788,563,1667,1,21,coach,Sir W. Batten;Sir W. Penn;R. Ford
@@ -237,7 +237,6 @@ source,target,year,month,day,mode,companion
 170,789,1667,2,22,coach,Sir H. Cholmly
 789,422,1667,2,22,coach,
 422,788,1667,2,22,walk,
-788,422,1667,2,22,walk,
 422,516,1667,2,22,walk,
 516,788,1667,2,22,walk,
 788,422,1667,2,23,walk,
@@ -296,7 +295,6 @@ source,target,year,month,day,mode,companion
 145,141,1667,3,4,walk,
 141,145,1667,3,4,walk,
 145,667,1667,3,4,barge,Sir J. Minnes;Sir W. Batten
-667,145,1667,3,4,boat,
 145,475,1667,3,4,walk,
 475,788,1667,3,4,boat,
 788,422,1667,3,5,walk,
@@ -329,4 +327,3 @@ source,target,year,month,day,mode,companion
 169,562,1667,3,8,walk,
 562,610,1667,3,8,walk,
 610,642,1667,3,8,walk,
-642,788,1667,3,8,walk,
