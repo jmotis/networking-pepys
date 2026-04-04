@@ -10,6 +10,13 @@ source,target,year,month,day,mode,companion
 212,145,1665,7,31,coach,Sir G. Carteret
 145,131,1665,7,31,coach,Sir G. Carteret
 131,788,1665,8,1,coach,
+788,145,1665,8,3,horse,
+145,131,1665,8,3,horse,
+131,203,1665,8,3,boat,
+203,91,1665,8,3,horse,Sir G. Carteret
+91,90,1665,8,4,walk,Lady Slanning
+90,91,1665,8,4,walk,
+91,667,1665,8,4,boat,
 667,422,1665,8,4,boat,
 422,145,1665,8,4,boat,
 145,225,1665,8,5,walk,Sir W. Warren
