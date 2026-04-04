@@ -1,0 +1,403 @@
+source,target,year,month,day,mode,companion
+667,212,1665,7,28,boat,
+788,789,1665,7,29,walk,
+789,290,1665,7,29,coach,
+290,788,1665,7,29,walk,
+145,212,1665,7,31,boat,Sir G. Carteret
+212,145,1665,7,31,coach,Sir G. Carteret
+667,422,1665,8,4,boat,
+422,145,1665,8,4,boat,
+145,225,1665,8,5,walk,Sir W. Warren
+225,475,1665,8,5,walk,Sir W. Warren
+475,422,1665,8,5,walk,
+370,789,1665,8,28,walk,
+789,422,1665,8,28,walk,
+422,667,1665,8,28,boat,
+422,212,1665,8,26,boat,
+212,422,1665,8,26,boat,
+667,212,1665,8,29,coach,Commissioner Pett
+212,422,1665,8,29,walk,
+422,514,1665,8,29,walk,
+514,145,1665,8,29,walk,
+145,475,1665,8,29,walk,
+475,422,1665,8,29,walk,
+422,667,1665,8,29,boat,
+667,212,1665,8,31,boat,
+212,422,1665,8,31,walk,
+422,667,1665,8,31,boat,
+667,214,1665,9,1,walk,Captain Cocke
+214,788,1665,9,1,boat,
+788,642,1665,9,1,boat,
+642,667,1665,9,1,boat,
+667,214,1665,9,2,walk,
+214,145,1665,9,2,walk,
+145,214,1665,9,2,walk,
+667,214,1665,9,3,boat,
+214,217,1665,9,3,walk,Captain Cocke
+217,77,1665,9,3,walk,
+77,667,1665,9,3,boat,
+214,422,1665,9,4,walk,
+422,667,1665,9,4,walk,
+667,214,1665,9,5,walk,
+214,77,1665,9,5,walk,Captain Cocke; Lord Bruncker
+667,214,1665,9,6,boat,
+214,788,1665,9,6,boat,
+788,642,1665,9,6,boat,
+642,667,1665,9,6,boat,
+667,212,1665,9,7,boat,
+212,55,1665,9,7,coach,Mr. Povy
+55,212,1665,9,7,boat,Mr. Povy
+212,470,1665,9,7,boat,
+470,788,1665,9,7,walk,
+788,667,1665,9,7,boat,
+667,214,1665,9,8,walk,
+214,422,1665,9,8,walk,
+667,214,1665,9,9,walk,
+214,334,1665,9,9,walk,Lord Bruncker
+334,667,1665,9,9,boat,Lord Bruncker
+214,667,1665,9,10,walk,
+667,214,1665,9,10,walk,Mr. Andrews
+214,77,1665,9,10,walk,Captain Cocke
+77,667,1665,9,10,boat,
+667,214,1665,9,11,walk,
+214,601,1665,9,11,coach,Lord Bruncker; Sir W. Batten
+601,214,1665,9,11,coach,Lord Bruncker; Sir W. Batten
+214,667,1665,9,11,boat,
+667,214,1665,9,12,walk,
+214,422,1665,9,12,walk,
+422,214,1665,9,12,walk,
+667,214,1665,9,13,walk,
+214,77,1665,9,13,walk,Captain Cocke
+77,601,1665,9,13,coach,Lord Bruncker; Sir W. Batten
+601,214,1665,9,13,coach,Lord Bruncker; Sir W. Batten
+214,667,1665,9,13,boat,
+667,214,1665,9,14,walk,
+214,642,1665,9,14,boat,
+642,789,1665,9,14,walk,
+789,511,1665,9,14,walk,
+511,422,1665,9,14,walk,
+422,788,1665,9,14,walk,
+788,667,1665,9,14,boat,
+214,422,1665,9,15,boat,
+422,145,1665,9,15,boat,
+145,214,1665,9,15,boat,Captain Cocke
+214,667,1665,9,15,boat,
+667,214,1665,9,16,walk,
+214,334,1665,9,16,walk,Lord Bruncker
+334,214,1665,9,16,walk,Lord Bruncker
+214,77,1665,9,16,walk,Captain Cocke
+667,214,1665,9,17,walk,Captain Cocke
+214,217,1665,9,17,walk,Captain Cocke
+217,77,1665,9,17,walk,Captain Cocke
+77,667,1665,9,17,boat,Lord Bruncker; Captain Cocke (Bezan yacht)
+667,573,1665,9,18,boat,Lord Bruncker; Captain Cocke (Bezan)
+573,237,1665,9,18,boat,
+237,89,1665,9,18,coach,Commissioner Pett
+89,203,1665,9,18,coach,Commissioner Pett
+203,422,1665,9,18,boat,
+214,642,1665,9,19,boat,
+642,334,1665,9,19,coach,Lord Bruncker
+334,77,1665,9,19,coach,Captain Cocke
+77,667,1665,9,19,walk,
+667,309,1665,9,20,coach,Lord Bruncker; Sir J. Minnes; Sir W. Batten
+309,642,1665,9,20,coach,Lord Bruncker; Sir J. Minnes; Sir W. Batten
+642,334,1665,9,20,coach,Lord Bruncker
+334,214,1665,9,20,coach,Lord Bruncker
+214,435,1665,9,21,coach,Will Hewer (Lord Bruncker's coach)
+435,214,1665,9,21,coach,
+214,47,1665,9,22,boat,Lord Bruncker; Sir J. Minnes
+47,334,1665,9,22,walk,Lord Bruncker
+334,667,1665,9,22,coach,Lord Bruncker
+667,214,1665,9,22,boat,
+214,642,1665,9,23,coach,Lord Sandwich; Lord Bruncker; Mr. Evelyn
+642,583,1665,9,23,walk,Sir W. Batten
+583,214,1665,9,23,boat,
+214,422,1665,9,23,boat,
+422,214,1665,9,23,boat,Captain Cocke (yacht)
+214,573,1665,9,24,boat,Captain Cocke (yacht)
+573,203,1665,9,24,boat,
+203,573,1665,9,24,boat,
+573,258,1665,9,25,boat,Captain Cocke (yacht)
+258,479,1665,9,25,boat,Captain Cocke
+479,203,1665,9,25,horse,
+203,167,1665,9,25,boat,
+167,77,1665,9,25,boat,Lord Bruncker; Sir J. Minnes
+77,667,1665,9,25,boat,
+667,214,1665,9,26,horse,
+214,422,1665,9,26,walk,
+422,214,1665,9,26,walk,
+214,667,1665,9,26,boat,
+667,214,1665,9,27,boat,
+214,213,1665,9,27,walk,
+213,77,1665,9,27,walk,Captain Cocke
+77,19,1665,9,27,coach,Mr. Evelyn
+19,642,1665,9,27,coach,Mr. Evelyn
+642,422,1665,9,27,boat,
+422,214,1665,9,27,boat,
+214,667,1665,9,28,boat,
+667,214,1665,9,28,walk,
+214,435,1665,9,29,horse,
+435,214,1665,9,29,horse,
+214,77,1665,9,29,walk,Captain Cocke
+214,215,1665,9,30,walk,Lord Bruncker; Sir W. Boreman
+215,214,1665,9,30,walk,
+214,667,1665,9,30,boat,
+667,214,1665,10,1,boat,Captain Cocke (Bezan)
+214,258,1665,10,1,boat,Captain Cocke (Bezan)
+258,193,1665,10,2,boat,Captain Cocke
+193,89,1665,10,2,walk,Commissioner Pett; Captain Cocke
+89,479,1665,10,2,walk,
+479,203,1665,10,2,horse,
+203,167,1665,10,2,boat,
+167,667,1665,10,2,boat,
+667,214,1665,10,3,walk,
+213,214,1665,10,3,walk,
+214,422,1665,10,3,walk,
+422,213,1665,10,3,walk,Captain Cocke; Lord Rutherford
+213,418,1665,10,3,walk,
+418,213,1665,10,3,walk,
+213,214,1665,10,3,walk,
+214,422,1665,10,4,walk,
+422,213,1665,10,4,walk,
+213,214,1665,10,4,walk,
+214,642,1665,10,5,walk,
+642,505,1665,10,5,walk,
+505,313,1665,10,5,boat,
+313,145,1665,10,5,walk,
+145,379,1665,10,5,walk,Mr. Evelyn
+379,214,1665,10,5,coach,Mr. Evelyn
+214,422,1665,10,5,walk,
+214,642,1665,10,6,coach,Mr. Gawden
+642,214,1665,10,6,coach,Mr. Gawden
+213,214,1665,10,7,walk,
+214,213,1665,10,8,walk,Captain Cocke
+213,422,1665,10,8,boat,
+422,214,1665,10,9,boat,
+214,642,1665,10,9,walk,
+642,214,1665,10,9,boat,
+214,422,1665,10,10,walk,
+422,309,1665,10,10,coach,Captain Cocke
+309,642,1665,10,10,coach,Captain Cocke
+642,214,1665,10,10,coach,Captain Cocke
+214,667,1665,10,11,boat,Captain Cocke (Bezan)
+667,167,1665,10,11,boat,
+167,214,1665,10,11,boat,
+214,667,1665,10,12,boat,Captain Cocke's coach
+667,214,1665,10,12,coach,Captain Cocke
+214,213,1665,10,13,walk,Sir W. Warren
+213,642,1665,10,13,boat,
+642,214,1665,10,13,boat,
+214,309,1665,10,14,walk,Lord Bruncker; Sir J. Minnes; Sir W. Batten
+309,642,1665,10,14,coach,Lord Bruncker
+642,214,1665,10,14,coach,Lord Bruncker
+214,55,1665,10,15,coach,Mr. Povy
+55,518,1665,10,15,coach,Mr. Povy (Sir R. Viner's)
+518,55,1665,10,15,coach,Mr. Povy
+55,214,1665,10,15,boat,
+214,422,1665,10,16,walk,
+422,583,1665,10,16,boat,
+583,789,1665,10,16,walk,
+789,214,1665,10,16,boat,
+214,309,1665,10,17,walk,
+309,642,1665,10,17,walk,
+642,214,1665,10,17,boat,
+214,422,1665,10,18,boat,
+642,214,1665,10,18,boat,
+214,422,1665,10,19,walk,
+422,642,1665,10,19,boat,
+642,214,1665,10,19,boat,
+214,422,1665,10,22,walk,Captain Cocke
+422,309,1665,10,22,coach,Captain Cocke
+309,642,1665,10,22,coach,Captain Cocke
+642,77,1665,10,22,walk,Captain Cocke
+77,214,1665,10,22,walk,
+214,167,1665,10,23,boat,Lord Bruncker; Sir J. Minnes
+167,77,1665,10,23,boat,
+77,667,1665,10,23,boat,
+667,167,1665,10,25,boat,Lord Sandwich
+167,214,1665,10,25,boat,Lord Sandwich
+214,167,1665,10,26,boat,Sir C. Mings
+167,789,1665,10,26,walk,
+789,214,1665,10,26,boat,Sir C. Mings
+214,422,1665,10,27,coach,Captain Cocke
+422,642,1665,10,27,boat,
+642,422,1665,10,27,walk,
+422,145,1665,10,27,walk,Mr. Evelyn
+145,214,1665,10,27,coach,Mr. Evelyn
+214,667,1665,10,27,coach,Captain Cocke
+667,214,1665,10,28,boat,
+214,422,1665,10,29,walk,
+214,167,1665,10,29,coach,Captain Cocke; Mr. Deane
+167,214,1665,10,29,horse,Captain Cocke; Mr. Deane
+214,667,1665,10,29,boat,Captain Cocke (Bezan)
+667,214,1665,10,30,walk,
+214,77,1665,10,30,walk,Sir W. Batten
+214,422,1665,11,1,boat,Sir W. Batten
+422,309,1665,11,1,coach,Sir W. Batten
+309,214,1665,11,1,coach,Sir W. Batten
+214,422,1665,11,2,boat,
+422,214,1665,11,2,boat,
+214,167,1665,11,3,boat,ketch
+167,258,1665,11,3,boat,
+258,167,1665,11,4,boat,
+167,214,1665,11,4,boat,
+214,642,1665,11,5,boat,
+642,505,1665,11,5,walk,
+505,145,1665,11,5,boat,
+145,379,1665,11,5,walk,Mr. Evelyn
+379,214,1665,11,5,coach,Captain Cocke
+214,422,1665,11,6,walk,Captain Cocke; Mr. Evelyn
+422,309,1665,11,6,coach,Captain Cocke; Mr. Evelyn
+309,642,1665,11,6,walk,Captain Cocke; Mr. Evelyn
+642,77,1665,11,6,boat,Sir G. Carteret; Captain Cocke
+77,214,1665,11,7,boat,Sir G. Carteret; Sir W. Batten
+214,309,1665,11,7,coach,Sir G. Carteret; Sir W. Batten
+309,642,1665,11,7,coach,Sir G. Carteret; Sir W. Batten
+642,214,1665,11,7,coach,
+214,167,1665,11,8,boat,
+167,214,1665,11,8,boat,
+214,145,1665,11,8,boat,
+145,214,1665,11,8,boat,
+214,422,1665,11,9,boat,Captain Taylor
+422,145,1665,11,9,boat,Sir W. Batten
+145,214,1665,11,9,boat,
+214,422,1665,11,11,boat,
+422,667,1665,11,11,walk,
+667,214,1665,11,11,walk,
+214,422,1665,11,12,boat,
+422,642,1665,11,12,boat,
+642,77,1665,11,12,boat,
+77,214,1665,11,12,boat,
+214,309,1665,11,13,boat,Sir J. Minnes (coach)
+309,642,1665,11,13,coach,
+642,214,1665,11,13,coach,
+214,422,1665,11,14,coach,Captain Cocke (through Kent Street)
+422,642,1665,11,14,boat,
+642,214,1665,11,14,boat,
+214,167,1665,11,16,horse,
+167,214,1665,11,16,horse,
+214,258,1665,11,17,boat,pleasure boat (Wyndham's)
+258,237,1665,11,17,boat,
+237,479,1665,11,17,coach,Commissioner Pett
+479,214,1665,11,17,coach,Commissioner Pett
+214,167,1665,11,18,horse,
+167,214,1665,11,18,horse,
+214,167,1665,11,19,boat,
+167,667,1665,11,19,boat,Captain Cocke
+667,214,1665,11,19,walk,Captain Cocke
+214,435,1665,11,20,horse,
+435,214,1665,11,20,horse,
+214,645,1665,11,22,boat,
+645,422,1665,11,22,walk,
+422,789,1665,11,22,walk,
+789,422,1665,11,22,walk,
+422,214,1665,11,22,boat,
+214,422,1665,11,24,boat,
+422,789,1665,11,24,walk,
+789,504,1665,11,24,walk,
+504,422,1665,11,24,walk,
+422,145,1665,11,24,walk,Captain Cocke; Mr. Evelyn
+145,379,1665,11,24,walk,Mr. Evelyn
+379,214,1665,11,24,coach,Captain Cocke
+214,167,1665,11,26,horse,Mr. Tooker
+167,667,1665,11,26,walk,Sir W. Warren
+667,214,1665,11,26,walk,
+214,309,1665,11,27,walk,
+309,642,1665,11,27,walk,
+642,309,1665,11,27,walk,Sir G. Carteret
+309,422,1665,11,27,coach,Captain Cocke
+422,504,1665,11,27,walk,Captain Cocke
+504,583,1665,11,27,coach,Captain Cocke
+583,214,1665,11,27,boat,Captain Cocke
+214,435,1665,11,28,coach,Captain Cocke
+435,214,1665,11,28,coach,Captain Cocke
+214,422,1665,11,29,boat,
+422,788,1665,11,29,walk,
+788,214,1665,11,29,boat,
+214,422,1665,11,30,boat,
+422,214,1665,11,30,boat,
+214,422,1665,12,1,walk,
+214,422,1665,12,2,walk,
+422,788,1665,12,4,boat,
+788,789,1665,12,4,walk,
+789,145,1665,12,4,walk,
+145,788,1665,12,4,walk,
+788,789,1665,12,4,walk,
+789,214,1665,12,4,boat,
+214,422,1665,12,5,boat,
+422,145,1665,12,5,boat,Mr. Stevens
+145,788,1665,12,5,boat,
+788,161,1665,12,5,walk,
+161,214,1665,12,5,boat,
+214,642,1665,12,6,boat,
+642,217,1665,12,6,walk,
+217,788,1665,12,6,walk,
+788,418,1665,12,6,walk,
+418,214,1665,12,6,boat,
+214,642,1665,12,7,boat,Lord Bruncker
+642,422,1665,12,7,boat,
+422,788,1665,12,7,walk,
+788,214,1665,12,8,boat,
+214,422,1665,12,8,walk,
+422,789,1665,12,8,walk,
+789,131,1665,12,8,walk,Mr. Gawden
+131,642,1665,12,8,boat,Sir G. Carteret; Mr. Gawden
+642,214,1665,12,8,boat,
+214,642,1665,12,9,coach,Lord Bruncker
+642,217,1665,12,9,walk,
+217,422,1665,12,9,boat,
+422,214,1665,12,9,boat,
+214,422,1665,12,10,walk,Captain Cocke
+422,422,1665,12,11,walk,
+214,422,1665,12,11,boat,
+422,131,1665,12,11,walk,Mr. Gawden
+131,422,1665,12,11,walk,
+422,214,1665,12,11,boat,Captain Cocke
+214,334,1665,12,12,boat,
+334,85,1665,12,12,walk,Mr. Hill
+85,214,1665,12,12,boat,Lord Bruncker
+214,309,1665,12,13,boat,Lord Bruncker
+309,642,1665,12,13,walk,
+642,309,1665,12,13,walk,Sir G. Carteret
+309,214,1665,12,13,boat,Captain Cocke
+214,422,1665,12,14,walk,Lord Bruncker
+422,642,1665,12,14,boat,
+642,214,1665,12,14,boat,
+214,422,1665,12,16,boat,Sir W. Warren
+422,85,1665,12,16,boat,
+85,85,1665,12,16,walk,Sir G. Downing
+85,610,1665,12,16,walk,Sir W. Warren
+610,444,1665,12,16,walk,
+444,422,1665,12,16,boat,
+422,214,1665,12,16,boat,
+214,17,1665,12,17,boat,Cutler's coach
+17,214,1665,12,17,coach,
+214,145,1665,12,17,walk,Mr. Evelyn
+145,214,1665,12,17,walk,
+214,422,1665,12,18,walk,
+422,788,1665,12,18,walk,
+788,789,1665,12,18,walk,
+789,789,1665,12,18,walk,
+789,422,1665,12,18,walk,
+422,214,1665,12,18,boat,Sir W. Warren
+214,422,1665,12,19,walk,
+422,214,1665,12,19,walk,
+214,77,1665,12,19,boat,Lord Bruncker
+77,214,1665,12,19,boat,Lord Bruncker
+214,309,1665,12,20,walk,
+309,642,1665,12,20,walk,Lord Bruncker
+642,422,1665,12,20,coach,Lord Bruncker
+422,789,1665,12,20,walk,
+789,642,1665,12,20,walk,
+642,214,1665,12,20,coach,Lord Bruncker
+214,642,1665,12,24,boat,
+642,217,1665,12,24,walk,
+217,214,1665,12,24,walk,
+214,422,1665,12,27,coach,Captain Cocke
+422,789,1665,12,27,walk,Sir W. Warren
+789,422,1665,12,27,walk,
+422,475,1665,12,27,boat,
+475,214,1665,12,27,boat,Captain Cocke
+214,422,1665,12,31,boat,
+422,642,1665,12,31,boat,
+642,214,1665,12,31,boat,

@@ -141,7 +141,10 @@ source,target,year,month,day,mode,companion
 642,650,1663,2,2,walk,
 650,395,1663,2,2,walk,Mr. Gawden
 395,642,1663,2,2,walk,Mr. Povy
-642,117,1663,2,2,boat,John Creed
+642,541,1663,2,2,walk,Mr. Povy
+541,642,1663,2,2,walk,Mr. Povy;John Creed
+642,102,1663,2,2,walk,John Creed
+102,117,1663,2,2,walk,John Creed
 117,419,1663,2,2,walk,Mrs. Turner
 419,59,1663,2,2,walk,
 59,788,1663,2,2,walk,
@@ -427,9 +430,10 @@ source,target,year,month,day,mode,companion
 610,650,1663,4,25,walk,
 650,117,1663,4,25,boat,
 117,788,1663,4,25,walk,
-788,59,1663,4,26,walk,
-59,544,1663,4,26,walk,father
+788,544,1663,4,26,walk,father
 544,788,1663,4,26,walk,father
+788,225,1663,4,26,boat,Elizabeth Pepys;Mary Ashwell
+225,788,1663,4,26,boat,Elizabeth Pepys;Mary Ashwell
 788,642,1663,4,27,boat,
 642,540,1663,4,27,walk,Mr. Coventry;Sir W. Penn
 540,642,1663,4,27,walk,
