@@ -544,7 +544,7 @@ source,target,year,month,day,mode,companion
 180,358,1661,11,25,coach,Mr. Sanchy
 358,788,1661,11,25,walk,
 788,491,1661,11,27,walk,
-491,576,1661,11,27,walk,Captain Ferrers;Mr. Moore
+491,576,1661,11,27,walk,
 576,577,1661,11,27,walk,Captain Ferrers;Mr. Moore
 577,788,1661,11,27,coach,
 788,465,1661,11,29,walk,
@@ -558,10 +558,10 @@ source,target,year,month,day,mode,companion
 576,422,1661,11,30,walk,
 422,149,1661,11,30,walk,Sir W. Batten;Captain Cock
 149,788,1661,11,30,walk,
-788,491,1661,12,2,walk,Mr. Moore
-491,465,1661,12,2,walk,
-465,158,1661,12,2,walk,Mr. Sanchy;Elizabeth Pepys
-158,788,1661,12,2,walk,Mr. Sanchy;Elizabeth Pepys
+788,491,1661,12,2,walk,
+491,788,1661,12,2,walk,Mr. Moore
+788,158,1661,12,2,coach,Mr. Sanchy;Mrs. Mary Archer
+158,788,1661,12,2,coach,Mr. Sanchy;Mrs. Mary Archer
 788,491,1661,12,3,walk,
 491,576,1661,12,3,walk,Mr. Moore
 576,566,1661,12,3,walk,Mr. Moore

@@ -107,7 +107,8 @@ source,target,year,month,day,mode,companion
 541,650,1663,1,25,walk,
 650,59,1663,1,25,walk,
 59,788,1663,1,25,walk,
-788,642,1663,1,26,boat,Sir W. Batten
+788,555,1663,1,26,boat,Sir W. Batten
+555,642,1663,1,26,boat,Sir W. Batten
 642,650,1663,1,26,walk,
 650,610,1663,1,26,walk,
 610,337,1663,1,26,coach,Monsieur Raby
@@ -213,8 +214,9 @@ source,target,year,month,day,mode,companion
 788,555,1663,2,26,boat,Sir W. Batten
 555,610,1663,2,26,boat,Sir W. Batten
 610,650,1663,2,26,walk,John Creed
-650,86,1663,2,26,boat,John Creed
-86,788,1663,2,26,boat,
+650,86,1663,2,26,walk,John Creed
+86,723,1663,2,26,walk,John Creed
+723,788,1663,2,26,boat,John Creed
 788,422,1663,2,27,walk,Commissioner Pett
 422,514,1663,2,27,walk,Sir W. Batten
 514,788,1663,2,27,walk,
@@ -245,9 +247,8 @@ source,target,year,month,day,mode,companion
 788,667,1663,3,6,coach,Sir J. Minnes;Sir W. Batten
 667,145,1663,3,6,coach,Sir J. Minnes;Sir W. Batten
 145,788,1663,3,6,coach,Sir J. Minnes;Sir W. Batten
-788,516,1663,3,7,walk,
-516,419,1663,3,7,coach,The. Turner
-419,650,1663,3,7,walk,
+788,419,1663,3,7,coach,The. Turner
+419,650,1663,3,7,coach,
 650,610,1663,3,7,walk,John Creed
 610,788,1663,3,7,boat,
 788,642,1663,3,8,walk,

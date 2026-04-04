@@ -65,16 +65,24 @@ source,target,year,month,day,mode,companion
 422,606,1662,10,9,horse,Will
 606,466,1662,10,9,horse,Will
 466,31,1662,10,10,horse,Will
-31,277,1662,10,10,horse,Will
+31,67,1662,10,10,walk,Dr. Fairbrother
+67,749,1662,10,10,walk,
+749,67,1662,10,10,walk,
+67,587,1662,10,10,walk,
+587,277,1662,10,10,horse,Will
 277,270,1662,10,11,horse,
 270,51,1662,10,11,horse,
 51,238,1662,10,11,horse,Will
 238,51,1662,10,11,horse,Will
-51,682,1662,10,13,walk,Sheply
-682,271,1662,10,13,walk,Sheply
-271,51,1662,10,13,horse,
-51,270,1662,10,14,horse,Tom Pepys;Mr. Cooke;Will
-270,238,1662,10,14,horse,Tom Pepys;Mr. Cooke;Will
+51,52,1662,10,12,walk,
+52,51,1662,10,12,walk,
+51,52,1662,10,12,walk,
+52,51,1662,10,12,walk,
+51,238,1662,10,13,walk,Sheply
+238,271,1662,10,13,walk,Sheply
+271,682,1662,10,13,walk,
+682,51,1662,10,13,horse,
+51,238,1662,10,14,horse,Tom Pepys;Mr. Cooke;Will
 238,31,1662,10,14,horse,Tom Pepys;Mr. Cooke;Will
 31,606,1662,10,15,horse,Will
 606,788,1662,10,15,horse,Will
