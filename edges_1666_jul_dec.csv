@@ -22,6 +22,7 @@ source,target,year,month,day,mode,companion
 444,788,1666,8,5,walk,
 788,610,1666,8,6,boat,
 610,509,1666,8,6,walk,
+509,788,1666,8,6,walk,
 788,422,1666,8,7,walk,
 422,788,1666,8,7,walk,
 788,566,1666,8,8,walk,
@@ -98,6 +99,7 @@ source,target,year,month,day,mode,companion
 642,545,1666,9,2,coach,Captain Cocke;John Creed
 545,788,1666,9,2,walk,
 788,583,1666,9,2,boat,
+583,642,1666,9,2,boat,
 642,19,1666,9,2,boat,
 19,788,1666,9,2,walk,
 788,518,1666,9,3,coach,
@@ -117,6 +119,7 @@ source,target,year,month,day,mode,companion
 642,788,1666,9,6,walk,
 788,510,1666,9,6,walk,Sir W. Batten
 510,145,1666,9,6,boat,
+145,788,1666,9,6,boat,
 788,212,1666,9,7,boat,
 212,145,1666,9,7,walk,
 145,503,1666,9,7,boat,
@@ -130,6 +133,7 @@ source,target,year,month,day,mode,companion
 540,518,1666,9,9,coach,brother John
 518,788,1666,9,9,walk,
 788,544,1666,9,9,walk,
+544,788,1666,9,9,walk,
 788,518,1666,9,9,walk,
 788,540,1666,9,10,coach,
 540,518,1666,9,10,coach,
