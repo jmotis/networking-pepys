@@ -32,7 +32,8 @@ source,target,year,month,day,mode,companion
 592,650,1661,7,6,walk,
 650,522,1661,7,6,walk,
 522,51,1661,7,6,horse,
-544,51,1661,7,7,walk,
+51,52,1661,7,7,walk,
+52,51,1661,7,7,walk,
 51,680,1661,7,14,walk,
 680,238,1661,7,14,walk,
 238,51,1661,7,14,walk,
@@ -225,10 +226,9 @@ source,target,year,month,day,mode,companion
 153,788,1661,8,30,coach,Elizabeth Pepys
 788,576,1661,8,31,walk,
 576,27,1661,8,31,walk,Luellin
-27,27,1661,8,31,walk,
 27,576,1661,8,31,walk,
 576,97,1661,8,31,walk,Mr. Pickering;Ladies Jemima & Paulina
-97,576,1661,8,31,walk,Elizabeth Pepys
+97,576,1661,8,31,walk,Mr. Pickering;Ladies Jemima & Paulina
 576,358,1661,8,31,walk,Mr. Moore
 358,788,1661,8,31,walk,Mr. Moore
 544,514,1661,9,1,walk,
@@ -267,7 +267,10 @@ source,target,year,month,day,mode,companion
 576,577,1661,9,7,walk,Elizabeth Pepys
 577,576,1661,9,7,walk,Elizabeth Pepys
 576,788,1661,9,7,coach,Elizabeth Pepys
-788,576,1661,9,8,walk,Elizabeth Pepys
+788,544,1661,9,8,walk,Elizabeth Pepys
+544,788,1661,9,8,walk,Elizabeth Pepys
+788,544,1661,9,8,walk,Elizabeth Pepys
+544,788,1661,9,8,walk,Elizabeth Pepys
 576,174,1661,9,9,walk,
 174,788,1661,9,9,walk,
 788,465,1661,9,9,walk,Captain Morrice
@@ -379,7 +382,9 @@ source,target,year,month,day,mode,companion
 149,788,1661,10,5,walk,
 544,536,1661,10,6,walk,
 536,788,1661,10,6,walk,
-788,152,1661,10,7,walk,Uncle Fenner
+788,591,1661,10,7,walk,
+591,152,1661,10,7,walk,
+152,788,1661,10,7,walk,
 514,577,1661,10,8,coach,Martha
 577,788,1661,10,8,coach,
 788,577,1661,10,9,walk,Mrs. Pierce;Madam Clifford
@@ -598,12 +603,13 @@ source,target,year,month,day,mode,companion
 422,788,1661,12,7,walk,
 788,576,1661,12,8,walk,
 576,788,1661,12,8,walk,
-788,476,1661,12,9,walk,Mons. Eschar
+788,642,1661,12,9,walk,
+642,476,1661,12,9,walk,Mons. Eschar
 476,576,1661,12,9,walk,
 576,566,1661,12,9,walk,Mr. Moore
 566,788,1661,12,9,coach,
-788,576,1661,12,10,coach,
-576,337,1661,12,10,coach,Mr. Crew
+788,642,1661,12,10,walk,
+642,337,1661,12,10,coach,
 337,422,1661,12,10,walk,
 422,788,1661,12,10,walk,
 788,440,1661,12,11,walk,
@@ -613,20 +619,20 @@ source,target,year,month,day,mode,companion
 516,359,1661,12,11,walk,Sir W. Penn
 359,514,1661,12,11,walk,
 514,788,1661,12,11,walk,
-788,465,1661,12,12,boat,
-465,650,1661,12,12,walk,
-650,576,1661,12,12,walk,
-576,642,1661,12,12,walk,
-642,576,1661,12,12,walk,
-576,516,1661,12,12,walk,
+788,149,1661,12,12,walk,
+149,576,1661,12,12,walk,
+576,650,1661,12,12,walk,
+650,642,1661,12,12,walk,
+642,516,1661,12,12,walk,
 516,788,1661,12,12,walk,
 788,491,1661,12,13,walk,Elizabeth Pepys
 491,422,1661,12,13,walk,Sir W. Batten;Sir W. Penn
 422,556,1661,12,13,walk,
-556,788,1661,12,13,walk,coach
+556,788,1661,12,13,coach,
 788,576,1661,12,16,coach,Mr. Moore;Mr. Bollen
-576,93,1661,12,16,coach,
-93,650,1661,12,16,walk,Elizabeth Pepys
+576,93,1661,12,16,coach,Mr. Moore;Mr. Bollen
+93,610,1661,12,16,coach,Mr. Moore
+610,650,1661,12,16,walk,Elizabeth Pepys
 650,158,1661,12,16,walk,Elizabeth Pepys
 158,788,1661,12,16,coach,Elizabeth Pepys
 788,491,1661,12,17,walk,
@@ -645,19 +651,22 @@ source,target,year,month,day,mode,companion
 788,576,1661,12,20,walk,Mr. Moore
 576,788,1661,12,20,walk,Mr. Moore
 788,465,1661,12,21,walk,
-465,610,1661,12,21,walk,Mrs. Sarah;Mrs. Betty
+465,650,1661,12,21,walk,Mrs. Sarah;Mrs. Betty
+650,610,1661,12,21,walk,
 610,148,1661,12,21,walk,
-148,59,1661,12,21,walk,Tom Pepys
+148,59,1661,12,21,walk,
 59,788,1661,12,21,coach,
 544,544,1661,12,22,walk,
 544,544,1661,12,22,walk,Elizabeth Pepys
 788,576,1661,12,23,coach,Mr. Moore
 576,93,1661,12,23,coach,Mr. Moore
-93,465,1661,12,23,walk,Sir W. Penn
-465,59,1661,12,23,walk,
+93,610,1661,12,23,coach,Mr. Moore
+610,597,1661,12,23,boat,Sir W. Penn
+597,59,1661,12,23,walk,
 59,419,1661,12,23,walk,
-419,546,1661,12,23,walk,
-546,788,1661,12,23,coach,
+59,546,1661,12,23,coach,
+546,554,1661,12,23,walk,Mr. Crumlum
+554,788,1661,12,23,walk,
 788,422,1661,12,24,walk,
 422,788,1661,12,24,walk,
 544,516,1661,12,25,walk,Sir W. Penn

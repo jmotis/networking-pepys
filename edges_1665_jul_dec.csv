@@ -191,8 +191,6 @@ source,target,year,month,day,mode,companion
 309,642,1665,10,14,coach,Lord Bruncker
 642,214,1665,10,14,coach,Lord Bruncker
 214,55,1665,10,15,coach,Mr. Povy
-55,518,1665,10,15,coach,Mr. Povy (Sir R. Viner's)
-518,55,1665,10,15,coach,Mr. Povy
 55,214,1665,10,15,boat,
 214,422,1665,10,16,walk,
 422,583,1665,10,16,boat,
@@ -241,19 +239,20 @@ source,target,year,month,day,mode,companion
 167,258,1665,11,3,boat,
 258,167,1665,11,4,boat,
 167,214,1665,11,4,boat,
-214,642,1665,11,5,boat,
-642,505,1665,11,5,walk,
+214,104,1665,11,5,boat,
+104,505,1665,11,5,walk,
 505,145,1665,11,5,boat,
 145,379,1665,11,5,walk,Mr. Evelyn
 379,214,1665,11,5,coach,Captain Cocke
 214,422,1665,11,6,walk,Captain Cocke; Mr. Evelyn
 422,309,1665,11,6,coach,Captain Cocke; Mr. Evelyn
-309,642,1665,11,6,walk,Captain Cocke; Mr. Evelyn
+309,104,1665,11,6,walk,Captain Cocke; Mr. Evelyn
+104,642,1665,11,6,walk,Sir G. Carteret
 642,77,1665,11,6,boat,Sir G. Carteret; Captain Cocke
 77,214,1665,11,7,boat,Sir G. Carteret; Sir W. Batten
 214,309,1665,11,7,coach,Sir G. Carteret; Sir W. Batten
-309,642,1665,11,7,coach,Sir G. Carteret; Sir W. Batten
-642,214,1665,11,7,coach,
+309,155,1665,11,7,boat,Sir G. Carteret; Sir W. Batten
+155,214,1665,11,7,coach,
 214,167,1665,11,8,boat,
 167,214,1665,11,8,boat,
 214,145,1665,11,8,boat,
@@ -287,8 +286,8 @@ source,target,year,month,day,mode,companion
 667,214,1665,11,19,walk,Captain Cocke
 214,435,1665,11,20,horse,
 435,214,1665,11,20,horse,
-214,645,1665,11,22,boat,
-645,422,1665,11,22,walk,
+214,155,1665,11,22,boat,
+155,422,1665,11,22,walk,
 422,789,1665,11,22,walk,
 789,422,1665,11,22,walk,
 422,214,1665,11,22,boat,
@@ -348,7 +347,6 @@ source,target,year,month,day,mode,companion
 217,422,1665,12,9,boat,
 422,214,1665,12,9,boat,
 214,422,1665,12,10,walk,Captain Cocke
-422,422,1665,12,11,walk,
 214,422,1665,12,11,boat,
 422,131,1665,12,11,walk,Mr. Gawden
 131,422,1665,12,11,walk,
@@ -365,19 +363,18 @@ source,target,year,month,day,mode,companion
 642,214,1665,12,14,boat,
 214,422,1665,12,16,boat,Sir W. Warren
 422,85,1665,12,16,boat,
-85,85,1665,12,16,walk,Sir G. Downing
-85,610,1665,12,16,walk,Sir W. Warren
+85,693,1665,12,16,walk,Sir G. Downing
+693,610,1665,12,16,walk,Sir W. Warren
 610,444,1665,12,16,walk,
 444,422,1665,12,16,boat,
 422,214,1665,12,16,boat,
-214,17,1665,12,17,boat,Cutler's coach
-17,214,1665,12,17,coach,
-214,145,1665,12,17,walk,Mr. Evelyn
+214,223,1665,12,17,coach,Mr. Cutler
+223,145,1665,12,17,coach,Mr. Cutler
+145,214,1665,12,17,walk,Mr. Evelyn
 145,214,1665,12,17,walk,
 214,422,1665,12,18,walk,
 422,788,1665,12,18,walk,
 788,789,1665,12,18,walk,
-789,789,1665,12,18,walk,
 789,422,1665,12,18,walk,
 422,214,1665,12,18,boat,Sir W. Warren
 214,422,1665,12,19,walk,
