@@ -1,0 +1,683 @@
+source,target,year,month,day,mode,companion
+788,145,1661,6,29,boat,Sir W. Batten;Sir W. Penn
+145,788,1661,6,29,boat,Sir W. Batten;Sir W. Penn
+788,34,1661,6,29,walk,
+34,788,1661,6,29,walk,
+544,788,1661,6,30,walk,
+788,642,1661,6,30,boat,Sir W. Batten;Sir W. Penn
+642,207,1661,6,30,walk,
+207,788,1661,6,30,walk,
+788,422,1661,7,1,walk,
+422,788,1661,7,1,walk,
+788,610,1661,7,2,walk,
+610,788,1661,7,2,walk,
+788,422,1661,7,2,walk,
+422,158,1661,7,2,coach,
+158,788,1661,7,2,walk,
+788,642,1661,7,3,walk,Edward Montagu
+642,576,1661,7,3,walk,
+576,154,1661,7,3,walk,
+154,422,1661,7,3,walk,
+422,514,1661,7,3,walk,
+514,788,1661,7,3,walk,
+788,577,1661,7,4,walk,
+577,174,1661,7,4,walk,
+174,789,1661,7,4,walk,
+789,358,1661,7,4,walk,
+358,788,1661,7,4,walk,
+788,422,1661,7,5,walk,
+422,514,1661,7,5,walk,
+514,788,1661,7,5,walk,
+788,592,1661,7,6,walk,
+592,650,1661,7,6,walk,
+650,522,1661,7,6,walk,
+522,51,1661,7,6,horse,
+51,52,1661,7,7,walk,
+52,51,1661,7,7,walk,
+51,680,1661,7,14,walk,
+680,238,1661,7,14,walk,
+238,51,1661,7,14,walk,
+51,65,1661,7,15,horse,
+65,66,1661,7,15,walk,
+66,69,1661,7,15,walk,
+69,483,1661,7,15,walk,Dr. Fairbrother
+483,277,1661,7,15,horse,
+277,202,1661,7,15,horse,
+202,51,1661,7,15,horse,
+51,270,1661,7,20,horse,
+270,682,1661,7,20,walk,Sir Robert Bernard
+682,270,1661,7,20,walk,
+270,767,1661,7,20,walk,Tom Trice;Jaspar Trice
+767,51,1661,7,20,walk,
+51,41,1661,7,22,horse,
+41,232,1661,7,22,horse,
+232,788,1661,7,22,horse,
+788,592,1661,7,22,walk,
+592,174,1661,7,22,walk,
+174,650,1661,7,22,walk,
+650,788,1661,7,22,walk,
+788,516,1661,7,23,walk,
+788,514,1661,7,23,walk,
+788,610,1661,7,23,walk,
+610,577,1661,7,23,walk,
+577,174,1661,7,23,walk,
+174,592,1661,7,23,walk,
+592,788,1661,7,23,walk,
+788,642,1661,7,24,boat,Elizabeth Pepys
+642,576,1661,7,24,walk,
+576,788,1661,7,24,boat,Elizabeth Pepys
+422,789,1661,7,25,walk,
+789,174,1661,7,25,walk,
+174,158,1661,7,25,walk,Mr. Moore
+158,788,1661,7,25,walk,Mr. Moore
+788,459,1661,7,26,walk,
+459,788,1661,7,26,walk,
+788,610,1661,7,27,walk,
+610,576,1661,7,27,walk,Elizabeth Pepys
+576,788,1661,7,27,boat,Elizabeth Pepys;Lady Jemima;Lady Paulina
+788,576,1661,7,27,boat,Elizabeth Pepys;Lady Jemima;Lady Paulina
+576,788,1661,7,27,coach,Elizabeth Pepys
+544,576,1661,7,28,boat,Sir W. Penn
+576,788,1661,7,28,walk,
+422,510,1661,7,29,walk,Sir R. Slingsby
+510,422,1661,7,29,walk,Sir R. Slingsby
+422,642,1661,7,29,walk,Sir R. Slingsby
+788,642,1661,7,30,walk,
+642,610,1661,7,30,walk,
+610,576,1661,7,30,boat,
+576,422,1661,7,30,walk,
+422,788,1661,7,30,walk,
+788,234,1661,7,30,walk,
+234,788,1661,7,30,walk,
+422,145,1661,8,1,coach,Sir W. Batten;Sir W. Penn;Elizabeth Pepys;Mrs. Pen
+145,788,1661,8,1,coach,Sir W. Batten;Sir W. Penn;Elizabeth Pepys;Mrs. Pen
+788,422,1661,8,2,walk,
+788,606,1661,8,2,horse,
+606,23,1661,8,3,horse,
+23,65,1661,8,3,horse,
+65,587,1661,8,3,walk,Roger Pepys
+587,483,1661,8,3,walk,
+483,277,1661,8,3,horse,Roger Pepys
+277,552,1661,8,5,horse,
+552,270,1661,8,5,horse,
+270,51,1661,8,5,horse,
+51,671,1661,8,5,horse,
+671,202,1661,8,5,horse,
+202,51,1661,8,5,horse,
+51,270,1661,8,6,horse,
+270,51,1661,8,6,horse,Tom Trice
+51,767,1661,8,6,walk,Tom Trice
+767,51,1661,8,6,walk,
+51,18,1661,8,6,horse,
+18,232,1661,8,7,horse,
+232,788,1661,8,7,horse,
+788,650,1661,8,7,walk,Dean Fuller
+650,788,1661,8,7,walk,
+788,642,1661,8,8,walk,
+642,576,1661,8,8,walk,Mr. Moore
+576,642,1661,8,8,walk,
+642,492,1661,8,8,walk,
+492,418,1661,8,8,walk,Mons. Eschar
+418,174,1661,8,8,coach,
+174,788,1661,8,8,coach,
+788,422,1661,8,9,walk,
+422,418,1661,8,9,walk,
+418,422,1661,8,9,walk,
+422,642,1661,8,9,walk,
+642,788,1661,8,9,walk,
+788,650,1661,8,10,walk,
+650,158,1661,8,10,coach,
+158,788,1661,8,10,coach,
+544,99,1661,8,11,walk,
+99,207,1661,8,11,walk,
+207,174,1661,8,11,walk,
+174,788,1661,8,11,walk,
+788,374,1661,8,12,walk,
+374,576,1661,8,12,walk,
+576,788,1661,8,12,walk,
+642,576,1661,8,13,walk,
+576,174,1661,8,13,walk,
+174,396,1661,8,13,walk,
+396,788,1661,8,13,walk,
+788,642,1661,8,14,walk,
+642,576,1661,8,14,walk,
+576,158,1661,8,14,coach,Captain Ferrers
+158,516,1661,8,14,coach,Sir W. Penn
+516,149,1661,8,14,walk,Sir W. Penn
+149,514,1661,8,14,walk,Sir W. Penn
+514,788,1661,8,14,walk,
+642,576,1661,8,15,walk,Sir W. Penn
+576,158,1661,8,15,walk,Captain Ferrers
+158,149,1661,8,15,walk,
+149,514,1661,8,15,walk,
+514,788,1661,8,15,walk,
+422,541,1661,8,17,walk,Ned Pickering
+541,576,1661,8,17,walk,
+576,158,1661,8,17,coach,Captain Ferrers
+158,146,1661,8,17,walk,Captain Ferrers
+146,788,1661,8,17,coach,
+576,642,1661,8,18,walk,
+642,418,1661,8,18,walk,
+418,541,1661,8,18,walk,
+541,788,1661,8,18,walk,
+788,576,1661,8,19,walk,Elizabeth Pepys
+576,465,1661,8,19,walk,
+465,576,1661,8,19,walk,
+576,788,1661,8,19,walk,
+465,668,1661,8,19,coach,
+668,93,1661,8,19,coach,Mr. Moore
+93,642,1661,8,19,walk,
+642,788,1661,8,19,walk,
+788,174,1661,8,21,walk,
+174,152,1661,8,21,walk,
+152,600,1661,8,21,walk,
+600,642,1661,8,21,walk,
+642,174,1661,8,21,walk,
+174,576,1661,8,21,walk,
+576,788,1661,8,21,walk,
+788,465,1661,8,22,walk,
+465,788,1661,8,22,walk,
+788,591,1661,8,22,coach,Elizabeth Pepys
+591,544,1661,8,22,walk,
+544,592,1661,8,22,coach,Elizabeth Pepys
+592,788,1661,8,22,coach,Elizabeth Pepys
+788,174,1661,8,23,walk,
+174,152,1661,8,23,walk,Dr. Williams
+152,148,1661,8,23,walk,Dr. Williams
+148,600,1661,8,23,walk,Dr. Williams
+600,158,1661,8,23,walk,Elizabeth Pepys
+158,576,1661,8,23,walk,Elizabeth Pepys
+576,788,1661,8,23,walk,Elizabeth Pepys
+422,514,1661,8,24,walk,
+514,510,1661,8,24,walk,Comptroller
+510,358,1661,8,24,walk,
+358,158,1661,8,24,walk,
+158,788,1661,8,24,walk,
+788,490,1661,8,24,walk,Mr. Spong
+490,788,1661,8,24,walk,
+788,592,1661,8,25,walk,
+592,788,1661,8,25,walk,
+788,174,1661,8,26,walk,
+174,148,1661,8,26,walk,
+148,576,1661,8,26,walk,
+576,158,1661,8,26,walk,Mr. Bostock
+158,146,1661,8,26,walk,Mr. Bostock
+146,591,1661,8,26,walk,
+591,127,1661,8,26,walk,Mr. Fanshaw
+127,788,1661,8,26,walk,
+788,576,1661,8,27,walk,
+576,422,1661,8,27,walk,
+422,120,1661,8,27,coach,Elizabeth Pepys
+120,577,1661,8,27,coach,Elizabeth Pepys
+577,174,1661,8,27,walk,
+174,788,1661,8,27,walk,
+422,789,1661,8,28,walk,Dr. Williams
+789,788,1661,8,28,walk,
+788,174,1661,8,29,walk,
+174,591,1661,8,29,walk,
+591,788,1661,8,29,walk,
+576,153,1661,8,30,coach,
+153,788,1661,8,30,coach,Elizabeth Pepys
+788,576,1661,8,31,walk,
+576,27,1661,8,31,walk,Luellin
+27,576,1661,8,31,walk,
+576,97,1661,8,31,walk,Mr. Pickering;Ladies Jemima & Paulina
+97,576,1661,8,31,walk,Mr. Pickering;Ladies Jemima & Paulina
+576,358,1661,8,31,walk,Mr. Moore
+358,788,1661,8,31,walk,Mr. Moore
+544,514,1661,9,1,walk,
+514,642,1661,9,1,coach,Captain Holmes
+642,418,1661,9,1,walk,
+418,174,1661,9,1,walk,
+174,788,1661,9,1,walk,
+788,120,1661,9,2,walk,
+120,642,1661,9,2,walk,
+642,576,1661,9,2,boat,Captain Ferrers
+576,642,1661,9,2,walk,
+642,610,1661,9,2,walk,
+610,476,1661,9,2,walk,Mr. Pickering
+476,578,1661,9,2,boat,
+578,358,1661,9,2,walk,
+358,788,1661,9,2,walk,
+788,576,1661,9,3,walk,Elizabeth Pepys
+576,174,1661,9,3,walk,
+174,788,1661,9,3,coach,Elizabeth Pepys
+788,465,1661,9,4,walk,
+465,541,1661,9,4,walk,Elizabeth Pepys
+541,656,1661,9,4,walk,Elizabeth Pepys
+656,418,1661,9,4,walk,
+418,174,1661,9,4,walk,Elizabeth Pepys
+174,788,1661,9,4,coach,Elizabeth Pepys
+788,465,1661,9,5,walk,
+465,591,1661,9,5,walk,
+591,27,1661,9,5,walk,Elizabeth Pepys;Pall
+27,591,1661,9,5,walk,Elizabeth Pepys;Pall
+591,788,1661,9,5,walk,Elizabeth Pepys
+788,13,1661,9,6,walk,Uncle Fenner
+13,158,1661,9,6,walk,
+158,499,1661,9,6,walk,Sir W. Penn
+499,788,1661,9,6,coach,Sir W. Penn
+788,576,1661,9,7,coach,Elizabeth Pepys
+576,577,1661,9,7,walk,Elizabeth Pepys
+577,576,1661,9,7,walk,Elizabeth Pepys
+576,788,1661,9,7,coach,Elizabeth Pepys
+788,544,1661,9,8,walk,Elizabeth Pepys
+544,788,1661,9,8,walk,Elizabeth Pepys
+788,544,1661,9,8,walk,Elizabeth Pepys
+544,788,1661,9,8,walk,Elizabeth Pepys
+576,174,1661,9,9,walk,
+174,788,1661,9,9,walk,
+788,465,1661,9,9,walk,Captain Morrice
+465,297,1661,9,9,walk,Captain Morrice
+297,642,1661,9,9,walk,Captain Morrice
+642,610,1661,9,9,walk,
+610,488,1661,9,9,walk,
+488,149,1661,9,9,walk,
+149,788,1661,9,9,walk,
+788,149,1661,9,10,walk,Mr. Moore
+149,576,1661,9,10,walk,Elizabeth Pepys
+576,59,1661,9,10,walk,
+59,576,1661,9,10,walk,
+576,788,1661,9,10,walk,
+788,148,1661,9,11,walk,Thomas Trice
+148,152,1661,9,11,walk,Dr. Williams
+152,576,1661,9,11,walk,Mr. Moore
+576,788,1661,9,11,walk,
+788,422,1661,9,12,walk,
+422,576,1661,9,12,boat,
+576,158,1661,9,12,walk,
+158,500,1661,9,12,walk,
+500,514,1661,9,12,walk,
+514,788,1661,9,12,walk,
+788,6,1661,9,13,walk,Uncle Fenner
+6,576,1661,9,13,walk,Dr. Williams
+576,788,1661,9,13,boat,Elizabeth Pepys
+788,789,1661,9,14,walk,
+789,788,1661,9,14,walk,Uncle Fenner
+591,544,1661,9,15,walk,Elizabeth Pepys
+544,788,1661,9,15,walk,Elizabeth Pepys
+788,576,1661,9,17,walk,
+576,788,1661,9,17,walk,
+788,606,1661,9,17,horse,Elizabeth Pepys
+606,65,1661,9,18,horse,Elizabeth Pepys
+65,67,1661,9,18,walk,Elizabeth Pepys
+67,66,1661,9,18,walk,
+66,67,1661,9,18,walk,
+67,277,1661,9,18,horse,Elizabeth Pepys
+277,65,1661,9,19,horse,
+65,31,1661,9,19,horse,Elizabeth Pepys
+65,772,1661,9,19,horse,
+772,65,1661,9,19,horse,Elizabeth Pepys
+65,771,1661,9,19,horse,Elizabeth Pepys
+771,65,1661,9,19,horse,Elizabeth Pepys
+65,31,1661,9,19,horse,Elizabeth Pepys
+31,51,1661,9,19,horse,Elizabeth Pepys
+51,202,1661,9,20,horse,Will Stankes
+202,438,1661,9,20,horse,
+438,51,1661,9,20,horse,Will Stankes
+51,270,1661,9,21,horse,
+270,238,1661,9,21,horse,
+238,51,1661,9,21,horse,
+51,18,1661,9,23,horse,Elizabeth Pepys
+18,558,1661,9,23,horse,Elizabeth Pepys
+558,608,1661,9,23,horse,Elizabeth Pepys
+608,683,1661,9,24,horse,Elizabeth Pepys
+683,788,1661,9,24,horse,Elizabeth Pepys
+788,576,1661,9,24,walk,
+576,788,1661,9,24,walk,
+788,698,1661,9,25,coach,Sir W. Penn
+698,642,1661,9,25,coach,Sir R. Slingsby
+642,372,1661,9,25,walk,
+372,337,1661,9,25,walk,
+337,577,1661,9,25,walk,
+577,788,1661,9,25,coach,Sir W. Penn;Sir G. More
+788,577,1661,9,26,coach,Elizabeth Pepys
+577,788,1661,9,26,coach,Elizabeth Pepys
+788,642,1661,9,27,coach,Elizabeth Pepys
+642,576,1661,9,27,walk,Elizabeth Pepys
+576,642,1661,9,27,walk,
+642,576,1661,9,27,walk,
+576,788,1661,9,27,coach,Elizabeth Pepys
+788,576,1661,9,28,walk,
+576,577,1661,9,28,walk,Sir W. Penn;Elizabeth Pepys
+577,788,1661,9,28,walk,Sir W. Penn
+514,788,1661,9,29,walk,
+788,642,1661,9,30,walk,
+642,474,1661,9,30,walk,
+474,465,1661,9,30,walk,Mr. Moore
+465,93,1661,9,30,coach,Mr. Moore
+93,642,1661,9,30,coach,Mr. Moore
+642,528,1661,9,30,walk,
+528,576,1661,9,30,walk,
+576,789,1661,9,30,walk,
+789,578,1661,9,30,boat,
+578,642,1661,9,30,walk,
+642,672,1661,9,30,walk,
+672,642,1661,9,30,walk,
+642,788,1661,9,30,coach,
+788,422,1661,10,1,walk,
+422,788,1661,10,1,walk,
+788,13,1661,10,2,walk,Uncle Fenner
+13,788,1661,10,2,walk,Uncle Fenner
+788,577,1661,10,2,coach,Elizabeth Pepys
+577,788,1661,10,2,coach,Elizabeth Pepys
+788,582,1661,10,3,walk,Mr. Moore
+582,358,1661,10,3,walk,Mr. Moore
+358,788,1661,10,3,walk,
+788,642,1661,10,4,coach,Sir W. Penn
+642,684,1661,10,4,walk,
+684,576,1661,10,4,walk,
+576,577,1661,10,4,walk,Captain Ferrers
+577,788,1661,10,4,walk,
+788,422,1661,10,5,walk,
+422,149,1661,10,5,walk,Sir W. Penn
+149,788,1661,10,5,walk,
+544,536,1661,10,6,walk,
+536,788,1661,10,6,walk,
+788,591,1661,10,7,walk,
+591,152,1661,10,7,walk,
+152,788,1661,10,7,walk,
+514,577,1661,10,8,coach,Martha
+577,788,1661,10,8,coach,
+788,577,1661,10,9,walk,Mrs. Pierce;Madam Clifford
+577,418,1661,10,9,walk,Mrs. Pierce;Madam Clifford
+418,180,1661,10,9,walk,Luellin
+180,788,1661,10,9,coach,
+788,660,1661,10,10,coach,Elizabeth Pepys;Sir W. Penn
+660,577,1661,10,10,coach,Elizabeth Pepys;Sir W. Penn
+577,788,1661,10,10,walk,Elizabeth Pepys
+788,642,1661,10,14,boat,
+642,576,1661,10,14,walk,
+576,741,1661,10,14,walk,Captain Ferrers
+741,182,1661,10,14,walk,Captain Ferrers
+182,788,1661,10,14,walk,
+788,546,1661,10,15,walk,
+546,788,1661,10,15,walk,
+422,169,1661,10,17,walk,Captain Lambert
+169,561,1661,10,17,walk,Captain Cock
+561,169,1661,10,17,walk,Captain Lambert
+169,788,1661,10,17,walk,
+788,642,1661,10,18,walk,
+642,576,1661,10,18,walk,Elizabeth Pepys
+576,148,1661,10,18,walk,Mr. Moore
+148,576,1661,10,18,walk,Mr. Moore
+576,650,1661,10,18,walk,
+650,788,1661,10,18,walk,
+788,79,1661,10,19,coach,Mr. Coventry;Sir G. Carteret;Sir W. Penn
+79,788,1661,10,19,coach,
+544,514,1661,10,20,walk,
+514,788,1661,10,20,walk,
+788,93,1661,10,21,coach,Mr. Moore;Mr. Pargiter
+93,465,1661,10,21,walk,Sir W. Penn
+465,576,1661,10,21,walk,
+576,158,1661,10,21,walk,
+158,788,1661,10,21,walk,
+788,642,1661,10,23,walk,Sir W. Penn
+642,315,1661,10,23,walk,Sir W. Penn
+315,93,1661,10,23,coach,Sir W. Penn
+93,158,1661,10,23,walk,
+158,514,1661,10,23,walk,Sir Robert Slingsby
+514,788,1661,10,23,walk,
+422,566,1661,10,24,walk,Elizabeth Pepys;Tom
+566,788,1661,10,24,walk,
+788,642,1661,10,25,walk,Elizabeth Pepys
+642,576,1661,10,25,walk,Elizabeth Pepys
+576,158,1661,10,25,walk,Elizabeth Pepys
+158,788,1661,10,25,walk,Elizabeth Pepys
+788,546,1661,10,28,walk,
+546,577,1661,10,28,walk,Captain Ferrers
+577,788,1661,10,28,walk,
+422,145,1661,10,30,walk,Captain Lambert
+145,514,1661,10,30,walk,
+514,788,1661,10,30,walk,
+788,642,1661,11,1,coach,Sir W. Penn
+642,580,1661,11,1,walk,Sir W. Penn
+580,577,1661,11,1,walk,
+577,788,1661,11,1,walk,
+422,576,1661,11,2,walk,
+576,788,1661,11,2,coach,Elizabeth Pepys
+788,642,1661,11,4,coach,Sir W. Penn;Elizabeth Pepys
+642,396,1661,11,4,walk,
+396,358,1661,11,4,walk,
+358,59,1661,11,4,coach,Elizabeth Pepys
+59,158,1661,11,4,walk,Elizabeth Pepys
+158,592,1661,11,4,walk,
+592,788,1661,11,4,coach,
+788,514,1661,11,5,walk,Sir W. Penn
+514,149,1661,11,5,walk,Sir W. Penn;Captain Cocke
+149,514,1661,11,5,walk,Sir W. Penn
+514,788,1661,11,5,walk,
+788,293,1661,11,6,walk,Mr. Davenport
+293,434,1661,11,6,walk,
+434,642,1661,11,6,walk,Mr. Moore
+642,788,1661,11,6,walk,
+788,642,1661,11,7,walk,
+642,152,1661,11,7,walk,
+152,422,1661,11,7,walk,
+422,788,1661,11,7,walk,
+788,591,1661,11,8,walk,
+591,6,1661,11,8,walk,Dr. Williams
+6,610,1661,11,8,walk,Commissioner Pett
+610,576,1661,11,8,boat,Commissioner Pett
+576,152,1661,11,8,walk,
+152,521,1661,11,8,walk,
+521,59,1661,11,8,walk,Tom Pepys
+59,566,1661,11,8,walk,Tom Pepys
+566,788,1661,11,8,walk,
+422,576,1661,11,9,walk,
+576,788,1661,11,9,walk,
+544,576,1661,11,10,walk,
+576,536,1661,11,10,walk,Mr. Turner
+536,592,1661,11,10,walk,Elizabeth Pepys
+592,514,1661,11,10,walk,
+514,788,1661,11,10,walk,
+788,576,1661,11,11,walk,Mr. Townsend;Mr. Moore
+576,189,1661,11,11,walk,Captain Ferrers
+189,133,1661,11,11,walk,Captain Ferrers
+133,576,1661,11,11,walk,
+576,788,1661,11,11,coach,
+788,613,1661,11,12,walk,Mr. Moore
+613,610,1661,11,12,walk,
+610,576,1661,11,12,boat,
+576,788,1661,11,12,boat,
+788,649,1661,11,13,walk,Sir W. Batten;Sir W. Penn
+649,642,1661,11,13,walk,
+642,418,1661,11,13,walk,
+418,337,1661,11,13,walk,
+337,577,1661,11,13,walk,
+577,788,1661,11,13,coach,
+788,642,1661,11,14,boat,
+642,576,1661,11,14,walk,
+576,741,1661,11,14,walk,Captain Ferrers
+741,182,1661,11,14,walk,Captain Ferrers
+182,788,1661,11,14,walk,
+788,576,1661,11,15,walk,Elizabeth Pepys
+576,465,1661,11,15,walk,
+465,158,1661,11,15,walk,Elizabeth Pepys;Captain Ferrers
+158,788,1661,11,15,coach,Elizabeth Pepys
+544,576,1661,11,17,walk,Sir W. Penn
+576,536,1661,11,17,walk,Mr. Turner
+536,592,1661,11,17,walk,Elizabeth Pepys
+592,514,1661,11,17,walk,
+514,788,1661,11,17,walk,
+788,545,1661,11,18,walk,Mr. Moore
+545,743,1661,11,18,walk,Mr. Moore
+743,367,1661,11,18,walk,Elizabeth Pepys
+367,577,1661,11,18,walk,Elizabeth Pepys
+577,788,1661,11,18,coach,Elizabeth Pepys
+788,610,1661,11,20,boat,
+610,576,1661,11,20,boat,
+576,566,1661,11,20,walk,Mr. Moore
+566,788,1661,11,20,walk,
+788,566,1661,11,21,walk,Mr. Moore
+566,204,1661,11,21,walk,
+204,546,1661,11,21,walk,
+546,422,1661,11,21,walk,
+422,566,1661,11,21,walk,
+566,149,1661,11,21,walk,Sir W. Batten
+149,788,1661,11,21,walk,
+788,149,1661,11,22,walk,Elizabeth Pepys;Sir W. Batten
+149,566,1661,11,22,walk,
+566,788,1661,11,22,walk,
+788,642,1661,11,23,walk,Elizabeth Pepys
+642,788,1661,11,23,walk,
+788,491,1661,11,23,coach,Commissioner Pett
+491,576,1661,11,23,walk,
+576,422,1661,11,23,walk,
+422,788,1661,11,23,walk,
+788,533,1661,11,24,walk,Captain Cocke
+533,561,1661,11,24,walk,Captain Cocke
+561,576,1661,11,24,walk,
+576,419,1661,11,24,walk,
+419,358,1661,11,24,walk,Mr. Young
+358,514,1661,11,24,walk,
+514,788,1661,11,24,walk,
+788,610,1661,11,25,walk,Captain Lambert
+610,149,1661,11,25,walk,Sir W. Penn;Major General Massy
+149,577,1661,11,25,walk,Sir W. Penn
+577,158,1661,11,25,walk,Mr. Sanchy
+158,180,1661,11,25,walk,
+180,358,1661,11,25,coach,Mr. Sanchy
+358,788,1661,11,25,walk,
+788,491,1661,11,27,walk,
+491,576,1661,11,27,walk,
+576,577,1661,11,27,walk,Captain Ferrers;Mr. Moore
+577,788,1661,11,27,coach,
+788,465,1661,11,29,walk,
+465,372,1661,11,29,walk,Mr. Coventry;Sir G. Carteret;Sir W. Batten;Sir W. Penn
+372,642,1661,11,29,boat,
+642,577,1661,11,29,walk,Sir W. Penn
+577,546,1661,11,29,walk,
+546,788,1661,11,29,walk,
+788,566,1661,11,30,walk,Dr. Williams
+566,576,1661,11,30,walk,
+576,422,1661,11,30,walk,
+422,149,1661,11,30,walk,Sir W. Batten;Captain Cock
+149,788,1661,11,30,walk,
+788,491,1661,12,2,walk,
+491,788,1661,12,2,walk,Mr. Moore
+788,158,1661,12,2,coach,Mr. Sanchy;Mrs. Mary Archer
+158,788,1661,12,2,coach,Mr. Sanchy;Mrs. Mary Archer
+788,491,1661,12,3,walk,
+491,576,1661,12,3,walk,Mr. Moore
+576,566,1661,12,3,walk,Mr. Moore
+566,576,1661,12,3,walk,
+576,422,1661,12,3,boat,
+422,788,1661,12,3,walk,
+788,642,1661,12,4,boat,Sir W. Batten;Sir W. Penn
+642,566,1661,12,4,boat,
+566,580,1661,12,4,walk,
+580,491,1661,12,4,walk,Sir W. Penn;Col. Treswell;Mr. Falconer
+491,788,1661,12,4,coach,Elizabeth Pepys
+788,158,1661,12,4,walk,Elizabeth Pepys
+158,788,1661,12,4,walk,Elizabeth Pepys
+788,491,1661,12,5,walk,
+491,597,1661,12,5,walk,Sir W. Batten;Sir W. Penn
+597,788,1661,12,5,walk,Sir W. Penn;Elizabeth Pepys
+788,158,1661,12,5,coach,Elizabeth Pepys
+158,419,1661,12,5,walk,
+419,788,1661,12,5,walk,
+788,610,1661,12,6,boat,
+610,148,1661,12,6,walk,Mr. Spicer;Mr. Hawly
+148,503,1661,12,6,walk,
+503,642,1661,12,6,walk,
+642,503,1661,12,6,walk,
+503,465,1661,12,6,walk,
+465,788,1661,12,6,coach,Sir W. Penn
+788,586,1661,12,7,walk,
+586,788,1661,12,7,walk,
+788,668,1661,12,7,walk,Mr. Moore
+668,642,1661,12,7,walk,Mr. Moore
+642,656,1661,12,7,walk,
+656,465,1661,12,7,walk,
+465,422,1661,12,7,boat,
+422,788,1661,12,7,walk,
+788,576,1661,12,8,walk,
+576,788,1661,12,8,walk,
+788,642,1661,12,9,walk,
+642,476,1661,12,9,walk,Mons. Eschar
+476,576,1661,12,9,walk,
+576,566,1661,12,9,walk,Mr. Moore
+566,788,1661,12,9,coach,
+788,642,1661,12,10,walk,
+642,337,1661,12,10,coach,
+337,422,1661,12,10,walk,
+422,788,1661,12,10,walk,
+788,440,1661,12,11,walk,
+440,358,1661,12,11,walk,
+358,788,1661,12,11,walk,
+788,516,1661,12,11,walk,
+516,359,1661,12,11,walk,Sir W. Penn
+359,514,1661,12,11,walk,
+514,788,1661,12,11,walk,
+788,149,1661,12,12,walk,
+149,576,1661,12,12,walk,
+576,650,1661,12,12,walk,
+650,642,1661,12,12,walk,
+642,516,1661,12,12,walk,
+516,788,1661,12,12,walk,
+788,491,1661,12,13,walk,Elizabeth Pepys
+491,422,1661,12,13,walk,Sir W. Batten;Sir W. Penn
+422,556,1661,12,13,walk,
+556,788,1661,12,13,coach,
+788,576,1661,12,16,coach,Mr. Moore;Mr. Bollen
+576,93,1661,12,16,coach,Mr. Moore;Mr. Bollen
+93,610,1661,12,16,coach,Mr. Moore
+610,650,1661,12,16,walk,Elizabeth Pepys
+650,158,1661,12,16,walk,Elizabeth Pepys
+158,788,1661,12,16,coach,Elizabeth Pepys
+788,491,1661,12,17,walk,
+491,465,1661,12,17,walk,
+465,422,1661,12,17,walk,
+422,788,1661,12,17,walk,
+788,576,1661,12,18,walk,Elizabeth Pepys
+576,566,1661,12,18,walk,Tom Pepys
+566,576,1661,12,18,walk,Tom Pepys
+576,788,1661,12,18,walk,
+788,491,1661,12,19,walk,Elizabeth Pepys
+491,788,1661,12,19,coach,Elizabeth Pepys
+788,149,1661,12,19,walk,Sir W. Warren
+149,422,1661,12,19,walk,
+422,788,1661,12,19,walk,
+788,576,1661,12,20,walk,Mr. Moore
+576,788,1661,12,20,walk,Mr. Moore
+788,465,1661,12,21,walk,
+465,650,1661,12,21,walk,Mrs. Sarah;Mrs. Betty
+650,610,1661,12,21,walk,
+610,148,1661,12,21,walk,
+148,59,1661,12,21,walk,
+59,788,1661,12,21,coach,
+788,576,1661,12,23,coach,Mr. Moore
+576,93,1661,12,23,coach,Mr. Moore
+93,610,1661,12,23,coach,Mr. Moore
+610,597,1661,12,23,boat,Sir W. Penn
+597,59,1661,12,23,walk,
+59,419,1661,12,23,walk,
+59,546,1661,12,23,coach,
+546,554,1661,12,23,walk,Mr. Crumlum
+554,788,1661,12,23,walk,
+788,422,1661,12,24,walk,
+422,788,1661,12,24,walk,
+544,516,1661,12,25,walk,Sir W. Penn
+516,788,1661,12,25,walk,Sir W. Penn
+788,597,1661,12,26,walk,Sir W. Penn
+597,788,1661,12,26,walk,Sir W. Penn
+788,359,1661,12,26,coach,Sir W. Penn
+359,788,1661,12,26,coach,Sir W. Penn
+788,546,1661,12,27,walk,
+546,545,1661,12,27,walk,Dr. Gunning
+545,788,1661,12,27,walk,
+788,516,1661,12,27,walk,
+516,788,1661,12,27,walk,
+788,422,1661,12,28,walk,
+422,788,1661,12,28,walk,Sir W. Penn
+788,609,1661,12,29,walk,Elizabeth Pepys
+609,642,1661,12,29,walk,Mr. Coventry
+642,576,1661,12,29,walk,Elizabeth Pepys
+576,788,1661,12,29,walk,Elizabeth Pepys
+788,491,1661,12,30,walk,Elizabeth Pepys;Sir W. Penn
+491,358,1661,12,30,walk,
+358,788,1661,12,30,walk,
+788,491,1661,12,31,walk,Elizabeth Pepys
+491,422,1661,12,31,walk,
+422,788,1661,12,31,walk,

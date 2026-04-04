@@ -1,0 +1,473 @@
+source,target,year,month,day,mode,companion
+788,461,1662,5,1,coach,Sir G. Carteret; Sir W. Penn
+461,221,1662,5,1,coach,Sir G. Carteret; Sir W. Penn
+221,788,1662,5,2,coach,
+788,389,1662,5,2,coach,my wife
+389,650,1662,5,2,coach,
+650,788,1662,5,2,coach,my wife
+788,540,1662,5,3,coach,Sir W. Penn
+540,610,1662,5,3,walk,
+610,576,1662,5,3,walk,Mr. Moore
+576,583,1662,5,3,coach,my Lady Sandwich; Sir Thomas Crew's children
+583,788,1662,5,3,coach,my Lady Sandwich; Sir Thomas Crew's children
+788,59,1662,5,4,walk,my wife
+59,544,1662,5,4,walk,my wife
+544,419,1662,5,4,walk,my wife
+419,205,1662,5,4,walk,my wife
+205,788,1662,5,4,walk,my wife
+788,789,1662,5,6,walk,
+789,788,1662,5,6,walk,
+788,610,1662,5,7,walk,
+610,337,1662,5,7,walk,
+337,546,1662,5,7,walk,
+546,577,1662,5,7,walk,Mrs. Turner
+577,275,1662,5,7,coach,Mrs. Turner
+275,419,1662,5,7,coach,Mrs. Turner
+419,788,1662,5,7,walk,
+788,576,1662,5,8,walk,
+576,546,1662,5,8,walk,
+546,789,1662,5,8,coach,Sir G. Carteret
+789,788,1662,5,8,walk,
+788,422,1662,5,9,walk,
+422,610,1662,5,9,walk,
+610,377,1662,5,9,walk,
+377,123,1662,5,9,walk,Mr. Salisbury
+123,566,1662,5,9,walk,
+566,788,1662,5,9,boat,
+788,576,1662,5,10,walk,
+576,788,1662,5,10,walk,
+788,544,1662,5,11,walk,
+544,642,1662,5,11,walk,
+642,541,1662,5,11,walk,
+541,576,1662,5,11,walk,
+576,788,1662,5,11,walk,
+788,576,1662,5,11,walk,my wife
+576,788,1662,5,11,walk,my wife
+788,576,1662,5,12,boat,my wife; Mr. Townsend
+576,228,1662,5,12,boat,my wife; Mr. Townsend
+228,576,1662,5,12,boat,my wife; Mr. Townsend
+576,788,1662,5,12,coach,my wife
+788,610,1662,5,14,walk,
+610,576,1662,5,14,walk,
+576,59,1662,5,14,walk,
+59,546,1662,5,14,walk,
+546,788,1662,5,14,walk,
+788,610,1662,5,15,walk,
+610,788,1662,5,15,walk,
+788,566,1662,5,17,walk,
+566,642,1662,5,17,walk,Mr. Moore
+642,610,1662,5,17,walk,Mr. Moore
+610,576,1662,5,17,walk,Mr. Moore; my Lady
+576,684,1662,5,17,walk,my Lady
+684,576,1662,5,17,walk,my Lady
+576,59,1662,5,17,walk,
+59,788,1662,5,17,walk,
+788,642,1662,5,18,boat,
+642,503,1662,5,18,walk,Sir G. Carteret
+503,642,1662,5,18,walk,Sir G. Carteret
+642,788,1662,5,18,coach,
+788,566,1662,5,19,walk,
+566,59,1662,5,19,walk,
+59,788,1662,5,19,walk,
+788,577,1662,5,19,coach,Sir W. Penn; my wife
+577,359,1662,5,19,coach,Sir W. Penn; my wife
+359,788,1662,5,19,walk,my wife
+788,158,1662,5,20,walk,
+158,586,1662,5,20,walk,
+586,225,1662,5,20,boat,my wife
+225,788,1662,5,20,boat,my wife
+788,642,1662,5,21,boat,my wife
+642,610,1662,5,21,walk,my wife
+610,656,1662,5,21,walk,my wife; Sarah
+656,577,1662,5,21,walk,my wife
+577,59,1662,5,21,coach,my wife
+59,788,1662,5,21,walk,my wife
+788,576,1662,5,22,walk,my wife
+576,789,1662,5,22,walk,my wife; Mr. Creed
+789,576,1662,5,22,walk,Mr. Creed
+576,59,1662,5,22,walk,my wife
+59,788,1662,5,22,walk,my wife
+788,576,1662,5,23,walk,my wife
+576,788,1662,5,23,walk,
+788,576,1662,5,24,walk,
+576,788,1662,5,24,walk,Mr. Shepley
+788,576,1662,5,25,walk,
+576,576,1662,5,25,walk,
+576,788,1662,5,25,walk,
+788,576,1662,5,26,walk,
+576,473,1662,5,26,coach,my wife
+473,359,1662,5,26,coach,my wife
+359,788,1662,5,26,coach,my wife
+788,650,1662,5,27,walk,
+650,576,1662,5,27,walk,Mr. Creed; Captain Ferrers
+576,726,1662,5,28,walk,my father; uncle Wight
+726,576,1662,5,28,walk,
+576,788,1662,5,28,walk,
+788,576,1662,5,29,walk,my wife
+576,185,1662,5,29,boat,my wife
+185,788,1662,5,29,boat,my wife
+788,642,1662,5,31,walk,
+642,59,1662,5,31,walk,my father
+59,788,1662,5,31,walk,my father
+788,576,1662,5,31,walk,
+576,788,1662,5,31,walk,
+788,544,1662,6,1,walk,
+544,788,1662,6,1,walk,Mr. Spong; Mr. Shepley; Mr. Moore
+788,576,1662,6,2,boat,Mr. Moore
+576,59,1662,6,2,walk,my father
+59,788,1662,6,2,coach,my father; my wife
+788,419,1662,6,2,coach,my wife
+419,576,1662,6,2,boat,my wife
+576,788,1662,6,2,coach,
+788,422,1662,6,3,walk,
+422,586,1662,6,3,walk,Mr. Creed; Mr. Shepley
+586,788,1662,6,3,walk,Mr. Creed; Mr. Shepley
+788,785,1662,6,3,walk,my father; Dr. Williams
+785,576,1662,6,3,walk,
+576,788,1662,6,3,walk,
+788,667,1662,6,4,boat,Sir W. Batten
+667,380,1662,6,4,walk,Sir W. Batten
+380,667,1662,6,4,walk,Sir W. Batten
+667,650,1662,6,4,walk,
+650,642,1662,6,4,walk,Sir G. Carteret
+642,576,1662,6,4,walk,
+576,788,1662,6,4,walk,
+788,576,1662,6,5,walk,
+576,422,1662,6,5,walk,
+422,3,1662,6,5,walk,Mr. Moore
+3,576,1662,6,5,walk,Mr. Moore
+576,788,1662,6,5,walk,
+788,576,1662,6,6,walk,my father
+576,59,1662,6,6,walk,my father
+59,788,1662,6,6,walk,my father
+788,588,1662,6,7,boat,Mr. Coventry; Sir W. Batten
+588,503,1662,6,7,walk,Sir G. Carteret
+503,788,1662,6,7,walk,
+788,544,1662,6,8,walk,
+544,576,1662,6,8,walk,my wife
+576,788,1662,6,8,walk,my wife
+788,789,1662,6,9,walk,
+789,788,1662,6,9,walk,
+788,422,1662,6,10,walk,
+422,576,1662,6,10,walk,
+576,788,1662,6,10,walk,
+788,422,1662,6,11,walk,
+422,788,1662,6,11,walk,
+788,422,1662,6,12,walk,
+422,788,1662,6,12,walk,
+788,503,1662,6,13,walk,Sir G. Carteret
+503,59,1662,6,13,walk,
+59,650,1662,6,13,walk,
+650,225,1662,6,13,walk,my wife; Sarah
+225,788,1662,6,13,walk,my wife; Sarah
+788,145,1662,6,14,walk,
+145,588,1662,6,14,boat,
+588,422,1662,6,14,walk,
+422,788,1662,6,14,walk,
+788,544,1662,6,15,walk,
+544,788,1662,6,15,walk,
+788,422,1662,6,16,walk,Will
+422,532,1662,6,16,walk,Will
+532,145,1662,6,16,boat,Will
+145,475,1662,6,16,walk,
+475,586,1662,6,16,boat,
+586,576,1662,6,16,boat,my wife
+576,212,1662,6,16,boat,my wife; children
+212,576,1662,6,16,boat,my wife; children
+576,788,1662,6,16,walk,Will; my wife
+788,422,1662,6,17,walk,
+422,514,1662,6,17,walk,Sir J. Minnes; Sir W. Penn
+514,788,1662,6,17,walk,
+788,422,1662,6,18,walk,
+422,319,1662,6,18,walk,Mr. Creed
+319,337,1662,6,18,walk,
+337,523,1662,6,18,walk,Mr. Pett
+523,316,1662,6,18,walk,Mr. Pett
+316,566,1662,6,18,walk,Mr. Pett
+566,789,1662,6,18,coach,Mr. Pett
+789,788,1662,6,18,walk,
+788,422,1662,6,19,walk,
+422,3,1662,6,19,walk,Mr. Moore
+3,789,1662,6,19,walk,
+789,459,1662,6,19,walk,
+459,3,1662,6,19,walk,Mr. Moore
+3,788,1662,6,19,walk,
+788,422,1662,6,20,walk,Mr. Moore
+422,3,1662,6,20,walk,Mr. Moore
+3,789,1662,6,20,walk,
+789,788,1662,6,20,walk,my wife; Jane
+788,422,1662,6,21,walk,
+422,588,1662,6,21,walk,Sir W. Penn
+588,422,1662,6,21,walk,
+422,788,1662,6,21,walk,
+788,422,1662,6,23,walk,
+422,789,1662,6,23,walk,
+789,605,1662,6,23,walk,Sir W. Warren
+605,130,1662,6,23,boat,Sir W. Warren
+130,788,1662,6,23,walk,
+788,422,1662,6,24,walk,
+422,789,1662,6,24,walk,
+789,788,1662,6,24,walk,
+788,576,1662,6,25,walk,
+576,555,1662,6,25,walk,
+555,789,1662,6,25,walk,
+789,576,1662,6,25,walk,
+576,788,1662,6,25,walk,
+788,422,1662,6,26,walk,Commissioner Pett
+422,788,1662,6,26,walk,Commissioner Pett
+788,650,1662,6,27,walk,
+650,422,1662,6,27,walk,Sir W. Batten; Sir W. Penn
+422,145,1662,6,27,boat,Sir W. Penn; Sir W. Batten
+145,475,1662,6,27,walk,
+475,788,1662,6,27,walk,
+788,358,1662,6,28,walk,Mr. Shepley; Mr. Creed; uncle Wight
+358,422,1662,6,28,walk,
+422,788,1662,6,28,walk,
+788,544,1662,6,29,walk,my wife
+544,516,1662,6,29,walk,my wife
+516,544,1662,6,29,walk,my wife
+544,516,1662,6,29,walk,my wife
+516,788,1662,6,29,walk,
+788,576,1662,6,30,walk,my wife; my Lady Sandwich
+576,145,1662,6,30,coach,my wife; my Lady Sandwich
+145,788,1662,6,30,walk,my Lady Sandwich
+788,576,1662,6,30,boat,my Lady Sandwich
+576,212,1662,6,30,boat,my Lady Sandwich
+212,576,1662,6,30,boat,my Lady Sandwich
+576,788,1662,6,30,walk,my wife
+788,145,1662,7,1,boat,Captain Cuttance
+145,475,1662,7,1,walk,
+475,788,1662,7,1,boat,
+788,422,1662,7,2,walk,Commissioner Pett
+422,586,1662,7,2,boat,Commissioner Pett; Mr. Coventry
+586,145,1662,7,2,boat,Commissioner Pett; Mr. Coventry
+145,788,1662,7,2,boat,
+788,149,1662,7,3,walk,
+149,422,1662,7,3,walk,
+422,788,1662,7,3,walk,
+788,422,1662,7,4,walk,Mr. Cooper
+422,788,1662,7,4,walk,
+788,422,1662,7,5,walk,Mr. Cooper
+422,788,1662,7,5,walk,Sir W. Penn
+788,576,1662,7,6,walk,
+576,788,1662,7,6,walk,Mr. Moore; Mr. Creed
+788,642,1662,7,7,boat,my wife
+642,610,1662,7,7,walk,my wife
+610,698,1662,7,7,walk,my wife
+698,642,1662,7,7,walk,my wife
+642,788,1662,7,7,boat,my wife
+788,650,1662,7,8,walk,
+650,788,1662,7,8,boat,Mr. Moore
+788,642,1662,7,9,walk,Sir W. Penn
+642,788,1662,7,9,walk,Sir W. Penn
+788,422,1662,7,10,walk,Sir W. Batten
+422,597,1662,7,10,walk,Sir W. Batten
+597,422,1662,7,10,walk,
+422,788,1662,7,10,walk,
+788,422,1662,7,11,walk,Commissioner Pett
+422,586,1662,7,11,boat,Commissioner Pett; Mr. Coventry
+586,145,1662,7,11,boat,Commissioner Pett; Mr. Coventry
+145,667,1662,7,11,boat,Commissioner Pett; Mr. Coventry
+667,642,1662,7,11,boat,Commissioner Pett; Mr. Coventry
+642,540,1662,7,11,walk,Commissioner Pett; Mr. Coventry
+540,371,1662,7,11,walk,Commissioner Pett; Mr. Coventry
+371,788,1662,7,11,boat,Mr. Pett
+788,422,1662,7,12,walk,
+422,788,1662,7,12,walk,
+788,422,1662,7,13,walk,Mr. Turner
+422,586,1662,7,13,boat,Mr. Turner
+586,145,1662,7,13,boat,Mr. Turner
+145,788,1662,7,13,boat,
+788,555,1662,7,14,walk,
+555,169,1662,7,14,walk,Dr. T. Pepys
+169,788,1662,7,14,walk,
+788,422,1662,7,15,walk,
+422,788,1662,7,15,walk,
+788,422,1662,7,16,walk,Mr. Moore
+422,650,1662,7,16,walk,
+650,373,1662,7,16,walk,Mr. Creed; Captain Ferrers
+373,788,1662,7,16,boat,
+788,422,1662,7,17,walk,
+422,650,1662,7,17,walk,
+650,788,1662,7,17,walk,
+788,145,1662,7,18,boat,
+145,422,1662,7,18,boat,
+422,788,1662,7,18,walk,
+788,422,1662,7,19,walk,
+422,788,1662,7,19,walk,my brother Tom
+788,516,1662,7,19,walk,
+516,788,1662,7,20,walk,
+788,76,1662,7,21,boat,
+76,667,1662,7,21,boat,
+667,380,1662,7,21,walk,
+380,667,1662,7,21,walk,
+667,666,1662,7,21,walk,
+666,76,1662,7,21,boat,
+76,698,1662,7,21,coach,my wife
+698,650,1662,7,21,walk,my wife
+650,788,1662,7,21,boat,my wife
+788,422,1662,7,22,walk,
+422,788,1662,7,22,walk,
+788,422,1662,7,23,walk,
+422,788,1662,7,23,walk,
+788,516,1662,7,24,walk,
+516,422,1662,7,24,walk,Sir W. Batten
+422,788,1662,7,24,walk,
+788,422,1662,7,25,walk,
+422,788,1662,7,25,walk,
+788,422,1662,7,26,walk,Sir W. Batten; Mr. Pett
+422,650,1662,7,26,walk,
+650,576,1662,7,26,walk,
+576,788,1662,7,26,boat,
+788,544,1662,7,27,walk,
+544,541,1662,7,27,walk,
+541,650,1662,7,27,walk,my wife
+650,788,1662,7,27,boat,my wife
+788,262,1662,7,28,walk,my wife
+262,586,1662,7,28,walk,
+586,788,1662,7,28,boat,
+788,422,1662,7,29,walk,
+422,145,1662,7,29,boat,Sir W. Batten
+145,475,1662,7,29,walk,Mr. Wayth; Mr. Cooper
+475,788,1662,7,29,boat,
+788,642,1662,7,30,boat,Captain Fletcher
+642,650,1662,7,30,walk,Captain Fletcher
+650,667,1662,7,30,boat,Captain Fletcher
+667,612,1662,7,30,walk,
+612,667,1662,7,30,walk,
+667,475,1662,7,30,walk,Sir W. Warren
+475,788,1662,7,30,boat,Sir W. Warren
+788,789,1662,7,31,coach,Mr. Coventry
+789,129,1662,7,31,walk,Mr. Coventry
+129,42,1662,7,31,boat,Mr. Coventry
+42,667,1662,7,31,boat,Mr. Coventry
+667,145,1662,7,31,walk,Mr. Coventry
+145,788,1662,7,31,boat,Mr. Coventry
+788,422,1662,8,1,walk,Mr. Cooper
+422,789,1662,8,1,walk,Mr. Creed; Mr. Moore
+789,788,1662,8,1,coach,
+788,422,1662,8,2,walk,Will
+422,586,1662,8,2,boat,Will
+586,212,1662,8,2,boat,Will
+212,76,1662,8,2,walk,Will; Captain Cocke
+76,203,1662,8,2,boat,Captain Cocke
+203,479,1662,8,2,horse,Captain Cocke
+479,237,1662,8,2,horse,Captain Cocke
+788,237,1662,8,3,walk,Captain Cocke
+237,112,1662,8,3,walk,Captain Cocke
+112,544,1662,8,3,coach,Commissioner Pett; Captain Cocke
+544,237,1662,8,3,walk,Commissioner Pett; Captain Cocke
+237,594,1662,8,4,boat,Commissioner Pett
+594,90,1662,8,4,walk,Commissioner Pett; Captain Cocke
+90,237,1662,8,4,walk,Commissioner Pett; Captain Cocke
+237,478,1662,8,4,boat,Captain Cocke
+478,203,1662,8,4,coach,Captain Cocke
+203,212,1662,8,4,boat,Captain Cocke
+212,788,1662,8,5,boat,
+788,422,1662,8,5,walk,
+422,788,1662,8,5,walk,
+788,422,1662,8,6,walk,Sir G. Carteret
+422,642,1662,8,6,boat,
+642,540,1662,8,6,walk,
+540,650,1662,8,6,walk,
+650,788,1662,8,6,walk,
+788,422,1662,8,7,walk,Mr. Cooper
+422,788,1662,8,7,walk,
+788,667,1662,8,8,boat,
+667,380,1662,8,8,walk,Mr. Coventry
+380,212,1662,8,8,walk,Mr. Coventry
+212,145,1662,8,8,boat,Mr. Coventry
+145,475,1662,8,8,walk,Mr. Coventry
+475,788,1662,8,8,walk,
+788,422,1662,8,9,walk,Mr. Cooper; Mr. Coventry
+422,588,1662,8,9,walk,Mr. Coventry
+588,492,1662,8,9,coach,Mr. Coventry
+492,788,1662,8,9,boat,
+788,535,1662,8,10,walk,
+535,59,1662,8,10,walk,
+59,531,1662,8,10,walk,Mrs. Turner
+531,419,1662,8,10,walk,Mrs. Turner
+419,788,1662,8,10,walk,
+788,728,1662,8,11,walk,Dean Fuller
+728,130,1662,8,11,walk,Dean Fuller
+130,149,1662,8,11,walk,Dean Fuller
+149,788,1662,8,11,walk,
+788,422,1662,8,12,walk,
+422,788,1662,8,12,walk,
+788,422,1662,8,13,walk,Commissioner Pett
+422,212,1662,8,13,boat,Commissioner Pett
+212,309,1662,8,13,boat,Commissioner Pett
+309,788,1662,8,13,boat,
+788,422,1662,8,14,walk,Commissioner Pett
+422,358,1662,8,14,coach,Commissioner Pett; Sir J. Winter
+358,422,1662,8,14,walk,
+422,788,1662,8,14,walk,
+788,789,1662,8,15,walk,
+789,788,1662,8,15,walk,
+788,535,1662,8,17,walk,
+535,419,1662,8,17,walk,Mrs. Turner
+419,535,1662,8,17,walk,
+535,788,1662,8,17,coach,
+788,50,1662,8,18,horse,Mr. Deane
+50,702,1662,8,18,horse,Mr. Deane
+702,21,1662,8,18,horse,Mr. Deane
+21,50,1662,8,18,horse,Mr. Deane
+50,788,1662,8,18,horse,Mr. Deane
+788,422,1662,8,19,walk,Mr. Creed
+422,788,1662,8,19,walk,
+788,642,1662,8,20,walk,
+642,650,1662,8,20,walk,Mr. Coventry
+650,610,1662,8,20,walk,Mr. Moore; Mr. Townsend
+610,566,1662,8,20,walk,Mr. Townsend; Wardrobe men
+566,788,1662,8,20,boat,
+788,422,1662,8,21,walk,
+422,396,1662,8,21,walk,uncle Wight; aunt Wight
+396,788,1662,8,21,walk,
+788,145,1662,8,22,boat,Mr. Davis
+145,610,1662,8,22,boat,
+610,650,1662,8,22,walk,Mr. Creed
+650,788,1662,8,22,boat,
+788,422,1662,8,23,walk,Mr. Coventry; Mr. Creed
+422,485,1662,8,23,walk,Mr. Creed
+485,555,1662,8,23,walk,Mr. Creed
+555,642,1662,8,23,walk,Mr. Creed
+642,650,1662,8,23,walk,Mr. Creed
+650,645,1662,8,23,walk,Mr. Creed
+645,444,1662,8,23,boat,
+444,788,1662,8,23,walk,
+788,422,1662,8,24,walk,
+422,544,1662,8,24,walk,
+544,788,1662,8,24,walk,my brother Tom
+788,544,1662,8,24,walk,
+544,592,1662,8,24,walk,
+592,788,1662,8,24,walk,
+788,50,1662,8,25,boat,
+50,667,1662,8,25,walk,
+667,380,1662,8,25,walk,
+380,393,1662,8,25,walk,
+393,667,1662,8,25,walk,
+667,145,1662,8,25,boat,
+145,514,1662,8,25,walk,Sir W. Batten; Mr. Coventry; Mr. Waith
+514,788,1662,8,25,walk,
+788,422,1662,8,26,walk,
+422,514,1662,8,26,walk,Sir W. Batten
+514,145,1662,8,26,boat,Sir W. Batten; Sir G. Carteret
+145,130,1662,8,26,boat,
+130,788,1662,8,26,walk,
+788,422,1662,8,27,walk,Sir W. Batten
+422,514,1662,8,27,walk,Sir W. Batten; Mr. Coventry
+514,788,1662,8,27,walk,
+788,422,1662,8,28,walk,
+422,514,1662,8,28,walk,Mr. Coventry; Sir W. Batten
+514,788,1662,8,28,walk,
+788,422,1662,8,29,walk,
+422,788,1662,8,29,walk,
+788,422,1662,8,30,walk,
+422,788,1662,8,30,walk,
+788,544,1662,8,31,walk,
+544,788,1662,8,31,walk,my brother Tom
+788,59,1662,8,31,walk,my brother Tom
+59,396,1662,8,31,walk,uncle Wight
+396,788,1662,8,31,walk,
+788,516,1662,8,31,walk,Sir W. Penn
+516,788,1662,8,31,walk,

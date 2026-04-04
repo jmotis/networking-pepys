@@ -1,0 +1,414 @@
+source,target,year,month,day,mode,companion
+788,422,1663,5,1,walk,
+788,174,1663,5,1,horse,Father
+174,275,1663,5,1,horse,Father;W. Howe
+275,94,1663,5,1,coach,
+94,788,1663,5,1,coach,
+788,422,1663,5,2,walk,
+422,789,1663,5,2,walk,
+789,788,1663,5,2,walk,
+788,544,1663,5,3,walk,
+544,788,1663,5,3,walk,
+788,544,1663,5,3,walk,
+544,788,1663,5,3,walk,
+788,667,1663,5,4,boat,
+667,788,1663,5,4,boat,
+788,337,1663,5,4,coach,Wife
+337,540,1663,5,4,walk,Sir W. Penn
+540,642,1663,5,4,walk,Mr. Coventry;Sir W. Penn
+642,541,1663,5,4,walk,King
+541,642,1663,5,4,walk,
+642,650,1663,5,4,walk,Lord Sandwich
+650,642,1663,5,4,walk,
+642,174,1663,5,4,boat,Wife
+174,788,1663,5,4,coach,Wife
+788,152,1663,5,5,walk,
+152,422,1663,5,5,walk,
+422,788,1663,5,5,walk,
+788,789,1663,5,6,walk,Mr. Creed
+789,588,1663,5,6,walk,
+588,788,1663,5,6,walk,
+788,566,1663,5,7,boat,Wife
+566,610,1663,5,7,walk,
+610,337,1663,5,7,coach,
+337,788,1663,5,7,boat,Wife;Creed
+788,422,1663,5,8,boat,
+422,523,1663,5,8,boat,
+523,540,1663,5,8,walk,
+540,577,1663,5,8,walk,Wife;Ashwell
+577,788,1663,5,8,boat,Wife;Ashwell
+788,540,1663,5,10,walk,
+540,642,1663,5,10,walk,Mr. Coventry
+642,540,1663,5,10,walk,
+540,541,1663,5,10,walk,Mr. Creed
+541,788,1663,5,10,walk,
+788,667,1663,5,11,boat,
+667,212,1663,5,11,walk,
+212,788,1663,5,11,boat,
+788,540,1663,5,11,coach,Sir W. Penn
+540,565,1663,5,11,walk,
+565,788,1663,5,11,boat,
+788,566,1663,5,14,walk,
+566,204,1663,5,14,walk,Mr. Moore
+204,788,1663,5,14,walk,
+788,540,1663,5,15,walk,
+540,610,1663,5,15,walk,
+610,337,1663,5,15,coach,
+337,788,1663,5,15,coach,Mr. Coventry
+788,337,1663,5,15,coach,
+337,540,1663,5,15,coach,Mr. Coventry
+540,788,1663,5,15,coach,
+788,93,1663,5,18,coach,Wife;Mr. Howe
+93,650,1663,5,18,walk,Mr. Howe
+650,642,1663,5,18,walk,Dr. Clerk;Creed
+642,185,1663,5,18,coach,Wife;Ashwell;Mrs. Clerke
+185,788,1663,5,18,coach,Wife;Ashwell
+788,583,1663,5,19,walk,Sir J. Minnes
+583,226,1663,5,19,boat,Wife;Pembleton
+226,788,1663,5,19,walk,
+788,544,1663,5,24,walk,
+544,516,1663,5,24,walk,Sir J. Minnes
+516,788,1663,5,24,walk,
+788,174,1663,5,25,walk,
+174,540,1663,5,25,coach,Wife;Ashwell
+540,788,1663,5,25,coach,
+788,610,1663,5,27,boat,
+610,641,1663,5,27,walk,Creed
+641,309,1663,5,27,boat,
+309,93,1663,5,27,boat,
+93,788,1663,5,27,boat,
+788,566,1663,5,28,walk,
+566,174,1663,5,28,walk,Wife;Creed
+174,160,1663,5,28,boat,Wife;Creed
+160,577,1663,5,28,walk,Wife;Creed
+577,566,1663,5,28,walk,
+566,226,1663,5,28,boat,Wife;Creed
+226,788,1663,5,28,walk,
+788,102,1663,5,29,walk,Creed
+102,577,1663,5,29,walk,Creed
+577,160,1663,5,29,walk,Creed
+160,174,1663,5,29,walk,Creed
+174,591,1663,5,29,walk,
+591,174,1663,5,29,walk,
+174,788,1663,5,29,walk,
+788,566,1663,5,30,boat,Creed
+566,426,1663,5,30,walk,Creed
+426,174,1663,5,30,walk,Creed
+174,788,1663,5,30,coach,Wife;Creed
+788,422,1663,6,1,walk,
+422,540,1663,6,1,walk,
+540,642,1663,6,1,walk,Sir J. Minnes
+642,428,1663,6,1,coach,Sir J. Minnes
+428,788,1663,6,1,walk,
+788,642,1663,6,2,boat,
+642,540,1663,6,2,walk,
+540,610,1663,6,2,walk,
+610,788,1663,6,2,walk,
+788,514,1663,6,2,walk,
+514,788,1663,6,2,walk,
+788,222,1663,6,3,walk,
+222,789,1663,6,3,walk,
+789,788,1663,6,3,walk,
+788,145,1663,6,5,boat,
+145,475,1663,6,5,walk,
+475,642,1663,6,5,boat,
+642,650,1663,6,5,walk,
+650,419,1663,6,5,walk,Wife
+419,788,1663,6,5,walk,Wife
+788,503,1663,6,6,walk,
+503,672,1663,6,6,coach,Sir John Hebden
+672,642,1663,6,6,coach,Sir John Hebden
+642,788,1663,6,6,coach,Sir John Hebden
+788,145,1663,6,6,boat,Mr. Deane
+145,788,1663,6,6,boat,
+788,540,1663,6,8,coach,Sir J. Minnes
+540,788,1663,6,8,coach,Sir J. Minnes
+788,588,1663,6,9,walk,Sir J. Minnes
+588,309,1663,6,9,walk,Sir J. Minnes
+309,788,1663,6,9,walk,
+788,650,1663,6,10,walk,
+650,642,1663,6,10,walk,
+642,788,1663,6,10,walk,
+788,667,1663,6,11,boat,
+667,212,1663,6,11,walk,
+212,145,1663,6,11,walk,
+145,422,1663,6,11,walk,
+422,788,1663,6,11,boat,
+788,789,1663,6,12,walk,
+789,577,1663,6,12,boat,Wife
+577,789,1663,6,12,walk,Wife
+789,788,1663,6,12,boat,Wife
+788,422,1663,6,13,walk,
+422,642,1663,6,13,boat,
+642,789,1663,6,13,walk,Mr. Cutler
+789,577,1663,6,13,boat,Wife;Balt Wight
+577,788,1663,6,13,coach,Wife
+788,610,1663,6,15,walk,
+610,788,1663,6,15,walk,
+788,588,1663,6,15,boat,
+588,145,1663,6,15,boat,
+145,788,1663,6,16,walk,Sir W. Batten
+788,789,1663,6,19,walk,
+789,309,1663,6,19,boat,Mr. Creed;Mr. Moore
+309,642,1663,6,19,walk,
+642,476,1663,6,19,walk,Creed
+476,788,1663,6,19,boat,Creed
+788,422,1663,6,20,walk,
+422,145,1663,6,20,boat,Mr. Deane
+145,788,1663,6,20,boat,Mr. Deane
+788,642,1663,6,21,boat,
+642,371,1663,6,21,walk,Mr. Coventry
+371,642,1663,6,21,coach,Mr. Coventry
+642,788,1663,6,21,boat,
+788,544,1663,6,21,walk,
+544,516,1663,6,21,walk,Sir J. Minnes
+516,788,1663,6,21,walk,
+788,422,1663,6,22,coach,Sir W. Batten
+422,610,1663,6,22,walk,Sir W. Batten
+610,541,1663,6,22,walk,Creed
+541,642,1663,6,22,walk,Creed
+642,788,1663,6,22,boat,Creed
+788,566,1663,6,23,boat,
+566,117,1663,6,23,walk,Cousin Roger
+117,204,1663,6,23,boat,Cousin Roger;Goldsborough
+204,566,1663,6,23,walk,
+566,514,1663,6,23,walk,
+514,788,1663,6,23,walk,
+788,566,1663,6,24,boat,
+566,540,1663,6,24,boat,
+540,650,1663,6,24,walk,Mr. Creed
+650,788,1663,6,24,walk,Creed
+788,93,1663,6,27,boat,Mr. Creed
+93,788,1663,6,27,boat,
+788,318,1663,6,27,boat,Sir W. Warren
+318,318,1663,6,27,walk,Sir W. Warren
+318,319,1663,6,27,walk,
+319,642,1663,6,27,walk,
+642,788,1663,6,27,boat,
+788,579,1663,6,27,walk,Creed
+579,788,1663,6,27,boat,Creed
+788,212,1663,6,28,walk,Sir J. Minnes;Sir W. Batten
+212,789,1663,6,28,walk,Sir J. Minnes
+789,788,1663,6,28,walk,
+788,566,1663,6,29,boat,
+566,541,1663,6,29,walk,Creed
+541,414,1663,6,29,walk,Creed
+414,476,1663,6,29,walk,
+476,642,1663,6,29,walk,
+642,117,1663,6,29,boat,Cousin Roger;Goldsborough
+117,788,1663,6,29,boat,
+788,642,1663,6,30,boat,
+642,650,1663,6,30,walk,Mr. Creed;Lord Sandwich
+650,642,1663,6,30,walk,Lord Sandwich
+642,788,1663,6,30,boat,
+788,145,1663,6,30,boat,
+145,475,1663,6,30,walk,
+475,642,1663,6,30,walk,
+642,788,1663,6,30,boat,
+788,642,1663,7,1,boat,Creed
+642,540,1663,7,1,walk,Mr. Coventry
+540,610,1663,7,1,walk,
+610,788,1663,7,1,boat,Sir W. Batten
+788,588,1663,7,1,boat,Sir W. Batten
+588,788,1663,7,1,boat,Sir W. Batten
+788,117,1663,7,1,boat,
+117,174,1663,7,1,walk,
+174,788,1663,7,1,walk,
+788,789,1663,7,2,walk,Mr. Creed
+789,788,1663,7,2,walk,Mr. Creed
+788,642,1663,7,3,coach,Sir J. Minnes;Sir W. Batten
+642,540,1663,7,3,walk,
+540,610,1663,7,3,walk,Mr. Moore;Creed
+610,309,1663,7,3,boat,Creed
+309,789,1663,7,3,walk,Sir J. Minnes
+789,788,1663,7,3,walk,
+788,145,1663,7,3,boat,
+145,476,1663,7,3,walk,
+476,642,1663,7,3,boat,Creed
+642,788,1663,7,3,boat,
+788,540,1663,7,4,boat,Sir J. Minnes;Sir W. Batten
+540,541,1663,7,4,walk,Creed
+541,541,1663,7,4,walk,Creed
+541,275,1663,7,4,coach,Creed;Mr. Cutler
+275,309,1663,7,4,walk,
+309,788,1663,7,4,walk,
+788,601,1663,7,5,horse,
+601,788,1663,7,5,coach,Sir J. Minnes
+788,789,1663,7,6,walk,Creed
+789,788,1663,7,6,walk,Creed
+788,422,1663,7,7,walk,
+422,667,1663,7,7,barge,Sir J. Minnes
+667,212,1663,7,7,walk,
+212,145,1663,7,7,walk,Mr. Coventry
+145,788,1663,7,7,boat,Mr. Coventry
+788,610,1663,7,9,walk,
+610,522,1663,7,9,walk,
+522,788,1663,7,9,walk,
+788,610,1663,7,10,boat,
+610,788,1663,7,10,walk,
+788,203,1663,7,10,boat,
+203,90,1663,7,10,horse,
+90,91,1663,7,10,walk,Sir J. Minnes
+91,788,1663,7,10,walk,
+788,90,1663,7,11,walk,Sir J. Minnes
+90,91,1663,7,11,coach,Commissioner Pett
+91,479,1663,7,11,barge,Sir J. Minnes;Commissioner Pett
+479,788,1663,7,13,coach,Mrs. Allen
+788,566,1663,7,13,walk,Cousin Roger
+566,642,1663,7,13,boat,
+642,540,1663,7,13,walk,
+540,788,1663,7,13,boat,
+788,789,1663,7,14,walk,Mr. Hunt
+789,788,1663,7,14,walk,Mr. Hunt
+788,610,1663,7,15,walk,
+610,566,1663,7,15,walk,
+566,788,1663,7,15,walk,
+788,604,1663,7,16,boat,
+604,788,1663,7,16,boat,
+788,789,1663,7,17,walk,Creed
+789,788,1663,7,17,walk,Creed
+788,475,1663,7,17,boat,
+475,514,1663,7,17,walk,
+514,788,1663,7,17,walk,
+788,566,1663,7,18,walk,
+566,576,1663,7,18,walk,
+576,610,1663,7,18,walk,
+610,414,1663,7,18,walk,Mrs. Lane
+414,788,1663,7,18,boat,
+788,544,1663,7,19,walk,
+544,788,1663,7,19,walk,
+788,788,1663,7,19,walk,
+788,422,1663,7,20,walk,
+422,667,1663,7,20,walk,
+667,212,1663,7,20,walk,Mr. Cocke
+212,667,1663,7,20,walk,Mr. Cocke
+667,642,1663,7,20,boat,
+642,212,1663,7,20,boat,
+212,788,1663,7,20,boat,
+788,518,1663,7,21,coach,Lady Batten;Mr. Castle;Sir W. Batten;Sir J. Minnes
+518,517,1663,7,21,boat,Sir J. Minnes;Sir W. Batten
+517,566,1663,7,21,boat,Sir J. Minnes;Sir W. Batten
+566,788,1663,7,21,boat,
+788,605,1663,7,22,walk,Sir W. Warren
+605,788,1663,7,22,walk,Sir W. Warren
+788,566,1663,7,22,walk,
+566,319,1663,7,22,walk,
+319,788,1663,7,22,walk,
+788,519,1663,7,23,walk,
+519,788,1663,7,23,walk,
+788,610,1663,7,24,boat,Cousin Roger
+610,788,1663,7,24,walk,
+788,383,1663,7,25,coach,Creed
+383,164,1663,7,25,horse,Creed
+164,168,1663,7,26,horse,Creed
+168,164,1663,7,26,horse,Creed
+164,435,1663,7,26,horse,Creed
+435,168,1663,7,26,horse,Creed
+168,168,1663,7,26,horse,Creed
+168,185,1663,7,27,horse,Creed
+185,610,1663,7,27,boat,Creed
+610,448,1663,7,27,walk,Lord Sandwich
+448,185,1663,7,27,walk,Creed
+185,642,1663,7,27,boat,Creed
+642,540,1663,7,27,walk,
+540,642,1663,7,27,walk,
+642,788,1663,7,27,boat,
+788,422,1663,7,28,walk,
+422,789,1663,7,28,walk,
+789,788,1663,7,28,walk,
+788,789,1663,7,31,walk,
+789,576,1663,7,31,boat,Mr. Moore
+576,788,1663,7,31,walk,Mr. Moore
+788,422,1663,8,1,walk,
+422,203,1663,8,1,boat,Mr. Coventry
+203,90,1663,8,1,horse,Mr. Coventry
+90,91,1663,8,1,walk,Mr. Coventry;Commissioner Pett
+91,90,1663,8,1,walk,
+90,788,1663,8,3,horse,Mr. Coventry
+788,203,1663,8,3,horse,Mr. Coventry
+203,788,1663,8,4,boat,Mr. Coventry
+788,667,1663,8,4,boat,Brother John;Will
+667,212,1663,8,4,walk,Brother John;Will
+212,604,1663,8,4,boat,Brother John;Will
+604,788,1663,8,4,walk,Brother John
+788,422,1663,8,5,walk,
+422,789,1663,8,5,walk,
+789,788,1663,8,5,walk,
+788,610,1663,8,5,boat,
+610,309,1663,8,5,boat,Mrs. Lane
+309,788,1663,8,5,coach,
+788,290,1663,8,6,walk,
+290,788,1663,8,6,walk,
+788,395,1663,8,7,walk,Creed
+395,788,1663,8,7,walk,Creed
+788,145,1663,8,7,walk,
+145,788,1663,8,7,walk,
+788,544,1663,8,9,walk,
+544,514,1663,8,9,walk,
+514,535,1663,8,9,walk,Lady Batten
+535,696,1663,8,9,walk,Lady Batten
+696,592,1663,8,9,walk,
+592,788,1663,8,9,walk,
+788,642,1663,8,10,boat,
+642,540,1663,8,10,walk,
+540,565,1663,8,10,walk,Lord Sandwich;Lord Peterborough;Mr. Povy
+565,339,1663,8,10,coach,Lord Sandwich;Lord Peterborough
+339,383,1663,8,10,walk,
+383,788,1663,8,10,walk,
+788,174,1663,8,11,walk,
+174,789,1663,8,11,walk,
+789,788,1663,8,11,walk,
+788,419,1663,8,11,coach,Mrs. Turner;Mrs. Morrice
+419,395,1663,8,11,coach,Mrs. Turner;Mrs. Morrice
+395,566,1663,8,11,boat,Mrs. Turner;Mrs. Morrice
+566,610,1663,8,11,boat,Mrs. Turner;Mrs. Morrice
+610,88,1663,8,11,boat,Mrs. Turner;Mrs. Morrice
+88,212,1663,8,11,boat,Mrs. Turner;Mrs. Morrice
+212,788,1663,8,11,coach,Mrs. Turner;Mrs. Morrice
+788,419,1663,8,12,walk,Mrs. Turner;Mrs. Morrice
+419,642,1663,8,12,walk,
+642,565,1663,8,12,walk,Lord Sandwich;Lord Peterborough
+565,174,1663,8,12,boat,
+174,788,1663,8,12,walk,
+788,642,1663,8,13,boat,Wife
+642,650,1663,8,13,walk,Wife
+650,411,1663,8,13,walk,Wife
+411,541,1663,8,13,walk,
+541,411,1663,8,13,walk,Mr. Hoole
+411,419,1663,8,13,boat,Wife
+419,788,1663,8,13,coach,Wife
+788,516,1663,8,14,walk,Wife
+516,788,1663,8,14,walk,Wife
+788,540,1663,8,17,coach,Sir J. Minnes;Sir W. Batten
+540,642,1663,8,17,walk,
+642,788,1663,8,17,walk,Mr. Moore
+788,145,1663,8,19,walk,
+145,642,1663,8,19,boat,
+642,789,1663,8,19,walk,Mr. Creed
+789,788,1663,8,19,boat,Mr. Creed
+788,650,1663,8,21,boat,
+650,540,1663,8,21,walk,Creed
+540,174,1663,8,21,walk,Creed
+174,788,1663,8,21,boat,Creed
+788,145,1663,8,21,boat,Sir W. Batten
+145,212,1663,8,21,walk,Sir W. Batten;Sir J. Minnes
+212,145,1663,8,21,walk,
+145,475,1663,8,22,walk,Mr. Castle
+475,788,1663,8,22,walk,
+788,642,1663,8,24,walk,Mr. Moore
+642,650,1663,8,24,walk,Lord Sandwich
+650,540,1663,8,24,walk,Creed
+540,789,1663,8,24,walk,Creed
+789,788,1663,8,24,boat,Creed
+788,317,1663,8,25,boat,
+317,789,1663,8,25,walk,
+789,788,1663,8,25,walk,
+788,642,1663,8,26,boat,
+642,540,1663,8,26,walk,Mr. Coventry
+540,788,1663,8,26,walk,Mr. Gauden
+788,145,1663,8,26,walk,Mr. Moore
+145,788,1663,8,26,walk,Mr. Moore
+788,610,1663,8,29,boat,Wife
+610,650,1663,8,29,walk,Wife
+650,789,1663,8,29,walk,Wife
+789,788,1663,8,29,walk,Wife
