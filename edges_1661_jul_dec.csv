@@ -363,8 +363,8 @@ source,target,year,month,day,mode,companion
 788,422,1661,10,1,walk,
 422,788,1661,10,1,walk,
 788,13,1661,10,2,walk,Uncle Fenner
-13,85,1661,10,2,walk,
-85,577,1661,10,2,coach,Elizabeth Pepys
+13,788,1661,10,2,walk,Uncle Fenner
+788,577,1661,10,2,coach,Elizabeth Pepys
 577,788,1661,10,2,coach,Elizabeth Pepys
 788,582,1661,10,3,walk,Mr. Moore
 582,358,1661,10,3,walk,Mr. Moore

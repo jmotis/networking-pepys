@@ -400,9 +400,10 @@ source,target,year,month,day,mode,companion
 650,788,1662,12,25,walk,
 788,516,1662,12,25,walk,
 516,788,1662,12,25,walk,
-788,576,1662,12,26,walk,
+788,431,1662,12,26,walk,
+431,576,1662,12,26,walk,
 576,566,1662,12,26,walk,Mr. Battersby
-566,576,1662,12,26,walk,Mr. Battersby
+566,576,1662,12,26,walk,
 576,158,1662,12,26,walk,
 158,396,1662,12,26,walk,
 396,788,1662,12,26,walk,
@@ -411,7 +412,8 @@ source,target,year,month,day,mode,companion
 788,158,1662,12,27,coach,Elizabeth Pepys
 158,788,1662,12,27,coach,Elizabeth Pepys
 788,544,1662,12,28,walk,Elizabeth Pepys
-544,188,1662,12,28,walk,
+544,788,1662,12,28,walk,Elizabeth Pepys
+788,188,1662,12,28,walk,
 188,592,1662,12,28,walk,
 592,788,1662,12,28,walk,
 788,642,1662,12,29,walk,
