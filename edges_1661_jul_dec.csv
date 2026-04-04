@@ -82,7 +82,6 @@ source,target,year,month,day,mode,companion
 422,510,1661,7,29,walk,Sir R. Slingsby
 510,422,1661,7,29,walk,Sir R. Slingsby
 422,642,1661,7,29,walk,Sir R. Slingsby
-642,642,1661,7,29,walk,
 788,642,1661,7,30,walk,
 642,610,1661,7,30,walk,
 610,576,1661,7,30,boat,
@@ -125,7 +124,6 @@ source,target,year,month,day,mode,companion
 422,418,1661,8,9,walk,
 418,422,1661,8,9,walk,
 422,642,1661,8,9,walk,
-642,642,1661,8,9,walk,
 642,788,1661,8,9,walk,
 788,650,1661,8,10,walk,
 650,158,1661,8,10,coach,
@@ -174,7 +172,6 @@ source,target,year,month,day,mode,companion
 174,152,1661,8,21,walk,
 152,600,1661,8,21,walk,
 600,642,1661,8,21,walk,
-642,642,1661,8,21,walk,
 642,174,1661,8,21,walk,
 174,576,1661,8,21,walk,
 576,788,1661,8,21,walk,
@@ -198,8 +195,6 @@ source,target,year,month,day,mode,companion
 158,788,1661,8,24,walk,
 788,490,1661,8,24,walk,Mr. Spong
 490,788,1661,8,24,walk,
-544,544,1661,8,25,walk,
-544,544,1661,8,25,walk,Elizabeth Pepys
 788,592,1661,8,25,walk,
 592,788,1661,8,25,walk,
 788,174,1661,8,26,walk,
@@ -221,7 +216,6 @@ source,target,year,month,day,mode,companion
 788,174,1661,8,29,walk,
 174,591,1661,8,29,walk,
 591,788,1661,8,29,walk,
-576,576,1661,8,30,walk,Elizabeth Pepys
 576,153,1661,8,30,coach,
 153,788,1661,8,30,coach,Elizabeth Pepys
 788,576,1661,8,31,walk,
@@ -300,7 +294,6 @@ source,target,year,month,day,mode,companion
 576,788,1661,9,13,boat,Elizabeth Pepys
 788,789,1661,9,14,walk,
 789,788,1661,9,14,walk,Uncle Fenner
-422,422,1661,9,15,walk,
 591,544,1661,9,15,walk,Elizabeth Pepys
 544,788,1661,9,15,walk,Elizabeth Pepys
 788,576,1661,9,17,walk,
@@ -348,7 +341,6 @@ source,target,year,month,day,mode,companion
 788,576,1661,9,28,walk,
 576,577,1661,9,28,walk,Sir W. Penn;Elizabeth Pepys
 577,788,1661,9,28,walk,Sir W. Penn
-544,544,1661,9,29,walk,
 514,788,1661,9,29,walk,
 788,642,1661,9,30,walk,
 642,474,1661,9,30,walk,
@@ -413,7 +405,6 @@ source,target,year,month,day,mode,companion
 650,788,1661,10,18,walk,
 788,79,1661,10,19,coach,Mr. Coventry;Sir G. Carteret;Sir W. Penn
 79,788,1661,10,19,coach,
-544,544,1661,10,20,walk,
 544,514,1661,10,20,walk,
 514,788,1661,10,20,walk,
 788,93,1661,10,21,coach,Mr. Moore;Mr. Pargiter
@@ -656,8 +647,6 @@ source,target,year,month,day,mode,companion
 610,148,1661,12,21,walk,
 148,59,1661,12,21,walk,
 59,788,1661,12,21,coach,
-544,544,1661,12,22,walk,
-544,544,1661,12,22,walk,Elizabeth Pepys
 788,576,1661,12,23,coach,Mr. Moore
 576,93,1661,12,23,coach,Mr. Moore
 93,610,1661,12,23,coach,Mr. Moore
