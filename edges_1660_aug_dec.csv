@@ -187,8 +187,8 @@ source,target,year,month,day,mode,companion
 650,476,1660,10,11,walk,John Creed;Mr. Blackburne
 476,314,1660,10,11,walk,John Creed
 314,541,1660,10,11,walk,Mr. Salisbury;John Creed
-541,647,1660,10,11,walk,Mr. Salisbury;John Creed
-647,234,1660,10,11,walk,John Creed
+541,104,1660,10,11,walk,Mr. Salisbury;John Creed
+104,234,1660,10,11,walk,John Creed
 234,788,1660,10,11,walk,
 788,149,1660,10,12,walk,Sir W. Batten
 149,788,1660,10,12,walk,
@@ -207,8 +207,8 @@ source,target,year,month,day,mode,companion
 650,642,1660,10,15,walk,Sir W. Batten;Sir W. Penn
 642,174,1660,10,15,coach,
 174,788,1660,10,15,coach,Elizabeth Pepys
-788,647,1660,10,16,walk,Henry Moore
-647,788,1660,10,16,boat,
+788,104,1660,10,16,walk,Henry Moore
+104,788,1660,10,16,boat,
 788,650,1660,10,16,boat,
 650,788,1660,10,16,boat,
 788,422,1660,10,17,walk,
@@ -271,8 +271,8 @@ source,target,year,month,day,mode,companion
 576,546,1660,10,29,walk,
 546,306,1660,10,29,walk,Lady Pickering
 306,788,1660,10,29,walk,
-788,647,1660,10,30,walk,
-647,374,1660,10,30,walk,
+788,104,1660,10,30,walk,
+104,374,1660,10,30,walk,
 374,234,1660,10,30,walk,Henry Moore
 234,788,1660,10,30,walk,
 788,422,1660,10,31,walk,

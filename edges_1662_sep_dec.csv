@@ -28,8 +28,8 @@ source,target,year,month,day,mode,companion
 788,422,1662,10,2,walk,
 422,788,1662,10,2,walk,
 788,650,1662,10,2,coach,Henry Moore
-650,647,1662,10,2,walk,
-647,650,1662,10,2,walk,
+650,104,1662,10,2,walk,
+104,650,1662,10,2,walk,
 650,59,1662,10,3,walk,
 59,546,1662,10,3,walk,
 546,788,1662,10,3,walk,
@@ -228,8 +228,8 @@ source,target,year,month,day,mode,companion
 610,789,1662,11,17,walk,John Creed
 789,788,1662,11,17,walk,John Creed
 788,642,1662,11,17,boat,Elizabeth Pepys;John Creed;Gosnell
-642,647,1662,11,17,walk,John Creed;Elizabeth Pepys
-647,788,1662,11,17,coach,Elizabeth Pepys
+642,104,1662,11,17,walk,John Creed;Elizabeth Pepys
+104,788,1662,11,17,coach,Elizabeth Pepys
 788,422,1662,11,18,walk,
 422,514,1662,11,18,walk,
 514,566,1662,11,18,walk,
@@ -296,8 +296,8 @@ source,target,year,month,day,mode,companion
 650,541,1662,12,1,walk,
 541,540,1662,12,1,walk,Sir W. Coventry
 540,621,1662,12,1,walk,
-621,647,1662,12,1,walk,
-647,650,1662,12,1,walk,
+621,104,1662,12,1,walk,
+104,650,1662,12,1,walk,
 650,788,1662,12,1,walk,
 788,544,1662,12,2,walk,
 544,788,1662,12,2,walk,
@@ -352,8 +352,8 @@ source,target,year,month,day,mode,companion
 788,544,1662,12,14,walk,Elizabeth Pepys
 544,788,1662,12,14,walk,Elizabeth Pepys
 788,642,1662,12,14,walk,
-642,646,1662,12,14,walk,
-646,650,1662,12,14,walk,
+642,619,1662,12,14,walk,
+619,650,1662,12,14,walk,
 650,128,1662,12,14,walk,Captain Ferrers
 128,650,1662,12,14,walk,
 650,128,1662,12,14,walk,
@@ -387,8 +387,8 @@ source,target,year,month,day,mode,companion
 544,788,1662,12,21,walk,Elizabeth Pepys
 788,59,1662,12,21,walk,
 59,642,1662,12,21,walk,
-642,646,1662,12,21,walk,
-646,650,1662,12,21,walk,
+642,619,1662,12,21,walk,
+619,650,1662,12,21,walk,
 650,128,1662,12,21,walk,John Creed;Captain Ferrers
 128,650,1662,12,22,walk,
 650,540,1662,12,22,walk,Sir W. Coventry
@@ -407,8 +407,8 @@ source,target,year,month,day,mode,companion
 337,546,1662,12,24,walk,John Creed
 546,788,1662,12,24,walk,
 788,642,1662,12,25,walk,
-642,646,1662,12,25,walk,
-646,650,1662,12,25,walk,
+642,619,1662,12,25,walk,
+619,650,1662,12,25,walk,
 650,788,1662,12,25,walk,
 788,516,1662,12,25,walk,
 516,788,1662,12,25,walk,
@@ -486,11 +486,11 @@ source,target,year,month,day,mode,companion
 422,642,1662,9,15,boat,Sir W. Pen
 642,788,1662,9,15,walk,
 788,422,1662,9,16,walk,
-422,484,1662,9,16,walk,
-484,788,1662,9,16,walk,
+422,789,1662,9,16,walk,
+789,788,1662,9,16,walk,
 788,422,1662,9,17,walk,
-422,484,1662,9,17,walk,
-484,548,1662,9,17,walk,Mr. Moore
+422,789,1662,9,17,walk,
+789,548,1662,9,17,walk,Mr. Moore
 548,788,1662,9,17,walk,
 788,422,1662,9,19,walk,
 422,145,1662,9,19,boat,

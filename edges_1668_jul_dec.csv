@@ -202,8 +202,8 @@ source,target,year,month,day,mode,companion
 203,788,1668,9,6,boat,
 788,642,1668,9,7,boat,Gibson
 642,566,1668,9,7,coach,Elizabeth Pepys;Deb Willet;W. Hewer
-566,651,1668,9,7,coach,Sir J. Minnes;Sir W. Penn
-651,788,1668,9,7,coach,Sir J. Minnes;Sir W. Penn
+566,629,1668,9,7,coach,Sir J. Minnes;Sir W. Penn
+629,788,1668,9,7,coach,Sir J. Minnes;Sir W. Penn
 788,642,1668,9,8,boat,
 642,788,1668,9,8,boat,
 788,642,1668,9,9,boat,

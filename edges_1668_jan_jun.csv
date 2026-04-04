@@ -311,8 +311,8 @@ source,target,year,month,day,mode,companion
 295,788,1668,4,1,coach,
 788,354,1668,4,2,coach,Elizabeth Pepys;Betty Turner;Deb Willet;Jane
 354,788,1668,4,2,walk,
-788,643,1668,4,2,coach,Lord Brouncker
-643,567,1668,4,2,coach,
+788,615,1668,4,2,coach,Lord Brouncker
+615,567,1668,4,2,coach,
 567,642,1668,4,2,walk,
 642,9,1668,4,2,walk,Lord Brouncker
 9,788,1668,4,2,coach,

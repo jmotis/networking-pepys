@@ -13,9 +13,6 @@ id,name,location
 12,Audley End House,"near Saffron Walden, Essex"
 13,Aunt Kite's House,City of London
 14,Aunt Wight's House,London
-15,Avebury,"Avebury, Wiltshire"
-16,Bagshot,"Bagshot, Surrey"
-17,Bagwell's House (Deptford),"Deptford, Kent"
 18,Baldock,"Baldock, Hertfordshire"
 19,Bankside Alehouse,"Bankside, Southwark"
 20,Banqueting House,"Whitehall, Westminster"
@@ -27,18 +24,12 @@ id,name,location
 26,Barnet Wells,"Barnet Common, Hertfordshire"
 27,Bartholomew Fair,"Smithfield, City of London"
 28,Bath,"Bath, Somerset"
-29,Baynard's Castle,"Thames waterfront, near Blackfriars"
 30,Bear Garden (Bankside),"Bankside, Southwark"
 31,Bear Inn (Cambridge),"Cambridge, Cambridgeshire"
 32,Bear Tavern (Bridge Foot),"Southwark, near London Bridge"
-33,Bedford,"Bedford, Bedfordshire"
 34,Bell at the Maypole,"Strand, Westminster"
-35,Bell Inn (Maidstone),"Maidstone, Kent"
 36,Bell Tavern (King Street),"King Street, Westminster"
-37,"Bennet's (mercer, Covent Garden post-fire)","Covent Garden, Westminster"
-38,"Berkshire House (Lord Chancellor's, post-fire)","St. James's, Westminster"
 39,Bethnal Green / Old Ford / Bow,"Bethnal Green / Bow, Middlesex"
-40,Betty Michell's House,Shadwell / Westminster
 41,Biggleswade,"Biggleswade, Bedfordshire"
 42,Billingsgate,"Billingsgate, City of London"
 43,Bishop's Stortford,"Bishop's Stortford, Hertfordshire"
@@ -46,20 +37,15 @@ id,name,location
 45,Black Spread Eagle (Bride Lane),"Bride Lane, City of London"
 46,Blackfriars Playhouse,"Blackfriars, City of London"
 47,Blackwall,"Blackwall, Middlesex"
-48,Blackwall Dock,"Blackwall, Middlesex"
-49,Blackwall Yard,"Blackwall, Middlesex"
 50,Bow,"Bow, Middlesex"
 51,Brampton,"Brampton, Huntingdonshire"
 52,Brampton Church,"Brampton, Huntingdonshire"
 53,Brampton Woods,"near Brampton, Huntingdonshire"
-54,Brazen Nose Tavern,Westminster
 55,Brentford (Mr. Povy's country house),"Brentford, Middlesex"
 56,Bridewell (Mr. Holland's),"Bridewell, City of London"
 57,Bristol,Bristol
 58,Brooke House,"Holborn, London"
 59,Brother Tom's House,"Fleet Street area, City of London"
-60,"Brown's (instrument maker, Minories)","The Minories, City of London"
-61,Buckden,"Buckden, Huntingdonshire"
 62,Buckingham,"Buckingham, Buckinghamshire"
 63,Bull Head Tavern,Westminster
 64,Buntingford,"Buntingford, Hertfordshire"
@@ -71,9 +57,7 @@ id,name,location
 70,Cambridge - Magdalene College,"Cambridge, Cambridgeshire"
 71,Cambridge - Three Tuns,"Cambridge, Cambridgeshire"
 72,Canterbury,"Canterbury, Kent"
-73,Canterbury Cathedral,"Canterbury, Kent"
 74,Captain Allen's House (near Chatham),"near Rochester/Chatham, Kent"
-75,Captain Bodilaw's (Chatham),"Chatham, Kent"
 76,Captain Cocke's House (Greenwich),"Greenwich, Kent"
 77,Captain Cox's House (Deptford),"Deptford, Kent"
 78,Captain Lambert's House,"Thames-side, near Greenwich"
@@ -82,49 +66,35 @@ id,name,location
 81,Cardinal's Cap,London
 82,Castle Tavern,City of London
 83,Chancery Lane,"Holborn, London"
-84,Chapman the Periwig-maker's,City of London
 85,Charing Cross,"Charing Cross, Westminster"
 86,Charing Cross Ordinary,"Charing Cross, Westminster"
-87,Charlotte Yacht,"Greenwich, Kent"
 88,Charterhouse Yard,"Charterhouse, City of London"
 89,Chatham - Commissioner Pett's House,"Chatham, Kent"
 90,Chatham Dockyard,"Chatham, Kent"
 91,Chatham Hill House,"Chatham, Kent"
-92,Chatteris,"Chatteris, Cambridgeshire"
 93,Chelsea,"Chelsea, Middlesex"
 94,Chequers (Charing Cross),"Charing Cross, Westminster"
-95,Chesterton,"Chesterton, Cambridgeshire"
-96,Christ's College (Cambridge),"Cambridge, Cambridgeshire"
 97,Christ's Hospital,"Newgate Street, City of London"
 98,Clarendon House,"Piccadilly, Westminster"
 99,Clerkenwell Church,"Clerkenwell, Middlesex"
 100,Clothworkers' Hall,"Mincing Lane, City of London"
-101,Cobham,"Cobham, Kent"
 102,Cock Alehouse (Temple Bar),"Temple Bar, Fleet Street"
-103,Cocker's (writing master),London
 104,Cockpit (Whitehall),"Whitehall Palace, Westminster"
-105,Cockpit Theatre (Whitehall),"Whitehall Palace, Westminster"
 106,Coffee House (Cornhill),"Cornhill, City of London"
 107,Coffee House / Rota Club,Westminster
-108,Colnbrook,"Colnbrook, Buckinghamshire"
-109,Colonel Cleggat's House (Greenwich),"Greenwich, Kent"
 110,Colonel Middleton's House,"near Seething Lane, London"
 111,"Colvill's (banker, Lime Street)","Lime Street, City of London"
 112,Commissioner Pett's House (Chatham),"Chatham Dockyard, Kent"
 113,Commissioners of Treasury,"Whitehall, Westminster"
 114,Comptroller's House (Lime Street),"Lime Street, City of London"
-115,Convocation House Yard,"St. Paul's Churchyard, City of London"
 116,Court Martial Yacht (Thames),"Thames near St. Katharine's, London"
 117,Cousin Roger Pepys's Chambers,"Temple, City of London"
-118,Cousin Roger Pepys's Lodgings,"Suffolk Street, London"
 119,Cousin Stradwick's House,City of London
 120,Cousin Thomas Pepys's House,London
 121,Cousin Tom Pepys's Shop,"St. Paul's Churchyard, City of London"
 122,Cousin Turner's House,"Strand / Temple area, London"
 123,Covent Garden (wife's mother),"Covent Garden, Westminster"
-124,Cow Lane (coachmaker),"near Smithfield, City of London"
 125,Cranborne (Sir G. Carteret's),"Cranborne, Wiltshire/Dorset"
-126,Cranbourne,"Cranbourne, Berkshire"
 127,Crane Tavern (Stocks),"near Stocks Market, City of London"
 128,Creed's House,"Newport Street, Covent Garden, London"
 129,Crown Tavern (behind Exchange),"behind Royal Exchange, City of London"
@@ -136,31 +106,23 @@ id,name,location
 135,Dartford,"Dartford, Kent"
 136,Deal,"Deal, Kent"
 137,Delft,"Delft, Netherlands"
-138,Delft - Nieuwe Kerk (Tromp's tomb),"Delft, Netherlands"
-139,Delft - Oude Kerk,"Delft, Netherlands"
-140,Delft - Stadhuis,"Delft, Netherlands"
 141,Deptford - Bagwell's House,"Deptford, Kent"
-142,Deptford - Captain Boddily's House,"Deptford, Kent"
 143,Deptford - Globe Tavern,"Deptford, Kent"
-144,Deptford Church,"Deptford, Kent"
 145,Deptford Dockyard,"Deptford, Kent"
 146,Devil Tavern,"Fleet Street / Temple Bar, City of London"
 147,Doctors' Commons,"Knightrider Street, City of London"
 148,Dog Tavern (Westminster),Westminster Hall area
 149,Dolphin Tavern,"Tower Street, City of London"
 150,Dover,"Dover, Kent"
-151,Dover Castle,"Dover, Kent"
 152,Dr. Williams's House,"Shoe Lane, City of London"
 153,Drury Lane Theatre,"Drury Lane, Westminster"
 154,Duck Lane (booksellers),"Little Britain area, City of London"
 155,Duke of Albemarle's House,"Whitehall / Cockpit, Westminster"
-156,Duke of York's Chamber (Whitehall),"Whitehall, Westminster"
 157,Duke of York's Playhouse,"Lincoln's Inn Fields, London"
 158,Duke's House (Theatre),"Lincoln's Inn Fields, Holborn"
 159,Duke's Playhouse (Lincoln's Inn Fields),"Lincoln's Inn Fields, London"
 160,Duke's Theatre,"Lincoln's Inn Fields, Holborn"
 161,East India House,"Leadenhall Street, City of London"
-162,Enfield,"Enfield, Middlesex"
 163,Epping,"Epping, Essex"
 164,Epsom,"Epsom, Surrey"
 165,Erith,"Erith, Kent"
@@ -173,7 +135,6 @@ id,name,location
 172,Exeter House Chapel,"Exeter House, Strand, Westminster"
 173,Falcon (Bankside),"Bankside, Southwark"
 174,Father's House,"Salisbury Court, Fleet Street, City of London"
-175,Faythorne's (engraver),London
 176,Faythorne's Print Shop,London
 177,Feathers Tavern (Fish Street),"Fish Street, City of London"
 178,Fenchurch Street (shops),"Fenchurch Street, City of London"
@@ -181,21 +142,15 @@ id,name,location
 180,Fleece Tavern (near Exchange),"near Royal Exchange, City of London"
 181,Fleet Alley,"Fleet Lane area, City of London"
 182,Fountain Tavern,"near Strand, London"
-183,Fowlmere,"Fowlmere, Cambridgeshire"
-184,Fox Hall (Vauxhall),"Vauxhall, Surrey"
 185,Foxhall / Vauxhall (Spring Gardens),"Vauxhall, Surrey"
-186,Frame-maker Morris's,"Long Acre, London"
 187,French Church,"Threadneedle Street, City of London"
 188,Fulham,"Fulham, Middlesex"
 189,Gaming House (Lincoln's Inn Fields),"Lincoln's Inn Fields, London"
-190,Garraway's Coffee-house,"Exchange Alley, Cornhill"
 191,George Montagu's House,Westminster
-192,Gillingham,"Gillingham, Kent"
 193,Glass House (Whitefriars),"Whitefriars/Blackfriars, London"
 194,Globe Tavern (Fleet Street),"Fleet Street, City of London"
 195,Goat Tavern (Charing Cross),"Charing Cross, Westminster"
 196,Godalming,"Godalming, Surrey"
-197,Godmanchester,"Godmanchester, Huntingdonshire"
 198,Golden Lion (Charing Cross),"near Charing Cross, Westminster"
 199,Goring House (Lord Arlington's),"St. James's area, Westminster"
 200,Gracechurch Street,"Gracechurch Street, City of London"
@@ -206,7 +161,6 @@ id,name,location
 205,Gray's Inn Fields,"Gray's Inn, Holborn"
 206,Gray's Inn Garden,"Gray's Inn, Holborn"
 207,Gray's Inn Walks,"Gray's Inn, Holborn"
-208,Great James Tavern,City of London
 209,Green Dragon (Lambeth Hill),"Lambeth Hill, City of London"
 210,Green Man Tavern,near London
 211,Greene Man Tavern,near London
@@ -216,7 +170,6 @@ id,name,location
 215,Greenwich - Mr. Boreman's House,"Greenwich, Kent"
 216,Greenwich - Music House,"Greenwich, Kent"
 217,Greenwich Church,"Greenwich, Kent"
-218,Greenwich Park,"Greenwich, Kent"
 219,Gresham College,"Bishopsgate Street, City of London"
 220,Greyhound Tavern (Fleet Street),"Fleet Street, City of London"
 221,Guildford,"Guildford, Surrey"
@@ -225,7 +178,6 @@ id,name,location
 224,Half Moon Tavern,near Westminster / New Exchange
 225,Half-way House,"Deptford-London road, Surrey"
 226,Halfway House (Deptford-Rotherhithe road),"Rotherhithe/Deptford road, Surrey"
-227,Hampstead,"Hampstead, Middlesex"
 228,Hampton Court,"Hampton Court, Surrey"
 229,Hampton Court Palace,"Hampton Court, Surrey"
 230,Harp and Ball,"near Charing Cross, Westminster"
@@ -241,24 +193,13 @@ id,name,location
 240,HMS Bezan (yacht),Thames / Medway
 241,HMS Charity,"Woolwich, Kent"
 242,HMS Charles,"River Medway, off Upnor Castle, Chatham"
-243,HMS Dutch Yacht,"Deptford, Kent"
-244,HMS Essex,The Downs
-245,HMS Grantham,The Downs
-246,HMS Henry,"The Hope, Thames Estuary"
-247,HMS Leopard,"Erith, Kent"
-248,HMS London,"Chatham, Kent"
-249,HMS Mathias,"Chatham, Kent"
 250,HMS Montagu,Portsmouth Harbour
 251,HMS Nazeby / Charles,"Flagship, various locations"
 252,HMS Newcastle,"River Medway, Chatham"
 253,HMS Northwich,The Downs
-254,HMS Norwich,"Deptford, Kent"
-255,HMS Plymouth,The Downs
 256,HMS Prince,"Chatham Dockyard, Kent"
-257,HMS Royal Charles,"The Hope, Thames Estuary"
 258,HMS Royal James (Lord Sandwich's flagship),"Queenborough Water, Medway"
 259,HMS Sovereign,"Buoy of the Nore, Thames Estuary"
-260,HMS Speaker / Mary,The Downs
 261,HMS Swiftsure,"Long Reach, Thames"
 262,Holborn Conduit,"Holborn, London"
 263,Holden's (hat maker),City of London
@@ -270,19 +211,15 @@ id,name,location
 269,Hungerford,"Hungerford, Berkshire"
 270,Huntingdon,"Huntingdon, Huntingdonshire"
 271,Huntingdon - Crown Inn,"Huntingdon, Huntingdonshire"
-272,Huntingdon Church,"Huntingdon, Huntingdonshire"
 273,Huntsmore (Mr. Bowyer's),"Huntsmore near Iver, Buckinghamshire"
 274,Huysman's (painter),Westminster
 275,Hyde Park,Westminster / Kensington
 276,Hyde Park - The Lodge,"Hyde Park, London"
 277,Impington,"Impington, Cambridgeshire"
-278,India House,"Leadenhall Street, City of London"
 279,Inner Court of Wards,Westminster
 280,Instrument-maker's (Chancery Lane),"Chancery Lane, London"
-281,Ironmongers' Hall,"Fenchurch Street, City of London"
 282,Islington,"Islington, Middlesex"
 283,Islington - King's Head,"Islington, Middlesex"
-284,Jacob's Alehouse (St. James's Park),"near St. James's Park, Westminster"
 285,Jamaica House,"Bermondsey, Surrey"
 286,Jervas the Barber's,"Palace Yard, Westminster"
 287,Jervas's (barber),Westminster
@@ -290,27 +227,20 @@ id,name,location
 289,Jewish Synagogue,"Creechurch Lane, City of London"
 290,Kate Joyce's House,London
 291,Kensington (Holland House),"Kensington, Middlesex"
-292,King's College Chapel (Cambridge),"Cambridge, Cambridgeshire"
 293,King's Head Tavern (Fish Street Hill),"Fish Street Hill, City of London"
-294,King's House (Theatre Royal),"Bridges Street, Covent Garden"
 295,King's Playhouse (Theatre Royal),Bridges Street / Drury Lane
 296,King's Privy Kitchen,"Whitehall, Westminster"
 297,King's Wine Cellar (Whitehall),"Whitehall, Westminster"
-298,Kingsland,"Kingsland, Middlesex"
 299,Kingsland / Hoxton,"Kingsland / Hoxton, Middlesex"
-300,Kingston,"Kingston-upon-Thames, Surrey"
 301,Kirton's Bookshop,"St. Paul's Churchyard, City of London"
 302,Kit's Coty House,"Aylesford, Kent"
 303,Knightsbridge,"Knightsbridge, Middlesex"
-304,Knipp's Lodgings,London
 305,Lady Peterborough's House,London
 306,Lady Pickering's Lodging (Blackfriars),"Blackfriars, City of London"
 307,Lady Pooly's House (Bow),"Bow, Middlesex"
-308,Lady Sandwich's,Lincoln's Inn Fields / Deptford
 309,Lambeth,"Lambeth, Surrey"
 310,Lambeth Marsh (old house),"Lambeth Marsh, Surrey"
 311,Lambeth Palace,"Lambeth, Surrey"
-312,Leadenhall Market,"Leadenhall Street, City of London"
 313,Leatherhead,"Leatherhead, Surrey"
 314,Leg Tavern (King Street),"King Street, Westminster"
 315,Leicester House,"Leicester Fields, Westminster"
@@ -319,24 +249,18 @@ id,name,location
 318,Lincoln's Inn (Mr. Pedly's),"Lincoln's Inn, Holborn, London"
 319,Lincoln's Inn Fields,"Holborn, London"
 320,Lincoln's Inn Walks,"Lincoln's Inn Fields, London"
-321,Liphook,"Liphook, Hampshire"
-322,Lisson Green,"Marylebone area, Middlesex"
 323,Lisson Green / Marylebone,"Marylebone, Middlesex"
 324,London Bridge,London Bridge
 325,Long Lane (upholsterers),"Smithfield area, City of London"
-326,Long Reach (ships),"Thames at Long Reach, Kent/Essex"
 327,Long Reach / The Hope,"Thames Estuary, Kent"
-328,Lord Arlington's House,"Whitehall area, Westminster"
 329,Lord Ashley's House,London
 330,Lord Bellasis's House,London
 331,Lord Bellasses's Lodgings,"Lincoln's Inn Fields, London"
 332,Lord Berkeley's Lodgings (St. James's),"St. James's, Westminster"
-333,Lord Berkeley's New House,"St. James's, Westminster"
 334,"Lord Brouncker's House (Piazza, Covent Garden)","Piazza, Covent Garden, Westminster"
 335,Lord Burlington's House,"Piccadilly, Westminster"
 336,Lord Chancellor's House,"near St. James's, Westminster"
 337,Lord Crew's House,"Lincoln's Inn Fields, Westminster/Holborn"
-338,Lord Lauderdale's House (Highgate),"Highgate, Middlesex"
 339,Lord Peterborough's House,London
 340,Lord Privy Seal's Chamber,"Whitehall, Westminster"
 341,Lord Sandwich's House,"Lincoln's Inn Fields / Chelsea, London"
@@ -346,16 +270,12 @@ id,name,location
 345,Loton's Studio (painter),"St. James's Market, London"
 346,Lovett's (varnisher),London
 347,Ludgate Church,"Ludgate Hill, City of London"
-348,Madam Williams's (Erith),"Erith, Kent"
 349,Magdalene College (Cambridge),"Cambridge, Cambridgeshire"
-350,Maidenhead,"Maidenhead, Berkshire"
 351,Maidstone,"Maidstone, Kent"
 352,Marlborough,"Marlborough, Wiltshire"
 353,Marrowbone (Marylebone),"Marylebone, Middlesex"
 354,Martin's Bookseller's,near St. Paul's / Strand
 355,Mercer's Chapel,"Cheapside, City of London"
-356,Mercer's Mother's House,"Crutched Friars, City of London"
-357,Michell's House,near Westminster
 358,Mitre Tavern,"Fenchurch Street, City of London"
 359,Moorfields,"Moorfields, near City of London"
 360,Mother Bowyer's House,Westminster
@@ -364,10 +284,8 @@ id,name,location
 363,Mr. Batelier's House,London
 364,Mr. Blagrave's House,Westminster
 365,Mr. Bland's House,City of London
-366,Mr. Boreman's House (Greenwich),"Greenwich, Kent"
 367,Mr. Bowyer's House,Westminster
 368,Mr. Cade's Warehouse,"Cornhill, City of London"
-369,Mr. Cole's House,London
 370,Mr. Colvill's (goldsmith),City of London
 371,Mr. Coventry's Chamber,St. James's Palace / Whitehall
 372,Mr. Coventry's Lodgings (Old Palace Yard),"Old Palace Yard, Westminster"
@@ -384,26 +302,21 @@ id,name,location
 383,Mr. Greatorex's,London
 384,Mr. Hales's Studio (painter),London
 385,Mr. Hempson's House (Chatham),"near Chatham, Kent"
-386,Mr. Holliard's,City of London
 387,Mr. Hubland's House,London
 388,Mr. Hunt's House,Westminster
 389,Mr. Jaggard's House,"Thames Street, City of London"
 390,Mr. Lely's Studio,"Piazza, Covent Garden, Westminster"
-391,Mr. Moore's Lodgings,Westminster
 392,Mr. Oldenburg's House,London
 393,Mr. Pett's House (Woolwich),"Woolwich, Kent"
 394,Mr. Pierce's House (surgeon),London
 395,Mr. Povy's House,"Lincoln's Inn Fields, London"
 396,Mr. Rawlinson's,"Fenchurch Street area, City of London"
-397,Mr. Reeve's (instruments),London
 398,Mr. Spong's Chamber,"near Southampton Market, London"
 399,Mr. Spong's House,London
 400,Mr. Standing's,"near Salisbury Court, City of London"
 401,Mr. Streeter's Studio (painter),"Covent Garden area, London"
 402,Mr. Ware's Lodgings,Westminster
-403,Mr. Williamson's Office,"Whitehall, Westminster"
 404,Mrs. Blackburne's House,London
-405,Mrs. Clerke's Lodgings (Greenwich),"Greenwich, Kent"
 406,Mrs. Crisp's House (Axe Yard),"Axe Yard, Westminster"
 407,Mrs. Daniel's House (Greenwich),"Greenwich, Kent"
 408,Mrs. Ferrer's Lodgings,Westminster
@@ -415,7 +328,6 @@ id,name,location
 414,Mrs. Lane's,Westminster Hall area
 415,Mrs. Martin's Lodgings (Bow Street),"Bow Street, Westminster"
 416,Mrs. Mitchell's Shop,"Westminster Hall, Westminster"
-417,Mrs. Penington's Lodgings (Greenwich),"Greenwich, Kent"
 418,Mrs. Pierce's House,Covent Garden / Westminster
 419,Mrs. Turner's House,"Salisbury Court / near Navy Office, City of London"
 420,Mrs. Williams's House,"Covent Garden, London"
@@ -434,23 +346,17 @@ id,name,location
 433,Newport Pagnell,"Newport Pagnell, Buckinghamshire"
 434,Nick Osborne's (Victualling Office),"near Victualling Office, London"
 435,Nonsuch (Exchequer office),"Nonsuch, Surrey"
-436,Nott's (bookbinder),"Westminster / Chancery Lane, London"
 437,Office of the Ordnance,Tower of London
 438,Offord,"Offord, Huntingdonshire"
 439,Old Artillery Ground,"Spitalfields, London"
 440,Old Bailey,"Old Bailey, City of London"
-441,Old Ford,"Old Ford, Middlesex"
 442,Old James Tavern,"Bishopsgate Street, City of London"
 443,Old Sarum,"Old Sarum, Wiltshire"
 444,"Old Swan (Michell's new shop, post-fire)","Old Swan, Thames Street, City of London"
-445,Ordnance Office,"Tower area, City of London"
-446,Oxford,"Oxford, Oxfordshire"
-447,Paddington / Tyburn,"Paddington, Middlesex"
 448,Painted Chamber,"Westminster Palace, Westminster"
 449,Pall Mall,"St. James's, Westminster"
 450,Pannier Alley,"Paternoster Row area, City of London"
 451,Parliament House,Westminster
-452,Parson's Drove,Cambridgeshire fens
 453,Patent Office (Chancery Lane),"Chancery Lane, London"
 454,Penell's Tavern,"Fleet Street, City of London"
 455,Petersfield,"Petersfield, Hampshire"
@@ -467,7 +373,6 @@ id,name,location
 466,Puckeridge,"Puckeridge, Hertfordshire"
 467,Putney,"Putney, Surrey"
 468,Queen's Chapel (St. James's),"St. James's Palace, Westminster"
-469,Queenborough,"Queenborough, Kent"
 470,Queenhithe,"Thames waterfront, City of London"
 471,Ratcliffe (plate-maker),"Ratcliffe, Stepney"
 472,Reading,"Reading, Berkshire"
@@ -475,16 +380,11 @@ id,name,location
 474,"Red Lion (King Street, Westminster)","King Street, Westminster"
 475,Redriffe (Rotherhithe),"Rotherhithe, Surrey"
 476,Rhenish Wine House,"Cannon Row, Westminster"
-477,Richmond / Mortlake,"Richmond / Mortlake, Surrey"
 478,Rochester,"Rochester, Kent"
 479,Rochester - Crown Inn,"Rochester, Kent"
-480,Rochester Castle,"Rochester, Kent"
 481,Rochester Cathedral,"Rochester, Kent"
-482,Roger Pepys's Lodgings,"Strand, near Arundel House"
 483,Rose Tavern (Cambridge),"Cambridge, Cambridgeshire"
-484,Royal Exchange (temporary),"Gresham College area, Bishopsgate, City of London"
 485,Royal Oak Tavern (Lombard Street),"Lombard Street, City of London"
-486,Saffron Walden,"Saffron Walden, Essex"
 487,Salisbury,"Salisbury, Wiltshire"
 488,Salisbury Court Playhouse,"Salisbury Court, Fleet Street"
 489,Salutation Tavern (Rochester),"Rochester, Kent"
@@ -492,20 +392,16 @@ id,name,location
 491,Savill the Painter's,"Cheapside, City of London"
 492,Savoy,"Strand, Westminster"
 493,Savoy Chapel,"Strand, Westminster"
-494,Saxham,"Saxham, Suffolk"
 495,Scheveningen,"Scheveningen, Netherlands"
-496,Secretary Bennet's Chamber,"Whitehall Palace, Westminster"
 497,Sessions House (Old Bailey),"Old Bailey, City of London"
 498,Sheerness,"Sheerness, Kent"
 499,Ship Tavern (Morrice's),"near Navy Office, London"
 500,Shoe Lane Alehouse (Gridiron),"Shoe Lane, City of London"
-501,Shoe Lane Cock-fighting Pit,"Shoe Lane, City of London"
 502,Sir Allen Broderick's (Wandsworth),"Wandsworth, Surrey"
 503,Sir G. Carteret's Lodgings (Whitehall),"Whitehall Palace, Westminster"
 504,Sir G. Smith's House,City of London / Greenwich
 505,Sir J. Minnes's House,"Seething Lane, City of London"
 506,Sir J. Winter's House,London
-507,Sir P. Neale's Chamber (Whitehall),"Whitehall Palace, Westminster"
 508,Sir Philip Howard's Lodgings,"Charing Cross, Westminster"
 509,Sir Philip Warwick's Office,"Whitehall area, Westminster"
 510,Sir R. Ford's House,"Seething Lane area, City of London"
@@ -518,16 +414,12 @@ id,name,location
 517,Sir W. Petty's Experiment (double-bottom boat),Limehouse / Thames
 518,Sir W. Rider's House (Bethnal Green),"Bethnal Green, Middlesex"
 519,Sir William Batten's House,"Seething Lane, City of London"
-520,Sir William Penn's House,"Seething Lane, City of London"
 521,Six Clerks' Office,"Chancery Lane, City of London"
 522,Smithfield,"Smithfield, City of London"
 523,Somerset House,"Strand, Westminster"
-524,Somerset House Chapel,"Strand, Westminster"
-525,Southwark / Bear (Bridge Foot),"Southwark, near London Bridge"
 526,Southwark / Stangate,"Southwark / Stangate, Surrey"
 527,Southwark Posthouse,"Southwark, Surrey"
 528,Spanish Ambassador's House,London
-529,Speaker's Chamber (Parliament),Westminster
 530,Spittle (Easter sermons),"Spitalfields, London"
 531,St. Andrew's Church (Holborn),"Holborn, London"
 532,St. Catherine's,St. Katherine's by the Tower
@@ -548,8 +440,6 @@ id,name,location
 547,St. Paul's Ruins (post-fire),"St. Paul's Churchyard, City of London"
 548,St. Paul's School,"near St. Paul's Cathedral, City of London"
 549,Staines,"Staines, Surrey"
-550,Standing's Tavern,"Fleet Street, City of London"
-551,Stanmore,"Stanmore, Middlesex"
 552,Stanton,"Stanton, Huntingdonshire"
 553,Star Tavern,"near Navy Office, City of London"
 554,Starky's Cook-shop,"Austin Friars, City of London"
@@ -566,23 +456,18 @@ id,name,location
 565,Tangier Committee Room,"Whitehall Palace, Westminster"
 566,Temple,"Fleet Street, City of London"
 567,Temple Church,"Inner Temple, Fleet Street"
-568,The Cocke Tavern (Suffolk Street),"Suffolk Street, London"
 569,The Downs (anchorage),"off Deal, Kent"
 570,The Hague,"The Hague, Netherlands"
-571,The Hague - Prince of Orange's House,"The Hague, Netherlands"
 572,The Hague - States General (Grande Salle),"Binnenhof, The Hague"
 573,The Hope (anchorage),"Thames Estuary, Kent"
 574,The Rolls (Records Office),"Chancery Lane, London"
-575,The Ruby (French prize ship),"Woolwich, Kent"
 576,The Wardrobe,"Carter Lane, off Ludgate Hill, City of London"
 577,Theatre Royal,"Vere Street / Bridges Street, Covent Garden"
 578,Three Cranes (Thames stairs),"Thames waterfront, City of London"
 579,Three Mariners Tavern (Lambeth),"Lambeth, Surrey"
 580,Three Tuns Tavern,Charing Cross / near Navy Office
-581,Tower Chapel,Tower of London
 582,Tower Hill,"Tower Hill, City of London"
 583,Tower of London,"Tower Hill, City of London"
-584,Tower of London - Garden,"Tower of London, Tower Hill"
 585,Tower of London - Lieutenant's Lodgings,"Tower of London, Tower Hill"
 586,Tower Wharf,Tower of London waterfront
 587,Trinity Hall (Cambridge),"Cambridge, Cambridgeshire"
@@ -593,14 +478,11 @@ id,name,location
 592,Uncle Wight's House,"Fenchurch Street area, City of London"
 593,Unthank's,"Charing Cross area, Westminster"
 594,Upnor Castle,"Upnor, near Chatham, Kent"
-595,"Upper Exchange (temporary, post-fire)",City of London
-596,Vauxhall (Foxhall),"Vauxhall, Surrey"
 597,Victualling Office,"East Smithfield / Tower Hill, City of London"
 598,Voorhout (The Hague),"The Hague, Netherlands"
 599,W. Hewer's Lodgings,"Crutched Friars, City of London"
 600,W. Joyce's House,"Tuttle Street, Westminster"
 601,Walthamstow (Batten's country house),"Walthamstow, Essex"
-602,Wandsworth,"Wandsworth, Surrey"
 603,Wanstead,"Wanstead, Essex"
 604,Wapping,"Wapping, Middlesex"
 605,Wapping - Sir W. Warren's Yard,"Wapping, Middlesex"
@@ -614,56 +496,23 @@ id,name,location
 613,White Horse Tavern,"Lombard Street, City of London"
 614,Whitefriars Playhouse,"Whitefriars, City of London"
 615,Whitehall - Ball Room,"Whitehall Palace, Westminster"
-616,Whitehall - Banqueting House,"Whitehall Palace, Westminster"
 617,Whitehall - Boarded Gallery,"Whitehall Palace, Westminster"
-618,Whitehall - Chapel Lobby,"Whitehall Palace, Westminster"
 619,Whitehall - Chapel Royal,"Whitehall Palace, Westminster"
-620,Whitehall - Chequer Chamber,"Whitehall Palace, Westminster"
 621,Whitehall - Council Chamber,"Whitehall Palace, Westminster"
 622,Whitehall - Duke of York's Chamber,"Whitehall Palace, Westminster"
-623,Whitehall - Duke of York's Closet,"Whitehall Palace, Westminster"
-624,Whitehall - Green Room / Cabinet,"Whitehall Palace, Westminster"
-625,Whitehall - Henry VIII's Gallery,"Whitehall Palace, Westminster"
-626,Whitehall - King's Closet,"Whitehall Palace, Westminster"
-627,Whitehall - King's Laboratory,"Whitehall Palace, Westminster"
-628,Whitehall - Long Gallery,"Whitehall Palace, Westminster"
 629,Whitehall - Long Matted Gallery,"Whitehall Palace, Westminster"
-630,Whitehall - Matted Gallery,"Whitehall Palace, Westminster"
-631,Whitehall - Mr. Chevins's Lodgings,"Whitehall Palace, Westminster"
-632,Whitehall - New Playhouse,"Whitehall Palace, Westminster"
-633,Whitehall - Painted Chamber,"Whitehall Palace, Westminster"
-634,Whitehall - Privy Gallery,"Whitehall Palace, Westminster"
-635,Whitehall - Queen's Lodgings,"Whitehall Palace, Westminster"
 636,Whitehall - Queen's Presence Chamber,"Whitehall Palace, Westminster"
 637,Whitehall - Scotland Yard Guard,"Scotland Yard, Whitehall"
-638,Whitehall - Shield Gallery,"Whitehall Palace, Westminster"
-639,Whitehall - Stone Gallery,"Whitehall Palace, Westminster"
 640,Whitehall - Treasury Chamber,"Whitehall Palace, Westminster"
 641,Whitehall - Vane Room,"Whitehall Palace, Westminster"
 642,Whitehall Palace,Westminster
-643,Whitehall Palace - Ball Room,"Whitehall Palace, Westminster"
-644,Whitehall Palace - Banqueting House,"Whitehall Palace, Westminster"
 645,Whitehall Palace - Bowling Green,"Whitehall Palace, Westminster"
-646,Whitehall Palace - Chapel Royal,"Whitehall Palace, Westminster"
-647,Whitehall Palace - Cockpit Theatre,"Whitehall Palace, Westminster"
-648,Whitehall Palace - Council Chamber,"Whitehall Palace, Westminster"
-649,Whitehall Palace - Duke of York's Chamber,"Whitehall Palace, Westminster"
 650,Whitehall Palace - Lord Sandwich's Lodgings,"Whitehall Palace, Westminster"
-651,Whitehall Palace - Matted Gallery,"Whitehall Palace, Westminster"
-652,Whitehall Palace - Picture Galleries,"Whitehall Palace, Westminster"
-653,Whitehall Palace - Privy Garden,"Whitehall Palace, Westminster"
-654,Whitehall Palace - Queen's Presence Chamber,"Whitehall Palace, Westminster"
-655,Widow Dickenson's,London
 656,Wilkinson's,"near Westminster Hall, Westminster"
-657,Will Joyce's House,City of London
 658,Will's (Westminster),Westminster
 659,Will's Coffee House (Westminster),"near Westminster Hall, Westminster"
 660,William Joyce's House,"Holborn / Strand, London"
-661,Wilton House,"near Salisbury, Wiltshire"
-662,Wisbech,"Wisbech, Cambridgeshire"
 663,Wisbech Church,"Wisbech, Cambridgeshire"
-664,Woolwich (wife's lodgings at Shelden's),"Woolwich, Kent"
-665,Woolwich - Ham Creek,"Woolwich area, Kent"
 666,Woolwich - Mr. Shelden's House,"Woolwich, Kent"
 667,Woolwich Dockyard,"Woolwich, Kent"
 668,Worcester House,"Strand, Westminster"
@@ -671,119 +520,69 @@ id,name,location
 670,Wotton's (shoemaker),near St. Paul's / Fleet Street
 671,Yelling,"Yelling, Huntingdonshire"
 672,York House,"Strand, Westminster"
-673,Mr. Brigden's (sword cutler),"Fleet Street, City of London"
-674,Mr. Adam Chard's House,City of London
 675,Sir John Robinson's House (Tower),"Tower of London, City of London"
 676,"Mr. Young's House (flag-maker, Cornhill)","Cornhill, City of London"
-677,Mr. Thornbury's House,"King Street area, Westminster"
-678,Mr. Holland's House (Bridewell),"Bridewell, City of London"
-679,Mr. Hodges's House,"Lincoln's Inn Fields, London"
 680,Portholme Meadow,"near Huntingdon, Huntingdonshire"
-681,Sturtlow,"Sturtlow, near Brampton, Huntingdonshire"
 682,Sir Robert Bernard's House,"Huntingdon, Huntingdonshire"
 683,Holloway,"Holloway, Middlesex"
 684,Paternoster Row,"Paternoster Row, City of London"
 685,Havant,"Havant, Hampshire"
 686,Gosport,"Gosport, Hampshire"
 687,Southampton,"Southampton, Hampshire"
-688,Teddington,"Teddington, Middlesex"
 689,Mr. Mossum's Church,Westminster (St. Peter's Paul's Wharf area)
 690,Sir Edward Walker's Lodgings,"St. Giles, London"
 691,Sir Harry Wright's House,"King Street, Westminster"
 692,Mr. Fage's (apothecary),City of London
 693,Mr. Downing's Office/House,Westminster
 694,Mr. Vines's House,Westminster
-695,Mr. Johnson's House (Blackwall),"Blackwall, Middlesex"
 696,Mrs. Russell's House,City of London (near Navy Office)
-697,Shoreditch,"Shoreditch, Middlesex"
 698,Elizabeth Pepys's Mother's House,"Covent Garden, Westminster"
-699,Whitechapel,"Whitechapel, Middlesex"
-700,The Lewes (merchant ship),River Thames
 701,Cuckold's Point,"Thames riverside, Rotherhithe"
 702,Waltham Forest,"Waltham Forest, Essex"
-703,Polichinelli Show (Charing Cross),"Charing Cross, Westminster"
 704,Dorset House,"Fleet Street area, London"
 705,Drumbleby's (flageolet maker),Westminster
 706,Chatelin's (French house),"Covent Garden, Westminster"
-707,Katherine Wheel Tavern (Islington),"Islington, Middlesex"
 709,Blue Balls Tavern,"Covent Garden, Westminster"
-710,Mr. Cooper's House (portrait painter),City of London
 711,Dr. Turberville's (eye doctor),Westminster
 712,Groom-Porter's (gaming room),"Whitehall Palace, Westminster"
 713,Cary House,"Strand, Westminster"
-714,Durdans,"near Epsom, Surrey"
-715,Syon House,"Isleworth, Middlesex"
-716,Lausdune (Loosduinen),"Loosduinen, Holland"
 717,Princess Dowager's House,"The Hague, Holland"
 718,Sittingbourne,"Sittingbourne, Kent"
 719,Mr. Gauden's House (Clapham),"Clapham, Surrey"
-720,Swakeley (Sir R. Viner's),"Ickenham, Middlesex"
-721,Merchant Tailors' Hall,"Threadneedle Street, City of London"
-722,Durham Yard,"Strand, Westminster"
 723,Milk House (near New Exchange),"Strand, Westminster"
 724,Reindeer Inn (Bishop's Stortford),"Bishop's Stortford, Hertfordshire"
-725,Ashtead Church,"Ashtead, Surrey"
 726,Mum House (Leadenhall),"Leadenhall, City of London"
-727,Triumph Tavern (Charing Cross),"Charing Cross, Westminster"
 728,Hermitage Wharf,"Wapping, Middlesex"
-729,Queen's Drawing Room (Whitehall),"Whitehall Palace, Westminster"
 730,Shell-work Woman's House,"between Scheveningen and The Hague, Holland"
-731,Queen of Bohemia's Residence,"The Hague, Holland"
 732,Scheveling Church,"Scheveningen, Holland"
-733,Bedlam (Bethlem Hospital),"Moorfields, City of London"
 734,Catan Sterpin's House,London
 735,Crowe's (upholsterer),"St. Bartholomew's, Smithfield, City of London"
 736,Devonshire House,"Bishopsgate, City of London"
 737,Gatehouse (Westminster),Westminster
-738,Herbert's (eating house),Westminster
-739,Lee Roads (Thames anchorage),"Thames Estuary, off Leigh-on-Sea"
-740,Old Jewry,"Old Jewry, City of London"
 741,Mr. Pim's (tailor),Westminster / London
 742,Mr. Pinkney's House (goldsmith),City of London
 743,Mr. Battersby's House,"Fenchurch Street, City of London"
-744,Mr. Calthrop's House,Temple / London Bridge area
-745,Price's Tavern (Westminster),"near Whitehall, Westminster"
 746,Prior's (Rhenish wine-house),Westminster
 747,Quaker's (eating house),London
 748,Raindeer Tavern (Westminster),Westminster
 749,Regent House (Cambridge),"Cambridge, Cambridgeshire"
-750,Samson Tavern,"St. Paul's Churchyard, City of London"
-751,Signor Torriano's House,London
-752,Signet Office (Whitehall),"Whitehall, Westminster"
 753,Sir Geffery Palmer's,Westminster / London
 754,Sir H. Cholmley's House,"Covent Garden area, London"
 755,The Mews (Charing Cross),"Charing Cross, Westminster"
-756,Mr. Tooker's Lodging (Greenwich),"Greenwich, Kent"
 757,Westminster Stairs,Westminster
 758,Mr. Penny's (tailor),"near St. Dunstan's Church, Fleet Street"
-759,Harman's House (upholsterer),"Cornhill, City of London"
-760,Plough (Fleet Street),"Fleet Street, London"
 761,Cake House,London
-762,Mrs. Ann's Lodgings,London (Montagu daughter)
 763,Philips Norton,"Philips Norton, Somerset"
-764,The Spits (Thames Estuary),Thames Estuary sandbanks
-765,Isle of Dogs,"Isle of Dogs, Middlesex"
 766,Acton,"Acton, Middlesex"
 767,Goody Gorum's,"Brampton area, Huntingdonshire"
-768,Mr. Lucy's House,City of London
-769,Mrs. Whately's House,City of London
 770,Mrs. Terry's House,City of London
 771,Stourbridge Fair,"near Cambridge, Cambridgeshire"
 772,Mr. Sedgewick's House,"Cambridge, Cambridgeshire"
-773,Mr. Knightly's House,London (near Seething Lane)
-774,Botolph's Church (Cambridge),"Cambridge, Cambridgeshire"
 775,Herring's (Coleman Street),"Coleman Street, City of London"
-776,Mr. Ashburnham's,"Old Palace Yard, Westminster"
-777,The Grange,near Lincoln's Inn Fields
 778,Fuller's (Deal),"Deal, Kent"
 779,Mr. Chaplin's House,London
 780,Admiralty Office,"Whitehall, Westminster"
-781,Mr. Berkenshaw's House,Southwark
-782,Mr. Wiard's House (surgeon),Portsmouth
-783,Mayor's House (Southampton),"Southampton, Hampshire"
-784,Mayor's House (Portsmouth),"Portsmouth, Hampshire"
 785,Short's Ale-house (Old Bailey),"Old Bailey, City of London"
-786,Mr. Wayth's House (Deptford),"Deptford area, Kent"
 787,St. Nicholas's Church (Deptford),"Deptford, Kent"
 788,Home (Seething Lane),"Seething Lane, City of London"
 789,Royal Exchange,"Cornhill, City of London"

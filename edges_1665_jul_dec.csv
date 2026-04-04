@@ -481,8 +481,8 @@ source,target,year,month,day,mode,companion
 788,145,1665,7,26,boat,Sir W. Batten
 145,212,1665,7,26,walk,
 212,788,1665,7,26,boat,
-788,184,1665,7,27,boat,
-184,229,1665,7,27,coach,Mr. Gauden
+788,185,1665,7,27,boat,
+185,229,1665,7,27,coach,Mr. Gauden
 229,788,1665,7,27,coach,
 788,145,1665,8,14,boat,
 145,788,1665,8,14,boat,
