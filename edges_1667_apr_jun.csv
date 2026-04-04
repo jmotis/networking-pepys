@@ -416,3 +416,18 @@ source,target,year,month,day,mode,companion
 90,478,1667,6,30,walk,John Creed
 478,481,1667,6,30,walk,John Creed
 481,478,1667,6,30,walk,John Creed
+422,789,1667,4,11,walk,
+789,503,1667,4,11,walk,
+503,422,1667,4,11,walk,
+422,503,1667,4,11,walk,Balty
+503,788,1667,4,11,walk,Balty
+788,343,1667,5,6,coach,
+343,509,1667,5,6,walk,
+509,610,1667,5,6,walk,
+610,788,1667,5,6,coach,Captain Cocke
+788,419,1667,5,18,walk,Elizabeth Pepys
+419,788,1667,5,18,walk,Elizabeth Pepys
+788,319,1667,5,21,walk,
+319,788,1667,5,21,walk,
+788,667,1667,6,23,boat,
+667,788,1667,6,23,boat,

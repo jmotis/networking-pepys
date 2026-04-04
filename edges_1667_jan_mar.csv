@@ -329,3 +329,14 @@ source,target,year,month,day,mode,companion
 562,610,1667,3,8,walk,
 610,642,1667,3,8,walk,
 642,788,1667,3,8,coach,Sir W. Batten;Sir W. Penn
+788,158,1667,3,21,walk,
+158,788,1667,3,21,walk,
+788,171,1667,3,25,coach,Sir W. Batten;Sir W. Penn
+171,395,1667,3,25,walk,Sir W. Penn
+395,788,1667,3,25,walk,Sir W. Penn
+788,516,1667,3,25,walk,
+516,171,1667,3,25,coach,Sir W. Penn
+171,295,1667,3,25,coach,Sir W. Penn
+295,788,1667,3,25,coach,Sir W. Penn
+788,158,1667,3,30,coach,
+158,788,1667,3,30,coach,Sir W. Penn

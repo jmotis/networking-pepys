@@ -684,3 +684,40 @@ source,target,year,month,day,mode,companion
 788,295,1668,6,29,coach,Elizabeth Pepys
 295,282,1668,6,29,coach,Elizabeth Pepys
 282,788,1668,6,29,coach,
+788,295,1668,1,11,coach,Mercer;Elizabeth Pepys;Deb Willet
+295,788,1668,1,11,coach,Mercer;Elizabeth Pepys;Deb Willet
+788,789,1668,1,28,coach,Elizabeth Pepys;Deb Willet
+789,642,1668,1,28,coach,
+642,788,1668,1,28,coach,
+788,158,1668,2,6,walk,
+158,788,1668,2,6,walk,
+788,642,1668,2,19,walk,
+642,788,1668,2,19,walk,
+788,426,1668,2,24,coach,Elizabeth Pepys
+426,788,1668,2,24,coach,Elizabeth Pepys
+788,426,1668,2,25,coach,Elizabeth Pepys;Deb Willet
+426,788,1668,2,25,coach,Elizabeth Pepys;Deb Willet
+788,593,1668,3,12,coach,Elizabeth Pepys;Deb Willet
+593,610,1668,3,12,walk,
+610,789,1668,3,12,walk,Lord Brouncker
+789,219,1668,3,12,walk,
+219,788,1668,3,12,coach,Elizabeth Pepys
+788,415,1668,3,21,walk,
+415,788,1668,3,21,walk,
+788,334,1668,4,12,coach,
+334,788,1668,4,12,coach,
+788,234,1668,5,2,coach,Lord Brouncker
+234,158,1668,5,2,walk,
+158,541,1668,5,2,coach,
+541,788,1668,5,2,coach,
+788,158,1668,5,7,coach,Mercer;Mrs. Turner
+158,295,1668,5,7,walk,Mercer
+295,788,1668,5,7,coach,Mercer;Mrs. Turner
+788,43,1668,5,23,coach,
+43,65,1668,5,23,coach,
+65,43,1668,5,26,coach,
+43,788,1668,5,26,coach,
+28,269,1668,6,10,coach,Elizabeth Pepys;W. Hewer
+269,487,1668,6,11,coach,Elizabeth Pepys;W. Hewer
+487,763,1668,6,12,coach,Elizabeth Pepys;W. Hewer
+763,28,1668,6,14,coach,Elizabeth Pepys;W. Hewer

@@ -425,3 +425,36 @@ source,target,year,month,day,mode,companion
 788,158,1668,12,30,coach,Elizabeth Pepys
 158,789,1668,12,30,coach,Elizabeth Pepys
 789,788,1668,12,30,coach,Elizabeth Pepys
+788,9,1668,7,16,boat,Lord Brouncker
+9,788,1668,7,16,boat,
+196,455,1668,8,7,coach,
+455,196,1668,8,7,coach,
+422,610,1668,9,3,walk,
+610,788,1668,9,3,walk,
+788,27,1668,9,4,coach,Elizabeth Pepys;Mercer;W. Hewer
+27,234,1668,9,4,coach,Elizabeth Pepys;Mercer;W. Hewer
+234,788,1668,9,4,coach,Elizabeth Pepys;Mercer;W. Hewer
+788,384,1668,9,5,coach,
+384,788,1668,9,5,coach,
+788,334,1668,9,24,walk,
+334,788,1668,9,24,walk,
+788,642,1668,9,25,coach,Lord Brouncker;Sir J. Minnes
+642,788,1668,9,25,coach,
+788,642,1668,9,26,boat,
+642,610,1668,9,26,walk,
+610,788,1668,9,26,walk,
+788,325,1668,10,15,coach,Elizabeth Pepys;Deb Willet
+325,735,1668,10,15,coach,Elizabeth Pepys;Deb Willet
+735,788,1668,10,15,coach,Elizabeth Pepys;Deb Willet
+788,426,1668,10,20,coach,
+426,788,1668,10,20,coach,
+788,735,1668,10,22,coach,Elizabeth Pepys;Deb Willet
+735,9,1668,10,22,coach,
+9,788,1668,10,22,coach,
+788,422,1668,11,22,walk,
+422,788,1668,11,22,walk,
+788,523,1668,12,10,boat,W. Hewer
+523,788,1668,12,10,walk,
+788,158,1668,12,29,coach,Elizabeth Pepys
+158,789,1668,12,29,coach,Elizabeth Pepys
+789,788,1668,12,29,coach,Elizabeth Pepys
