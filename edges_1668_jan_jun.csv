@@ -88,6 +88,8 @@ source,target,year,month,day,mode,companion
 788,597,1668,1,22,coach,Lord Brouncker
 597,290,1668,1,22,walk,
 290,788,1668,1,22,walk,
+788,422,1668,1,23,walk,
+422,788,1668,1,23,walk,
 788,566,1668,1,24,walk,
 566,610,1668,1,24,walk,
 610,531,1668,1,24,walk,
@@ -396,6 +398,8 @@ source,target,year,month,day,mode,companion
 154,788,1668,4,3,coach,
 788,642,1668,4,4,coach,
 642,788,1668,4,4,boat,
+788,544,1668,4,5,walk,
+544,788,1668,4,5,walk,
 788,409,1668,4,6,coach,Alderman Backwell
 409,642,1668,4,6,coach,
 642,610,1668,4,6,walk,
@@ -583,6 +587,17 @@ source,target,year,month,day,mode,companion
 610,788,1668,5,9,boat,
 788,422,1668,5,9,walk,
 422,788,1668,5,9,walk,
+788,422,1668,5,10,walk,
+422,788,1668,5,10,walk,
+788,544,1668,5,10,walk,
+544,788,1668,5,10,walk,
+788,544,1668,5,10,walk,Lady Penn
+544,516,1668,5,10,walk,Lady Penn
+516,93,1668,5,10,boat,Lady Penn;Mrs. Lowther;Mrs. Whistler
+93,185,1668,5,10,boat,Lady Penn;Mrs. Lowther;Mrs. Whistler
+185,586,1668,5,10,boat,Lady Penn;Mrs. Lowther;Mrs. Whistler
+586,516,1668,5,10,walk,Lady Penn;Mrs. Lowther
+516,788,1668,5,10,walk,
 788,642,1668,5,11,boat,
 642,422,1668,5,11,walk,
 422,788,1668,5,11,walk,
@@ -823,3 +838,5 @@ source,target,year,month,day,mode,companion
 788,295,1668,6,29,coach,Elizabeth Pepys
 295,282,1668,6,29,coach,Elizabeth Pepys
 282,788,1668,6,29,coach,
+788,422,1668,6,30,walk,
+422,788,1668,6,30,walk,
