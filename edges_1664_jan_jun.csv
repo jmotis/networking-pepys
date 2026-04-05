@@ -94,6 +94,7 @@ source,target,year,month,day,mode,companion
 212,145,1664,1,22,walk,
 145,788,1664,1,22,boat,
 788,422,1664,1,23,walk,
+788,422,1664,1,25,walk,
 422,789,1664,1,25,coach,
 789,788,1664,1,25,coach,Sir W. Batten
 788,422,1664,1,25,walk,
@@ -676,6 +677,7 @@ source,target,year,month,day,mode,companion
 516,788,1664,1,17,walk,
 788,422,1664,1,24,walk,
 422,788,1664,1,24,walk,
+422,788,1664,1,23,walk,
 788,544,1664,2,7,walk,
 544,788,1664,2,7,walk,
 788,106,1664,2,12,walk,

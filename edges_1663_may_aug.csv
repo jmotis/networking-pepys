@@ -420,6 +420,8 @@ source,target,year,month,day,mode,companion
 203,90,1663,8,1,horse,Sir W. Coventry
 90,91,1663,8,1,walk,Sir W. Coventry;Commissioner Pett
 91,90,1663,8,1,walk,
+90,91,1663,8,1,walk,
+91,90,1663,8,3,walk,
 90,788,1663,8,3,horse,Sir W. Coventry
 788,203,1663,8,3,horse,Sir W. Coventry
 203,788,1663,8,4,boat,Sir W. Coventry
