@@ -102,9 +102,9 @@ source,target,year,month,day,mode,companion
 27,788,1668,7,31,coach,Elizabeth Pepys;Deb Willet;Mercer;W. Batelier
 788,642,1668,8,1,coach,Elizabeth Pepys;Deb Willet
 642,788,1668,8,1,coach,Elizabeth Pepys;Deb Willet
-788,467,1668,8,2,boat,Tom Pepys
-467,24,1668,8,2,walk,Tom Pepys
-24,788,1668,8,2,walk,Tom Pepys
+788,467,1668,8,2,boat,Tom Edwards
+467,24,1668,8,2,walk,Tom Edwards
+24,788,1668,8,2,walk,Tom Edwards
 788,642,1668,8,3,boat,
 642,540,1668,8,3,walk,
 540,789,1668,8,3,walk,
@@ -399,7 +399,7 @@ source,target,year,month,day,mode,companion
 788,544,1668,12,20,walk,Elizabeth Pepys
 544,642,1668,12,20,coach,Elizabeth Pepys;W. Hewer
 642,788,1668,12,20,coach,Elizabeth Pepys;W. Hewer
-788,566,1668,12,21,coach,Tom Pepys
+788,566,1668,12,21,coach,Tom Edwards
 566,642,1668,12,21,coach,
 642,789,1668,12,21,walk,Elizabeth Pepys;W. Hewer
 789,566,1668,12,21,coach,Talbot Pepys/W.Hewer

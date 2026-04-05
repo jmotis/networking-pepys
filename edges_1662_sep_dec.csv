@@ -464,7 +464,7 @@ source,target,year,month,day,mode,companion
 212,145,1662,9,5,walk,
 145,788,1662,9,5,boat,
 788,422,1662,9,6,walk,
-422,588,1662,9,6,walk,Sir J. Minnes;Sir W. Batten;Sir W. Pen
+422,588,1662,9,6,walk,Sir J. Minnes;Sir W. Batten;Sir W. Penn
 588,788,1662,9,6,walk,
 788,422,1662,9,8,walk,
 422,642,1662,9,8,boat,Sir J. Minnes
@@ -483,7 +483,7 @@ source,target,year,month,day,mode,companion
 145,516,1662,9,11,walk,
 516,788,1662,9,11,walk,
 788,422,1662,9,15,walk,
-422,642,1662,9,15,boat,Sir W. Pen
+422,642,1662,9,15,boat,Sir W. Penn
 642,788,1662,9,15,walk,
 788,422,1662,9,16,walk,
 422,789,1662,9,16,walk,
@@ -497,7 +497,7 @@ source,target,year,month,day,mode,companion
 145,667,1662,9,19,walk,
 667,788,1662,9,19,walk,
 788,422,1662,9,22,walk,
-422,540,1662,9,22,coach,Sir J. Minnes;Sir W. Batten;Sir W. Pen
+422,540,1662,9,22,coach,Sir J. Minnes;Sir W. Batten;Sir W. Penn
 540,788,1662,9,22,walk,
 788,422,1662,9,23,walk,
 422,145,1662,9,23,boat,Sir G. Carteret;Sir W. Batten

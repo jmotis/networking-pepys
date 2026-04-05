@@ -74,9 +74,9 @@ source,target,year,month,day,mode,companion
 541,642,1667,1,20,walk,brother John
 642,516,1667,1,20,walk,
 516,788,1667,1,20,walk,
-788,563,1667,1,21,coach,Sir W. Batten;Sir W. Penn;R. Ford
-563,171,1667,1,21,coach,Sir W. Batten;Sir W. Penn;R. Ford
-171,642,1667,1,21,coach,Sir W. Batten;Sir W. Penn;R. Ford
+788,563,1667,1,21,coach,Sir W. Batten;Sir W. Penn;Sir R. Ford
+563,171,1667,1,21,coach,Sir W. Batten;Sir W. Penn;Sir R. Ford
+171,642,1667,1,21,coach,Sir W. Batten;Sir W. Penn;Sir R. Ford
 642,610,1667,1,21,walk,
 610,171,1667,1,21,walk,
 171,788,1667,1,21,walk,
@@ -321,14 +321,6 @@ source,target,year,month,day,mode,companion
 788,736,1667,3,7,walk,John Creed
 736,160,1667,3,7,walk,John Creed
 160,788,1667,3,7,walk,Elizabeth Pepys
-788,444,1667,3,8,walk,
-444,642,1667,3,8,boat,
-642,503,1667,3,8,walk,
-503,169,1667,3,8,walk,
-169,562,1667,3,8,walk,
-562,610,1667,3,8,walk,
-610,642,1667,3,8,walk,
-642,788,1667,3,8,coach,Sir W. Batten;Sir W. Penn
 788,158,1667,3,21,walk,
 158,788,1667,3,21,walk,
 788,171,1667,3,25,coach,Sir W. Batten;Sir W. Penn
