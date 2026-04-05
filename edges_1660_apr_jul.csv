@@ -4,6 +4,8 @@ source,target,year,month,day,mode,companion
 778,251,1660,4,30,boat,William Howe;Mr. Shepley
 251,239,1660,4,30,boat,William Howe;Mr. Shepley
 239,251,1660,4,30,boat,William Howe;Mr. Shepley
+264,169,1660,5,2,walk,
+169,264,1660,5,2,walk,
 251,136,1660,5,3,boat,
 136,251,1660,5,3,boat,
 251,495,1660,5,14,boat,
@@ -109,6 +111,8 @@ source,target,year,month,day,mode,companion
 642,650,1660,6,18,walk,Edward Montagu
 650,374,1660,6,18,walk,
 374,174,1660,6,18,walk,
+264,169,1660,6,18,walk,
+169,264,1660,6,18,walk,
 174,650,1660,6,19,walk,Edward Montagu
 650,451,1660,6,19,walk,Edward Montagu
 451,642,1660,6,19,walk,
@@ -169,6 +173,8 @@ source,target,year,month,day,mode,companion
 264,704,1660,6,25,coach,Elizabeth Pepys
 704,264,1660,6,25,coach,Elizabeth Pepys
 264,650,1660,6,25,walk,
+264,169,1660,6,25,walk,
+169,264,1660,6,25,walk,
 650,642,1660,6,26,walk,
 642,580,1660,6,26,walk,Mr. Throgmorton
 580,264,1660,6,26,walk,Elizabeth Pepys
@@ -180,6 +186,8 @@ source,target,year,month,day,mode,companion
 642,562,1660,6,27,walk,Edward Montagu
 562,610,1660,6,27,coach,William Howe
 610,264,1660,6,27,walk,
+264,169,1660,6,27,walk,
+169,264,1660,6,27,walk,
 264,371,1660,6,28,walk,
 371,650,1660,6,28,walk,Edward Montagu
 650,100,1660,6,28,walk,Elizabeth Pepys
@@ -220,6 +228,8 @@ source,target,year,month,day,mode,companion
 610,561,1660,7,4,walk,
 561,650,1660,7,4,walk,
 650,264,1660,7,4,walk,
+264,169,1660,7,4,walk,
+169,264,1660,7,4,walk,
 264,642,1660,7,5,walk,
 642,541,1660,7,5,walk,Mr. Blackburne
 541,650,1660,7,5,walk,
@@ -238,6 +248,8 @@ source,target,year,month,day,mode,companion
 592,422,1660,7,7,walk,
 422,650,1660,7,7,walk,
 650,264,1660,7,7,walk,
+264,169,1660,7,7,walk,
+169,264,1660,7,7,walk,
 264,619,1660,7,8,walk,Edward Montagu
 619,264,1660,7,8,walk,
 264,174,1660,7,8,walk,
@@ -247,6 +259,8 @@ source,target,year,month,day,mode,companion
 422,566,1660,7,9,walk,
 566,650,1660,7,9,walk,
 650,264,1660,7,9,walk,
+264,169,1660,7,9,walk,
+169,264,1660,7,9,walk,
 264,199,1660,7,10,walk,Elizabeth Pepys
 199,419,1660,7,10,walk,
 419,642,1660,7,10,walk,Edward Montagu
@@ -257,6 +271,8 @@ source,target,year,month,day,mode,companion
 422,642,1660,7,11,walk,
 642,465,1660,7,11,walk,
 465,422,1660,7,11,coach,
+264,169,1660,7,11,walk,
+169,264,1660,7,11,walk,
 422,642,1660,7,12,coach,Commissioner Pett
 642,465,1660,7,12,walk,
 465,521,1660,7,12,walk,
@@ -273,6 +289,8 @@ source,target,year,month,day,mode,companion
 422,698,1660,7,13,walk,Elizabeth Pepys
 698,650,1660,7,13,walk,
 650,422,1660,7,13,walk,
+264,169,1660,7,13,walk,
+169,264,1660,7,13,walk,
 422,650,1660,7,14,walk,
 650,231,1660,7,14,walk,
 231,650,1660,7,14,walk,Edward Montagu
@@ -282,6 +300,8 @@ source,target,year,month,day,mode,companion
 422,396,1660,7,14,walk,
 396,650,1660,7,14,walk,
 650,264,1660,7,14,walk,
+264,169,1660,7,14,walk,
+169,264,1660,7,14,walk,
 264,656,1660,7,15,walk,Mr. Shepley
 656,609,1660,7,15,walk,
 609,650,1660,7,15,walk,Edward Montagu
@@ -290,6 +310,8 @@ source,target,year,month,day,mode,companion
 541,231,1660,7,15,walk,
 231,650,1660,7,15,walk,
 650,264,1660,7,15,walk,
+264,169,1660,7,15,walk,
+169,264,1660,7,15,walk,
 264,422,1660,7,16,walk,
 422,650,1660,7,16,walk,
 650,264,1660,7,16,walk,
@@ -313,6 +335,7 @@ source,target,year,month,day,mode,companion
 422,174,1660,7,20,walk,
 174,642,1660,7,20,walk,Edward Montagu
 642,788,1660,7,20,walk,
+422,788,1660,7,20,walk,
 788,398,1660,7,21,walk,
 398,650,1660,7,21,walk,Edward Montagu
 650,521,1660,7,21,walk,
@@ -330,9 +353,15 @@ source,target,year,month,day,mode,companion
 650,642,1660,7,23,walk,Edward Montagu
 642,85,1660,7,23,walk,
 85,788,1660,7,23,boat,
+422,788,1660,7,23,walk,
 788,642,1660,7,24,walk,
 642,788,1660,7,24,walk,
 788,422,1660,7,25,walk,
 422,642,1660,7,25,walk,
 642,314,1660,7,25,walk,
 314,788,1660,7,25,walk,
+422,788,1660,7,25,walk,
+788,422,1660,7,26,walk,
+422,788,1660,7,26,walk,
+788,422,1660,7,30,walk,
+422,788,1660,7,30,walk,
