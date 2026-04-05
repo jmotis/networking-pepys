@@ -384,6 +384,9 @@ source,target,year,month,day,mode,companion
 135,788,1661,3,22,coach,Lady Batten;Sir W. Penn
 788,422,1661,3,22,walk,
 422,788,1661,3,22,walk,
+788,473,1661,3,23,walk,
+473,358,1661,3,23,walk,
+358,788,1661,3,23,walk,
 788,544,1661,3,24,walk,
 544,514,1661,3,24,walk,
 514,544,1661,3,24,walk,
@@ -620,6 +623,8 @@ source,target,year,month,day,mode,companion
 642,650,1661,5,14,walk,Mr. Shepley
 650,358,1661,5,14,walk,Mr. Shepley
 358,788,1661,5,14,walk,
+788,422,1661,5,15,walk,
+422,788,1661,5,15,walk,
 788,642,1661,5,16,boat,
 642,493,1661,5,16,walk,
 493,577,1661,5,16,walk,
@@ -697,6 +702,10 @@ source,target,year,month,day,mode,companion
 145,475,1661,6,1,walk,Sir W. Penn;Mr. Gauden
 475,226,1661,6,1,walk,
 226,788,1661,6,1,boat,
+788,544,1661,6,2,walk,
+544,788,1661,6,2,walk,
+788,544,1661,6,2,walk,
+544,788,1661,6,2,walk,
 788,576,1661,6,3,walk,
 576,788,1661,6,3,walk,
 788,422,1661,6,3,walk,

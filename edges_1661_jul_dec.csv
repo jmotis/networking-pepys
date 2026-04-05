@@ -500,6 +500,11 @@ source,target,year,month,day,mode,companion
 788,422,1661,10,26,walk,
 422,577,1661,10,26,coach,Sir W. Penn;Elizabeth Pepys
 577,788,1661,10,26,coach,
+788,544,1661,10,27,walk,
+544,788,1661,10,27,walk,
+788,544,1661,10,27,walk,Elizabeth Pepys
+544,592,1661,10,27,walk,Elizabeth Pepys
+592,788,1661,10,27,walk,
 788,546,1661,10,28,walk,
 546,577,1661,10,28,walk,Captain Ferrers
 577,788,1661,10,28,walk,
@@ -642,6 +647,10 @@ source,target,year,month,day,mode,companion
 158,180,1661,11,25,walk,
 180,358,1661,11,25,coach,Mr. Sanchy
 358,788,1661,11,25,walk,
+788,491,1661,11,26,walk,
+491,576,1661,11,26,walk,
+576,577,1661,11,26,walk,Captain Ferrers;Henry Moore
+577,788,1661,11,26,walk,
 788,491,1661,11,27,walk,
 491,576,1661,11,27,walk,
 576,577,1661,11,27,walk,Captain Ferrers;Henry Moore
@@ -661,6 +670,8 @@ source,target,year,month,day,mode,companion
 149,788,1661,11,30,walk,
 788,422,1661,11,30,walk,
 422,788,1661,11,30,walk,
+788,544,1661,12,1,walk,
+544,788,1661,12,1,walk,
 788,491,1661,12,2,walk,
 491,788,1661,12,2,walk,Henry Moore
 788,158,1661,12,2,coach,Mr. Sanchy;Mrs. Mary Archer
@@ -731,6 +742,10 @@ source,target,year,month,day,mode,companion
 422,788,1661,12,13,walk,
 788,422,1661,12,14,walk,
 422,788,1661,12,14,walk,
+788,544,1661,12,15,walk,
+544,788,1661,12,15,walk,
+788,544,1661,12,15,walk,
+544,788,1661,12,15,walk,
 788,576,1661,12,16,coach,Henry Moore;Mr. Bollen
 576,93,1661,12,16,coach,Henry Moore;Mr. Bollen
 93,610,1661,12,16,coach,Henry Moore
