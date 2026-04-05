@@ -65,6 +65,8 @@ source,target,year,month,day,mode,companion
 610,412,1660,1,9,walk,
 412,610,1660,1,9,walk,
 610,264,1660,1,9,walk,
+264,169,1660,1,9,walk,
+169,264,1660,1,9,walk,
 264,374,1660,1,10,walk,
 374,169,1660,1,10,walk,
 169,610,1660,1,10,walk,
@@ -73,6 +75,8 @@ source,target,year,month,day,mode,companion
 107,231,1660,1,10,walk,
 231,642,1660,1,10,walk,
 642,264,1660,1,10,walk,
+264,169,1660,1,10,walk,
+169,264,1660,1,10,walk,
 264,659,1660,1,11,walk,
 659,374,1660,1,11,walk,
 374,600,1660,1,11,walk,
@@ -80,11 +84,15 @@ source,target,year,month,day,mode,companion
 264,412,1660,1,11,walk,
 412,107,1660,1,11,walk,
 107,264,1660,1,11,walk,
+264,169,1660,1,11,walk,
+169,264,1660,1,11,walk,
 264,231,1660,1,12,walk,
 231,169,1660,1,12,walk,Mr. Shepley
 169,659,1660,1,12,walk,
 659,224,1660,1,12,walk,
 224,264,1660,1,12,walk,
+264,169,1660,1,12,walk,
+169,264,1660,1,12,walk,
 264,169,1660,1,13,walk,
 169,562,1660,1,13,walk,
 562,659,1660,1,13,walk,
@@ -107,6 +115,8 @@ source,target,year,month,day,mode,companion
 174,209,1660,1,16,walk,Mr. Shepley
 209,198,1660,1,16,walk,Mr. Shepley
 198,264,1660,1,16,walk,
+264,169,1660,1,16,walk,
+169,264,1660,1,16,walk,
 264,374,1660,1,17,walk,
 374,610,1660,1,17,walk,
 610,659,1660,1,17,walk,
@@ -117,12 +127,15 @@ source,target,year,month,day,mode,companion
 107,642,1660,1,17,walk,
 642,231,1660,1,17,walk,
 231,264,1660,1,17,walk,
-264,659,1660,1,18,walk,Mr. Shepley
-659,189,1660,1,18,walk,
+264,169,1660,1,18,walk,
+169,659,1660,1,18,walk,Mr. Shepley
+659,264,1660,1,18,walk,
+264,189,1660,1,18,walk,
 189,412,1660,1,18,walk,
 412,264,1660,1,18,walk,
 264,374,1660,1,18,walk,
-374,693,1660,1,19,walk,Mr. Shepley
+374,264,1660,1,18,walk,
+264,693,1660,1,19,walk,Mr. Shepley
 693,230,1660,1,19,walk,Mr. Shepley
 230,642,1660,1,19,walk,Mr. Shepley
 642,693,1660,1,19,walk,
@@ -130,6 +143,8 @@ source,target,year,month,day,mode,companion
 169,412,1660,1,19,walk,Mr. Shepley
 412,642,1660,1,19,walk,
 642,264,1660,1,19,walk,
+264,169,1660,1,19,walk,
+169,264,1660,1,19,walk,
 264,693,1660,1,20,walk,
 693,83,1660,1,20,walk,
 83,610,1660,1,20,walk,
@@ -146,6 +161,8 @@ source,target,year,month,day,mode,companion
 174,412,1660,1,21,walk,
 412,642,1660,1,21,walk,
 642,264,1660,1,21,walk,
+264,169,1660,1,21,walk,
+169,264,1660,1,21,walk,
 264,689,1660,1,22,walk,
 689,174,1660,1,22,walk,Elizabeth Pepys
 174,689,1660,1,22,walk,
@@ -160,6 +177,8 @@ source,target,year,month,day,mode,companion
 610,642,1660,1,23,walk,
 642,104,1660,1,23,walk,
 104,264,1660,1,23,walk,
+264,169,1660,1,23,walk,
+169,264,1660,1,23,walk,
 264,169,1660,1,24,walk,
 169,659,1660,1,24,walk,
 659,418,1660,1,24,walk,Elizabeth Pepys
@@ -177,6 +196,8 @@ source,target,year,month,day,mode,companion
 691,412,1660,1,25,walk,
 412,693,1660,1,25,walk,
 693,264,1660,1,25,walk,Elizabeth Pepys
+264,169,1660,1,25,walk,
+169,264,1660,1,25,walk,
 264,169,1660,1,26,walk,
 169,642,1660,1,26,walk,
 642,264,1660,1,26,walk,
@@ -192,6 +213,8 @@ source,target,year,month,day,mode,companion
 412,264,1660,1,27,walk,
 264,693,1660,1,27,walk,
 693,264,1660,1,27,walk,
+264,169,1660,1,27,walk,
+169,264,1660,1,27,walk,
 264,693,1660,1,28,walk,
 693,610,1660,1,28,walk,
 610,642,1660,1,28,walk,
@@ -200,14 +223,16 @@ source,target,year,month,day,mode,companion
 691,659,1660,1,28,walk,
 659,642,1660,1,28,walk,
 642,264,1660,1,28,walk,
+264,169,1660,1,28,walk,
+169,264,1660,1,28,walk,
 264,172,1660,1,29,walk,
 172,374,1660,1,29,walk,Henry Moore
 374,174,1660,1,29,walk,
 174,264,1660,1,29,walk,
 264,169,1660,1,30,walk,
 169,659,1660,1,30,walk,
-659,174,1660,1,30,boat,
-174,412,1660,1,30,boat,
+659,264,1660,1,30,boat,
+264,412,1660,1,30,walk,
 412,230,1660,1,30,walk,
 230,264,1660,1,30,walk,
 264,412,1660,1,31,walk,
@@ -218,6 +243,8 @@ source,target,year,month,day,mode,companion
 610,659,1660,1,31,walk,
 659,412,1660,1,31,walk,
 412,264,1660,1,31,walk,
+264,169,1660,1,31,walk,
+169,264,1660,1,31,walk,
 264,169,1660,2,1,walk,
 169,610,1660,2,1,walk,
 610,319,1660,2,1,walk,
@@ -243,11 +270,15 @@ source,target,year,month,day,mode,companion
 264,642,1660,2,3,walk,Elizabeth Pepys
 642,641,1660,2,3,walk,Elizabeth Pepys
 641,264,1660,2,3,walk,Elizabeth Pepys
+264,169,1660,2,3,walk,
+169,264,1660,2,3,walk,
 264,610,1660,2,4,walk,
 610,659,1660,2,4,walk,
 659,566,1660,2,4,boat,
 566,204,1660,2,4,walk,
 204,264,1660,2,4,walk,
+264,169,1660,2,4,walk,
+169,264,1660,2,4,walk,
 264,172,1660,2,5,walk,
 172,174,1660,2,5,walk,Elizabeth Pepys
 174,689,1660,2,5,walk,Elizabeth Pepys
@@ -261,6 +292,8 @@ source,target,year,month,day,mode,companion
 63,412,1660,2,6,walk,
 412,659,1660,2,6,walk,
 659,264,1660,2,6,walk,
+264,169,1660,2,6,walk,
+169,264,1660,2,6,walk,
 264,566,1660,2,7,walk,
 566,548,1660,2,7,walk,
 548,169,1660,2,7,walk,
@@ -277,12 +310,16 @@ source,target,year,month,day,mode,companion
 746,476,1660,2,8,walk,
 476,174,1660,2,8,walk,
 174,264,1660,2,8,walk,
+264,169,1660,2,8,walk,
+169,264,1660,2,8,walk,
 264,610,1660,2,9,walk,
 610,418,1660,2,9,walk,Mr. Pierce
 418,610,1660,2,9,walk,Mr. Pierce
 610,566,1660,2,9,boat,
 566,610,1660,2,9,walk,
 610,264,1660,2,9,coach,
+264,169,1660,2,9,walk,
+169,264,1660,2,9,walk,
 264,610,1660,2,10,walk,
 610,169,1660,2,10,walk,
 169,562,1660,2,10,walk,
@@ -296,6 +333,8 @@ source,target,year,month,day,mode,companion
 222,264,1660,2,11,coach,
 264,642,1660,2,11,walk,
 642,264,1660,2,11,walk,Elizabeth Pepys
+264,169,1660,2,11,walk,
+169,264,1660,2,11,walk,
 264,172,1660,2,12,walk,Mr. Pierce
 172,642,1660,2,12,walk,
 642,264,1660,2,12,walk,
@@ -318,6 +357,8 @@ source,target,year,month,day,mode,companion
 412,610,1660,2,14,walk,
 610,659,1660,2,14,walk,
 659,264,1660,2,14,walk,
+264,169,1660,2,14,walk,
+169,264,1660,2,14,walk,
 264,231,1660,2,15,walk,
 231,169,1660,2,15,walk,
 169,659,1660,2,15,walk,
@@ -327,6 +368,8 @@ source,target,year,month,day,mode,companion
 174,691,1660,2,15,walk,
 691,412,1660,2,15,walk,
 412,264,1660,2,15,walk,
+264,169,1660,2,15,walk,
+169,264,1660,2,15,walk,
 264,169,1660,2,16,walk,
 169,659,1660,2,16,walk,
 659,561,1660,2,16,walk,
@@ -346,6 +389,8 @@ source,target,year,month,day,mode,companion
 194,670,1660,2,18,walk,
 670,642,1660,2,18,walk,
 642,264,1660,2,18,walk,
+264,169,1660,2,18,walk,
+169,264,1660,2,18,walk,
 264,231,1660,2,19,walk,
 231,172,1660,2,19,walk,
 172,374,1660,2,19,walk,Henry Moore
@@ -373,6 +418,8 @@ source,target,year,month,day,mode,companion
 412,264,1660,2,22,walk,Elizabeth Pepys
 264,642,1660,2,22,walk,
 642,264,1660,2,22,walk,
+264,169,1660,2,22,walk,
+169,264,1660,2,22,walk,
 264,169,1660,2,23,walk,
 169,264,1660,2,23,walk,
 264,642,1660,2,23,walk,
@@ -406,14 +453,15 @@ source,target,year,month,day,mode,companion
 174,412,1660,2,28,walk,
 412,264,1660,2,28,walk,
 264,374,1660,2,29,walk,Henry Moore
-374,174,1660,2,29,boat,Henry Moore
-174,419,1660,2,29,walk,Elizabeth Pepys
+374,264,1660,2,29,walk,Henry Moore
+264,419,1660,2,29,walk,Elizabeth Pepys
 419,174,1660,2,29,walk,Elizabeth Pepys
 174,264,1660,2,29,walk,Elizabeth Pepys
+264,169,1660,2,29,walk,
+169,264,1660,2,29,walk,
 264,412,1660,3,1,walk,Mr. Shepley
 412,374,1660,3,1,walk,Mr. Shepley
-374,174,1660,3,1,boat,Mr. Shepley
-174,642,1660,3,1,boat,Mr. Shepley
+374,642,1660,3,1,boat,Mr. Shepley
 642,264,1660,3,1,walk,
 264,374,1660,3,2,walk,
 374,169,1660,3,2,walk,
@@ -444,6 +492,8 @@ source,target,year,month,day,mode,companion
 169,659,1660,3,6,walk,
 659,36,1660,3,6,walk,
 36,264,1660,3,6,walk,
+264,169,1660,3,6,walk,
+169,264,1660,3,6,walk,
 264,374,1660,3,7,walk,
 374,642,1660,3,7,coach,Edward Montagu
 642,169,1660,3,7,walk,
@@ -453,6 +503,8 @@ source,target,year,month,day,mode,companion
 775,459,1660,3,7,walk,
 459,561,1660,3,7,walk,
 561,264,1660,3,7,walk,
+264,169,1660,3,7,walk,
+169,264,1660,3,7,walk,
 264,642,1660,3,8,walk,
 642,610,1660,3,8,walk,
 610,264,1660,3,8,walk,Elizabeth Pepys
@@ -465,8 +517,9 @@ source,target,year,month,day,mode,companion
 374,610,1660,3,9,walk,
 610,562,1660,3,9,walk,
 562,374,1660,3,9,walk,Henry Moore
-374,174,1660,3,9,boat,
-174,264,1660,3,9,walk,
+374,264,1660,3,9,walk,
+264,169,1660,3,9,walk,
+169,264,1660,3,9,walk,
 264,174,1660,3,10,walk,
 174,422,1660,3,10,walk,
 422,293,1660,3,10,walk,
@@ -476,6 +529,8 @@ source,target,year,month,day,mode,companion
 780,691,1660,3,10,walk,
 691,642,1660,3,10,walk,
 642,264,1660,3,10,walk,
+264,169,1660,3,10,walk,
+169,264,1660,3,10,walk,
 264,174,1660,3,11,walk,Elizabeth Pepys
 174,264,1660,3,11,walk,Elizabeth Pepys
 264,789,1660,3,12,walk,Elizabeth Pepys
