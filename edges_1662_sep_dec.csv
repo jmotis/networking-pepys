@@ -1,4 +1,20 @@
 source,target,year,month,day,mode,companion
+788,422,1662,9,2,walk,
+422,788,1662,9,2,walk,
+788,422,1662,9,7,walk,
+422,788,1662,9,7,walk,
+788,422,1662,9,12,walk,
+422,788,1662,9,12,walk,
+788,422,1662,9,13,walk,
+422,788,1662,9,13,walk,
+788,422,1662,9,14,walk,
+422,788,1662,9,14,walk,
+788,422,1662,9,18,walk,
+422,788,1662,9,18,walk,
+788,422,1662,9,20,walk,
+422,788,1662,9,20,walk,
+788,422,1662,9,25,walk,
+422,788,1662,9,25,walk,
 788,59,1662,9,27,walk,Elizabeth Pepys
 59,493,1662,9,28,walk,Tom Pepys
 493,59,1662,9,28,walk,Tom Pepys
@@ -6,6 +22,7 @@ source,target,year,month,day,mode,companion
 788,544,1662,9,28,walk,
 544,788,1662,9,28,walk,
 788,59,1662,9,28,walk,
+788,422,1662,9,29,walk,
 59,642,1662,9,29,coach,Henry Moore
 642,541,1662,9,29,walk,Henry Moore
 541,540,1662,9,29,walk,Sir W. Coventry
@@ -15,6 +32,7 @@ source,target,year,month,day,mode,companion
 577,419,1662,9,29,coach,Elizabeth Pepys
 419,788,1662,9,29,coach,Margaret Penn
 788,59,1662,9,29,walk,
+422,788,1662,9,29,walk,
 59,788,1662,9,30,walk,
 788,422,1662,9,30,walk,
 422,516,1662,9,30,walk,
@@ -22,6 +40,7 @@ source,target,year,month,day,mode,companion
 422,158,1662,9,30,coach,Elizabeth Pepys
 158,788,1662,9,30,coach,Elizabeth Pepys
 788,59,1662,9,30,walk,
+422,788,1662,9,30,walk,
 59,788,1662,10,1,walk,
 788,145,1662,10,1,walk,
 145,788,1662,10,1,walk,
@@ -50,21 +69,25 @@ source,target,year,month,day,mode,companion
 642,650,1662,10,6,walk,Sir W. Coventry
 650,576,1662,10,6,boat,
 576,788,1662,10,6,walk,
+788,422,1662,10,7,walk,
 788,576,1662,10,7,coach,Elizabeth Pepys
 576,610,1662,10,7,boat,William Howe
 610,650,1662,10,7,coach,
 650,426,1662,10,7,walk,Dr. Williams;Elizabeth Pepys
 426,59,1662,10,7,walk,Dr. Williams
 59,788,1662,10,7,coach,Elizabeth Pepys
+422,788,1662,10,7,walk,
 788,650,1662,10,8,boat,
 650,576,1662,10,8,walk,
 576,788,1662,10,8,walk,
 788,422,1662,10,8,walk,
 422,650,1662,10,8,coach,
 650,788,1662,10,8,walk,
+422,788,1662,10,8,walk,
 788,422,1662,10,9,walk,
 422,606,1662,10,9,horse,Will Hewer
 606,466,1662,10,9,horse,Will Hewer
+422,788,1662,10,9,walk,
 466,31,1662,10,10,horse,Will Hewer
 31,67,1662,10,10,walk,Dr. Fairbrother
 67,749,1662,10,10,walk,
@@ -96,37 +119,47 @@ source,target,year,month,day,mode,companion
 145,788,1662,10,17,boat,Commissioner Pett
 788,516,1662,10,17,walk,
 516,788,1662,10,17,walk,
+788,422,1662,10,18,walk,
 788,516,1662,10,18,walk,
 516,788,1662,10,18,walk,
+422,788,1662,10,18,walk,
 788,59,1662,10,19,walk,
 59,576,1662,10,19,walk,
 576,592,1662,10,19,walk,Tom Pepys
 592,788,1662,10,19,walk,
+788,422,1662,10,20,walk,
 788,642,1662,10,20,coach,Sir J. Minnes;Sir W. Batten
 642,390,1662,10,20,walk,Commissioner Pett
 390,59,1662,10,20,walk,
 59,158,1662,10,20,coach,Elizabeth Pepys
 158,788,1662,10,20,coach,Elizabeth Pepys
+422,788,1662,10,20,walk,
 788,422,1662,10,21,walk,
 422,566,1662,10,21,boat,Mr. Smith
 566,347,1662,10,21,walk,Mr. Smith
 347,576,1662,10,21,walk,
 576,788,1662,10,21,walk,
+422,788,1662,10,21,walk,
+788,422,1662,10,22,walk,
 788,698,1662,10,22,coach,Elizabeth Pepys;Balty
 698,650,1662,10,22,coach,
 650,59,1662,10,22,boat,
 59,347,1662,10,22,walk,
 347,59,1662,10,22,walk,
 59,788,1662,10,22,coach,
+422,788,1662,10,22,walk,
 788,422,1662,10,23,walk,
 422,514,1662,10,23,walk,
 514,422,1662,10,23,walk,
 422,516,1662,10,23,walk,
 516,788,1662,10,23,walk,
+422,788,1662,10,23,walk,
+788,422,1662,10,24,walk,
 788,145,1662,10,24,boat,
 145,788,1662,10,24,boat,
 788,514,1662,10,24,walk,
 514,788,1662,10,24,walk,
+422,788,1662,10,24,walk,
 788,422,1662,10,25,walk,
 422,788,1662,10,25,walk,
 788,544,1662,10,26,walk,
@@ -134,6 +167,7 @@ source,target,year,month,day,mode,companion
 788,514,1662,10,26,walk,
 514,592,1662,10,26,walk,
 592,788,1662,10,26,walk,
+788,422,1662,10,27,walk,
 788,642,1662,10,27,boat,
 642,650,1662,10,27,walk,
 650,610,1662,10,27,walk,John Creed
@@ -142,10 +176,14 @@ source,target,year,month,day,mode,companion
 642,789,1662,10,27,walk,John Creed
 789,576,1662,10,27,coach,
 576,788,1662,10,27,coach,
+422,788,1662,10,27,walk,
 788,422,1662,10,28,walk,
 422,788,1662,10,28,walk,
+788,422,1662,10,29,walk,
 788,514,1662,10,29,walk,
 514,788,1662,10,29,walk,
+422,788,1662,10,29,walk,
+788,422,1662,10,30,walk,
 788,642,1662,10,30,boat,
 642,650,1662,10,30,walk,
 650,422,1662,10,30,walk,
@@ -155,6 +193,7 @@ source,target,year,month,day,mode,companion
 583,642,1662,10,30,coach,Mr. Lee
 642,650,1662,10,30,walk,Mr. Lee
 650,788,1662,10,30,coach,
+422,788,1662,10,30,walk,
 788,422,1662,10,31,walk,
 422,788,1662,10,31,walk,
 788,422,1662,11,1,walk,
@@ -164,11 +203,13 @@ source,target,year,month,day,mode,companion
 583,149,1662,11,1,walk,
 149,422,1662,11,1,walk,
 422,788,1662,11,1,walk,
+788,422,1662,11,2,walk,
 788,544,1662,11,2,walk,
 544,788,1662,11,2,walk,
 788,516,1662,11,2,walk,
 516,514,1662,11,2,walk,
 514,788,1662,11,2,walk,
+422,788,1662,11,2,walk,
 788,642,1662,11,3,coach,Sir J. Minnes
 642,650,1662,11,3,walk,
 650,656,1662,11,3,walk,John Creed;Henry Moore;William Howe
@@ -177,6 +218,7 @@ source,target,year,month,day,mode,companion
 788,422,1662,11,4,walk,
 422,516,1662,11,4,walk,
 516,788,1662,11,4,walk,
+422,788,1662,11,4,walk,
 788,422,1662,11,5,walk,
 422,788,1662,11,5,walk,
 788,422,1662,11,6,walk,
@@ -196,6 +238,7 @@ source,target,year,month,day,mode,companion
 576,788,1662,11,9,walk,
 788,514,1662,11,9,walk,
 514,788,1662,11,9,walk,
+788,422,1662,11,10,walk,
 788,642,1662,11,10,coach,Sir J. Minnes;Sir W. Batten
 642,650,1662,11,10,walk,
 650,610,1662,11,10,walk,
@@ -204,6 +247,7 @@ source,target,year,month,day,mode,companion
 59,85,1662,11,10,coach,Elizabeth Pepys
 85,650,1662,11,10,coach,Elizabeth Pepys
 650,788,1662,11,10,coach,Elizabeth Pepys
+422,788,1662,11,10,walk,
 788,422,1662,11,11,walk,
 422,788,1662,11,11,walk,
 788,422,1662,11,12,walk,
@@ -212,9 +256,11 @@ source,target,year,month,day,mode,companion
 566,546,1662,11,12,walk,
 546,149,1662,11,12,walk,
 149,788,1662,11,12,walk,
+422,788,1662,11,12,walk,
 788,422,1662,11,13,walk,
 422,516,1662,11,13,walk,
 516,788,1662,11,13,walk,
+422,788,1662,11,13,walk,
 788,422,1662,11,14,walk,
 422,788,1662,11,14,walk,
 788,422,1662,11,15,walk,
@@ -235,6 +281,7 @@ source,target,year,month,day,mode,companion
 514,566,1662,11,18,walk,
 566,117,1662,11,18,walk,Thomas Pepys
 117,788,1662,11,18,walk,
+422,788,1662,11,18,walk,
 788,422,1662,11,19,walk,
 422,516,1662,11,19,walk,
 516,788,1662,11,19,walk,
@@ -243,14 +290,18 @@ source,target,year,month,day,mode,companion
 566,540,1662,11,20,walk,Sir W. Coventry
 540,566,1662,11,20,walk,Sir W. Coventry
 566,788,1662,11,20,coach,
+422,788,1662,11,20,walk,
 788,505,1662,11,21,walk,
 505,788,1662,11,21,walk,
+788,422,1662,11,22,walk,
 788,698,1662,11,22,coach,Elizabeth Pepys;Balty
 698,650,1662,11,22,coach,
 650,59,1662,11,22,boat,
 59,347,1662,11,22,walk,
 347,59,1662,11,22,walk,
 59,788,1662,11,22,coach,
+422,788,1662,11,22,walk,
+788,422,1662,11,23,walk,
 788,544,1662,11,23,walk,
 544,788,1662,11,23,walk,
 788,516,1662,11,23,walk,
@@ -268,6 +319,7 @@ source,target,year,month,day,mode,companion
 383,650,1662,11,25,coach,
 650,566,1662,11,25,coach,
 566,788,1662,11,25,walk,
+422,788,1662,11,25,walk,
 788,566,1662,11,26,walk,
 566,788,1662,11,26,walk,
 788,422,1662,11,27,walk,
@@ -277,14 +329,18 @@ source,target,year,month,day,mode,companion
 200,422,1662,11,27,walk,
 422,566,1662,11,27,coach,Sir W. Coventry
 566,788,1662,11,27,walk,
+422,788,1662,11,27,walk,
+788,422,1662,11,28,walk,
 788,282,1662,11,28,walk,
 282,788,1662,11,28,walk,
+422,788,1662,11,28,walk,
 788,422,1662,11,29,walk,
 422,419,1662,11,29,coach,Sir W. Coventry
 419,566,1662,11,29,walk,Roger Pepys
 566,656,1662,11,29,coach,Captain Cuttance
 656,650,1662,11,29,walk,
 650,788,1662,11,29,walk,
+422,788,1662,11,29,walk,
 788,544,1662,11,30,walk,
 544,788,1662,11,30,walk,
 788,188,1662,11,30,walk,
@@ -299,17 +355,21 @@ source,target,year,month,day,mode,companion
 621,104,1662,12,1,walk,
 104,650,1662,12,1,walk,
 650,788,1662,12,1,walk,
+788,422,1662,12,2,walk,
 788,544,1662,12,2,walk,
 544,788,1662,12,2,walk,
 788,516,1662,12,2,walk,
 516,514,1662,12,2,walk,
 514,788,1662,12,2,walk,
+422,788,1662,12,2,walk,
+788,422,1662,12,3,walk,
 788,145,1662,12,3,boat,Commissioner Pett
 145,143,1662,12,3,walk,Mr. Wood
 143,317,1662,12,3,boat,Commissioner Pett
 317,788,1662,12,3,boat,Commissioner Pett
 788,566,1662,12,3,walk,Commissioner Pett
 566,788,1662,12,3,walk,
+422,788,1662,12,3,walk,
 788,422,1662,12,4,walk,
 422,788,1662,12,4,walk,
 788,222,1662,12,5,walk,
@@ -322,6 +382,7 @@ source,target,year,month,day,mode,companion
 788,422,1662,12,6,walk,
 422,396,1662,12,6,walk,
 396,788,1662,12,6,walk,
+422,788,1662,12,6,walk,
 788,544,1662,12,7,walk,Elizabeth Pepys;Gosnell
 544,788,1662,12,7,walk,Elizabeth Pepys;Gosnell
 788,188,1662,12,7,walk,
@@ -337,10 +398,12 @@ source,target,year,month,day,mode,companion
 642,788,1662,12,8,coach,
 788,422,1662,12,9,walk,
 422,788,1662,12,9,walk,
+788,422,1662,12,10,walk,
 788,642,1662,12,10,walk,
 642,422,1662,12,10,coach,Sir J. Minnes
 422,149,1662,12,10,walk,Sir J. Minnes;Sir W. Batten
 149,788,1662,12,10,walk,
+422,788,1662,12,10,walk,
 788,422,1662,12,11,walk,John Creed
 422,788,1662,12,11,walk,John Creed
 788,422,1662,12,12,walk,
@@ -370,6 +433,7 @@ source,target,year,month,day,mode,companion
 476,650,1662,12,16,walk,Henry Moore
 650,59,1662,12,16,coach,
 59,788,1662,12,16,coach,
+422,788,1662,12,16,walk,
 788,422,1662,12,17,walk,
 422,788,1662,12,17,walk,
 788,422,1662,12,18,walk,Sir W. Coventry
@@ -383,6 +447,7 @@ source,target,year,month,day,mode,companion
 422,540,1662,12,20,coach,Sir W. Coventry
 540,642,1662,12,20,walk,Sir W. Coventry
 642,788,1662,12,20,coach,
+422,788,1662,12,20,walk,
 788,544,1662,12,21,walk,Elizabeth Pepys
 544,788,1662,12,21,walk,Elizabeth Pepys
 788,59,1662,12,21,walk,
@@ -419,10 +484,12 @@ source,target,year,month,day,mode,companion
 576,158,1662,12,26,walk,
 158,396,1662,12,26,walk,
 396,788,1662,12,26,walk,
+788,422,1662,12,27,walk,
 788,789,1662,12,27,walk,
 789,788,1662,12,27,walk,
 788,158,1662,12,27,coach,Elizabeth Pepys
 158,788,1662,12,27,coach,Elizabeth Pepys
+422,788,1662,12,27,walk,
 788,544,1662,12,28,walk,Elizabeth Pepys
 544,788,1662,12,28,walk,Elizabeth Pepys
 788,188,1662,12,28,walk,
@@ -444,6 +511,7 @@ source,target,year,month,day,mode,companion
 408,642,1662,12,30,walk,Elizabeth Pepys
 642,636,1662,12,30,walk,Elizabeth Pepys
 636,650,1662,12,30,walk,Elizabeth Pepys;John Creed
+422,788,1662,12,30,walk,
 650,610,1662,12,31,walk,
 610,562,1662,12,31,walk,Jack Spicer
 562,394,1662,12,31,coach,Elizabeth Pepys
@@ -453,19 +521,26 @@ source,target,year,month,day,mode,companion
 642,615,1662,12,31,walk,Mr. Povy
 615,394,1662,12,31,walk,
 394,650,1662,12,31,coach,Elizabeth Pepys
+788,422,1662,9,3,walk,
 788,475,1662,9,3,walk,
 475,145,1662,9,3,walk,
 145,788,1662,9,3,boat,
+422,788,1662,9,3,walk,
+788,422,1662,9,4,walk,
 788,583,1662,9,4,boat,
 583,588,1662,9,4,walk,
 588,788,1662,9,4,walk,
+422,788,1662,9,4,walk,
+788,422,1662,9,5,walk,
 788,667,1662,9,5,boat,
 667,212,1662,9,5,walk,
 212,145,1662,9,5,walk,
 145,788,1662,9,5,boat,
+422,788,1662,9,5,walk,
 788,422,1662,9,6,walk,
 422,588,1662,9,6,walk,Sir J. Minnes;Sir W. Batten;Sir W. Penn
 588,788,1662,9,6,walk,
+422,788,1662,9,6,walk,
 788,422,1662,9,8,walk,
 422,642,1662,9,8,boat,Sir J. Minnes
 642,540,1662,9,8,walk,
@@ -474,33 +549,42 @@ source,target,year,month,day,mode,companion
 788,422,1662,9,9,walk,
 422,145,1662,9,9,boat,Mr. Coventry;Sir J. Minnes
 145,788,1662,9,9,boat,
+422,788,1662,9,9,walk,
 788,422,1662,9,10,walk,
 422,576,1662,9,10,walk,
 576,59,1662,9,10,walk,
 59,788,1662,9,10,walk,
+422,788,1662,9,10,walk,
 788,422,1662,9,11,walk,
 422,145,1662,9,11,walk,
 145,516,1662,9,11,walk,
 516,788,1662,9,11,walk,
+422,788,1662,9,11,walk,
 788,422,1662,9,15,walk,
 422,642,1662,9,15,boat,Sir W. Penn
 642,788,1662,9,15,walk,
 788,422,1662,9,16,walk,
 422,789,1662,9,16,walk,
 789,788,1662,9,16,walk,
+422,788,1662,9,16,walk,
 788,422,1662,9,17,walk,
 422,789,1662,9,17,walk,
 789,548,1662,9,17,walk,Mr. Moore
 548,788,1662,9,17,walk,
+422,788,1662,9,17,walk,
 788,422,1662,9,19,walk,
 422,145,1662,9,19,boat,
 145,667,1662,9,19,walk,
 667,788,1662,9,19,walk,
+422,788,1662,9,19,walk,
 788,422,1662,9,22,walk,
 422,540,1662,9,22,coach,Sir J. Minnes;Sir W. Batten;Sir W. Penn
 540,788,1662,9,22,walk,
 788,422,1662,9,23,walk,
 422,145,1662,9,23,boat,Sir G. Carteret;Sir W. Batten
 145,788,1662,9,23,coach,
+422,788,1662,9,23,walk,
+788,422,1662,9,24,walk,
 788,337,1662,9,24,walk,
 337,788,1662,9,24,walk,
+422,788,1662,9,24,walk,
