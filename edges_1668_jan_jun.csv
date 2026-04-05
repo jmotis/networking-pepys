@@ -11,6 +11,8 @@ source,target,year,month,day,mode,companion
 789,788,1668,1,2,walk,
 788,565,1668,1,3,coach,
 565,788,1668,1,3,coach,
+788,422,1668,1,3,walk,
+422,788,1668,1,3,walk,
 788,422,1668,1,4,walk,
 422,788,1668,1,4,walk,
 788,85,1668,1,5,coach,
@@ -33,10 +35,18 @@ source,target,year,month,day,mode,companion
 642,788,1668,1,8,coach,
 788,789,1668,1,8,walk,Elizabeth Pepys;Mercer;Deb Willet
 789,788,1668,1,8,coach,
+788,422,1668,1,9,walk,
+422,788,1668,1,9,walk,
+788,422,1668,1,9,walk,
+422,788,1668,1,9,walk,
 788,642,1668,1,10,coach,Sir Denis Gawden
 642,354,1668,1,10,coach,Sir W. Penn
 354,789,1668,1,10,walk,
 789,788,1668,1,10,walk,
+788,295,1668,1,11,coach,Mercer;Elizabeth Pepys;Deb Willet
+295,788,1668,1,11,coach,Mercer;Elizabeth Pepys;Deb Willet
+788,422,1668,1,11,walk,
+422,788,1668,1,11,walk,
 788,642,1668,1,13,coach,Sir W. Penn
 642,788,1668,1,13,coach,
 788,789,1668,1,13,walk,
@@ -46,17 +56,23 @@ source,target,year,month,day,mode,companion
 566,354,1668,1,14,walk,Gibson
 354,418,1668,1,14,coach,
 418,788,1668,1,14,coach,
+788,422,1668,1,14,walk,
+422,788,1668,1,14,walk,
 788,418,1668,1,15,walk,
 418,475,1668,1,15,walk,
 475,145,1668,1,15,walk,
 145,475,1668,1,15,walk,
 475,788,1668,1,15,walk,
+788,422,1668,1,15,walk,
+422,788,1668,1,15,walk,
 788,422,1668,1,16,walk,
 422,788,1668,1,16,walk,
 788,642,1668,1,17,coach,
 642,788,1668,1,17,coach,
 788,789,1668,1,18,coach,Elizabeth Pepys;Betty Turner;Deb Willet
 789,788,1668,1,18,coach,
+788,422,1668,1,18,walk,
+422,788,1668,1,18,walk,
 788,642,1668,1,19,coach,
 642,789,1668,1,19,coach,Elizabeth Pepys;Mercer;Deb Willet
 789,788,1668,1,19,coach,
@@ -85,6 +101,9 @@ source,target,year,month,day,mode,companion
 788,566,1668,1,27,walk,
 566,642,1668,1,27,walk,
 642,788,1668,1,27,walk,
+788,789,1668,1,28,coach,Elizabeth Pepys;Deb Willet
+789,642,1668,1,28,coach,
+642,788,1668,1,28,coach,
 788,566,1668,1,29,coach,
 566,642,1668,1,29,walk,
 642,788,1668,1,29,walk,
@@ -99,27 +118,40 @@ source,target,year,month,day,mode,companion
 642,788,1668,2,1,coach,
 788,282,1668,2,1,coach,Elizabeth Pepys
 282,788,1668,2,1,coach,
+788,422,1668,2,1,walk,
+422,788,1668,2,1,walk,
+788,422,1668,2,1,walk,
 788,158,1668,2,3,walk,Elizabeth Pepys;Deb Willet
 158,788,1668,2,3,walk,
+788,422,1668,2,3,walk,
+422,788,1668,2,3,walk,
 788,290,1668,2,4,coach,
 290,788,1668,2,4,coach,
+788,422,1668,2,4,walk,
 788,642,1668,2,5,walk,
 642,640,1668,2,5,walk,
 640,499,1668,2,5,walk,
 499,566,1668,2,5,walk,Henry Moore
 566,788,1668,2,5,coach,Henry Moore
+788,158,1668,2,6,walk,
+158,788,1668,2,6,walk,
+788,422,1668,2,6,walk,
+422,788,1668,2,6,walk,
 788,566,1668,2,7,walk,
 566,640,1668,2,7,walk,
 640,610,1668,2,7,walk,
 610,642,1668,2,7,walk,
 642,295,1668,2,7,coach,Lord Brouncker;Sir W. Penn;Sir Arnold Breames
 295,788,1668,2,7,coach,Sir W. Penn
+788,422,1668,2,7,walk,
 788,642,1668,2,8,walk,Sir Denis Gawden
 642,789,1668,2,8,coach,
 789,609,1668,2,8,coach,Roger Pepys;Jackson
 609,603,1668,2,8,coach,
 603,566,1668,2,8,coach,
 566,788,1668,2,8,coach,
+788,422,1668,2,8,walk,
+422,788,1668,2,8,walk,
 788,642,1668,2,10,coach,Mr. Godolphin
 642,610,1668,2,10,walk,
 610,642,1668,2,10,walk,John Creed
@@ -128,9 +160,15 @@ source,target,year,month,day,mode,companion
 788,566,1668,2,11,coach,Elizabeth Pepys;Deb Willet
 566,642,1668,2,11,coach,
 642,788,1668,2,11,coach,Elizabeth Pepys
+788,422,1668,2,11,walk,
+422,788,1668,2,11,walk,
+788,422,1668,2,12,walk,
+422,788,1668,2,12,walk,
 788,640,1668,2,13,walk,Elizabeth Pepys;Deb Willet
 640,642,1668,2,13,walk,
 642,788,1668,2,13,coach,Elizabeth Pepys
+788,422,1668,2,13,walk,
+422,788,1668,2,13,walk,
 788,566,1668,2,14,walk,
 566,789,1668,2,14,walk,Mr. Houblon
 789,642,1668,2,14,coach,
@@ -141,19 +179,29 @@ source,target,year,month,day,mode,companion
 788,642,1668,2,17,walk,Sir W. Warren
 642,610,1668,2,17,walk,
 610,788,1668,2,17,walk,
+788,422,1668,2,17,walk,
+422,788,1668,2,17,walk,
 788,444,1668,2,18,walk,
 444,515,1668,2,18,walk,
 515,642,1668,2,18,walk,
 642,610,1668,2,18,walk,
 610,788,1668,2,18,walk,
+788,642,1668,2,19,walk,
+642,788,1668,2,19,walk,
+788,422,1668,2,19,walk,
+422,788,1668,2,19,walk,
 788,766,1668,2,20,coach,W. Batelier
 766,610,1668,2,20,boat,
 610,314,1668,2,20,walk,Elizabeth Pepys;Mercer;Deb Willet
 314,295,1668,2,20,coach,
 295,788,1668,2,20,coach,
+788,422,1668,2,20,walk,
+422,788,1668,2,20,walk,
 788,642,1668,2,21,coach,
 642,789,1668,2,21,coach,
 789,788,1668,2,21,walk,
+788,422,1668,2,21,walk,
+422,788,1668,2,21,walk,
 788,444,1668,2,22,coach,
 444,610,1668,2,22,walk,
 610,173,1668,2,22,walk,Elizabeth Pepys;Mercer;Deb Willet
@@ -163,6 +211,12 @@ source,target,year,month,day,mode,companion
 642,337,1668,2,23,coach,Sir G. Carteret;Mr. Brisband
 337,642,1668,2,23,coach,
 642,788,1668,2,23,coach,Sir W. Penn
+788,426,1668,2,24,coach,Elizabeth Pepys
+426,788,1668,2,24,coach,Elizabeth Pepys
+788,422,1668,2,24,walk,
+422,788,1668,2,24,walk,
+788,426,1668,2,25,coach,Elizabeth Pepys;Deb Willet
+426,788,1668,2,25,coach,Elizabeth Pepys;Deb Willet
 788,515,1668,2,26,boat,
 515,642,1668,2,26,walk,
 642,640,1668,2,26,coach,
@@ -173,6 +227,7 @@ source,target,year,month,day,mode,companion
 642,604,1668,2,28,walk,Sir H. Cholmly
 604,610,1668,2,28,walk,
 610,788,1668,2,28,coach,
+788,422,1668,2,28,walk,
 788,642,1668,2,29,walk,Captain Cocke
 642,422,1668,2,29,walk,
 422,642,1668,2,29,walk,
@@ -188,6 +243,8 @@ source,target,year,month,day,mode,companion
 788,295,1668,3,2,coach,Elizabeth Pepys;Mercer;Deb Willet
 295,789,1668,3,2,coach,
 789,788,1668,3,2,coach,
+788,422,1668,3,2,walk,
+422,788,1668,3,2,walk,
 788,145,1668,3,3,boat,Lord Brouncker;Sir W. Penn;Sir T. Middleton;Mr. Tippets
 145,788,1668,3,3,boat,
 788,642,1668,3,4,coach,Sir W. Penn
@@ -195,6 +252,7 @@ source,target,year,month,day,mode,companion
 788,444,1668,3,5,walk,
 444,610,1668,3,5,boat,T. Hater;W. Hewer
 610,788,1668,3,5,coach,Lord Brouncker;T. Harvey;Sir W. Penn
+788,422,1668,3,5,walk,
 788,337,1668,3,6,coach,Sir D. Gawden
 337,642,1668,3,6,coach,
 642,276,1668,3,6,walk,Sir W. Penn
@@ -202,6 +260,8 @@ source,target,year,month,day,mode,companion
 610,788,1668,3,6,coach,Lieutenant of the Tower
 788,295,1668,3,7,coach,Elizabeth Pepys;Mercer;Deb Willet
 295,788,1668,3,7,coach,
+788,422,1668,3,7,walk,
+422,788,1668,3,7,walk,
 788,642,1668,3,8,coach,Sir J. Robinson
 642,610,1668,3,8,walk,
 610,337,1668,3,8,coach,Sir G. Carteret
@@ -213,18 +273,30 @@ source,target,year,month,day,mode,companion
 788,610,1668,3,10,boat,Mr. Hater
 610,319,1668,3,10,walk,Lady Jemima
 319,788,1668,3,10,coach,Sir D. Gawden
+788,422,1668,3,10,walk,
+422,788,1668,3,10,walk,
 788,510,1668,3,11,walk,
 510,578,1668,3,11,boat,
 578,642,1668,3,11,boat,
 642,610,1668,3,11,walk,
 610,319,1668,3,11,walk,
 319,788,1668,3,11,walk,
+788,422,1668,3,11,walk,
+788,593,1668,3,12,coach,Elizabeth Pepys;Deb Willet
+593,610,1668,3,12,walk,
+610,789,1668,3,12,walk,Lord Brouncker
+789,219,1668,3,12,walk,
+219,788,1668,3,12,coach,Elizabeth Pepys
+788,422,1668,3,12,walk,
+422,788,1668,3,12,walk,
 788,319,1668,3,13,walk,
 319,706,1668,3,13,walk,Lord Brouncker;Sir J. Minnes;Sir W. Penn;T. Harvey
 706,642,1668,3,13,walk,
 642,295,1668,3,13,coach,
 295,337,1668,3,13,walk,
 337,788,1668,3,13,walk,
+788,422,1668,3,13,walk,
+422,788,1668,3,13,walk,
 788,566,1668,3,14,walk,Jane
 566,640,1668,3,14,walk,
 640,642,1668,3,14,walk,
@@ -240,6 +312,8 @@ source,target,year,month,day,mode,companion
 160,789,1668,3,17,coach,
 789,354,1668,3,17,walk,Mrs. Turner
 354,788,1668,3,17,walk,
+788,422,1668,3,17,walk,
+422,788,1668,3,17,walk,
 788,444,1668,3,18,walk,
 444,610,1668,3,18,walk,
 610,788,1668,3,18,coach,
@@ -256,6 +330,10 @@ source,target,year,month,day,mode,companion
 789,642,1668,3,20,coach,
 642,290,1668,3,20,coach,
 290,788,1668,3,20,coach,Elizabeth Pepys;Deb Willet
+788,415,1668,3,21,walk,
+415,788,1668,3,21,walk,
+788,422,1668,3,21,walk,
+422,788,1668,3,21,walk,
 788,566,1668,3,22,coach,
 566,642,1668,3,22,walk,Mr. Brisband
 642,337,1668,3,22,coach,Sir G. Carteret
@@ -281,6 +359,7 @@ source,target,year,month,day,mode,companion
 334,158,1668,3,26,walk,
 158,709,1668,3,26,coach,Mr. Pierce;Knepp;Mrs. Manuel
 709,788,1668,3,26,coach,
+788,422,1668,3,26,walk,
 788,642,1668,3,27,boat,
 642,610,1668,3,27,walk,
 610,562,1668,3,27,walk,
@@ -288,6 +367,8 @@ source,target,year,month,day,mode,companion
 789,788,1668,3,27,walk,Elizabeth Pepys
 788,642,1668,3,28,coach,
 642,788,1668,3,28,coach,Elizabeth Pepys;Deb Willet
+788,422,1668,3,28,walk,
+422,788,1668,3,28,walk,
 788,544,1668,3,29,walk,
 544,642,1668,3,29,walk,
 642,415,1668,3,29,walk,
@@ -333,19 +414,29 @@ source,target,year,month,day,mode,companion
 295,413,1668,4,7,coach,Knepp
 413,276,1668,4,7,coach,
 276,788,1668,4,7,coach,
+788,422,1668,4,7,walk,
+422,788,1668,4,7,walk,
 788,642,1668,4,8,coach,Sir J. Minnes
 642,158,1668,4,8,coach,Lord Brouncker
 158,705,1668,4,8,walk,
 705,419,1668,4,8,walk,
 419,788,1668,4,8,walk,
+788,422,1668,4,8,walk,
+422,788,1668,4,8,walk,
 788,642,1668,4,9,boat,
 642,161,1668,4,9,walk,
 161,427,1668,4,9,walk,
 427,585,1668,4,9,walk,
 585,789,1668,4,9,walk,
 789,788,1668,4,9,walk,
+788,422,1668,4,9,walk,
+422,788,1668,4,9,walk,
+788,422,1668,4,9,walk,
+422,788,1668,4,9,walk,
 788,642,1668,4,10,walk,Sir W. Penn
 642,788,1668,4,10,coach,
+788,334,1668,4,12,coach,
+334,788,1668,4,12,coach,
 788,642,1668,4,13,boat,
 642,610,1668,4,13,boat,
 610,337,1668,4,13,walk,
@@ -393,6 +484,8 @@ source,target,year,month,day,mode,companion
 295,413,1668,4,21,coach,Knepp
 413,303,1668,4,21,coach,Mrs. Turner;Knepp
 303,788,1668,4,21,coach,
+788,422,1668,4,21,walk,
+422,788,1668,4,21,walk,
 788,234,1668,4,22,walk,
 234,642,1668,4,22,walk,
 642,437,1668,4,22,boat,
@@ -408,6 +501,7 @@ source,target,year,month,day,mode,companion
 583,567,1668,4,23,boat,
 567,185,1668,4,23,boat,Knepp
 185,788,1668,4,23,walk,Knepp
+788,422,1668,4,23,walk,
 788,642,1668,4,24,boat,
 642,788,1668,4,24,walk,
 788,642,1668,4,25,coach,Sir J. Minnes;Lord Brouncker
@@ -435,6 +529,8 @@ source,target,year,month,day,mode,companion
 158,610,1668,4,29,walk,
 610,642,1668,4,29,walk,
 642,788,1668,4,29,coach,
+788,422,1668,4,29,walk,
+422,788,1668,4,29,walk,
 788,149,1668,4,30,walk,Sir J. Minnes
 149,158,1668,4,30,walk,
 158,789,1668,4,30,walk,
@@ -446,9 +542,11 @@ source,target,year,month,day,mode,companion
 234,295,1668,5,1,coach,
 295,610,1668,5,1,coach,
 610,788,1668,5,1,boat,
-788,337,1668,5,8,walk,
-337,642,1668,5,8,walk,
-642,788,1668,5,8,coach,
+788,234,1668,5,2,coach,Lord Brouncker
+234,158,1668,5,2,walk,
+158,541,1668,5,2,coach,
+541,788,1668,5,2,coach,
+788,422,1668,5,2,walk,
 788,544,1668,5,3,walk,
 544,788,1668,5,3,walk,
 788,475,1668,5,3,coach,Sir W. Penn
@@ -474,6 +572,17 @@ source,target,year,month,day,mode,companion
 418,295,1668,5,6,coach,
 295,418,1668,5,6,walk,
 418,788,1668,5,6,walk,
+788,422,1668,5,6,walk,
+788,158,1668,5,7,coach,Mercer;Mrs. Turner
+158,295,1668,5,7,walk,Mercer
+295,788,1668,5,7,coach,Mercer;Mrs. Turner
+788,422,1668,5,7,walk,
+422,788,1668,5,7,walk,
+788,337,1668,5,8,walk,
+337,642,1668,5,8,walk,
+642,788,1668,5,8,coach,
+788,422,1668,5,8,walk,
+422,788,1668,5,8,walk,
 788,642,1668,5,9,boat,
 642,566,1668,5,9,walk,
 566,609,1668,5,9,walk,
@@ -482,6 +591,8 @@ source,target,year,month,day,mode,companion
 610,789,1668,5,9,walk,
 789,610,1668,5,9,walk,
 610,788,1668,5,9,boat,
+788,422,1668,5,9,walk,
+422,788,1668,5,9,walk,
 788,642,1668,5,11,boat,
 642,422,1668,5,11,walk,
 422,788,1668,5,11,walk,
@@ -489,6 +600,7 @@ source,target,year,month,day,mode,companion
 158,185,1668,5,11,boat,Mercer
 185,324,1668,5,11,boat,
 324,788,1668,5,11,walk,Mercer
+788,422,1668,5,11,walk,
 788,642,1668,5,12,boat,
 642,566,1668,5,12,boat,John Creed
 566,295,1668,5,12,walk,
@@ -496,6 +608,8 @@ source,target,year,month,day,mode,companion
 788,299,1668,5,12,coach,Mercer;Mrs. Gayet;Mrs. Jones
 299,283,1668,5,12,coach,
 283,788,1668,5,12,coach,
+788,422,1668,5,12,walk,
+422,788,1668,5,12,walk,
 788,515,1668,5,13,boat,
 515,642,1668,5,13,walk,Sir W. Coventry
 642,513,1668,5,13,walk,Sir H. Cholmly
@@ -511,6 +625,8 @@ source,target,year,month,day,mode,companion
 420,185,1668,5,14,walk,
 185,444,1668,5,14,boat,
 444,788,1668,5,14,walk,Mercer
+788,422,1668,5,14,walk,
+422,788,1668,5,14,walk,
 788,513,1668,5,15,walk,Sir H. Cholmly
 513,642,1668,5,15,walk,
 642,565,1668,5,15,walk,
@@ -534,6 +650,8 @@ source,target,year,month,day,mode,companion
 420,185,1668,5,18,walk,
 185,766,1668,5,18,boat,
 766,788,1668,5,18,coach,Mercer
+788,422,1668,5,18,walk,
+422,788,1668,5,18,walk,
 788,418,1668,5,19,walk,
 418,642,1668,5,19,walk,
 642,788,1668,5,19,coach,
@@ -554,6 +672,8 @@ source,target,year,month,day,mode,companion
 788,158,1668,5,22,coach,
 158,789,1668,5,22,coach,
 789,788,1668,5,22,coach,
+788,43,1668,5,23,coach,
+43,65,1668,5,23,coach,
 65,788,1668,5,24,coach,
 788,544,1668,5,24,walk,Roger Pepys
 544,543,1668,5,24,walk,
@@ -562,6 +682,7 @@ source,target,year,month,day,mode,companion
 415,642,1668,5,24,boat,Roger Pepys
 642,788,1668,5,24,coach,
 788,65,1668,5,24,coach,
+65,788,1668,5,24,coach,
 788,419,1668,5,25,coach,
 419,788,1668,5,25,coach,
 788,642,1668,5,25,boat,
@@ -569,6 +690,9 @@ source,target,year,month,day,mode,companion
 789,185,1668,5,25,boat,Mercer;Mrs. Gayet
 185,444,1668,5,25,boat,
 444,788,1668,5,25,walk,
+788,65,1668,5,26,coach,
+65,43,1668,5,26,coach,
+43,788,1668,5,26,coach,
 788,610,1668,5,27,boat,
 610,567,1668,5,27,boat,Mr. Sawyers
 567,789,1668,5,27,coach,
@@ -579,6 +703,8 @@ source,target,year,month,day,mode,companion
 567,642,1668,5,27,walk,
 642,789,1668,5,27,walk,John Creed
 789,788,1668,5,27,coach,
+788,422,1668,5,27,walk,
+422,788,1668,5,27,walk,
 788,610,1668,5,28,boat,
 610,789,1668,5,28,coach,Mercer;Mrs. Gayet
 789,423,1668,5,28,boat,
@@ -596,6 +722,8 @@ source,target,year,month,day,mode,companion
 295,788,1668,5,30,coach,
 788,185,1668,5,30,coach,Mr. Harris;Captain Rolt;Richards
 185,788,1668,5,30,boat,
+788,422,1668,5,30,walk,
+422,788,1668,5,30,walk,
 788,544,1668,5,31,walk,
 544,789,1668,5,31,boat,
 789,418,1668,5,31,walk,
@@ -612,6 +740,8 @@ source,target,year,month,day,mode,companion
 39,789,1668,6,2,coach,
 789,145,1668,6,2,boat,
 145,788,1668,6,2,boat,
+788,422,1668,6,2,walk,
+422,788,1668,6,2,walk,
 788,610,1668,6,3,walk,Sir D. Gawden
 610,788,1668,6,3,walk,
 788,337,1668,6,3,walk,Lord Brouncker;Sir J. Minnes;Sir G. Carteret
@@ -620,9 +750,13 @@ source,target,year,month,day,mode,companion
 295,337,1668,6,3,walk,
 337,275,1668,6,3,walk,
 275,788,1668,6,3,walk,
+788,422,1668,6,3,walk,
+422,788,1668,6,3,walk,
 788,567,1668,6,4,coach,Mr. Clerke
 567,642,1668,6,4,walk,
 642,788,1668,6,4,walk,
+788,422,1668,6,4,walk,
+422,788,1668,6,4,walk,
 788,642,1668,6,5,walk,
 642,51,1668,6,5,coach,
 51,65,1668,6,5,coach,
@@ -635,8 +769,14 @@ source,target,year,month,day,mode,companion
 62,433,1668,6,8,horse,
 433,65,1668,6,9,coach,
 65,28,1668,6,9,coach,
+28,269,1668,6,10,coach,Elizabeth Pepys;W. Hewer
+269,487,1668,6,11,coach,Elizabeth Pepys;W. Hewer
+487,763,1668,6,12,coach,Elizabeth Pepys;W. Hewer
+763,28,1668,6,12,coach,Elizabeth Pepys;W. Hewer
 28,57,1668,6,13,coach,Elizabeth Pepys;W. Hewer;Betty Turner;Deb Willet
 57,28,1668,6,13,coach,
+28,763,1668,6,14,coach,Elizabeth Pepys;W. Hewer
+763,28,1668,6,14,coach,Elizabeth Pepys;W. Hewer
 28,1,1668,6,15,coach,
 1,352,1668,6,15,coach,
 352,430,1668,6,15,coach,
@@ -645,6 +785,8 @@ source,target,year,month,day,mode,companion
 788,642,1668,6,18,coach,
 642,305,1668,6,18,coach,Elizabeth Pepys
 305,788,1668,6,18,coach,Elizabeth Pepys
+788,422,1668,6,18,walk,
+422,788,1668,6,18,walk,
 788,642,1668,6,19,boat,
 642,788,1668,6,19,coach,Sir W. Penn
 788,295,1668,6,20,coach,Elizabeth Pepys
@@ -672,6 +814,8 @@ source,target,year,month,day,mode,companion
 788,158,1668,6,24,boat,Elizabeth Pepys;Mercer;Deb Willet;W. Hewer
 158,185,1668,6,24,boat,
 185,788,1668,6,24,boat,
+788,422,1668,6,25,walk,
+422,788,1668,6,25,walk,
 788,341,1668,6,26,walk,
 341,516,1668,6,26,walk,
 516,85,1668,6,26,coach,Elizabeth Pepys
@@ -679,6 +823,8 @@ source,target,year,month,day,mode,companion
 788,295,1668,6,27,coach,Elizabeth Pepys;Deb Willet
 295,789,1668,6,27,walk,Elizabeth Pepys
 789,788,1668,6,27,coach,
+788,422,1668,6,27,walk,
+422,788,1668,6,27,walk,
 788,544,1668,6,28,walk,
 544,788,1668,6,28,walk,
 788,540,1668,6,29,walk,Sir J. Minnes
@@ -688,44 +834,3 @@ source,target,year,month,day,mode,companion
 788,295,1668,6,29,coach,Elizabeth Pepys
 295,282,1668,6,29,coach,Elizabeth Pepys
 282,788,1668,6,29,coach,
-788,295,1668,1,11,coach,Mercer;Elizabeth Pepys;Deb Willet
-295,788,1668,1,11,coach,Mercer;Elizabeth Pepys;Deb Willet
-788,789,1668,1,28,coach,Elizabeth Pepys;Deb Willet
-789,642,1668,1,28,coach,
-642,788,1668,1,28,coach,
-788,158,1668,2,6,walk,
-158,788,1668,2,6,walk,
-788,642,1668,2,19,walk,
-642,788,1668,2,19,walk,
-788,426,1668,2,24,coach,Elizabeth Pepys
-426,788,1668,2,24,coach,Elizabeth Pepys
-788,426,1668,2,25,coach,Elizabeth Pepys;Deb Willet
-426,788,1668,2,25,coach,Elizabeth Pepys;Deb Willet
-788,593,1668,3,12,coach,Elizabeth Pepys;Deb Willet
-593,610,1668,3,12,walk,
-610,789,1668,3,12,walk,Lord Brouncker
-789,219,1668,3,12,walk,
-219,788,1668,3,12,coach,Elizabeth Pepys
-788,415,1668,3,21,walk,
-415,788,1668,3,21,walk,
-788,334,1668,4,12,coach,
-334,788,1668,4,12,coach,
-788,234,1668,5,2,coach,Lord Brouncker
-234,158,1668,5,2,walk,
-158,541,1668,5,2,coach,
-541,788,1668,5,2,coach,
-788,158,1668,5,7,coach,Mercer;Mrs. Turner
-158,295,1668,5,7,walk,Mercer
-295,788,1668,5,7,coach,Mercer;Mrs. Turner
-788,43,1668,5,23,coach,
-43,65,1668,5,23,coach,
-65,788,1668,5,24,coach,
-788,65,1668,5,26,coach,
-65,43,1668,5,26,coach,
-43,788,1668,5,26,coach,
-28,269,1668,6,10,coach,Elizabeth Pepys;W. Hewer
-269,487,1668,6,11,coach,Elizabeth Pepys;W. Hewer
-487,763,1668,6,12,coach,Elizabeth Pepys;W. Hewer
-763,28,1668,6,12,coach,Elizabeth Pepys;W. Hewer
-28,763,1668,6,14,coach,Elizabeth Pepys;W. Hewer
-763,28,1668,6,14,coach,Elizabeth Pepys;W. Hewer
