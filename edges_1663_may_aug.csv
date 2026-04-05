@@ -29,6 +29,7 @@ source,target,year,month,day,mode,companion
 422,788,1663,5,5,walk,
 788,152,1663,5,5,walk,
 152,422,1663,5,5,walk,
+422,788,1663,5,5,walk,
 788,422,1663,5,6,walk,
 422,788,1663,5,6,walk,
 788,789,1663,5,6,walk,John Creed
@@ -179,6 +180,7 @@ source,target,year,month,day,mode,companion
 667,212,1663,6,11,walk,
 212,145,1663,6,11,walk,
 145,422,1663,6,11,walk,
+422,788,1663,6,11,walk,
 788,789,1663,6,12,walk,
 789,577,1663,6,12,boat,Elizabeth Pepys
 577,789,1663,6,12,walk,Elizabeth Pepys

@@ -200,6 +200,7 @@ source,target,year,month,day,mode,companion
 788,145,1662,6,14,walk,
 145,588,1662,6,14,boat,
 588,422,1662,6,14,walk,
+422,788,1662,6,14,walk,
 788,544,1662,6,15,walk,
 544,788,1662,6,15,walk,
 788,422,1662,6,16,walk,Will Hewer
@@ -276,6 +277,7 @@ source,target,year,month,day,mode,companion
 422,788,1662,6,28,walk,
 788,358,1662,6,28,walk,Mr. Shepley;John Creed;uncle Wight
 358,422,1662,6,28,walk,
+422,788,1662,6,28,walk,
 788,544,1662,6,29,walk,Elizabeth Pepys
 544,788,1662,6,29,walk,Elizabeth Pepys
 788,544,1662,6,29,walk,Elizabeth Pepys
@@ -302,6 +304,7 @@ source,target,year,month,day,mode,companion
 422,788,1662,7,3,walk,
 788,149,1662,7,3,walk,
 149,422,1662,7,3,walk,
+422,788,1662,7,3,walk,
 788,422,1662,7,4,walk,Mr. Cooper
 422,788,1662,7,4,walk,
 788,422,1662,7,5,walk,Mr. Cooper
@@ -365,6 +368,7 @@ source,target,year,month,day,mode,companion
 422,788,1662,7,18,walk,
 788,145,1662,7,18,boat,
 145,422,1662,7,18,boat,
+422,788,1662,7,18,walk,
 788,422,1662,7,19,walk,
 422,788,1662,7,19,walk,Tom Pepys
 788,516,1662,7,19,walk,
@@ -390,6 +394,7 @@ source,target,year,month,day,mode,companion
 422,788,1662,7,24,walk,
 788,516,1662,7,24,walk,
 516,422,1662,7,24,walk,Sir W. Batten
+422,788,1662,7,24,walk,
 788,422,1662,7,25,walk,
 422,788,1662,7,25,walk,
 788,422,1662,7,26,walk,Sir W. Batten;Mr. Pett

@@ -22,6 +22,7 @@ source,target,year,month,day,mode,companion
 788,544,1662,9,28,walk,
 544,788,1662,9,28,walk,
 788,59,1662,9,28,walk,
+59,788,1662,9,28,walk,
 788,422,1662,9,29,walk,
 422,788,1662,9,29,walk,
 788,577,1662,9,29,coach,Elizabeth Pepys;Margaret Penn
@@ -33,6 +34,7 @@ source,target,year,month,day,mode,companion
 541,540,1662,9,29,walk,Sir W. Coventry
 540,59,1662,9,29,boat,Mr. Cooke
 59,788,1662,9,29,boat,Elizabeth Pepys;Mr. Cooke
+788,59,1662,9,29,walk,
 59,788,1662,9,30,walk,
 788,422,1662,9,30,walk,
 422,516,1662,9,30,walk,
@@ -314,6 +316,7 @@ source,target,year,month,day,mode,companion
 788,516,1662,11,23,walk,
 516,514,1662,11,23,walk,
 514,422,1662,11,23,walk,
+422,788,1662,11,23,walk,
 788,583,1662,11,24,coach,Sir J. Minnes;Sir W. Batten
 583,642,1662,11,24,coach,Sir J. Minnes;Sir W. Batten
 642,337,1662,11,24,walk,
