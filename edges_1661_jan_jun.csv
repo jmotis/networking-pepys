@@ -59,7 +59,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,1,11,walk,
 422,546,1661,1,11,walk,
 546,788,1661,1,11,walk,
-422,788,1661,1,11,walk,
 788,475,1661,1,12,boat,Colonel Slingsby
 475,145,1661,1,12,walk,Colonel Slingsby
 145,376,1661,1,12,walk,
@@ -183,7 +182,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,2,6,walk,
 422,514,1661,2,6,walk,
 514,788,1661,2,6,walk,
-422,788,1661,2,6,walk,
 788,642,1661,2,7,walk,Sir W. Batten;Sir W. Penn
 642,610,1661,2,7,walk,
 610,650,1661,2,7,walk,
@@ -208,7 +206,6 @@ source,target,year,month,day,mode,companion
 422,788,1661,2,11,walk,
 788,374,1661,2,11,walk,
 374,788,1661,2,11,walk,
-788,422,1661,2,11,walk,
 788,650,1661,2,12,walk,
 650,314,1661,2,12,walk,
 314,488,1661,2,12,boat,
@@ -244,7 +241,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,2,20,walk,
 422,516,1661,2,20,walk,
 516,788,1661,2,20,walk,
-422,788,1661,2,20,walk,
 788,642,1661,2,21,coach,Sir W. Penn
 642,610,1661,2,21,walk,
 610,659,1661,2,21,walk,
@@ -277,7 +273,6 @@ source,target,year,month,day,mode,companion
 396,174,1661,2,27,walk,
 174,546,1661,2,27,walk,
 546,788,1661,2,27,walk,
-422,788,1661,2,27,walk,
 788,642,1661,2,28,boat,
 642,470,1661,2,28,boat,
 470,145,1661,2,28,walk,John Creed;Captain Cuttance
@@ -301,7 +296,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,3,4,walk,
 422,642,1661,3,4,walk,
 642,788,1661,3,4,walk,
-422,788,1661,3,4,walk,
 788,610,1661,3,5,walk,Mr. Pierce
 610,562,1661,3,5,walk,
 562,650,1661,3,5,walk,
@@ -332,7 +326,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,3,11,walk,
 422,577,1661,3,11,walk,
 577,788,1661,3,11,walk,
-422,788,1661,3,11,walk,
 788,789,1661,3,12,walk,
 789,180,1661,3,12,walk,
 180,222,1661,3,12,walk,
@@ -410,7 +403,6 @@ source,target,year,month,day,mode,companion
 642,650,1661,3,29,walk,
 650,422,1661,3,29,boat,
 422,788,1661,3,29,walk,
-788,422,1661,3,29,walk,
 788,642,1661,3,30,boat,Sir Robert Slingsby
 642,120,1661,3,30,walk,
 120,650,1661,3,30,walk,
@@ -440,7 +432,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,4,3,walk,
 422,514,1661,4,3,walk,
 514,788,1661,4,3,walk,
-422,788,1661,4,3,walk,
 788,650,1661,4,4,walk,Mr. Shepley
 650,465,1661,4,4,walk,
 465,174,1661,4,4,walk,Henry Moore
@@ -500,7 +491,6 @@ source,target,year,month,day,mode,companion
 788,592,1661,4,15,walk,
 592,396,1661,4,15,walk,
 396,788,1661,4,15,coach,
-788,422,1661,4,15,walk,
 788,145,1661,4,16,boat,Sir W. Coventry;Sir Robert Slingsby
 145,376,1661,4,16,walk,
 376,145,1661,4,16,walk,
@@ -527,8 +517,6 @@ source,target,year,month,day,mode,companion
 789,104,1661,4,20,walk,John Creed
 104,409,1661,4,20,walk,John Creed
 409,402,1661,4,20,walk,John Creed
-788,422,1661,4,20,walk,
-422,788,1661,4,20,walk,
 402,174,1661,4,21,walk,
 174,788,1661,4,21,walk,
 788,676,1661,4,22,walk,Sir W. Batten;Sir W. Penn
@@ -605,7 +593,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,5,10,walk,
 422,149,1661,5,10,walk,Mr. Blackburne;John Creed
 149,788,1661,5,10,walk,
-422,788,1661,5,10,walk,
 788,642,1661,5,11,boat,Henry Moore
 642,204,1661,5,11,walk,
 204,174,1661,5,11,walk,
@@ -620,7 +607,6 @@ source,target,year,month,day,mode,companion
 789,358,1661,5,13,walk,
 358,422,1661,5,13,walk,
 422,788,1661,5,13,walk,
-788,422,1661,5,13,walk,
 788,642,1661,5,14,boat,
 642,650,1661,5,14,walk,Mr. Shepley
 650,358,1661,5,14,walk,Mr. Shepley
@@ -633,7 +619,6 @@ source,target,year,month,day,mode,companion
 788,789,1661,5,17,walk,Lieutenant Lambert
 789,422,1661,5,17,walk,
 422,788,1661,5,17,walk,
-788,422,1661,5,17,walk,
 788,610,1661,5,18,boat,
 610,659,1661,5,18,walk,Jack Spicer;John Creed
 659,788,1661,5,18,boat,John Creed
@@ -645,7 +630,6 @@ source,target,year,month,day,mode,companion
 789,358,1661,5,20,walk,
 358,422,1661,5,20,walk,
 422,788,1661,5,20,walk,
-788,422,1661,5,20,walk,
 788,597,1661,5,21,walk,Sir Robert Slingsby
 597,667,1661,5,21,boat,Sir Robert Slingsby
 667,145,1661,5,21,boat,Sir Robert Slingsby
@@ -656,7 +640,6 @@ source,target,year,month,day,mode,companion
 788,576,1661,5,22,boat,Mr. Howe
 576,422,1661,5,22,boat,
 422,788,1661,5,22,walk,
-788,422,1661,5,22,walk,
 788,650,1661,5,23,walk,
 650,476,1661,5,23,walk,Henry Moore;Mr. Shepley;John Bowles
 476,222,1661,5,23,walk,John Creed
@@ -720,7 +703,6 @@ source,target,year,month,day,mode,companion
 650,576,1661,6,5,walk,Edward Montagu
 576,422,1661,6,5,walk,
 422,788,1661,6,5,walk,
-788,422,1661,6,5,walk,
 788,212,1661,6,6,boat,Captain Lambert
 212,78,1661,6,6,boat,
 78,422,1661,6,6,walk,
@@ -786,7 +768,6 @@ source,target,year,month,day,mode,companion
 788,422,1661,6,17,walk,
 422,516,1661,6,17,walk,
 516,788,1661,6,17,walk,
-422,788,1661,6,17,walk,
 788,78,1661,6,18,boat,Elizabeth Pepys
 78,788,1661,6,18,boat,Elizabeth Pepys
 788,610,1661,6,19,walk,Henry Moore
@@ -822,7 +803,6 @@ source,target,year,month,day,mode,companion
 788,174,1661,6,26,walk,
 174,422,1661,6,26,boat,
 422,788,1661,6,26,walk,
-788,422,1661,6,26,walk,
 788,174,1661,6,27,walk,
 174,400,1661,6,27,walk,
 400,174,1661,6,27,walk,

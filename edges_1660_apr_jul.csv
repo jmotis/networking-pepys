@@ -4,8 +4,6 @@ source,target,year,month,day,mode,companion
 778,251,1660,4,30,boat,William Howe;Mr. Shepley
 251,239,1660,4,30,boat,William Howe;Mr. Shepley
 239,251,1660,4,30,boat,William Howe;Mr. Shepley
-264,169,1660,5,2,walk,
-169,264,1660,5,2,walk,
 251,136,1660,5,3,boat,
 136,251,1660,5,3,boat,
 251,495,1660,5,14,boat,
@@ -111,8 +109,6 @@ source,target,year,month,day,mode,companion
 642,650,1660,6,18,walk,Edward Montagu
 650,374,1660,6,18,walk,
 374,174,1660,6,18,walk,
-264,169,1660,6,18,walk,
-169,264,1660,6,18,walk,
 174,650,1660,6,19,walk,Edward Montagu
 650,451,1660,6,19,walk,Edward Montagu
 451,642,1660,6,19,walk,
@@ -173,8 +169,6 @@ source,target,year,month,day,mode,companion
 264,704,1660,6,25,coach,Elizabeth Pepys
 704,264,1660,6,25,coach,Elizabeth Pepys
 264,650,1660,6,25,walk,
-264,169,1660,6,25,walk,
-169,264,1660,6,25,walk,
 650,642,1660,6,26,walk,
 642,580,1660,6,26,walk,Mr. Throgmorton
 580,264,1660,6,26,walk,Elizabeth Pepys
@@ -271,8 +265,6 @@ source,target,year,month,day,mode,companion
 422,642,1660,7,11,walk,
 642,465,1660,7,11,walk,
 465,422,1660,7,11,coach,
-264,169,1660,7,11,walk,
-169,264,1660,7,11,walk,
 422,642,1660,7,12,coach,Commissioner Pett
 642,465,1660,7,12,walk,
 465,521,1660,7,12,walk,
@@ -289,8 +281,6 @@ source,target,year,month,day,mode,companion
 422,698,1660,7,13,walk,Elizabeth Pepys
 698,650,1660,7,13,walk,
 650,422,1660,7,13,walk,
-264,169,1660,7,13,walk,
-169,264,1660,7,13,walk,
 422,650,1660,7,14,walk,
 650,231,1660,7,14,walk,
 231,650,1660,7,14,walk,Edward Montagu
@@ -335,7 +325,6 @@ source,target,year,month,day,mode,companion
 422,174,1660,7,20,walk,
 174,642,1660,7,20,walk,Edward Montagu
 642,788,1660,7,20,walk,
-422,788,1660,7,20,walk,
 788,398,1660,7,21,walk,
 398,650,1660,7,21,walk,Edward Montagu
 650,521,1660,7,21,walk,
@@ -353,14 +342,12 @@ source,target,year,month,day,mode,companion
 650,642,1660,7,23,walk,Edward Montagu
 642,85,1660,7,23,walk,
 85,788,1660,7,23,boat,
-422,788,1660,7,23,walk,
 788,642,1660,7,24,walk,
 642,788,1660,7,24,walk,
 788,422,1660,7,25,walk,
 422,642,1660,7,25,walk,
 642,314,1660,7,25,walk,
 314,788,1660,7,25,walk,
-422,788,1660,7,25,walk,
 788,422,1660,7,26,walk,
 422,788,1660,7,26,walk,
 788,422,1660,7,30,walk,
