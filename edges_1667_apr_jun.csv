@@ -442,6 +442,7 @@ source,target,year,month,day,mode,companion
 422,788,1667,4,23,walk,
 788,422,1667,5,4,walk,
 422,788,1667,5,4,walk,
+788,422,1667,5,4,walk,
 788,422,1667,5,9,walk,
 422,788,1667,5,9,walk,
 788,422,1667,5,10,walk,
@@ -457,4 +458,5 @@ source,target,year,month,day,mode,companion
 788,422,1667,6,6,walk,
 788,422,1667,6,8,walk,
 422,788,1667,6,8,walk,
+788,422,1667,6,8,walk,
 788,422,1667,6,24,walk,
