@@ -10,6 +10,7 @@ source,target,year,month,day,mode,companion
 650,788,1662,1,2,boat,
 788,106,1662,1,2,walk,
 106,788,1662,1,2,walk,
+788,422,1662,1,2,walk,
 422,788,1662,1,2,walk,
 788,174,1662,1,3,walk,Tom Pepys
 174,337,1662,1,3,walk,Tom Pepys
@@ -22,6 +23,7 @@ source,target,year,month,day,mode,companion
 788,422,1662,1,4,walk,
 422,516,1662,1,4,walk,Elizabeth Pepys
 516,788,1662,1,4,walk,Elizabeth Pepys
+788,422,1662,1,4,walk,
 422,788,1662,1,4,walk,
 788,544,1662,1,5,walk,
 544,788,1662,1,5,walk,
@@ -35,13 +37,14 @@ source,target,year,month,day,mode,companion
 788,422,1662,1,7,walk,
 422,516,1662,1,7,walk,
 516,788,1662,1,7,walk,
+788,422,1662,1,7,walk,
 422,788,1662,1,7,walk,
 788,422,1662,1,8,walk,
+422,788,1662,1,8,walk,
 788,610,1662,1,8,walk,
 610,576,1662,1,8,boat,
 576,514,1662,1,8,walk,
 514,788,1662,1,8,walk,
-422,788,1662,1,8,walk,
 788,422,1662,1,9,walk,
 422,788,1662,1,9,walk,
 788,642,1662,1,10,walk,
@@ -50,12 +53,12 @@ source,target,year,month,day,mode,companion
 576,411,1662,1,10,walk,Elizabeth Pepys
 411,788,1662,1,10,coach,Elizabeth Pepys
 788,422,1662,1,11,walk,
+422,514,1662,1,11,walk,
+514,788,1662,1,11,walk,
 788,174,1662,1,11,walk,Tom Pepys
 174,337,1662,1,11,walk,Tom Pepys
 337,789,1662,1,11,walk,
 789,422,1662,1,11,walk,
-422,514,1662,1,11,walk,
-514,788,1662,1,11,walk,
 422,788,1662,1,11,walk,
 788,544,1662,1,12,walk,
 544,788,1662,1,12,walk,
@@ -71,6 +74,7 @@ source,target,year,month,day,mode,companion
 650,576,1662,1,17,walk,Elizabeth Pepys
 576,788,1662,1,17,walk,Elizabeth Pepys
 788,422,1662,1,18,walk,
+422,788,1662,1,18,walk,
 788,152,1662,1,18,walk,
 152,576,1662,1,18,walk,
 576,546,1662,1,18,walk,
@@ -79,7 +83,6 @@ source,target,year,month,day,mode,companion
 642,123,1662,1,18,coach,Henry Moore
 123,650,1662,1,18,walk,
 650,788,1662,1,18,coach,Henry Moore
-422,788,1662,1,18,walk,
 788,544,1662,1,19,walk,
 544,788,1662,1,19,walk,Elizabeth Pepys
 788,440,1662,1,19,walk,Elizabeth Pepys
@@ -97,21 +100,21 @@ source,target,year,month,day,mode,companion
 393,576,1662,1,22,walk,Elizabeth Pepys
 576,788,1662,1,22,walk,Elizabeth Pepys
 788,422,1662,1,23,walk,
+422,788,1662,1,23,walk,
 788,591,1662,1,23,coach,Elizabeth Pepys
 591,788,1662,1,23,coach,Elizabeth Pepys
-422,788,1662,1,23,walk,
 788,576,1662,1,24,walk,
 576,526,1662,1,24,boat,
 526,788,1662,1,24,boat,
 788,422,1662,1,25,walk,
+422,516,1662,1,25,walk,Elizabeth Pepys;Sir W. Penn
+516,788,1662,1,25,walk,Elizabeth Pepys;Sir W. Penn
 788,576,1662,1,25,walk,Sir W. Penn
 576,588,1662,1,25,walk,Sir W. Penn
 588,422,1662,1,25,walk,
-422,516,1662,1,25,walk,Elizabeth Pepys;Sir W. Penn
-516,788,1662,1,25,walk,Elizabeth Pepys;Sir W. Penn
+422,788,1662,1,25,walk,
 788,516,1662,1,25,walk,
 516,788,1662,1,25,walk,
-422,788,1662,1,25,walk,
 788,544,1662,1,26,walk,
 544,788,1662,1,26,walk,
 788,544,1662,1,26,walk,Elizabeth Pepys
@@ -134,18 +137,19 @@ source,target,year,month,day,mode,companion
 422,514,1662,2,3,walk,
 514,499,1662,2,3,walk,
 499,788,1662,2,3,walk,
+788,422,1662,2,3,walk,
 422,788,1662,2,3,walk,
 788,422,1662,2,4,walk,
+422,788,1662,2,4,walk,
 788,610,1662,2,4,walk,
 610,337,1662,2,4,walk,
 337,422,1662,2,4,walk,
-422,788,1662,2,4,walk,
 788,422,1662,2,5,walk,
-788,576,1662,2,5,walk,Commissioner Pett
-576,422,1662,2,5,walk,
 422,158,1662,2,5,walk,Elizabeth Pepys;Sir W. Penn
 158,516,1662,2,5,walk,Elizabeth Pepys;Sir W. Penn
 516,788,1662,2,5,walk,Elizabeth Pepys;Sir W. Penn
+788,576,1662,2,5,walk,Commissioner Pett
+576,422,1662,2,5,walk,
 422,788,1662,2,5,walk,
 788,422,1662,2,6,walk,
 422,788,1662,2,6,walk,
@@ -161,10 +165,10 @@ source,target,year,month,day,mode,companion
 788,422,1662,2,13,walk,
 422,788,1662,2,13,walk,
 788,422,1662,2,15,walk,
-788,588,1662,2,15,walk,Sir W. Batten;Sir W. Penn
-588,422,1662,2,15,walk,
 422,514,1662,2,15,walk,
 514,788,1662,2,15,walk,
+788,588,1662,2,15,walk,Sir W. Batten;Sir W. Penn
+588,422,1662,2,15,walk,
 422,788,1662,2,15,walk,
 788,531,1662,2,16,walk,
 531,592,1662,2,16,walk,
@@ -176,18 +180,18 @@ source,target,year,month,day,mode,companion
 788,149,1662,2,17,walk,
 149,788,1662,2,17,walk,
 788,422,1662,2,18,walk,
+422,788,1662,2,18,walk,
 788,576,1662,2,18,walk,
 576,158,1662,2,18,walk,Elizabeth Pepys;Sir W. Penn
 158,788,1662,2,18,walk,Elizabeth Pepys;Sir W. Penn
-422,788,1662,2,18,walk,
 788,588,1662,2,19,walk,
 588,576,1662,2,19,walk,
 576,788,1662,2,19,walk,
 788,422,1662,2,20,walk,
+422,788,1662,2,20,walk,
 788,268,1662,2,20,walk,
 268,576,1662,2,20,walk,
 576,788,1662,2,20,walk,
-422,788,1662,2,20,walk,
 788,650,1662,2,21,boat,Sir W. Batten
 650,610,1662,2,21,walk,
 610,576,1662,2,21,boat,
@@ -195,26 +199,26 @@ source,target,year,month,day,mode,companion
 546,576,1662,2,21,walk,
 576,788,1662,2,21,walk,
 788,422,1662,2,22,walk,
+422,788,1662,2,22,walk,
 788,576,1662,2,22,boat,Henry Moore
 576,788,1662,2,22,walk,Henry Moore
-422,788,1662,2,22,walk,
 788,491,1662,2,24,walk,
 491,526,1662,2,24,boat,
 526,788,1662,2,24,boat,
 788,422,1662,2,25,walk,
+422,788,1662,2,25,walk,
 788,576,1662,2,25,walk,Henry Moore
 576,106,1662,2,25,walk,Henry Moore
 106,788,1662,2,25,walk,
-422,788,1662,2,25,walk,
 788,576,1662,2,26,walk,
 576,788,1662,2,26,walk,
 788,422,1662,2,27,walk,
 422,788,1662,2,27,walk,
 788,422,1662,2,28,walk,
+422,788,1662,2,28,walk,
 788,642,1662,2,28,coach,Sir W. Penn
 642,491,1662,2,28,boat,
 491,788,1662,2,28,boat,
-422,788,1662,2,28,walk,
 788,422,1662,3,1,walk,
 422,788,1662,3,1,walk,
 788,158,1662,3,1,coach,Elizabeth Pepys
@@ -228,32 +232,33 @@ source,target,year,month,day,mode,companion
 788,422,1662,3,3,walk,
 422,788,1662,3,3,walk,
 788,422,1662,3,4,walk,
+422,788,1662,3,4,walk,
 788,359,1662,3,4,coach,Elizabeth Pepys;Sir W. Penn
 359,459,1662,3,4,walk,Elizabeth Pepys;Sir W. Penn
 459,788,1662,3,4,coach,Elizabeth Pepys;Sir W. Penn
-422,788,1662,3,4,walk,
 788,422,1662,3,5,walk,
+422,788,1662,3,5,walk,
 788,174,1662,3,5,walk,
 174,576,1662,3,5,walk,
 576,422,1662,3,5,walk,
-422,788,1662,3,5,walk,
 788,422,1662,3,6,walk,
 422,149,1662,3,6,walk,Sir G. Carteret;Sir W. Batten;Sir W. Penn;Mr. Gauden
 149,422,1662,3,6,walk,
 422,514,1662,3,6,walk,Sir G. Carteret
 514,788,1662,3,6,walk,
+788,422,1662,3,6,walk,
 422,788,1662,3,6,walk,
 788,422,1662,3,7,walk,
+422,788,1662,3,7,walk,
 788,642,1662,3,7,walk,
 642,576,1662,3,7,walk,Henry Moore
 576,788,1662,3,7,walk,Henry Moore
-422,788,1662,3,7,walk,
 788,422,1662,3,8,walk,
+422,788,1662,3,8,walk,
 788,610,1662,3,8,coach,Sir W. Batten;Sir W. Penn
 610,562,1662,3,8,walk,Serjeant Pierce
 562,588,1662,3,8,walk,Sir W. Batten;Sir W. Penn;Sir R. Branes
 588,422,1662,3,8,walk,Sir W. Penn;Sir G. Carteret
-422,788,1662,3,8,walk,
 788,544,1662,3,9,walk,
 544,514,1662,3,9,walk,
 514,516,1662,3,9,walk,Sir W. Penn
@@ -267,32 +272,33 @@ source,target,year,month,day,mode,companion
 788,422,1662,3,14,walk,
 422,788,1662,3,14,walk,
 788,422,1662,3,15,walk,
+422,788,1662,3,15,walk,
 788,642,1662,3,15,boat,Sir G. Carteret;Sir W. Batten;Sir W. Penn
 642,789,1662,3,15,walk,
 789,422,1662,3,15,walk,
-422,788,1662,3,15,walk,
 788,789,1662,3,16,walk,
 789,576,1662,3,16,walk,
 576,642,1662,3,16,walk,
 642,788,1662,3,16,walk,Tom Pepys
 788,422,1662,3,17,walk,
+422,788,1662,3,17,walk,
 788,789,1662,3,17,walk,
 789,422,1662,3,17,walk,
-422,788,1662,3,17,walk,
 788,422,1662,3,18,walk,Sir W. Penn
 422,788,1662,3,18,boat,Sir W. Penn
 788,422,1662,3,20,walk,
 422,789,1662,3,20,walk,
 789,788,1662,3,20,walk,
+788,422,1662,3,20,walk,
 422,788,1662,3,20,walk,
 788,422,1662,3,21,walk,
+422,788,1662,3,21,walk,
 788,650,1662,3,21,boat,Sir W. Batten
 650,610,1662,3,21,walk,
 610,576,1662,3,21,boat,
 576,546,1662,3,21,walk,
 546,576,1662,3,21,walk,
 576,788,1662,3,21,walk,
-422,788,1662,3,21,walk,
 788,422,1662,3,22,boat,Sir W. Batten;Sir W. Penn
 422,788,1662,3,22,boat,Sir W. Batten;Sir W. Penn
 788,576,1662,3,27,coach,Sir G. Carteret;Sir W. Batten;Sir W. Penn
@@ -300,20 +306,20 @@ source,target,year,month,day,mode,companion
 788,422,1662,3,27,walk,
 422,788,1662,3,27,walk,
 788,422,1662,3,29,walk,
+422,788,1662,3,29,walk,
 788,576,1662,3,29,walk,
 576,788,1662,3,29,walk,
-422,788,1662,3,29,walk,
 788,544,1662,3,30,walk,
 544,788,1662,3,30,walk,
 788,544,1662,3,30,walk,Elizabeth Pepys
 544,788,1662,3,30,walk,Elizabeth Pepys
 788,422,1662,3,31,walk,
+422,788,1662,3,31,walk,
 788,174,1662,3,31,walk,Tom Pepys
 174,337,1662,3,31,walk,
 337,458,1662,3,31,walk,Sir Thomas Crew
 458,577,1662,3,31,walk,Sir W. Penn
 577,788,1662,3,31,walk,Sir W. Penn
-422,788,1662,3,31,walk,
 788,576,1662,4,1,walk,Elizabeth Pepys
 576,158,1662,4,1,coach,Elizabeth Pepys;Mr. Herbert;Lady Jemima;Lady Anne
 158,282,1662,4,1,coach,Elizabeth Pepys;Lady Jemima;Lady Anne
@@ -334,6 +340,7 @@ source,target,year,month,day,mode,companion
 592,359,1662,4,5,coach,Elizabeth Pepys;Lady Jemima;Lady Anne
 359,282,1662,4,5,coach,Elizabeth Pepys;Lady Jemima;Lady Anne
 282,788,1662,4,5,boat,Elizabeth Pepys
+788,422,1662,4,5,walk,
 422,788,1662,4,5,walk,
 788,642,1662,4,6,boat,
 642,576,1662,4,6,walk,Sir G. Carteret
@@ -341,27 +348,27 @@ source,target,year,month,day,mode,companion
 204,576,1662,4,6,walk,
 576,788,1662,4,6,boat,
 788,422,1662,4,7,walk,
-788,451,1662,4,7,boat,
-451,268,1662,4,7,walk,
-268,422,1662,4,7,boat,
 422,174,1662,4,7,boat,Elizabeth Pepys
 174,789,1662,4,7,coach,Elizabeth Pepys
 789,592,1662,4,7,walk,
 592,610,1662,4,7,walk,
 610,576,1662,4,7,boat,
 576,788,1662,4,7,walk,
+788,451,1662,4,7,boat,
+451,268,1662,4,7,walk,
+268,422,1662,4,7,boat,
 422,788,1662,4,7,walk,
 788,422,1662,4,9,walk,
+422,788,1662,4,9,walk,
 788,149,1662,4,9,walk,Sir G. Carteret;Sir W. Batten;Sir W. Penn
 149,789,1662,4,9,walk,
 789,419,1662,4,9,walk,
 419,788,1662,4,9,walk,
-422,788,1662,4,9,walk,
 788,422,1662,4,10,walk,
+422,788,1662,4,10,walk,
 788,610,1662,4,10,boat,Sir W. Batten;Sir W. Penn;Henry Moore
 610,576,1662,4,10,walk,Henry Moore
 576,422,1662,4,10,walk,
-422,788,1662,4,10,walk,
 788,145,1662,4,11,boat,Sir W. Penn
 145,212,1662,4,11,boat,Sir W. Penn
 212,667,1662,4,11,walk,Sir W. Penn
@@ -372,30 +379,30 @@ source,target,year,month,day,mode,companion
 788,422,1662,4,12,walk,
 422,788,1662,4,12,walk,
 788,422,1662,4,13,walk,
+422,788,1662,4,13,walk,
 788,545,1662,4,13,walk,
 545,576,1662,4,13,walk,
 576,566,1662,4,13,walk,
 566,206,1662,4,13,walk,Mr. Pickering
 206,788,1662,4,13,walk,
-422,788,1662,4,13,walk,
 788,422,1662,4,14,walk,
 422,491,1662,4,14,walk,Elizabeth Pepys
 491,684,1662,4,14,walk,Elizabeth Pepys
 684,788,1662,4,14,walk,Elizabeth Pepys
 788,422,1662,4,15,walk,
+422,788,1662,4,15,walk,
 788,789,1662,4,15,coach,Elizabeth Pepys
 789,367,1662,4,15,coach,Elizabeth Pepys
 367,788,1662,4,15,coach,Elizabeth Pepys
-422,788,1662,4,15,walk,
 788,387,1662,4,17,walk,
 387,642,1662,4,17,walk,
 642,788,1662,4,17,walk,
 788,422,1662,4,18,walk,
 422,788,1662,4,18,walk,
 788,422,1662,4,19,walk,
+422,788,1662,4,19,walk,
 788,5,1662,4,19,walk,
 5,422,1662,4,19,walk,
-422,788,1662,4,19,walk,
 788,545,1662,4,20,walk,
 545,576,1662,4,20,walk,
 576,642,1662,4,20,walk,Sir G. Carteret
@@ -428,19 +435,19 @@ source,target,year,month,day,mode,companion
 461,462,1662,4,30,walk,Sir G. Carteret;Sir W. Penn
 462,461,1662,4,30,walk,
 788,422,1662,1,16,walk,
+422,788,1662,1,16,walk,
 788,546,1662,1,16,walk,
 546,491,1662,1,16,walk,
 491,514,1662,1,16,walk,
 514,788,1662,1,16,walk,
-422,788,1662,1,16,walk,
 788,422,1662,1,20,walk,
+422,788,1662,1,20,walk,
 788,514,1662,1,20,walk,Sir W. Batten
 514,788,1662,1,20,walk,
-422,788,1662,1,20,walk,
 788,422,1662,1,28,walk,
+422,788,1662,1,28,walk,
 788,491,1662,1,28,walk,Elizabeth Pepys
 491,422,1662,1,28,walk,
-422,788,1662,1,28,walk,
 788,422,1662,2,12,walk,
 422,610,1662,2,12,walk,
 610,337,1662,2,12,walk,
@@ -450,16 +457,19 @@ source,target,year,month,day,mode,companion
 422,640,1662,3,10,walk,Sir W. Penn;Sir W. Batten
 640,514,1662,3,10,walk,
 514,788,1662,3,10,walk,
+788,422,1662,3,10,walk,
 422,788,1662,3,10,walk,
 788,422,1662,3,24,walk,
+422,788,1662,3,24,walk,
 788,145,1662,3,24,boat,Sir G. Carteret;Sir W. Batten
 145,788,1662,3,24,boat,
-422,788,1662,3,24,walk,
 788,422,1662,3,26,walk,
 422,503,1662,3,26,walk,
 503,788,1662,3,26,walk,
+788,422,1662,3,26,walk,
 422,788,1662,3,26,walk,
 788,422,1662,4,8,walk,
 422,642,1662,4,8,coach,
 642,788,1662,4,8,coach,Elizabeth Pepys
+788,422,1662,4,8,walk,
 422,788,1662,4,8,walk,
