@@ -156,6 +156,7 @@ source,target,year,month,day,mode,companion
 789,561,1665,2,20,walk,
 561,145,1665,2,20,boat,
 145,475,1665,2,20,walk,
+475,788,1665,2,20,walk,
 475,789,1665,2,21,walk,
 789,788,1665,2,21,walk,
 788,334,1665,2,21,coach,Lord Brouncker
