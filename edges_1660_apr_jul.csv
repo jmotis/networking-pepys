@@ -57,6 +57,10 @@ source,target,year,month,day,mode,companion
 642,174,1660,6,9,walk,
 174,320,1660,6,10,walk,Elizabeth Pepys
 320,174,1660,6,10,walk,Elizabeth Pepys
+174,374,1660,6,10,walk,
+374,659,1660,6,11,walk,
+659,610,1660,6,11,walk,
+610,174,1660,6,11,walk,
 174,650,1660,6,11,walk,Edward Montagu
 650,642,1660,6,11,walk,Edward Montagu
 642,374,1660,6,11,coach,Edward Montagu
@@ -66,6 +70,9 @@ source,target,year,month,day,mode,companion
 374,704,1660,6,11,walk,Edward Montagu
 704,374,1660,6,11,walk,
 374,174,1660,6,11,walk,
+174,374,1660,6,11,walk,
+374,122,1660,6,11,walk,
+122,174,1660,6,11,walk,Elizabeth Pepys
 174,650,1660,6,12,walk,Edward Montagu
 650,642,1660,6,12,walk,Edward Montagu
 642,374,1660,6,12,walk,
@@ -350,5 +357,13 @@ source,target,year,month,day,mode,companion
 314,788,1660,7,25,walk,
 788,422,1660,7,26,walk,
 422,788,1660,7,26,walk,
+788,544,1660,7,26,walk,
+544,788,1660,7,26,walk,
+788,544,1660,7,26,walk,Elizabeth Pepys
+544,788,1660,7,26,walk,Elizabeth Pepys
 788,422,1660,7,30,walk,
 422,788,1660,7,30,walk,
+788,642,1660,7,30,walk,
+642,610,1660,7,30,walk,
+610,642,1660,7,30,walk,
+642,788,1660,7,30,walk,
