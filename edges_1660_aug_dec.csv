@@ -132,6 +132,11 @@ source,target,year,month,day,mode,companion
 642,314,1660,8,25,walk,Mr. Turner;Mr. Moore
 314,561,1660,8,25,walk,
 561,788,1660,8,25,walk,
+561,465,1660,8,25,walk,
+465,610,1660,8,25,walk,
+610,788,1660,8,25,boat,
+788,422,1660,8,25,walk,
+422,788,1660,8,25,walk,
 788,544,1660,8,26,walk,Sir W. Penn
 544,788,1660,8,26,walk,Sir W. Penn
 788,544,1660,8,26,walk,Elizabeth Pepys
@@ -558,6 +563,8 @@ source,target,year,month,day,mode,companion
 146,788,1660,11,17,walk,
 788,422,1660,11,17,walk,
 422,788,1660,11,17,walk,
+788,642,1660,11,17,walk,
+642,465,1660,11,17,walk,
 788,544,1660,11,18,walk,
 544,788,1660,11,18,walk,
 788,544,1660,11,18,walk,Elizabeth Pepys
