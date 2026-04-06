@@ -23,6 +23,8 @@ source,target,year,month,day,mode,companion
 514,788,1661,7,3,walk,
 788,422,1661,7,3,walk,
 422,788,1661,7,3,walk,
+788,191,1661,7,3,walk,
+191,576,1661,7,3,walk,
 788,577,1661,7,4,walk,
 577,174,1661,7,4,walk,
 174,789,1661,7,4,walk,
@@ -106,8 +108,6 @@ source,target,year,month,day,mode,companion
 577,788,1661,7,31,walk,
 788,422,1661,7,31,walk,
 422,788,1661,7,31,walk,
-788,191,1661,7,3,walk,
-191,576,1661,7,3,walk,
 788,422,1661,8,1,walk,
 422,145,1661,8,1,coach,Sir W. Batten;Sir W. Penn;Elizabeth Pepys;Mrs. Pen
 145,788,1661,8,1,coach,Sir W. Batten;Sir W. Penn;Elizabeth Pepys;Mrs. Pen

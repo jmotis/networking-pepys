@@ -125,6 +125,8 @@ source,target,year,month,day,mode,companion
 788,576,1662,5,29,walk,Elizabeth Pepys
 576,185,1662,5,29,boat,Elizabeth Pepys
 185,788,1662,5,29,boat,Elizabeth Pepys
+788,203,1662,5,30,boat,Elizabeth Pepys;Mrs. Sarah;Will
+203,788,1662,5,30,boat,Elizabeth Pepys;Mr. Shepley
 788,422,1662,5,31,walk,
 422,788,1662,5,31,walk,
 788,642,1662,5,31,walk,
@@ -592,5 +594,3 @@ source,target,year,month,day,mode,companion
 396,788,1662,8,31,walk,
 788,516,1662,8,31,walk,Sir W. Penn
 516,788,1662,8,31,walk,
-788,203,1662,5,30,boat,Elizabeth Pepys;Mrs. Sarah;Will
-203,788,1662,5,30,boat,Elizabeth Pepys;Mr. Shepley
