@@ -88,8 +88,8 @@ source,target,year,month,day,mode,companion
 788,610,1666,8,24,coach,
 610,788,1666,8,24,coach,
 788,597,1666,8,27,walk,
-597,456,1666,8,27,walk,
 597,788,1666,8,27,boat,
+788,456,1666,8,28,walk,
 456,642,1666,8,28,coach,Elizabeth Pepys;Mercer
 642,788,1666,8,28,coach,
 788,540,1666,8,29,coach,Sir W. Penn
