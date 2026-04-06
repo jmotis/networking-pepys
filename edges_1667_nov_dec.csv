@@ -28,9 +28,11 @@ source,target,year,month,day,mode,companion
 593,610,1667,11,4,coach,
 610,593,1667,11,4,coach,Elizabeth Pepys
 593,788,1667,11,4,coach,Elizabeth Pepys;Deb Willet
-642,515,1667,11,4,walk,
-642,610,1667,11,4,walk,
 788,642,1667,11,4,boat,
+642,515,1667,11,4,walk,
+515,642,1667,11,4,walk,
+642,610,1667,11,4,walk,
+610,788,1667,11,4,walk,
 788,422,1667,11,5,walk,
 422,344,1667,11,5,coach,
 344,593,1667,11,5,coach,Elizabeth Pepys;Deb Willet
@@ -179,8 +181,9 @@ source,target,year,month,day,mode,companion
 788,540,1667,12,11,coach,Sir J. Minnes
 540,610,1667,12,11,walk,
 610,788,1667,12,11,walk,
-642,610,1667,12,11,walk,
 788,642,1667,12,11,coach,
+642,610,1667,12,11,walk,
+610,788,1667,12,11,walk,
 788,693,1667,12,12,coach,
 693,788,1667,12,12,walk,Mr. Fox
 788,422,1667,12,12,walk,
@@ -208,8 +211,8 @@ source,target,year,month,day,mode,companion
 788,3,1667,12,18,walk,
 3,422,1667,12,18,walk,
 422,788,1667,12,18,walk,
-516,788,1667,12,18,walk,
 788,516,1667,12,18,walk,
+516,788,1667,12,18,walk,
 788,222,1667,12,19,coach,Sir W. Penn
 222,789,1667,12,19,coach,Sir W. Penn
 789,788,1667,12,19,walk,
@@ -229,12 +232,13 @@ source,target,year,month,day,mode,companion
 515,642,1667,12,23,walk,Sir W. Coventry
 642,789,1667,12,23,walk,John Creed
 789,788,1667,12,23,walk,John Creed
+788,123,1667,12,23,walk,
+123,788,1667,12,24,coach,
 788,540,1667,12,24,coach,
 540,610,1667,12,24,walk,
 610,562,1667,12,24,walk,
 562,642,1667,12,24,walk,
 642,788,1667,12,24,coach,
-123,788,1667,12,24,coach,
 788,544,1667,12,25,walk,
 544,788,1667,12,25,walk,
 788,610,1667,12,26,walk,
@@ -251,6 +255,10 @@ source,target,year,month,day,mode,companion
 788,577,1667,12,28,coach,Elizabeth Pepys;Deb Willet
 577,422,1667,12,28,walk,
 422,788,1667,12,28,walk,
+788,789,1667,12,28,walk,
+789,503,1667,12,30,coach,
+503,577,1667,12,30,coach,
+577,788,1667,12,30,walk,
 788,610,1667,12,30,coach,
 610,642,1667,12,30,walk,Sir H. Cholmly
 642,576,1667,12,30,coach,Cooling
@@ -262,8 +270,6 @@ source,target,year,month,day,mode,companion
 577,418,1667,12,30,walk,Knepp
 418,546,1667,12,30,walk,
 546,788,1667,12,30,walk,
-503,577,1667,12,30,coach,
-789,503,1667,12,30,coach,
 788,642,1667,12,31,coach,
 642,788,1667,12,31,walk,
 788,593,1667,12,31,coach,Elizabeth Pepys

@@ -334,20 +334,22 @@ source,target,year,month,day,mode,companion
 789,788,1662,3,20,walk,
 788,422,1662,3,20,walk,
 422,788,1662,3,20,walk,
+788,610,1662,3,20,walk,
+610,576,1662,3,21,boat,
+576,491,1662,3,21,walk,Elizabeth Pepys
+491,788,1662,3,21,walk,
 788,422,1662,3,21,walk,
 422,788,1662,3,21,walk,
 788,642,1662,3,21,boat,Sir W. Batten
 642,650,1662,3,21,walk,
-788,650,1662,3,21,boat,Sir W. Batten
 650,610,1662,3,21,walk,
 610,268,1662,3,21,walk,
 268,576,1662,3,21,boat,
-610,576,1662,3,21,boat,
 576,546,1662,3,21,walk,
 546,576,1662,3,21,walk,
 576,788,1662,3,21,walk,
-576,491,1662,3,21,walk,Elizabeth Pepys
-491,788,1662,3,21,walk,
+788,650,1662,3,21,boat,Sir W. Batten
+650,788,1662,3,21,walk,
 788,422,1662,3,22,boat,Sir W. Batten;Sir W. Penn
 422,788,1662,3,22,boat,Sir W. Batten;Sir W. Penn
 788,411,1662,3,23,coach,Elizabeth Pepys
@@ -359,14 +361,15 @@ source,target,year,month,day,mode,companion
 576,788,1662,3,23,coach,Elizabeth Pepys
 788,503,1662,3,23,walk,
 503,788,1662,3,23,walk,
+788,422,1662,3,23,walk,
+422,265,1662,3,24,walk,
+265,788,1662,3,24,boat,
 788,422,1662,3,24,walk,
 422,788,1662,3,24,walk,
 788,145,1662,3,24,boat,Sir G. Carteret;Sir W. Batten
 145,788,1662,3,24,boat,
 788,324,1662,3,24,boat,Elizabeth Pepys
 324,788,1662,3,24,boat,
-422,265,1662,3,24,walk,
-265,788,1662,3,24,boat,
 788,519,1662,3,24,walk,
 519,788,1662,3,24,walk,
 788,422,1662,3,26,walk,
