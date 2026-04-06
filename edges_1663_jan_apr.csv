@@ -533,7 +533,8 @@ source,target,year,month,day,mode,companion
 592,59,1663,4,19,walk,father Pepys
 59,788,1663,4,19,walk,
 788,422,1663,4,20,walk,
-422,642,1663,4,20,coach,Sir G. Carteret;Sir J. Minnes
+422,788,1663,4,20,walk,
+788,642,1663,4,20,coach,
 642,565,1663,4,20,walk,Sir G. Carteret;Sir J. Minnes
 565,650,1663,4,20,walk,
 650,343,1663,4,20,coach,Sir G. Carteret;Sir J. Minnes
@@ -573,7 +574,8 @@ source,target,year,month,day,mode,companion
 642,540,1663,4,27,walk,Sir W. Coventry;Sir W. Penn
 540,642,1663,4,27,walk,
 642,650,1663,4,27,walk,
-650,610,1663,4,27,walk,John Creed
+650,233,1663,4,27,walk,John Creed
+233,610,1663,4,27,walk,John Creed
 610,788,1663,4,27,coach,
 788,422,1663,4,28,walk,
 422,788,1663,4,28,walk,
