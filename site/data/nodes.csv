@@ -1,0 +1,913 @@
+id,name,location
+abingdon,Abingdon,Berkshire
+acton,Acton,Middlesex
+admiralty,Admiralty,Whitehall
+african_house,African House,City of London
+alderman_backewells,Alderman Backewell's,"goldsmith/banker, Lombard Street"
+alderman_hookers_house,Alderman Hooker's House,Greenwich
+aldersgate,Aldersgate,City of London
+aldgate,Aldgate,City of London
+alehouse_bankside,Alehouse,"Bankside, Southwark"
+alehouse_greatorex,An Alehouse,Westminster
+alehouse_morning,An Alehouse,Westminster
+alehouse_ratcliffe,Alehouse,Ratcliffe
+alehouse_seething,Alehouse,near Navy Office
+alehouse_unknown,An Alehouse,London
+alehouse_walthamstow,Alehouse,"near church, Walthamstow"
+anchor_doctors_commons,Anchor,"tavern, Doctors' Commons"
+angel_tavern,Angel,"tavern, King Street"
+anthony_joyces_house,Anthony Joyce's House,London
+arundel_house,Arundel House,Strand
+arundell_house,Arundell House,Strand (Royal Society)
+ashtead,Ashtead,Surrey
+attorney_generals,Attorney-General's,London
+audley_end,Audley End House,Essex
+aunt_kites_house,Aunt Kite's House,London
+avebury,Avebury,Wiltshire
+axe_tavern,Axe Tavern,Westminster
+axe_yard,Axe Yard,Westminster
+backwells,Backwell's,"goldsmith, Lombard Street"
+bagwells_house,Bagwell's House,Deptford
+baldock,Baldock,Hertfordshire
+bankside,Bankside,Southwark
+banqueting_house,Banqueting House,Whitehall
+barking,Barking,Essex
+barking_church,Barking Church,"Tower Street, City of London"
+barkway,Barkway,Hertfordshire
+barn_elms,Barn Elms,Barnes
+barnett,Barnett,Middlesex
+barnett_wells,Barnett Wells,Middlesex
+bartholomew_fair,Bartholomew Fair,Smithfield
+bath,Bath,Somerset
+bear_bridge_foot,Bear,"tavern, Bridge foot"
+bear_garden,Bear Garden,"Bankside, Southwark"
+bear_greenwich,The Bear,Greenwich
+bear_tavern,Bear Tavern,London
+bear_tavern_greenwich,Bear Tavern,Greenwich
+beards,Beard's,"inn, London"
+bednall_green,Bednall Green,Stepney
+bell_maypole_strand,Bell,"tavern, Maypole, Strand"
+bell_tavern_westminster,Bell,"tavern, Westminster"
+bennetts_paternoster_row,Bennett's,"Paternoster Row, City of London"
+berkeley_house,Berkshire House,St. James's (Lord Chancellor's)
+bethnal_green,Bethnal Green,Middlesex
+biggleswade,Biggleswade,Bedfordshire
+bigglesworth,Bigglesworth,Bedfordshire
+billingsgate,Billingsgate,City of London
+bishops_stortford,Bishop's Stortford,Hertfordshire
+bishopsgate,Bishopsgate,City of London
+bishopsgate_street,Bishopsgate Street,City of London
+black_spread_eagle,Black Spread Eagle,Bride Lane
+blackfriars,Blackfriars,London
+blackfriars_theatre,Blackfriars Theatre,London
+blackwall,Blackwall,London
+blockhouse_gravesend,Blockhouse,"near Gravesend, Kent"
+blue_balls_tavern,Blue Balls Tavern,near Duke's playhouse
+botolphs_church,Botolph's Church,Cambridge
+bottle_beer_house_strand,Bottle Beer House,Strand
+bottle_of_hay,Bottle of Hay,"St. John's Street, Islington road"
+bow,Bow,Middlesex
+bow_church,Bow Church,Cheapside
+brampton,Brampton,Huntingdonshire
+brazennose_tavern,Brazennose Tavern,Savoy
+brentford,Brentford,Middlesex
+brentford_church,Church,"Brentford, Middlesex"
+brentford_inn,Inn,"Brentford, Middlesex"
+bridewell,Bridewell,London
+bridge_tavern,Bridge Tavern,London Bridge
+bristol,Bristol,Somerset
+broad_street_dancing,Dancing School,Broad Street
+broad_street_excise,Excise Office,"Broad Street, City of London"
+brooke_house,Brooke House,Holborn (Commissioners of Accounts)
+brownes_minories,Browne's,"mathematician, Minories"
+buckingham,Buckingham,Buckinghamshire
+bull_head,Bull Head Tavern,London
+buntingford,Buntingford,Hertfordshire
+cabinet_maker_southwark,Cabinet-maker's Shop,Southwark
+cades_pictures,Cade's,"picture shop, London"
+cake_house_southampton,Cake House,Southampton Market Place
+cakehouse_hales,Cakehouse,near Hales's studio
+cambridge,Cambridge,Cambridgeshire
+canning_street,Canning Street,City of London
+cannon_row,Cannon Row,Westminster
+canterbury,Canterbury,Kent
+captain_allens,Captain Allen's House,Mark Lane
+captain_allens_house,Captain Allen's House,Rochester
+captain_cockes_house,Captain Cocke's House,Greenwich
+captain_ferrers_house,Captain Ferrers's House,Westminster
+captain_kingdoms_house,Captain Kingdom's House,London
+captain_lamberts_house,Captain Lambert's House,Greenwich
+capuchin_monastery,Capuchin Monastery,St. James's
+cardinals_cap,Cardinal's Cap,"tavern, London"
+cary_house,Cary House,Strand (Royal Society dinner)
+castle_house_deptford,Castle's House,Deptford
+castle_tavern,Castle Tavern,Savoy/Strand area
+catan_house,Catan's House,London
+catan_sterpins_house,Catan Sterpin's House,London
+chancery,Master of Chancery,London
+chancery_lane,Chancery Lane,London
+charing_cross,Charing Cross,Westminster
+charing_cross_stairs,Charing Cross Stairs,Westminster
+charterhouse_yard,Charterhouse Yard,London
+chatham,Chatham,Kent
+chatham_church,Chatham Church,Chatham
+chatham_dock,Chatham Dock,Chatham
+chatham_yard,Chatham Dockyard,"Chatham, Kent"
+chatteris,Chatteris,Isle of Ely
+cheapside,Cheapside,City of London
+chelsea,Chelsea,Middlesex
+chequer_charing_cross,Chequer,Charing Cross
+chequers,Chequers,"tavern, Charing Cross"
+chequers_holborn,Chequers,"inn, Holborn"
+cherry_garden,Cherry Garden,Rotherhithe
+cherry_garden_rochester,Cherry Garden,"Rochester, Kent"
+china_alehouse,China Alehouse,London
+chirurgeons_hall,Chirurgeons' Hall,City of London
+chris_church,Christ Church,"Newgate, City of London"
+christ_college,Christ College,Cambridge
+christs_college,Christ's College,Cambridge
+christs_hospital,Christ's Hospital,Smithfield
+clapham,Clapham,Surrey
+clarendon_house,Clarendon House,Piccadilly (Lord Chancellor)
+clerkenwell,Clerkenwell,Middlesex
+clerkenwell_church,Clerkenwell Church,Clerkenwell
+clothworkers_hall,Clothworkers' Hall,City of London
+club_dinner,A Club,near Six Clerks' Office
+cock_alehouse,Cock Alehouse,Temple Bar
+cock_pit,Cock Pit,Whitehall
+cock_tavern,Cock,"tavern, London"
+cockpit,Cockpit Theatre,Whitehall
+cockpit_theatre,Cockpit Theatre,Drury Lane
+coffee_house,Coffee House,Westminster
+coffee_house_cornhill,Coffee House,Cornhill
+coffee_house_exchange,Coffee House,"near the Exchange, City of London"
+col_blunts_house,Colonel Blunt's House,near Deptford
+col_cleggat_house,Colonel Cleggat's House,Greenwich
+col_norwoods_lodgings,Colonel Norwood's Lodgings,Westminster
+colvills_goldsmith,Colvill's (Goldsmith),City of London
+commissioner_petts_house,Commissioner Pett's House,Deptford
+commissioner_willoughbys,Commissioner Willoughby's House,Seething Lane
+comptrollers_house,Comptroller's House,Lime Street
+cooks_shop,A Cook's Shop,Westminster
+cooks_shop_2,A Cook's Shop,London
+coopers_house,Mr. Cooper's House,Covent Garden (miniature painter)
+cornhill,Cornhill,City of London
+council_chamber,Council Chamber,Whitehall
+court_of_wards,Court of Wards,Westminster
+cousin_angier_house,Cousin Angier's House,Cambridge
+cousin_scotts_house,Cousin Scott's House,London
+cousin_stradwicks_house,Cousin Stradwick's House,London
+cousin_tom_pepys_house,Cousin Thomas Pepys's House,London
+cousin_tom_pepys_shop,Cousin Tom Pepys's Shop,"turner, Paul's Churchyard"
+covent_garden,Covent Garden,London
+cranborne,Cranborne,"Windsor Forest, Berkshire"
+crane_tavern,Crane,"tavern, Stocks"
+creeds_lodging,Creed's Lodging,near New Exchange
+crowes_upholsterer,Crowe's,"upholsterer, St. Bartholomew's"
+crown_inn_rochester,Crown Inn,"Rochester, Kent"
+crown_palace_yard,Crown,"tavern, Palace Yard"
+crown_tavern,Crown,"tavern, London"
+crown_tavern_exchange,Crown Tavern,"behind the Exchange, City of London"
+crown_wilkinsons,Crown (Wilkinson's),Westminster
+cuckolds_point,Cuckold's Point,Rotherhithe
+custom_house,Custom House,City of London
+cutlers_house_hackney,Cutler's House,Hackney
+dagenhams,Dagenhams,Essex
+dancing_school,Dancing School,Fleet Street
+dartford,Dartford,Kent
+davenants_opera,Davenant's Opera,Lincoln's Inn Fields
+deal,Deal,Kent
+deal_cliffs,Cliffs near Deal,Kent
+delft,Delft,Netherlands
+deptford,Deptford,Kent
+deptford_church,Deptford Church,Deptford
+deptford_ferry,Deptford Ferry,Deptford
+deptford_upper_town,Deptford Upper Town,"Deptford, Kent"
+devils_tavern,Devil's Tavern,London
+devonshire_house,Devonshire House,Bishopsgate
+dickshore,Dick Shore,Wapping/Limehouse
+doctors_commons,Doctors' Commons,City of London
+dog_tavern,Dog Tavern,Westminster
+dolphin_tavern,Dolphin,"tavern, London"
+dorset_house,Dorset House,London
+dover,Dover,Kent
+dr_clerkes_house,Dr. Clerke's House,London
+dr_hardys_church,Dr. Hardy's Church,London
+dr_walkers_house,Dr. Walker's House,Doctors' Commons
+dr_whores_house,Dr. Whore's House,London
+dr_wilkins_house,Dr. Wilkins's House,London
+dr_williams_house,Dr. Williams's House,Holborn
+drumblebys,Drumbleby's,"flageolet maker, London"
+drury_lane,Drury Lane,London
+drury_lane_theatre,Drury Lane Theatre,Drury Lane
+duck_lane,Duck Lane,Smithfield
+dukes_playhouse,Duke's Playhouse,Lincoln's Inn Fields
+dukes_theatre,Duke's Theatre,Lincoln's Inn Fields
+durdans,Durdans,Epsom
+durham_yard,Durham Yard,Strand (Commissioners of Accounts)
+east_india_house,East India House,"Leadenhall Street, City of London"
+english_channel,English Channel,at sea
+engraver_tower,Engraver's Workshop,Tower of London
+epping,Epping,Essex
+epsom,Epsom,Surrey
+epsom_downs,Epsom Downs,Surrey
+epsom_wells,Epsom Wells,Surrey
+erith,Erith,Kent
+erith_east_indiaman,East India Ship,"Erith, Kent"
+essex_house,Essex House (Lord Keeper's),Strand
+eton_college,Eton College,"Eton, Buckinghamshire"
+ewell,Ewell,Surrey
+ewell_yowell,Ewell (Yowell),Surrey
+exchequer,Exchequer,Westminster
+exchequer_charing_cross,Exchequer,"tavern, Charing Cross"
+exchequer_court,Court of Exchequer,Westminster
+excise_office,Excise Office,"behind the Exchange, City of London"
+exeter_house,Exeter House,Strand
+exeter_house_chapel,Mr. Gunning's Chapel,"Exeter House, Strand"
+faithornes,Faithorne's,"print-seller, London"
+falcon_bankside,Falcon,"Bankside, Southwark"
+falcon_inn,Falcon Inn,"Petty Cury, Cambridge"
+father_bowyers_house,Father Bowyer's House,Westminster
+father_church,Father's Parish Church,London
+father_house,Father's House,London
+feathers_tavern,Feathers,"tavern, Fish Street"
+fenchurch_street,"Scrivener, Fenchurch Street",City of London
+fields_grays_inn,Fields behind Gray's Inn,Holborn
+fish_street,Fish Street,City of London
+fishmongers_hall,Fishmongers' Hall,City of London
+five_bells,Five Bells,"tavern, London"
+fleece_cornhill,Fleece,"tavern, Cornhill"
+fleece_covent_garden,Fleece Tavern,Covent Garden
+fleece_tavern,Fleece Tavern,Cornhill
+fleet_alley,Fleet Alley,London
+fleet_street,Fleet Street,London
+foulmer,Foulmer,Cambridgeshire
+fountain_tavern,Fountain Tavern,London
+fox_hall,Fox Hall,Lambeth
+fox_king_street,Fox,"tavern, King Street, Westminster"
+foxhall_spring_gardens,Foxhall Spring Gardens,"Vauxhall, Lambeth"
+french_church,French Church,London
+french_church_city,French Church,City of London
+french_church_savoy,French Church,Savoy
+french_embassy,French Embassy,London
+french_ordinary,French Ordinary,"restaurant, London"
+fullers_deal,Fuller's,"alehouse, Deal"
+gaming_house,Gaming House,Lincoln's Inn Fields
+gatehouse,Gatehouse,Westminster
+george_holborn,George,"inn, Holborn Conduit"
+gillingham,Gillingham,Kent
+glass_house,Glass House,London
+globe_cornhill,Globe,Cornhill
+globe_deptford,Globe,"tavern, Deptford"
+globe_eastcheap,Globe,"tavern, Eastcheap"
+globe_fleet_st,Globe,"tavern, Fleet Street"
+globe_greenwich,Globe,"tavern, Greenwich"
+goat_charing_cross,Goat,"tavern, Charing Cross"
+godalming,Godalming,Surrey
+godmanchester,Godmanchester,Huntingdonshire
+golden_eagle,Golden Eagle,"inn, between Fetter Lane and Shoe Lane"
+golden_lion,Golden Lion,"tavern, near Charing Cross"
+golden_lion_tavern,Golden Lion Tavern,Strand
+goldsmith_new_exchange,Goldsmith,near New Exchange
+goldsmiths_hall,Goldsmith's Hall,City of London
+goring_house,Goring House,London
+gosport,Gosport,Hampshire
+grande_salle,Grande Salle,The Hague
+graveley,Graveley,Cambridgeshire
+gravesend,Gravesend,Kent
+gravesend_whites,White's,"tavern, Gravesend, Kent"
+grays,Grays,Essex
+grays_inn,Gray's Inn,London
+grays_inn_fields,Gray's Inn Fields,Holborn
+great_wardrobe,Great Wardrobe,London
+greatorexs,Greatorex's,"instrument maker, London"
+green_dragon,Green Dragon,"tavern, Lambeth Hill"
+greenwich,Greenwich,Kent
+greenwich_church,Greenwich Church,Greenwich
+greenwich_park,Greenwich Park,Greenwich
+greenwich_vestry,Church Vestry,Greenwich Church
+gresham_college,Gresham College,Bishopsgate
+greyhound,Greyhound,"tavern, London"
+greyhound_fleet_st,Greyhound,"tavern, Fleet Street"
+greyhound_tavern,Greyhound Tavern,London
+guildford,Guildford,Surrey
+guildhall,Guildhall,City of London
+hackney,Hackney,Middlesex
+hackney_church,Hackney Church,Hackney
+half_moon,Half Moon,"tavern, Westminster"
+halfway_house,Halfway House,between Deptford and Redriffe
+halfway_tree,Halfway Tree,between Deptford and Rotherhithe
+ham_creek,Ham Creek,Kent
+hampstead,Hampstead,Middlesex
+hampton_court,Hampton Court,Middlesex
+hargrave_house,Hargrave's,St. Martin's Lane
+harmans_house,Harman's House,"upholsterer, Cornhill"
+harp_and_ball,Harp and Ball,"tavern, Westminster"
+harpers,Harper's,"tavern, Westminster"
+hatfield,Hatfield,Hertfordshire
+heaven_tavern,Heaven,"tavern, Westminster"
+hell_tavern,Hell,"tavern, Westminster"
+hempsons_house,Hempson's House,Rochester
+henry_vii_chapel,Henry VII's Chapel,Westminster Abbey
+herberts_westminster,Herbert's,Westminster
+hercules_pillars,Hercules Pillars,"tavern, London"
+hermitage,Hermitage,Wapping
+herrings_house,Herring's,"merchant, Coleman Street, London"
+highgate,Highgate,Middlesex
+hill_house_chatham,Hill House,Chatham
+hinchingbroke,Hinchingbroke,Huntingdonshire
+hinde_court,Hinde Court,Fleet Street
+holloway,Holloway,Middlesex
+home_axe_yard,Home,"Axe Yard, Westminster"
+home_seething_lane,Home (new),"Seething Lane, City of London"
+hoop_bridge,Hoop,"tavern, by the Bridge"
+hoop_tavern,Hoop Tavern,Thames Street
+horsleydown,Horsleydown,Southwark
+hounslow,Hounslow,Middlesex
+house_of_lords,House of Lords,Westminster
+hungerford,Hungerford,Berkshire
+huntingdon,Huntingdon,Huntingdonshire
+hunts_instrument,Hunt's,"instrument maker, London"
+huntsmore,Huntsmore,"Mr. Bowyer's, Buckinghamshire"
+hyde_park,Hyde Park,London
+ilford,Ilford,Essex
+impington,Impington,Cambridgeshire
+ironmongers_hall,Ironmongers' Hall,City of London
+isle_of_dogs,Isle of Dogs,Middlesex
+islington,Islington,Middlesex
+jacobs,Jacob's,"alehouse, St. James's Park"
+jamaica_house,Jamaica House,Bermondsey/Rotherhithe
+jervas_barber,Jervas the Barber,"Palace Yard, Westminster"
+jewel_office,Jewel Office,Whitehall
+jewish_synagogue,Jewish Synagogue,Creechurch Lane
+kate_joyces_house,Kate Joyce's House,London
+katherine_wheel_islington,Katherine Wheel,Islington
+kensington,Kensington,Middlesex
+kensington_grotto,Kensington Grotto,Kensington
+kent_street,Kent Street,Southwark
+king_head_deptford,King's Head,"tavern, Deptford"
+king_head_tavern,King's Head Tavern,Charing Cross
+king_street,King Street,Westminster
+kings_college_chapel,King's College Chapel,Cambridge
+kings_court_hague,King's Court,The Hague
+kings_head_charing_cross,King's Head,"ordinary, Charing Cross"
+kings_head_greenwich,King's Head,"tavern, Greenwich"
+kings_head_lambeth,King's Head,Lambeth Marsh
+kings_head_stangold,King's Head,Stangold
+kings_head_tower_st,King's Head,"tavern, Tower Street"
+kings_house_greenwich,King's House,Greenwich
+kings_playhouse,King's Playhouse,Drury Lane
+kings_pleasure_boat,King's Pleasure Boat,Thames
+kings_theatre,King's Theatre,Drury Lane
+kingsland,Kingsland,Middlesex
+kingston,Kingston,Surrey
+kits_cotty_house,Kit's Cotty House,"Aylesford, Kent"
+knightsbridge,Knightsbridge,Middlesex
+knipps_lodging,Mrs. Knipp's Lodging,London
+lady_carterets_deptford,Lady Carteret's House,Deptford
+lady_carterets_london,Lady Carteret's,London
+lady_montagus_westminster,Lady Montagu's,Westminster
+lady_peterboroughs_house,Lady Peterborough's House,London
+lady_pickerings_house,Lady Pickering's House,London
+lady_poolys_bow,Lady Pooly's,Bow
+lady_wrights_house,Lady Wright's House,London
+lambeth,Lambeth,Surrey
+lambeth_marsh,Lambeth Marsh,Lambeth
+leadenhall,Leadenhall,City of London
+leatherhead,Leatherhead,Surrey
+lee_roads,Lee Roads,Thames Estuary
+leg_tavern,Leg,"tavern, King Street, Westminster"
+leicester_house,Leicester House,Leicester Fields (French Ambassador)
+lillys_studio,Lilly's Studio,"painter, London"
+limehouse,Limehouse,Stepney
+lincolns_inn,Lincoln's Inn,London
+lincolns_inn_fields,Lincoln's Inn Fields,London
+lincolns_inn_playhouse,New Playhouse,Lincoln's Inn Fields
+lincolns_inn_walks,Lincoln's Inn Walks,London
+lion_tavern,Lion,"tavern, Westminster"
+liphook,Liphook,Hampshire
+lissen_green,Lissen Green,near Paddington
+lisson_green,Lisson Green,Marylebone
+lodging_hague,Lodging,The Hague
+lombard_street,Lombard Street,"mercer, City of London"
+london_bridge,London Bridge,City of London
+london_city,London,City of London
+long_reach,Long Reach,Thames
+longreach,Longreach,"Thames, below Deptford"
+loosduinen,Loosduinen,Netherlands
+lord_ashlys_house,Lord Ashley's House,London
+lord_barkeleys,Lord Barkeley's,St. James's
+lord_bellasses_house,Lord Bellasses's House,London
+lord_bellasses_lodgings,Lord Bellasses's Lodgings,Lincoln's Inn Fields
+lord_brookes_hackney,Lord Brooke's Garden,Hackney
+lord_brunckers_covent_garden,Lord Bruncker's House,Covent Garden
+lord_brunckers_greenwich,Lord Bruncker's House,Greenwich
+lord_burlingtons_house,Lord Burlington's House,Piccadilly (next Clarendon House)
+lord_chancellors,Lord Chancellor's,Whitehall
+lord_chancellors_lodging,Lord Chancellor's Lodging,The Hague
+lord_chancellors_new_house,Lord Chancellor's New House,Piccadilly (Clarendon House)
+lord_crews_house,Lord Crew's House,Lincoln's Inn Fields
+lord_frezendorfs,Lord Frezendorf's House,London
+lord_hollands_house,Lord Holland's House,Kensington
+lord_lauderdales_highgate,Lord Lauderdale's House,Highgate
+lord_mayors_house,Lord Mayor's House,City of London
+lord_peterboroughs,Lord Peterborough's House,London
+lord_sandwich_lincolns_inn,Lord Sandwich's House,Lincoln's Inn Fields
+lord_sandwichs_lodgings,Lord Sandwich's Lodgings,Whitehall
+lord_st_albans_building,Lord St. Albans's Building,near Piccadilly
+lord_st_albans_lodgings,Lord St. Albans's Lodgings,Whitehall
+lord_treasurers,Lord Treasurer's,Whitehall
+lord_treasurers_house,Lord Treasurer's House,Whitehall/London
+lord_widdringtons_house,Lord Widdrington's House,London
+lovetts_house,Lovett's House,"varnisher, London"
+ludgate,Ludgate,City of London
+ludgate_church,Ludgate Church,City of London
+lyme_street,Lyme Street,City of London
+magdalene_college,Magdalene College,Cambridge
+maidstone,Maidstone,Kent
+major_harts_lodgings,Major Hart's Lodgings,Cannon Street
+mark_lane_tavern,A Tavern,Mark Lane
+marlborough,Marlborough,Wiltshire
+marrowbone_gardens,Marylebone Gardens,Marylebone
+marshs,Marsh's,"tavern, Whitehall"
+mary_joyces_house,Mary Joyce's House,London
+marylebone,Marylebone,Middlesex
+maybolt_galliott,Maybolt Galliott (ship),Deptford
+maypole_strand,Maypole in the Strand,Strand
+mercers_chapel,Mercer's Chapel,Cheapside
+merchant_taylors_church,Church by Merchant Taylors' Hall,City of London
+milford_stairs,Milford Stairs,Strand
+milk_street,Milk Street,City of London
+milke_house_strand,Milk House,Strand
+minchen_lane,Minchen Lane,City of London
+mings_funeral_church,Church,Sir Christopher Mings's funeral
+mitre_cheapside,Mitre,"tavern, Cheapside"
+mitre_fleet_street,Mitre,"tavern, Fleet Street"
+mitre_tavern,Mitre,"tavern, London"
+mitre_wood_street,Mitre,"tavern, Wood Street"
+moorfields,Moorfields,City of London
+mortlake,Mortlake,Surrey
+mother_lams,Mother Lam's,Westminster
+moxons,Moxon's,"instrument maker, London"
+mr_ackworths_house,Mr. Ackworth's House,Woolwich
+mr_ashburnhams,Mr. Ashburnham's,"Old Palace Yard, Westminster"
+mr_battersbys_house,Mr. Battersby's House,London
+mr_beales_office,Mr. Beale's Office,Chancery Lane
+mr_blackburnes_house,Mr. Blackburne's House,London
+mr_blagraves_house,Mr. Blagrave's House,"Fishyard, Westminster"
+mr_blands_house,Mr. Bland's House,London
+mr_boremans_house,Mr. Boreman's House,Greenwich
+mr_butlers_house,Mr. Butler's House,London
+mr_cades_shop,Mr. Cade's Shop,London
+mr_calthrops_house,Mr. Calthrop's House,London
+mr_chaplins_house,Mr. Chaplin's House,London
+mr_coventrys_chamber,Mr. Coventry's Chamber,Whitehall
+mr_coventrys_house,Mr. Coventry's House,London
+mr_coventrys_lodgings,Mr. Coventry's Lodgings,Old Palace Yard
+mr_creeds_lodging,Mr. Creed's Lodging,London
+mr_crews_house,Mr. Crew's House,Lincoln's Inn Fields
+mr_cumberland_house,Mr. Cumberland's House,London
+mr_cuttles_house,Mr. Cuttle's House,Greenwich
+mr_davis_house_deptford,Mr. Davis's House,Deptford
+mr_de_cretz_house,Mr. de Cretz's House,London
+mr_debastys,Mr. Debasty's,London
+mr_denhams_house,Mr. Denham's House,"surveyor, London"
+mr_downings_lodgings,Mr. Downing's Lodgings,Westminster
+mr_drakes_hackney,Mr. Drake's Garden,Hackney
+mr_evelyns_house,Mr. Evelyn's House (Sayes Court),Deptford
+mr_fage_house,Mr. Fage's House,Westminster
+mr_falconers_house,Mr. Falconer's House,Woolwich
+mr_foxs_house,Mr. Fox's House,Whitehall
+mr_frosts_house,Mr. Frost's House,London
+mr_g_montagu_house,Mr. G. Montagu's House,London
+mr_gawdens_house,Mr. Gawden's House,Clapham
+mr_george_montagus_house,Mr. George Montagu's House,London
+mr_glanvills_house,Mr. Glanvill's House,Greenwich
+mr_greatorex_house,Mr. Greatorex's House,London
+mr_hales_studio,Mr. Hales's Studio,"painter, London"
+mr_herrings_church,Mr. Herring's Church,London
+mr_hodges_house,Mr. Hodges's House,Lincoln's Inn Fields
+mr_holdens_shop,Mr. Holden's Shop,"hatter, London"
+mr_hollands_house,Mr. Holland's House,Bridewell
+mr_hores_tower,Mr. Hore's,Tower of London
+mr_hunts_house,Mr. Hunt's House,"near Axe Yard, Westminster"
+mr_jaggards,Mr. Jaggard's,Thames Street
+mr_knightlys_house,Mr. Knightly's House,London
+mr_laxtons_house,Mr. Laxton's,"apothecary, London"
+mr_lillys_house,Mr. Lilly's House,London
+mr_lucys_house,Mr. Lucy's House,"merchant, London"
+mr_mertons_shop,Mr. Merton's Shop,Cambridge
+mr_michells_house,Mr. Michell's House,"Thames Street, near Old Swan"
+mr_moores_house,Mr. Moore's House,London
+mr_mossums_church,Mr. Mossum's Church,London
+mr_mounts_chamber,Mr. Mount's Chamber,Whitehall
+mr_pennys_tailor,Mr. Penny's,"tailor, near St. Dunstan's Church, Fleet Street"
+mr_pett_builder,Mr. Pett the Builder's House,Chatham
+mr_pett_shipwright,Mr. Pett the Shipwright's House,Woolwich
+mr_phelps_house,Mr. Phelps's House,Westminster
+mr_pierce_purser_house,Mr. Pierce the Purser's House,London
+mr_pierce_surgeon_house,Mr. Pierce the Surgeon's House,London
+mr_pierces_house,Mr. Pierce's House,London
+mr_pims_house,Mr. Pim's House,"tailor, London"
+mr_pims_shop,Mr. Pim's Shop,"tailor, London"
+mr_pinkneys_house,Mr. Pinkney's House,London
+mr_pinkneys_shop,Mr. Pinkney's Shop,"goldsmith, London"
+mr_povys_house,Mr. Povy's House,London
+mr_rawlinsons_house,Mr. Rawlinson's House,London
+mr_reeves_house,Mr. Reeve's House,London
+mr_sheldens_house,Mr. Shelden's House,Woolwich
+mr_sheplys_lodgings,Mr. Shepley's Lodgings,"at my Lord's lodgings, Whitehall"
+mr_sherwins_house,Mr. Sherwin's House,London
+mr_spongs_house,Mr. Spong's House,London
+mr_starlings,Mr. Starling's,London
+mr_stephens_house,Mr. Stephens's House,"Treasurer's man, London"
+mr_stevens_shop,Mr. Steven's Shop,London
+mr_swans_house,Mr. Swan's House,London
+mr_symons_house,Mr. Symons's House,London
+mr_thornburys_house,Mr. Thornbury's House,Westminster
+mr_tippets_house,Mr. Tippets's House,Portsmouth Dock
+mr_vernons_house,Mr. Vernon's House,London
+mr_vines_house,Mr. Vines's House,Westminster
+mr_wades_house,Mr. Wade's House,London
+mr_wm_montagus_chamber,Mr. Wm. Montagu's Chamber,London
+mr_woollys,Mr. Woolly's,near Seething Lane
+mr_wottons_house,Mr. Wotton's House,London
+mr_wottons_shop,Mr. Wotton's Shop,"shoemaker, London"
+mr_wright_house_greenwich,Mr. Wright's House,Greenwich
+mr_youngs_house,Mr. Young's,"flag-maker, Cornhill"
+mrs_ann_lodgings,Mrs. Ann's Lodgings,London
+mrs_blackburnes_house,Mrs. Blackburne's House,London
+mrs_brownes_house,Mrs. Browne's House,Walthamstow
+mrs_clarkes_house,Mrs. Clarke's House,Westminster
+mrs_clerkes_greenwich,Mrs. Clerke's House,Greenwich
+mrs_clerkes_lodging,Mrs. Clerke's Lodging,Greenwich
+mrs_crisps_house,Mrs. Crisp's House,"Axe Yard, Westminster"
+mrs_eastwoods_lodging,Mrs. Eastwood's Lodging,"new market, Lord Treasurer's, Westminster"
+mrs_ferrers_house,Mrs. Ferrer's House,Westminster
+mrs_hunts_house,Mrs. Hunt's House,Westminster
+mrs_jem_lodgings,Mrs. Jem's Lodgings,London
+mrs_johnsons_house,Mrs. Johnson's House,"sempstress, Strand"
+mrs_lanes_lodging,Mrs. Lane's Lodging,Westminster
+mrs_martins_lodging,Mrs. Martin's Lodging,Westminster
+mrs_martins_new_lodging,Mrs. Martin's New Lodging,Westminster
+mrs_michells_shop,Mrs. Michell's Shop,Westminster Hall
+mrs_peningtons_house,Mrs. Penington's House,Greenwich
+mrs_pierce_house,Mrs. Pierce's House,London
+mrs_pierces_covent_garden,Mrs. Pierce's House,Covent Garden
+mrs_pierces_greenwich,Mrs. Pierce's House,Greenwich
+mrs_pierces_lodging_portsmouth,Mrs. Pierce's Lodging,Portsmouth
+mrs_russells,Mrs. Russell's,London
+mrs_shipmans_house,Mrs. Shipman's House,Walthamstow
+mrs_stokes_paternoster_row,Mrs. Stokes's,"goldsmith, Paternoster Row"
+mrs_terrys_house,Mrs. Terry's House,London
+mrs_turner_house,Mrs. Turner's House,London
+mrs_whatelys_house,Mrs. Whately's House,London
+mrs_williams_covent_garden,Mrs. Williams's House,Covent Garden
+mrs_williams_erith,Mrs. Williams's Lodging,"Erith, Kent"
+mum_house,Mum House,Leadenhall
+my_lords_lodgings,My Lord's Lodgings,Whitehall
+navy_commissioners,Commissioners of the Navy,London
+navy_office,Navy Office,"Seething Lane, City of London"
+navy_office_greenwich,Navy Office,"King's House, Greenwich"
+navy_office_tower_hill,Navy Office,"Tower Hill, London"
+navy_treasurer,Treasurer of the Navy,London
+neat_houses,Neat Houses,Chelsea/Pimlico
+new_exchange,New Exchange,Strand
+new_market,New Market,Westminster
+new_spring_garden,New Spring Garden,Vauxhall
+new_theatre_fencing,New Theatre,Lincoln's Inn Fields
+newbury,Newbury,Berkshire
+newgate,Newgate,City of London
+newgate_market,Newgate Market,City of London
+newport_pagnell,Newport Pagnell,Buckinghamshire
+nonesuch_palace,Nonsuch Palace,"near Ewell, Surrey"
+nonsuch,Nonsuch,Surrey
+nursery_theatre,Nursery Theatre,Hatton Garden
+office_exchequer,Office,"Exchequer, Westminster"
+offord,Offord,Huntingdonshire
+old_bailey,Old Bailey,City of London
+old_exchange,Old Exchange,City of London
+old_fish_street,Old Fish Street,City of London
+old_ford,Old Ford,near Bow
+old_georges,Old George's,"eating house, London"
+old_james,Old James,"tavern, Bishopsgate"
+old_jewry,Old Jewry,City of London
+old_sarum,Old Sarum,near Salisbury
+old_spring_garden,Old Spring Garden,Vauxhall
+old_swan,Old Swan,Thames Street
+ordinary_dinner,An Ordinary,London
+ordinary_old_exchange,An Ordinary,near Old Exchange
+oxford,Oxford,Oxfordshire
+paddington,Paddington,Middlesex
+painted_chamber,Painted Chamber,Westminster
+palace_yard,Palace Yard,Westminster
+pannier_alley,Pannier Alley,"near Newgate, City of London"
+parish_church,Parish Church,St. Olave Hart Street
+parish_church_fenner,Church,near Uncle Fenner's
+parliament_house,Parliament House,Westminster
+parliament_stairs,Parliament Stairs,Westminster
+parsons_drove,Parson's Drove,Isle of Ely
+paternoster_row,Paternoster Row,City of London
+pauls_churchyard,Paul's Churchyard,City of London
+pauls_school,Paul's School,City of London
+pauls_wharf,Paul's Wharf,City of London
+pell_mell,Wood's at Pell Mell,Westminster
+penells,Penell's,"tavern, Fleet Street"
+petersfield,Petersfield,Hampshire
+philips_norton,Philips Norton,Somerset
+philpott_lane_cook,Cook's Shop,"Philpott Lane, City of London"
+physic_garden,Physic Garden,St. James's Park
+playford_shop,Playford's Shop,London
+plough_fleet_street,Plough,Fleet Street
+pooles_deal,Poole's,"tavern, Deal"
+popes_head,Pope's Head Alley,City of London
+popes_head_tavern,Pope's Head Tavern,Chancery Lane
+portholme,Portholme,Huntingdon
+portsmouth,Portsmouth,Hampshire
+portsmouth_dock,Portsmouth Dock,Portsmouth
+post_house_charing_cross,Post House,"Charing Cross, Westminster"
+post_office,Post Office,London
+povy_house_brentford,Mr. Povy's House,"Brentford, Middlesex"
+prices_tavern,Price's,"tavern, Westminster"
+prince_orange_court,Prince of Orange's Court,The Hague
+princess_dowager_house,Princess Dowager's House,near The Hague
+print_seller,Print Seller,near the Exchange
+priors,Prior's,"Rhenish wine-house, Westminster"
+privy_seal,Privy Seal Office,Whitehall
+puckeridge,Puckeridge,Hertfordshire
+pudding_lane,Pudding Lane,City of London (fire origin)
+puddle_dock,Puddle Dock,City of London
+putney,Putney,Surrey
+putney_church,Putney Church,Putney
+quakers,Quaker's,"eating house, London"
+queen_bohemia_house,Queen of Bohemia's House,The Hague
+queenborough,Queenborough,Kent
+queenhithe,Queenhithe,City of London
+queens_chapel_whitehall,Queen's Chapel,Whitehall/St. James's
+queens_court,Queen's Court,Whitehall
+queens_head_bow,Queen's Head,Bow
+queens_presence_chamber,Queen's Presence Chamber,Whitehall
+raindeer,Raindeer,"tavern, Westminster"
+ratcliffe,Ratcliffe,Stepney
+reading,Reading,Berkshire
+red_bull_playhouse,Red Bull Playhouse,Clerkenwell
+red_lion_inn,Red Lion Inn,"coaching inn, London"
+red_lyon_king_st,Red Lyon,"tavern, King Street"
+red_lyon_portsmouth,Red Lyon,"inn, Portsmouth"
+redriffe,Redriffe,"Rotherhithe, Surrey"
+reeves,Reeves,"perspective glass maker, London"
+reeves_glassmaker,Reeves's,"glass maker, London"
+regent_house,Regent House,Cambridge
+rhenish_wine_house,Rhenish Wine House,London
+richmond,Richmond,Surrey
+ringo_alehouse,Ringo Alehouse,London
+ringsteads_star,Ringstead's at the Star,London
+robin_shaws_house,Robin Shaw's House,London
+rochester,Rochester,Kent
+rochester_castle,Rochester Castle,"Rochester, Kent"
+rochester_cathedral,Rochester Cathedral,Rochester
+rose_tavern,Rose Tavern,Cambridge
+royal_exchange,Royal Exchange,City of London
+royal_oak,Royal Oak,"tavern, Lombard Street"
+saffron_walden,Saffron Walden,Essex
+salisbury,Salisbury,Wiltshire
+salisbury_court,Salisbury Court,London
+salisbury_court_playhouse,Salisbury Court Playhouse,Salisbury Court
+salutation_tavern,Salutation Tavern,Billingsgate
+sampson_pauls,Sampson,"tavern, Paul's Churchyard"
+samson_tavern,Samson,"tavern, Paul's Churchyard"
+saracens_head,Saracen's Head,"tavern, London"
+savills_painter,Savill's,"painter, Cheapside"
+savoy_church,Savoy Church,Strand
+savoy_lords,Savoy,"Lords committee, Strand"
+scheveningen,Scheveningen,Netherlands
+scotland_yard,Scotland Yard,Westminster
+secretary_nicholas,Secretary Nicholas's Office,Whitehall
+secretary_nicholas_house,Secretary Nicholas's House,London
+seething_lane,Seething Lane,"Navy houses, City of London"
+sessions_house,Sessions House,Old Bailey
+shadwell,Shadwell,Middlesex
+sheerness,Sheerness,Kent
+sheriff_maynells,Sheriff Maynell's,City of London
+sheriffe_hookers,Sheriff Hooker's House,Greenwich
+ship_assistance,Assistance,ship
+ship_behind_exchange,Ship,"tavern, behind Exchange"
+ship_bezan,Bezan,"ship, river"
+ship_charity,Charity,"ship, Woolwich"
+ship_charles,Charles,"ship (renamed from Naseby), under sail"
+ship_essex,Essex,ship
+ship_lewes,Ship Lewes,Thames
+ship_london,London,ship
+ship_lord_sandwich,"Prince (ship, Lord Sandwich)",Fleet at Sea
+ship_montagu,Montagu,"ship, Portsmouth"
+ship_naseby,Naseby,ship
+ship_newcastle,Newcastle,"ship, Medway"
+ship_plimouth,Plimouth,ship
+ship_prince,Prince,"ship, Chatham dock"
+ship_rose_bush,Rose-bush,"ship, Woolwich"
+ship_royal_james,Royal James (ship),Fleet at Sea
+ship_sovereign,Sovereign,"ship, Medway"
+ship_sovereign_nore,Sovereign (ship),Buoy of the Nore
+ship_speaker,Speaker,ship
+ship_stayner,Sir R. Stayner's Ship,"ship, the Downs"
+ship_swallow,Swallow,"ship, Portsmouth Dock"
+ship_swiftsure,Swiftsure,ship
+ship_tavern,Ship Tavern,London
+shoe_lane,Shoe Lane,"alehouse, London"
+shoe_lane_cockpit,Cockpit,Shoe Lane
+shoreditch,Shoreditch,Middlesex
+signet_office,Signet Office,Whitehall
+sir_allen_brodericks,Sir Allen Broderick's House,"Wandsworth, Surrey"
+sir_d_gawdens,Sir Denis Gawden's House,Victualling Office
+sir_edward_walkers,Sir Edward Walker's Lodgings,St. Giles
+sir_g_carterets_broad_st,Sir G. Carteret's House,"Broad Street, City of London"
+sir_g_carterets_deptford_2,Sir G. Carteret's House,Deptford (goods stored)
+sir_g_carterets_house,Sir G. Carteret's House,Whitehall
+sir_g_carterets_whitehall,Sir G. Carteret's Chamber,Whitehall
+sir_g_downings_house,Sir G. Downing's House,Westminster
+sir_g_palmers_house,Sir G. Palmer's House,London
+sir_g_smiths_house,Sir G. Smith's House,City of London
+sir_geffery_palmers,Sir Geffery Palmer's,London
+sir_h_cholmleys_house,Sir H. Cholmley's House,Covent Garden area
+sir_h_wrights_house,Sir H. Wright's House,London
+sir_j_minnes_greenwich,Sir J. Minnes's Lodgings,Greenwich
+sir_john_duncombs_lodging,Sir John Duncomb's Lodging,Pall Mall
+sir_ph_howards,Sir Philip Howard's,Charing Cross
+sir_ph_warwickes,Sir Philip Warwick's,Whitehall area
+sir_philip_howards_house,Sir Philip Howard's House,near Charing Cross
+sir_r_fords_house,Sir R. Ford's House,near Navy Office
+sir_r_longs_house,Sir R. Long's House,"near Nonsuch, Surrey"
+sir_r_slingsbys_house,Sir R. Slingsby's House,London
+sir_r_viners,Sir R. Viner's (Goldsmith),"Lombard Street, City of London"
+sir_robert_longs,Sir Robert Long's,Whitehall area
+sir_stephen_foxs_house,Sir Stephen Fox's House,Westminster/Whitehall
+sir_w_batten_country,Sir W. Batten's Country House,"Walthamstow, Essex"
+sir_w_batten_house,Sir W. Batten's House,"Seething Lane, City of London"
+sir_w_battens_greenwich,Sir W. Batten's House,Greenwich
+sir_w_boreman_house,Sir W. Boreman's House,Greenwich
+sir_w_hickes_house,Sir W. Hickes's House,"Wanstead, Essex"
+sir_w_pen_house,Sir W. Pen's House,"Seething Lane, City of London"
+sir_w_riders_bethnal_green,Sir W. Rider's House,Bethnal Green
+sir_w_warrens_house,Sir W. Warren's House,Rotherhithe
+sir_w_warrens_yard,Sir W. Warren's Deal Yard,Wapping
+sir_w_wheelers,Sir W. Wheeler's House,Westminster
+sittingbourne,Sittingbourne,Kent
+six_clerks_office,Six Clerks' Office,Chancery Lane
+smithfield,Smithfield,City of London
+somerset_house,Somerset House,Strand
+somerset_house_stairs,Somerset House Stairs,Strand
+southampton,Southampton,Hampshire
+southwark,Southwark,Surrey
+spanish_embassy,Spanish Embassy,London
+spital,Spital,Spitalfields
+spring_garden,Spring Garden,Vauxhall (Fox Hall)
+st_brides,St. Bride's,"church, Fleet Street"
+st_catharines,St. Catharine's,near Tower
+st_clement_danes,St. Clement Danes,Strand
+st_clements_church,St. Clement's Church,Strand
+st_dunstans,St. Dunstan's,"church, Fleet Street"
+st_gregorys,St. Gregory's,"church, by St. Paul's"
+st_helens,St. Helen's,"Bishopsgate, City of London"
+st_ives,St. Ives,Huntingdonshire
+st_james_church,St. James's Church,Piccadilly
+st_james_fair,St. James's Fair,Westminster
+st_james_palace,St. James's Palace,Westminster
+st_james_park,St. James's Park,Westminster
+st_lawrence_church,St. Lawrence Church,City of London
+st_margarets_hill,St. Margaret's Hill,Southwark
+st_margarets_westminster,St. Margaret's Church,Westminster
+st_martins,St. Martin's,London
+st_mary_creek,St. Mary Creek,Kent
+st_pauls,St. Paul's Cathedral,City of London
+st_pauls_churchyard,St. Paul's Churchyard,City of London
+staines,Staines,Middlesex
+standings,Standing's,Salisbury Court
+stangold,Stangold,Lambeth/Southwark
+stanton,Stanton,Huntingdonshire
+star_chamber,Star Chamber,Westminster
+star_cheapside,Star,"tavern, Cheapside"
+star_tavern,Star Tavern,London
+starkys_austin_friars,Starky's,"cook, Austin Friars, City of London"
+steelyard,Steelyard,Thames Street
+stepney,Stepney,"Mrs. Chappell's, Stepney"
+stevenage,Stevenage,Hertfordshire
+still_yard,Still Yard (Steelyard),City of London
+stone_gallery,Stone Gallery,Whitehall
+stonehenge,Stonehenge,Salisbury Plain
+stourbridge_fair,Stourbridge Fair,near Cambridge
+strand_bridge,Strand Bridge,Strand/Thames
+sugar_loaf,Sugar Loaf,"tavern, near Temple Bar"
+sun_behind_exchange,Sun,"tavern, behind the Exchange"
+sun_chancery_lane,Sun,"tavern, Chancery Lane"
+sun_exchange,Sun,"tavern, behind Exchange"
+sun_fish_street,Sun,"tavern, Fish Street Hill"
+sun_tavern,Sun Tavern,Westminster
+sun_tavern_fish_st,Sun Tavern,Fish Street
+sun_tavern_leadenhall,Sun Tavern,Leadenhall Street
+surgeons_hall,Surgeons' Hall,near Old Bailey
+swakely_viners,Swakely House (Sir R. Viner),"Ickenham, Middlesex"
+swan_dowgate,Swan,"tavern, Dowgate"
+swan_fish_street,Swan,"tavern, Fish Street"
+swan_king_st,Swan,"tavern, King Street"
+swan_old_fish_st,Swan,"tavern, Old Fish Street"
+swan_palace,Swan,"near the Palace, Westminster"
+swan_two_necks,Swan with Two Necks,Tuttle Street
+swan_westminster,Swan,"tavern, Westminster"
+swayns,Swayn's,Westminster
+swedes_resident_piazza,Swedish Resident's House,"Piazza, Covent Garden"
+syon_house,Syon House,"Isleworth, Middlesex"
+tavern_cornhill,Tavern,"Cornhill, City of London"
+tavern_hackney_church,Tavern by the Church,Hackney
+tavern_harwich,A Tavern,London
+tavern_near_home,A Tavern,near Seething Lane
+tavern_savoy,A Tavern,near Savoy
+teddington,Teddington,Middlesex
+temple_bar,Temple Bar,London
+temple_church,Temple Church,London
+temple_gardens,Temple Gardens,London
+tennis_court,Tennis Court,Whitehall
+thames_street,Thames Street,City of London
+thames_street_tavern,A Tavern,Thames Street
+the_clerks,The Clerks,London
+the_downs,The Downs,"anchorage, Kent coast"
+the_grange,The Grange,near Lincoln's Inn
+the_hague,The Hague,Netherlands
+the_hope,The Hope,Thames estuary
+the_mews,The Mews,Charing Cross
+the_savoy,The Savoy,Strand
+the_spits,The Spits,Thames Estuary
+the_strand,The Strand,London
+the_temple,The Temple,London
+the_wicke,The Wicke,near Hampton Court
+theatre_royal,Theatre Royal,Drury Lane
+three_crane_tavern,Three Crane Tavern,London
+three_mariners,Three Mariners,"tavern, Lambeth"
+three_tuns_charing_cross,Three Tuns,"tavern, Charing Cross"
+three_tuns_tavern,Three Tuns Tavern,near the Navy Office
+tom_pepys_shop,Tom Pepys's Shop,London
+tookers_lodging,Mr. Tooker's Lodging,Greenwich
+torriano_house,Signor Torriano's House,London
+tower,Tower of London,City of London
+tower_dock,Tower Dock,City of London
+tower_hill,Tower Hill,City of London
+tower_hill_lodging,Tower Hill Lodging,Tower Hill
+tower_mint,Tower Mint,Tower of London
+tower_stairs,Tower Stairs,alehouse
+tower_street,Tower Street,"barber, City of London"
+tower_wharf,Tower Wharf,City of London
+treasury_office,Treasury Office,London
+trinity_hall,Trinity Hall,Cambridge
+trinity_house,Trinity House,Stepney
+triumph_tavern,Triumph Tavern,Charing Cross
+trumpet_tavern,Trumpet,"tavern, Westminster"
+twickenham_mr_fullers,Mr. Fuller's,Twickenham
+uncle_fenner_house,Uncle Fenner's House,London
+uncle_fenners,Uncle Fenner's,London
+uncle_whites_house,Uncle White's House,London
+uncle_wight_house,Uncle Wight's House,London
+unthankes,Unthanke's,London
+upnor_castle,Upnor Castle,Medway
+upper_bench,Upper Bench,Westminster
+vauxhall,Vauxhall,Surrey
+victualling_office,Victualling Office,London
+voorhout,Voorhout,The Hague
+w_joyces_house,W. Joyce's House,London
+waltham_forest,Waltham Forest,Essex
+walthamstow,Walthamstow,Essex
+wandsworth,Wandsworth,Surrey
+wanstead,Wanstead,Essex
+wapping,Wapping,Stepney
+ware,Ware,Hertfordshire
+warwick_house,Warwick House,Holborn
+watling_street,Watling Street,City of London
+welling,Welling,Hertfordshire
+welwyn,Welwyn,Hertfordshire
+westminster_abbey,Westminster Abbey,Westminster
+westminster_hall,Westminster Hall,Westminster
+westminster_palace,Westminster Palace,Westminster
+westminster_stairs,Westminster Stairs,Westminster
+white_hart_woolwich,White Hart,Woolwich
+white_horse,White Horse,"inn, King Street, Westminster"
+white_horse_lombard,White Horse,"tavern, Lombard Street"
+whitefriars,Whitefriars Stairs,London
+whitefriars_playhouse,Whitefriars Playhouse,Salisbury Court
+whitehall,Whitehall,Westminster
+whitehall_chapel,Whitehall Chapel,Whitehall
+whitehall_playhouse,Whitehall Playhouse,Whitehall
+wilkes_whitehall,Wilkes's,Whitehall
+wilkinsons,Wilkinson's,"tavern, Westminster"
+will_joyces_house,Will Joyce's House,London
+wills,Will's,Westminster
+windsor,Windsor,Berkshire
+windsor_castle,Windsor Castle,"Windsor, Berkshire"
+wisbech,Wisbech,Isle of Ely
+wood_street,Wood Street,City of London
+woolwich,Woolwich,Kent
+woolwich_church,St. Mary Magdalene Church,Woolwich
+woolwich_rope_yard,Rope Yard,Woolwich
+worcester_house,Worcester House,Strand
+wottons_shoemaker,Wotton's,"shoemaker, London"
+wrights_studio,Wright's Studio,"painter, London"
+yacht_deptford,Yacht,Deptford dockyard
+yelling,Yelling,Huntingdonshire
+york_house,York House,Strand

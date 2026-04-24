@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script>
+  // Wrap ResizeObserver to rAF-defer callbacks — prevents the benign loop warning at the source
+  (function(){
+    if (typeof ResizeObserver === 'undefined') return;
+    const Native = window.ResizeObserver;
+    function Wrapped(cb){
+      let raf = 0;
+      const ro = new Native(function(entries, obs){
+        if (raf) cancelAnimationFrame(raf);
+        raf = requestAnimationFrame(function(){ raf = 0; try { cb(entries, obs); } catch(e){} });
+      });
+      return ro;
+    }
+    Wrapped.prototype = Native.prototype;
+    window.ResizeObserver = Wrapped;
+  })();
+  // Belt-and-suspenders: still swallow the message if it somehow surfaces
+  const _onerror = window.onerror;
+  window.onerror = function(msg){ if (msg && /ResizeObserver/.test(String(msg))) return true; return _onerror ? _onerror.apply(this, arguments) : false; };
+  window.addEventListener('error', function(e){
+    if (e && e.message && /ResizeObserver/.test(e.message)){ e.stopImmediatePropagation(); e.preventDefault(); }
+  }, true);
+  const _cerr = console.error;
+  console.error = function(){
+    const s = Array.from(arguments).map(String).join(' ');
+    if (/ResizeObserver/.test(s)) return;
+    return _cerr.apply(console, arguments);
+  };
+</script>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1280" />
+<title>Networking Pepys — the geography of the diary, 1660–1669</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<script>
+  // Preview-host asset token (harmless on static hosts — just an empty query string)
+  window.__T = location.search || '';
+  (function(){
+    var css = document.createElement('link');
+    css.rel = 'stylesheet'; css.href = 'styles.css' + window.__T;
+    document.head.appendChild(css);
+  })();
+</script>
+</head>
+<body>
+<a class="skip-link" href="#net">Skip to network</a>
+
+<div class="app" role="application" aria-label="Pepys movement network explorer">
+
+  <header class="topbar">
+    <div class="brand">
+      <h1>Networking <em>Pepys</em></h1>
+      <span class="sub" aria-hidden="true">The geography of the diary · 1660–1669</span>
+    </div>
+    <div class="meta" id="counter">loading…</div>
+  </header>
+
+  <!-- Left: filters -->
+  <aside class="left" aria-label="Filters">
+    <div class="panel-kicker">Filters</div>
+    <h2 class="panel-title">Shape the network</h2>
+
+    <!-- Layout -->
+    <div class="section">
+      <div class="section-label"><span>Layout</span></div>
+      <div class="seg" data-seg="layout" role="group" aria-label="Layout mode">
+        <button data-layout="force" class="on" aria-pressed="true">Force</button>
+        <button data-layout="concentric" aria-pressed="false">Concentric</button>
+        <button data-layout="schematic" aria-pressed="false">Geographic</button>
+      </div>
+      <div style="font-size:11px; color:var(--ink-3); margin-top:6px; line-height:1.4; font-style:italic;">
+        Force — communities emerge. Concentric — orbits of frequency. Geographic — schematic London.
+      </div>
+      <label style="display:flex; align-items:center; gap:8px; margin-top:10px; font-size:12px; color:var(--ink-2); cursor:pointer;">
+        <input type="checkbox" id="tw-labels" checked />
+        Show place labels
+      </label>
+    </div>
+
+    <!-- Search -->
+    <div class="section">
+      <div class="section-label"><span>Search a place</span></div>
+      <input class="input" id="search-input" type="search" placeholder="e.g. Westminster Hall, Navy Office" aria-label="Search places" autocomplete="off" />
+      <div class="search-results" id="search-results" role="listbox" aria-label="Search results"></div>
+    </div>
+
+    <!-- Ego badge appears when set -->
+    <div class="section" id="ego-badge" style="display:none; align-items:center; justify-content:space-between; background:#EADFCB; padding:10px 12px; border-radius:2px; border:1px solid #DCCFB6; margin-top:14px; border-top-color:#DCCFB6;">
+      <div>
+        <div style="font-size:10.5px; letter-spacing:0.12em; text-transform:uppercase; color:var(--ink-3); font-weight:600">Ego-network</div>
+        <div id="ego-name" style="font-family:var(--font-display); font-size:15px; color:var(--ember); font-weight:500"></div>
+      </div>
+      <button id="clear-ego" class="chip" aria-label="Clear ego network">clear</button>
+    </div>
+
+    <!-- Year range: intentionally omitted — the "Trips Over Time" brush at the bottom filters by year. -->
+
+    <!-- Date range (month-granular textual input) -->
+    <div class="section">
+      <div class="section-label"><span>Date range</span></div>
+      <div class="date-row">
+        <div class="date-field">
+          <label for="date-from">From</label>
+          <input id="date-from" class="input input-date" type="text" inputmode="numeric"
+                 placeholder="Jan 1660" aria-label="From date"
+                 list="date-suggest" autocomplete="off" spellcheck="false" />
+        </div>
+        <div class="date-field">
+          <label for="date-to">To</label>
+          <input id="date-to" class="input input-date" type="text" inputmode="numeric"
+                 placeholder="Dec 1669" aria-label="To date"
+                 list="date-suggest" autocomplete="off" spellcheck="false" />
+        </div>
+      </div>
+      <datalist id="date-suggest">
+        <option value="Jan 1660"></option><option value="Jan 1661"></option>
+        <option value="Jan 1662"></option><option value="Jan 1663"></option>
+        <option value="Jan 1664"></option><option value="Jan 1665"></option>
+        <option value="Jan 1666"></option><option value="Jan 1667"></option>
+        <option value="Jan 1668"></option><option value="Dec 1669"></option>
+      </datalist>
+      <div class="date-err" id="date-err" role="alert"></div>
+      <div class="date-hint">Type month &amp; year, or brush the bottom timeline. Dbl-click to reset.</div>
+    </div>
+
+    <!-- Mode chips -->
+    <div class="section">
+      <div class="section-label"><span>Mode of travel</span></div>
+      <div class="chip-row" id="mode-chips" role="group" aria-label="Transport modes"></div>
+    </div>
+
+    <!-- Companion -->
+    <div class="section">
+      <div class="section-label"><span>Companion</span></div>
+      <select id="companion-select" class="input" aria-label="Filter by companion"></select>
+    </div>
+
+    <!-- Region -->
+    <div class="section">
+      <div class="section-label"><span>Region</span><button class="clear" id="clear-region">clear</button></div>
+      <div class="chip-row" id="region-chips" role="group" aria-label="Regions"></div>
+    </div>
+
+    <!-- Top-N -->
+    <div class="section">
+      <div class="section-label"><span>Places shown</span><button class="clear" id="show-all">Show all 912</button></div>
+      <div class="slider-wrap">
+        <input id="topn-slider" type="range" min="20" max="400" step="10" aria-label="Number of top places" />
+        <div class="slider-row"><span>Top</span><span id="topn-val">150</span></div>
+      </div>
+    </div>
+
+    <!-- Layout moved to top of filters -->
+
+    <div class="section">
+      <button class="chip" id="clear-all" style="width:100%; padding:10px">Reset all filters</button>
+    </div>
+
+    <div class="section" style="font-size:11px; color:var(--ink-3); line-height:1.5; font-style:italic;">
+      Data: 13,524 movements across 912 places, 1660–1669, derived from Pepys' diary.
+      Modeled after the node-link conventions of six-degrees network studies.
+    </div>
+  </aside>
+
+  <!-- Center: canvas stage -->
+  <main class="stage">
+    <canvas id="net" tabindex="0" role="img" aria-label="Network of Samuel Pepys' movements. Use arrow keys to pan, plus and minus to zoom, 0 to reset, Escape to deselect."></canvas>
+
+    <div class="legend" aria-hidden="true">
+      <h4>Legend</h4>
+      <div class="row"><span class="dot" style="width:16px; height:16px; background:#B5341E;"></span><span>Selected place</span></div>
+      <div class="row"><span class="dot" style="width:11px; height:11px; background:#C07A2E;"></span><span>1° connection</span></div>
+      <div class="row"><span class="dot" style="width:8px; height:8px; background:#8C8275;"></span><span>Other place</span></div>
+      <div class="row"><span class="line" style="background:#6B6257;"></span><span>Trip between places</span></div>
+      <div class="note">Node size = total visits. Line thickness = trip frequency between pair.</div>
+    </div>
+
+    <div class="tip" id="tip" role="tooltip"></div>
+
+    <div class="canvas-controls" aria-label="View controls">
+      <button id="btn-zoom-in" aria-label="Zoom in" title="Zoom in">+</button>
+      <button id="btn-zoom-out" aria-label="Zoom out" title="Zoom out">−</button>
+      <button id="btn-fit" aria-label="Fit view" title="Fit view">⌂</button>
+    </div>
+  </main>
+
+  <!-- Right: detail panel -->
+  <aside class="right detail" aria-label="Selected place details">
+    <div id="detail-body"></div>
+  </aside>
+
+  <!-- Footer: timeline -->
+  <footer class="timeline" aria-label="Trips over time">
+    <div class="tl-title"><span class="sub">Trips over time</span>Timeline <em style="color:var(--ember); font-style:italic; font-weight:500;">drag to filter</em></div>
+    <div class="tl-chart"><canvas id="tl-canvas" aria-label="Monthly trip volume, 1660 to 1669"></canvas></div>
+    <div class="tl-legend" id="tl-legend"></div>
+  </footer>
+</div>
+
+<!-- Tweakable defaults persisted to disk -->
+<script>
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+  "layout": "force",
+  "showLabels": true
+}/*EDITMODE-END*/;
+</script>
+
+<!-- Data + logic -->
+<script>
+  (function(){
+    var files = ['data/data.js','js/data.js','js/layouts.js','js/renderer.js','js/app.js','js/tours.js','js/tours-ui.js','js/about.js'];
+    function load(i){
+      if (i>=files.length) return;
+      var s = document.createElement('script');
+      s.src = files[i] + (window.__T || '');
+      s.onload = function(){ load(i+1); };
+      s.onerror = function(){ console.error('Failed: '+files[i]); load(i+1); };
+      document.body.appendChild(s);
+    }
+    load(0);
+  })();
+</script>
+
+</body>
+</html>
