@@ -1,0 +1,2124 @@
+source,target,year,month,day,mode,companion
+home_axe_yard,exeter_house_chapel,1660,1,1,walk,
+exeter_house_chapel,home_axe_yard,1660,1,1,walk,
+home_axe_yard,father_house_salisbury_court,1660,1,1,walk,Elizabeth Pepys
+father_house_salisbury_court,mrs_turner_house,1660,1,1,walk,Elizabeth Pepys; Theophila Turner; Madam Morrice
+mrs_turner_house,home_axe_yard,1660,1,1,walk,Elizabeth Pepys
+home_axe_yard,my_lords_lodgings_whitehall,1660,1,2,walk,
+my_lords_lodgings_whitehall,temple,1660,1,2,walk,
+temple,mr_crews_house,1660,1,2,walk,
+mr_crews_house,exchequer_office,1660,1,2,walk,
+exchequer_office,westminster_hall,1660,1,2,walk,
+westminster_hall,home_axe_yard,1660,1,2,walk,
+home_axe_yard,mr_crews_house,1660,1,2,walk,
+mr_crews_house,new_market_alehouse,1660,1,2,walk,Mr. Moore
+new_market_alehouse,temple,1660,1,2,walk,Mr. Moore (as far as Fleet Street)
+temple,mr_crews_house,1660,1,2,walk,
+mr_crews_house,mrs_jems_lodgings,1660,1,2,walk,Jemima Montagu (Mrs. Jem)
+mrs_jems_lodgings,home_axe_yard,1660,1,2,walk,
+home_axe_yard,wills_alehouse,1660,1,2,walk,
+wills_alehouse,home_axe_yard,1660,1,2,walk,
+home_axe_yard,mrs_turner_house,1660,1,3,walk,
+mrs_turner_house,temple,1660,1,3,walk,
+temple,exchequer_office,1660,1,3,walk,
+exchequer_office,home_axe_yard,1660,1,3,walk,
+home_axe_yard,mrs_jems_lodgings,1660,1,3,walk,Jemima Montagu (Mrs. Jem)
+mrs_jems_lodgings,mr_calthrops_chancery_lane,1660,1,3,walk,Mr. Hawly
+mr_calthrops_chancery_lane,whitehall,1660,1,3,walk,Mr. Hawly
+whitehall,home_axe_yard,1660,1,3,walk,
+home_axe_yard,exchequer_office,1660,1,4,walk,Mr. Vanly's man
+exchequer_office,westminster_hall,1660,1,4,walk,
+westminster_hall,wills_alehouse,1660,1,4,walk,
+wills_alehouse,westminster_hall,1660,1,4,walk,
+westminster_hall,swan_kings_street,1660,1,4,walk,Clerk of my Lord's troop; Quarter Master of my Lord's troop
+swan_kings_street,westminster_hall,1660,1,4,walk,
+westminster_hall,home_axe_yard,1660,1,4,walk,
+home_axe_yard,wills_alehouse,1660,1,4,walk,
+wills_alehouse,westminster_hall,1660,1,4,walk,
+westminster_hall,wills_alehouse,1660,1,4,walk,
+wills_alehouse,mr_vines_house,1660,1,4,walk,
+mr_vines_house,home_axe_yard,1660,1,4,walk,
+home_axe_yard,mr_hunts_house,1660,1,4,walk,
+mr_hunts_house,home_axe_yard,1660,1,4,walk,
+home_axe_yard,exchequer_office,1660,1,5,walk,
+exchequer_office,my_lords_lodgings_whitehall,1660,1,5,walk,
+my_lords_lodgings_whitehall,exchequer_office,1660,1,5,walk,
+exchequer_office,home_axe_yard,1660,1,5,walk,
+home_axe_yard,mrs_jems_lodgings,1660,1,5,walk,Elizabeth Pepys
+mrs_jems_lodgings,mr_fages,1660,1,5,walk,
+mr_fages,father_house_salisbury_court,1660,1,5,walk,
+father_house_salisbury_court,mrs_jems_lodgings,1660,1,5,walk,
+mrs_jems_lodgings,home_axe_yard,1660,1,5,walk,Elizabeth Pepys; Mrs. Sheply
+home_axe_yard,harpers_alehouse,1660,1,6,walk,John Pepys (brother)
+harpers_alehouse,exchequer_office,1660,1,6,walk,
+exchequer_office,home_axe_yard,1660,1,6,walk,
+home_axe_yard,thomas_pepys_house,1660,1,6,walk,Elizabeth Pepys
+thomas_pepys_house,mr_vines_house,1660,1,6,walk,
+mr_vines_house,home_axe_yard,1660,1,6,walk,
+home_axe_yard,cousin_stradwick_house,1660,1,6,walk,Jane (maid)
+cousin_stradwick_house,home_axe_yard,1660,1,6,walk,Elizabeth Pepys
+home_axe_yard,exchequer_office,1660,1,7,walk,
+exchequer_office,home_axe_yard,1660,1,7,walk,Mrs. Jane Turner; Theophila Turner; Madam Morrice; Joyce Norton
+home_axe_yard,mr_downings_lodgings,1660,1,7,walk,
+mr_downings_lodgings,home_axe_yard,1660,1,7,walk,
+home_axe_yard,dr_whores_house,1660,1,7,walk,Mrs. Jane Turner; Theophila Turner; Madam Morrice; Joyce Norton; Mr. Hawly
+dr_whores_house,mrs_jems_lodgings,1660,1,7,walk,
+mrs_jems_lodgings,my_lords_lodgings_whitehall,1660,1,7,walk,Elizabeth Pepys
+my_lords_lodgings_whitehall,home_axe_yard,1660,1,7,walk,Elizabeth Pepys
+home_axe_yard,exeter_house_chapel,1660,1,8,walk,
+exeter_house_chapel,father_house_salisbury_court,1660,1,8,walk,
+father_house_salisbury_court,mr_mossums_church,1660,1,8,walk,Elizabeth Pepys
+mr_mossums_church,mrs_turner_house,1660,1,8,walk,
+mrs_turner_house,father_house_salisbury_court,1660,1,8,walk,
+father_house_salisbury_court,home_axe_yard,1660,1,8,walk,Elizabeth Pepys; Mr. Sheply
+home_axe_yard,harpers_alehouse,1660,1,9,walk,W. Simons; Muddiman; Jack Price
+harpers_alehouse,coffee_club_westminster,1660,1,9,walk,Muddiman
+coffee_club_westminster,westminster_hall,1660,1,9,walk,
+westminster_hall,mrs_jems_lodgings,1660,1,9,walk,
+mrs_jems_lodgings,westminster_hall,1660,1,9,walk,
+westminster_hall,home_axe_yard,1660,1,9,walk,Quarter Master of my Lord's troop; Mr. Jenings
+home_axe_yard,alehouse_westminster,1660,1,10,walk,Ralph Greatorex
+alehouse_westminster,mr_crews_house,1660,1,10,walk,
+mr_crews_house,exchequer_office,1660,1,10,walk,
+exchequer_office,westminster_hall,1660,1,10,walk,
+westminster_hall,cooks_shop_westminster,1660,1,10,walk,Quarter Master of my Lord's troop; Mr. Jenings; Captain Rider
+cooks_shop_westminster,star_cheapside,1660,1,10,walk,Mr. Jenings
+star_cheapside,coffee_club_westminster,1660,1,10,walk,
+coffee_club_westminster,mother_lams,1660,1,10,walk,Mr. Doling
+mother_lams,home_axe_yard,1660,1,10,walk,
+home_axe_yard,harpers_alehouse,1660,1,10,walk,
+harpers_alehouse,home_axe_yard,1660,1,10,walk,
+home_axe_yard,exchequer_office,1660,1,11,walk,
+exchequer_office,wills_alehouse,1660,1,11,walk,
+wills_alehouse,w_joyces_house,1660,1,11,walk,John Pepys (father)
+w_joyces_house,mr_crews_house,1660,1,11,walk,
+mr_crews_house,w_joyces_house,1660,1,11,walk,
+w_joyces_house,alehouse_city,1660,1,11,walk,John Pepys (father)
+alehouse_city,crowlys,1660,1,11,walk,
+crowlys,mr_stevens_silversmith,1660,1,11,walk,
+mr_stevens_silversmith,home_axe_yard,1660,1,11,walk,
+home_axe_yard,mrs_jems_lodgings,1660,1,11,walk,
+mrs_jems_lodgings,coffee_club_westminster,1660,1,11,walk,
+coffee_club_westminster,home_axe_yard,1660,1,11,walk,
+home_axe_yard,harpers_alehouse,1660,1,12,walk,
+harpers_alehouse,exchequer_office,1660,1,12,walk,
+exchequer_office,wills_alehouse,1660,1,12,walk,
+wills_alehouse,home_axe_yard,1660,1,12,walk,
+home_axe_yard,half_moon_tavern,1660,1,12,walk,
+half_moon_tavern,home_axe_yard,1660,1,12,walk,
+home_axe_yard,swan_kings_street,1660,1,13,walk,Mr. Fage
+swan_kings_street,exchequer_office,1660,1,13,walk,
+exchequer_office,wills_alehouse,1660,1,13,walk,Mr. Pinkney
+wills_alehouse,home_axe_yard,1660,1,13,walk,
+home_axe_yard,mr_wades_house,1660,1,13,walk,Elizabeth Pepys
+mr_wades_house,catans_lodging,1660,1,13,walk,Elizabeth Pepys
+catans_lodging,home_axe_yard,1660,1,13,walk,Elizabeth Pepys
+home_axe_yard,whitehall,1660,1,13,walk,Elizabeth Pepys
+whitehall,home_axe_yard,1660,1,13,walk,Elizabeth Pepys
+home_axe_yard,mrs_jems_lodgings,1660,1,13,walk,
+mrs_jems_lodgings,mr_vines_house,1660,1,13,walk,
+mr_vines_house,home_axe_yard,1660,1,13,walk,
+home_axe_yard,exchequer_office,1660,1,14,walk,
+exchequer_office,westminster_hall,1660,1,14,walk,
+westminster_hall,home_axe_yard,1660,1,14,walk,
+home_axe_yard,market_westminster,1660,1,14,walk,Elizabeth Pepys
+market_westminster,coffee_club_westminster,1660,1,14,walk,
+coffee_club_westminster,home_axe_yard,1660,1,14,walk,
+home_axe_yard,mr_crews_house,1660,1,16,walk,
+mr_crews_house,alehouse_westminster,1660,1,16,walk,
+alehouse_westminster,exchequer_office,1660,1,16,walk,
+exchequer_office,clerks_hall,1660,1,16,coach,Harry Ethall; Mr. Maylard (set down at Salisbury Court)
+clerks_hall,green_dragon_lambeth_hill,1660,1,16,walk,Mr. Pinkney; Mr. Pinkney (the other); Smith; Harrison; Morrice; Mr. Sheply
+green_dragon_lambeth_hill,golden_lion_charing_cross,1660,1,16,walk,Mr. Sheply; Harrison
+golden_lion_charing_cross,home_axe_yard,1660,1,16,walk,
+home_axe_yard,mr_crews_house,1660,1,17,walk,
+mr_crews_house,home_axe_yard,1660,1,17,coach,Edward Montagu (Mr. Edward)
+home_axe_yard,westminster_hall,1660,1,17,walk,Edward Montagu (Mr. Edward)
+westminster_hall,wills_alehouse,1660,1,17,walk,Mr. Woodfine
+wills_alehouse,home_axe_yard,1660,1,17,walk,Edward Montagu (Mr. Edward)
+home_axe_yard,mr_fullers_twickenham,1660,1,17,coach,Elizabeth Pepys; Edward Montagu (Mr. Edward)
+mr_fullers_twickenham,home_axe_yard,1660,1,17,coach,Elizabeth Pepys
+home_axe_yard,mr_crews_house,1660,1,17,coach,
+mr_crews_house,mrs_jems_lodgings,1660,1,17,walk,
+mrs_jems_lodgings,coffee_club_westminster,1660,1,17,walk,
+coffee_club_westminster,westminster_hall,1660,1,17,walk,
+westminster_hall,home_axe_yard,1660,1,17,walk,
+home_axe_yard,whitehall,1660,1,17,walk,
+whitehall,harpers_alehouse,1660,1,17,walk,
+harpers_alehouse,home_axe_yard,1660,1,17,walk,
+home_axe_yard,exchequer_office,1660,1,18,walk,
+exchequer_office,wills_alehouse,1660,1,18,walk,
+wills_alehouse,home_axe_yard,1660,1,18,walk,
+home_axe_yard,wilkinsons_cook_shop,1660,1,18,walk,
+wilkinsons_cook_shop,my_lords_lodgings_whitehall,1660,1,18,walk,Mr. Talbot; Mr. Adams; Mr. Pinkney
+my_lords_lodgings_whitehall,home_axe_yard,1660,1,18,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,1,18,walk,
+my_lords_lodgings_whitehall,mrs_jems_lodgings,1660,1,18,walk,Anne Montagu (Mistress Ann)
+mrs_jems_lodgings,mr_crews_house,1660,1,18,walk,
+mr_crews_house,home_axe_yard,1660,1,18,walk,
+home_axe_yard,mr_downings_lodgings,1660,1,19,walk,
+mr_downings_lodgings,harp_and_ball,1660,1,19,walk,Mr. Sheply; Mr. Pierce (surgeon)
+harp_and_ball,whitehall,1660,1,19,walk,Mr. Sheply
+whitehall,mr_downings_lodgings,1660,1,19,walk,
+mr_downings_lodgings,exchequer_office,1660,1,19,walk,
+exchequer_office,mrs_jems_lodgings,1660,1,19,walk,Mr. Sheply; Mr. Moore
+mrs_jems_lodgings,french_ordinary,1660,1,19,walk,Mr. Moore
+french_ordinary,whitehall,1660,1,19,walk,
+whitehall,marshes_whitehall,1660,1,19,walk,
+marshes_whitehall,members_lodgings_westminster,1660,1,19,walk,
+members_lodgings_westminster,home_axe_yard,1660,1,19,walk,
+home_axe_yard,mr_downings_lodgings,1660,1,20,walk,
+mr_downings_lodgings,mr_calthrops_chancery_lane,1660,1,20,walk,
+mr_calthrops_chancery_lane,sun_chancery_lane,1660,1,20,walk,Mr. Woodfine
+sun_chancery_lane,westminster_hall,1660,1,20,walk,
+westminster_hall,exchequer_office,1660,1,20,walk,
+exchequer_office,swan_fish_street,1660,1,20,boat,Mr. Maylard; Mr. Hales
+swan_fish_street,alehouse_city,1660,1,20,walk,Mr. Falconberge
+alehouse_city,mr_stevens_silversmith,1660,1,20,walk,
+mr_stevens_silversmith,mr_woottons_shop,1660,1,20,walk,
+mr_woottons_shop,coffee_club_westminster,1660,1,20,walk,
+coffee_club_westminster,westminster_hall,1660,1,20,walk,
+westminster_hall,my_lords_lodgings_whitehall,1660,1,20,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,1,20,walk,Mr. Sheply
+home_axe_yard,my_lords_lodgings_whitehall,1660,1,21,walk,
+my_lords_lodgings_whitehall,exchequer_office,1660,1,21,walk,
+exchequer_office,mr_downings_lodgings,1660,1,21,walk,
+mr_downings_lodgings,exchequer_office,1660,1,21,walk,
+exchequer_office,mr_crews_house,1660,1,21,walk,Mr. Hawly
+mr_crews_house,mr_vernons,1660,1,21,walk,
+mr_vernons,mr_fages,1660,1,21,walk,
+mr_fages,mitre_fleet_street,1660,1,21,walk,
+mitre_fleet_street,mrs_jems_lodgings,1660,1,21,walk,
+mrs_jems_lodgings,home_axe_yard,1660,1,21,walk,
+home_axe_yard,marshes_whitehall,1660,1,21,walk,
+marshes_whitehall,home_axe_yard,1660,1,21,walk,
+home_axe_yard,mr_mossums_church,1660,1,22,walk,
+mr_mossums_church,father_house_salisbury_court,1660,1,22,walk,Elizabeth Pepys
+father_house_salisbury_court,st_brides_church,1660,1,22,walk,Elizabeth Pepys
+st_brides_church,mrs_turner_house,1660,1,22,walk,Mrs. Jane Turner
+mrs_turner_house,father_house_salisbury_court,1660,1,22,walk,
+father_house_salisbury_court,home_axe_yard,1660,1,22,walk,Elizabeth Pepys
+home_axe_yard,mr_downings_lodgings,1660,1,23,walk,
+mr_downings_lodgings,axe_tavern,1660,1,23,walk,Mr. Pierce (surgeon)
+axe_tavern,exchequer_office,1660,1,23,walk,
+exchequer_office,home_axe_yard,1660,1,23,walk,
+home_axe_yard,wilkinsons_cook_shop,1660,1,23,walk,
+wilkinsons_cook_shop,home_axe_yard,1660,1,23,walk,
+home_axe_yard,waters_vintner,1660,1,23,walk,
+waters_vintner,mrs_jems_lodgings,1660,1,23,walk,
+mrs_jems_lodgings,westminster_hall,1660,1,23,walk,
+westminster_hall,whitehall,1660,1,23,walk,
+whitehall,cockpit_whitehall,1660,1,23,walk,W. Simons; Luellin
+cockpit_whitehall,home_axe_yard,1660,1,23,walk,
+home_axe_yard,wills_alehouse,1660,1,24,walk,
+wills_alehouse,exchequer_office,1660,1,24,walk,
+exchequer_office,home_axe_yard,1660,1,24,walk,
+home_axe_yard,mr_pierces_house,1660,1,24,walk,Elizabeth Pepys
+mr_pierces_house,father_house_salisbury_court,1660,1,24,walk,Elizabeth Pepys
+father_house_salisbury_court,tom_pepys_turner_shop,1660,1,24,walk,John Pepys (father)
+tom_pepys_turner_shop,st_pauls_school,1660,1,24,walk,John Pepys (father)
+st_pauls_school,father_house_salisbury_court,1660,1,24,walk,John Pepys (father)
+father_house_salisbury_court,home_axe_yard,1660,1,24,walk,Elizabeth Pepys
+home_axe_yard,marshes_whitehall,1660,1,24,walk,
+marshes_whitehall,home_axe_yard,1660,1,24,walk,
+home_axe_yard,mr_downings_lodgings,1660,1,25,walk,
+mr_downings_lodgings,mr_frosts,1660,1,25,walk,
+mr_frosts,exchequer_office,1660,1,25,walk,
+exchequer_office,home_axe_yard,1660,1,25,walk,
+home_axe_yard,uncle_wights_house,1660,1,25,boat,
+uncle_wights_house,st_pauls_churchyard,1660,1,25,walk,
+st_pauls_churchyard,father_house_salisbury_court,1660,1,25,walk,
+father_house_salisbury_court,mr_crews_house,1660,1,25,walk,
+mr_crews_house,lady_wrights_house,1660,1,25,walk,
+lady_wrights_house,my_lords_lodgings_whitehall,1660,1,25,walk,
+my_lords_lodgings_whitehall,mr_downings_lodgings,1660,1,25,walk,
+mr_downings_lodgings,mr_jessops,1660,1,25,walk,
+mr_jessops,my_lords_lodgings_whitehall,1660,1,25,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,1,25,walk,Elizabeth Pepys
+home_axe_yard,exchequer_office,1660,1,26,walk,
+exchequer_office,mr_downings_lodgings,1660,1,26,walk,
+mr_downings_lodgings,exchequer_office,1660,1,26,walk,
+exchequer_office,mr_downings_lodgings,1660,1,26,walk,
+mr_downings_lodgings,exchequer_office,1660,1,26,walk,
+exchequer_office,whitehall,1660,1,26,walk,
+whitehall,my_lords_lodgings_whitehall,1660,1,26,walk,
+my_lords_lodgings_whitehall,mr_downings_lodgings,1660,1,26,walk,
+mr_downings_lodgings,my_lords_lodgings_whitehall,1660,1,26,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,1,26,walk,Elizabeth Pepys
+home_axe_yard,crown_palace_yard,1660,1,27,walk,Tom Newton
+crown_palace_yard,westminster_hall,1660,1,27,walk,
+westminster_hall,g_montagus_house,1660,1,27,walk,
+g_montagus_house,home_axe_yard,1660,1,27,walk,
+home_axe_yard,mrs_jems_lodgings,1660,1,27,walk,
+mrs_jems_lodgings,home_axe_yard,1660,1,27,walk,
+home_axe_yard,mr_downings_lodgings,1660,1,27,walk,
+mr_downings_lodgings,mr_sherwins,1660,1,27,walk,
+mr_sherwins,mr_downings_lodgings,1660,1,27,walk,
+mr_downings_lodgings,home_axe_yard,1660,1,27,walk,
+home_axe_yard,mr_downings_lodgings,1660,1,28,walk,
+mr_downings_lodgings,exchequer_office,1660,1,28,walk,
+exchequer_office,mr_downings_lodgings,1660,1,28,walk,
+mr_downings_lodgings,exchequer_office,1660,1,28,walk,
+exchequer_office,whitehall,1660,1,28,walk,Mr. Hawly
+whitehall,mr_downings_lodgings,1660,1,28,coach,Mr. Hawly; Mr. Squib
+mr_downings_lodgings,westminster_hall,1660,1,28,walk,
+westminster_hall,new_exchange,1660,1,28,walk,
+new_exchange,heaven_tavern,1660,1,28,walk,
+heaven_tavern,exchequer_office,1660,1,28,walk,
+exchequer_office,st_clements,1660,1,28,coach,Mr. Walton
+st_clements,mr_crews_house,1660,1,28,walk,
+mr_crews_house,lady_wrights_house,1660,1,28,walk,
+lady_wrights_house,home_axe_yard,1660,1,28,walk,
+home_axe_yard,wills_alehouse,1660,1,28,walk,
+wills_alehouse,home_axe_yard,1660,1,28,walk,
+home_axe_yard,whitehall,1660,1,28,walk,
+whitehall,home_axe_yard,1660,1,28,walk,
+home_axe_yard,exeter_house_chapel,1660,1,29,walk,
+exeter_house_chapel,mr_crews_house,1660,1,29,walk,Mr. Moore
+mr_crews_house,home_axe_yard,1660,1,29,walk,
+home_axe_yard,father_house_salisbury_court,1660,1,29,walk,
+father_house_salisbury_court,home_axe_yard,1660,1,29,walk,
+home_axe_yard,exchequer_office,1660,1,30,walk,
+exchequer_office,wills_alehouse,1660,1,30,walk,
+wills_alehouse,torrianos_house,1660,1,30,boat,Mr. Ashwell; Spicer; Ruddier
+torrianos_house,capt_matthews_lodging,1660,1,30,walk,
+capt_matthews_lodging,mrs_jems_lodgings,1660,1,30,boat,
+mrs_jems_lodgings,harp_and_ball,1660,1,30,walk,
+harp_and_ball,home_axe_yard,1660,1,30,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,1,31,walk,
+my_lords_lodgings_whitehall,harpers_alehouse,1660,1,31,walk,Nick Bartlet
+harpers_alehouse,exchequer_office,1660,1,31,walk,
+exchequer_office,wills_alehouse,1660,1,31,walk,
+wills_alehouse,home_axe_yard,1660,1,31,walk,
+home_axe_yard,westminster_hall,1660,1,31,walk,
+westminster_hall,wills_alehouse,1660,1,31,walk,
+wills_alehouse,mrs_jems_lodgings,1660,1,31,walk,
+mrs_jems_lodgings,home_axe_yard,1660,1,31,walk,
+home_axe_yard,whitehall,1660,1,31,walk,
+whitehall,harpers_alehouse,1660,1,31,walk,
+harpers_alehouse,home_axe_yard,1660,1,31,walk,
+home_axe_yard,exchequer_office,1660,2,1,walk,
+exchequer_office,home_axe_yard,1660,2,1,walk,
+home_axe_yard,westminster_hall,1660,2,1,walk,
+westminster_hall,downings_counsellor,1660,2,1,walk,Mr. Swan
+downings_counsellor,lincolns_inn,1660,2,1,walk,Mr. Swan
+lincolns_inn,sir_harry_wrights,1660,2,1,walk,
+sir_harry_wrights,mrs_jems_lodgings,1660,2,1,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,1,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,2,1,walk,Gammer East; James the porter
+my_lords_lodgings_whitehall,wills_alehouse,1660,2,1,walk,
+wills_alehouse,home_axe_yard,1660,2,1,walk,
+home_axe_yard,harpers_alehouse,1660,2,2,walk,
+harpers_alehouse,exchequer_office,1660,2,2,walk,
+exchequer_office,home_axe_yard,1660,2,2,walk,
+home_axe_yard,harpers_alehouse,1660,2,2,walk,
+harpers_alehouse,exchequer_tavern_charing_cross,1660,2,2,walk,Mr. Doling
+exchequer_tavern_charing_cross,temple,1660,2,2,walk,Mr. Doling
+temple,mr_calthrops_grocer_london_bridge,1660,2,2,boat,Mr. Doling; Mr. Calthrop's man; White (waterman)
+mr_calthrops_grocer_london_bridge,bridge_tavern,1660,2,2,walk,Mr. Doling; Mr. Calthrop's man
+bridge_tavern,somerset_house_stairs,1660,2,2,boat,Mr. Doling; Mr. Calthrop's man (landed at Temple)
+somerset_house_stairs,mrs_johnsons,1660,2,2,walk,Mr. Doling
+mrs_johnsons,home_axe_yard,1660,2,2,walk,
+home_axe_yard,harpers_alehouse,1660,2,2,walk,
+harpers_alehouse,home_axe_yard,1660,2,2,walk,
+home_axe_yard,harpers_alehouse,1660,2,3,walk,
+harpers_alehouse,st_jamess_park,1660,2,3,walk,
+st_jamess_park,whitehall,1660,2,3,walk,
+whitehall,exchequer_office,1660,2,3,walk,
+exchequer_office,parliament_house,1660,2,3,walk,Mrs. Jane Turner; Joyce Norton
+parliament_house,westminster_hall,1660,2,3,walk,Mrs. Jane Turner; Joyce Norton
+westminster_hall,priors_rhenish_wine_house,1660,2,3,walk,Roger Pepys; Mrs. Jane Turner; Joyce Norton
+priors_rhenish_wine_house,wilkinsons_cook_shop,1660,2,3,walk,Mrs. Jane Turner; Joyce Norton
+wilkinsons_cook_shop,whitehall,1660,2,3,walk,Mrs. Jane Turner; Joyce Norton
+whitehall,home_axe_yard,1660,2,3,walk,Mrs. Jane Turner; Joyce Norton
+home_axe_yard,westminster_hall,1660,2,3,walk,
+westminster_hall,home_axe_yard,1660,2,3,walk,
+home_axe_yard,st_jamess_park,1660,2,3,walk,Mrs. Jane Turner; Theophila Turner; Joyce Norton; Elizabeth Pepys
+st_jamess_park,charing_cross,1660,2,3,walk,Mrs. Jane Turner; Theophila Turner; Joyce Norton; Elizabeth Pepys
+charing_cross,mrs_jems_lodgings,1660,2,3,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,3,walk,
+home_axe_yard,exchequer_office,1660,2,4,walk,
+exchequer_office,westminster_hall,1660,2,4,walk,
+westminster_hall,wills_alehouse,1660,2,4,walk,
+wills_alehouse,mr_swans_house,1660,2,4,walk,
+mr_swans_house,temple,1660,2,4,boat,Mr. Swan
+temple,grays_inn,1660,2,4,walk,Mr. Swan
+grays_inn,alehouse_holborn,1660,2,4,walk,Mr. Swan; acquaintance of Mr. Swan
+alehouse_holborn,lord_widdringtons,1660,2,4,walk,Mr. Swan
+lord_widdringtons,lincolns_inn,1660,2,4,walk,
+lincolns_inn,mr_crews_house,1660,2,4,walk,
+mr_crews_house,sir_harry_wrights,1660,2,4,walk,
+sir_harry_wrights,scotts_house,1660,2,4,walk,link boy
+scotts_house,home_axe_yard,1660,2,4,walk,
+home_axe_yard,exeter_house_chapel,1660,2,5,walk,
+exeter_house_chapel,home_axe_yard,1660,2,5,walk,
+home_axe_yard,chequers_charing_cross,1660,2,5,walk,
+chequers_charing_cross,father_house_salisbury_court,1660,2,5,walk,
+father_house_salisbury_court,st_brides_church,1660,2,5,walk,Elizabeth Pepys
+st_brides_church,mrs_turner_house,1660,2,5,walk,Mrs. Jane Turner
+mrs_turner_house,father_house_salisbury_court,1660,2,5,walk,Elizabeth Pepys
+father_house_salisbury_court,home_axe_yard,1660,2,5,walk,Elizabeth Pepys
+home_axe_yard,mr_crews_house,1660,2,6,walk,
+mr_crews_house,westminster_hall,1660,2,6,walk,Mr. Andrews
+westminster_hall,swan_kings_street,1660,2,6,walk,Mr. Swan
+swan_kings_street,westminster_hall,1660,2,6,walk,
+westminster_hall,home_axe_yard,1660,2,6,walk,
+home_axe_yard,bull_head_tavern,1660,2,6,walk,John Pepys (father)
+bull_head_tavern,mrs_jems_lodgings,1660,2,6,walk,
+mrs_jems_lodgings,wills_alehouse,1660,2,6,walk,
+wills_alehouse,home_axe_yard,1660,2,6,walk,
+home_axe_yard,exchequer_office,1660,2,7,walk,
+exchequer_office,temple,1660,2,7,walk,Mr. Hawly
+temple,tom_pepys_turner_shop,1660,2,7,walk,
+tom_pepys_turner_shop,st_pauls_school,1660,2,7,walk,
+st_pauls_school,home_axe_yard,1660,2,7,walk,
+home_axe_yard,westminster_hall,1660,2,7,walk,
+westminster_hall,capt_stones,1660,2,7,walk,
+capt_stones,temple,1660,2,7,coach,Captain Stone
+temple,home_axe_yard,1660,2,7,walk,
+home_axe_yard,mr_crews_house,1660,2,7,walk,
+mr_crews_house,mrs_jems_lodgings,1660,2,7,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,7,walk,
+home_axe_yard,swan_kings_street,1660,2,8,walk,Mr. Fossan
+swan_kings_street,exchequer_office,1660,2,8,walk,
+exchequer_office,swan_kings_street,1660,2,8,walk,Mr. Carter; Captain Lidcott
+swan_kings_street,capt_stones,1660,2,8,walk,
+capt_stones,wills_alehouse,1660,2,8,walk,Mr. Carter
+wills_alehouse,priors_rhenish_wine_house,1660,2,8,walk,Mr. Carter; Mr. Butler (Mons. L'Impertinent)
+priors_rhenish_wine_house,sir_n_wheelers,1660,2,8,walk,
+sir_n_wheelers,home_axe_yard,1660,2,8,walk,
+home_axe_yard,mrs_jems_lodgings,1660,2,8,walk,
+mrs_jems_lodgings,temple,1660,2,8,walk,
+temple,father_house_salisbury_court,1660,2,8,walk,
+father_house_salisbury_court,home_axe_yard,1660,2,8,walk,
+home_axe_yard,westminster_hall,1660,2,9,walk,
+westminster_hall,mr_phelps_house,1660,2,9,walk,Mr. Swan
+mr_phelps_house,westminster_hall,1660,2,9,walk,
+westminster_hall,exchequer_office,1660,2,9,walk,
+exchequer_office,mrs_jems_lodgings,1660,2,9,walk,
+mrs_jems_lodgings,lady_wrights_house,1660,2,9,walk,
+lady_wrights_house,westminster_hall,1660,2,9,walk,
+westminster_hall,mr_pierces_house,1660,2,9,walk,Mr. Pierce (surgeon)
+mr_pierces_house,home_axe_yard,1660,2,9,walk,
+home_axe_yard,westminster_hall,1660,2,9,walk,
+westminster_hall,temple,1660,2,9,boat,Mr. Swan
+temple,westminster_hall,1660,2,9,walk,
+westminster_hall,sugar_loaf_temple_bar,1660,2,9,walk,Mr. Swan
+sugar_loaf_temple_bar,home_axe_yard,1660,2,9,coach,
+home_axe_yard,harpers_alehouse,1660,2,9,walk,
+harpers_alehouse,home_axe_yard,1660,2,9,walk,
+home_axe_yard,mr_swans_house,1660,2,10,walk,
+mr_swans_house,court_of_wards,1660,2,10,walk,Mr. Swan
+court_of_wards,exchequer_court,1660,2,10,walk,Mr. Swan
+exchequer_court,exchequer_office,1660,2,10,walk,
+exchequer_office,swan_kings_street,1660,2,10,walk,Mr. Lenard
+swan_kings_street,home_axe_yard,1660,2,10,walk,
+home_axe_yard,exchequer_court,1660,2,10,walk,
+exchequer_court,home_axe_yard,1660,2,10,walk,
+home_axe_yard,mr_fages,1660,2,10,walk,Mr. Moore
+mr_fages,sugar_loaf_temple_bar,1660,2,10,walk,Mr. Moore
+sugar_loaf_temple_bar,home_axe_yard,1660,2,10,walk,
+home_axe_yard,exchequer_office,1660,2,11,walk,
+exchequer_office,westminster_hall,1660,2,11,walk,
+westminster_hall,parliament_house,1660,2,11,walk,
+parliament_house,westminster_hall,1660,2,11,walk,
+westminster_hall,cooks_shop_temple_bar,1660,2,11,walk,Mr. Chetwind
+cooks_shop_temple_bar,rolls_chancery_lane,1660,2,11,walk,Mr. Chetwind
+rolls_chancery_lane,chetwinds_office_chancery_lane,1660,2,11,walk,Mr. Chetwind
+chetwinds_office_chancery_lane,guildhall,1660,2,11,coach,Mr. Chetwind
+guildhall,three_tun_tavern_city,1660,2,11,walk,Mr. Chetwind; friend of Mr. Chetwind
+three_tun_tavern_city,alehouse_city,1660,2,11,walk,Mr. Chetwind; friend of Mr. Chetwind
+alehouse_city,guildhall,1660,2,11,walk,
+guildhall,alehouse_city,1660,2,11,walk,Mr. Lock
+alehouse_city,merchants_house_city,1660,2,11,walk,Mr. Lock; Mr. Chetwind
+merchants_house_city,star_cheapside,1660,2,11,walk,Mr. Lock; Mr. Chetwind
+star_cheapside,chequers_charing_cross,1660,2,11,walk,Mr. Chetwind
+chequers_charing_cross,home_axe_yard,1660,2,11,walk,
+home_axe_yard,new_exchange,1660,2,11,walk,Elizabeth Pepys
+new_exchange,home_axe_yard,1660,2,11,walk,Elizabeth Pepys
+home_axe_yard,whitehall,1660,2,12,walk,Mr. Pierce (surgeon)
+whitehall,home_axe_yard,1660,2,12,walk,
+home_axe_yard,st_jamess_park,1660,2,12,walk,Thomas Pepys (cousin); his partner
+st_jamess_park,home_axe_yard,1660,2,12,walk,Thomas Pepys (cousin); his partner
+home_axe_yard,moorfields,1660,2,12,walk,Thomas Pepys (cousin); his partner
+moorfields,st_pauls_churchyard,1660,2,12,walk,
+st_pauls_churchyard,mrs_turner_house,1660,2,12,walk,
+mrs_turner_house,father_house_salisbury_court,1660,2,12,walk,Elizabeth Pepys
+father_house_salisbury_court,home_axe_yard,1660,2,12,walk,Elizabeth Pepys
+home_axe_yard,exchequer_office,1660,2,13,walk,
+exchequer_office,home_axe_yard,1660,2,13,walk,
+home_axe_yard,mrs_jems_lodgings,1660,2,13,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,13,walk,
+home_axe_yard,playfords_shop,1660,2,13,walk,Elizabeth Pepys
+playfords_shop,father_house_salisbury_court,1660,2,13,walk,Elizabeth Pepys
+father_house_salisbury_court,mr_cumberlands,1660,2,13,walk,
+mr_cumberlands,father_house_salisbury_court,1660,2,13,walk,
+father_house_salisbury_court,mr_fages,1660,2,13,walk,
+mr_fages,father_house_salisbury_court,1660,2,13,walk,
+father_house_salisbury_court,home_axe_yard,1660,2,13,walk,Elizabeth Pepys
+home_axe_yard,westminster_hall,1660,2,14,walk,Mr. Moore
+westminster_hall,swan_kings_street,1660,2,14,walk,Mr. Moore
+swan_kings_street,exchequer_office,1660,2,14,walk,
+exchequer_office,wills_alehouse,1660,2,14,walk,Mr. Hill of Worcestershire; Mr. Hawly
+wills_alehouse,home_axe_yard,1660,2,14,walk,
+home_axe_yard,mr_crews_house,1660,2,14,walk,
+mr_crews_house,mrs_jems_lodgings,1660,2,14,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,14,walk,
+home_axe_yard,westminster_hall,1660,2,14,walk,
+westminster_hall,wills_alehouse,1660,2,14,walk,
+wills_alehouse,home_axe_yard,1660,2,14,walk,
+home_axe_yard,harpers_alehouse,1660,2,15,walk,Captain Holland; Captain Cuttance
+harpers_alehouse,exchequer_office,1660,2,15,walk,
+exchequer_office,wills_alehouse,1660,2,15,walk,Mr. Hill of Worcestershire
+wills_alehouse,mr_crews_house,1660,2,15,walk,
+mr_crews_house,herings_merchant,1660,2,15,walk,
+herings_merchant,st_pauls_churchyard,1660,2,15,walk,
+st_pauls_churchyard,father_house_salisbury_court,1660,2,15,walk,
+father_house_salisbury_court,lady_wrights_house,1660,2,15,walk,
+lady_wrights_house,mrs_jems_lodgings,1660,2,15,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,15,walk,
+home_axe_yard,exchequer_office,1660,2,16,walk,
+exchequer_office,wills_alehouse,1660,2,16,walk,
+wills_alehouse,sun_tavern_westminster,1660,2,16,walk,Osborne; Shaw; Spicer
+sun_tavern_westminster,home_axe_yard,1660,2,16,walk,
+home_axe_yard,exchequer_office,1660,2,17,walk,
+exchequer_office,home_axe_yard,1660,2,17,walk,Mr. Hawly
+home_axe_yard,exeter_house_chapel,1660,2,17,walk,
+exeter_house_chapel,st_jamess_park,1660,2,17,walk,Mr. Butler (Mons. L'Impertinent)
+st_jamess_park,jacobs_alehouse,1660,2,17,walk,Mr. Butler (Mons. L'Impertinent)
+jacobs_alehouse,westminster_hall,1660,2,17,walk,Mr. Butler (Mons. L'Impertinent)
+westminster_hall,whitehall,1660,2,17,walk,Mr. Butler (Mons. L'Impertinent)
+whitehall,harpers_alehouse,1660,2,17,walk,Mr. Butler (Mons. L'Impertinent)
+harpers_alehouse,home_axe_yard,1660,2,17,walk,
+home_axe_yard,exchequer_office,1660,2,18,walk,
+exchequer_office,westminster_hall,1660,2,18,walk,
+westminster_hall,home_axe_yard,1660,2,18,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,2,18,walk,
+my_lords_lodgings_whitehall,half_moon_tavern,1660,2,18,walk,Captain Holland
+half_moon_tavern,mitre_fleet_street,1660,2,18,walk,Captain Holland
+mitre_fleet_street,mr_woottons_shop,1660,2,18,walk,
+mr_woottons_shop,alehouse_city,1660,2,18,walk,Mr. Wotton
+alehouse_city,whitehall,1660,2,18,walk,
+whitehall,home_axe_yard,1660,2,18,walk,
+home_axe_yard,harpers_alehouse,1660,2,19,walk,
+harpers_alehouse,exeter_house_chapel,1660,2,19,walk,Mr. Butler (Mons. L'Impertinent)
+exeter_house_chapel,mr_crews_house,1660,2,19,walk,Mr. Moore
+mr_crews_house,home_axe_yard,1660,2,19,walk,
+home_axe_yard,mr_mossums_church,1660,2,19,walk,Elizabeth Pepys
+mr_mossums_church,father_house_salisbury_court,1660,2,19,walk,Elizabeth Pepys
+father_house_salisbury_court,mrs_turner_house,1660,2,19,walk,
+mrs_turner_house,father_house_salisbury_court,1660,2,19,walk,
+father_house_salisbury_court,home_axe_yard,1660,2,19,walk,Elizabeth Pepys
+home_axe_yard,exchequer_office,1660,2,20,walk,
+exchequer_office,home_axe_yard,1660,2,20,walk,Mr. Hawly
+home_axe_yard,my_lords_lodgings_whitehall,1660,2,20,walk,John Pepys (brother)
+my_lords_lodgings_whitehall,westminster_hall,1660,2,20,walk,
+westminster_hall,marshes_whitehall,1660,2,20,walk,Mr. Chetwind; W. Simons; Mr. Gregory
+marshes_whitehall,coffee_club_westminster,1660,2,20,walk,W. Simons
+coffee_club_westminster,wills_alehouse,1660,2,20,walk,Mr. Vines and others
+wills_alehouse,home_axe_yard,1660,2,20,walk,
+home_axe_yard,westminster_hall,1660,2,21,walk,
+westminster_hall,mr_crews_house,1660,2,21,walk,
+mr_crews_house,westminster_hall,1660,2,21,coach,Mr. Crew
+westminster_hall,coffee_club_westminster,1660,2,21,walk,Mr. Lock; Mr. Purcell
+coffee_club_westminster,home_axe_yard,1660,2,21,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,2,22,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,2,22,walk,
+home_axe_yard,exchequer_office,1660,2,22,walk,
+exchequer_office,wills_alehouse,1660,2,22,walk,
+wills_alehouse,westminster_hall,1660,2,22,walk,
+westminster_hall,father_house_salisbury_court,1660,2,22,walk,
+father_house_salisbury_court,mr_crews_house,1660,2,22,walk,
+mr_crews_house,mrs_jems_lodgings,1660,2,22,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,22,walk,
+home_axe_yard,marshes_whitehall,1660,2,22,walk,
+marshes_whitehall,home_axe_yard,1660,2,22,walk,
+home_axe_yard,father_house_salisbury_court,1660,2,22,walk,
+father_house_salisbury_court,home_axe_yard,1660,2,22,walk,Elizabeth Pepys
+home_axe_yard,exchequer_office,1660,2,23,walk,
+exchequer_office,alehouse_westminster,1660,2,23,walk,Mr. Fuller; Thomas Pepys (uncle)
+alehouse_westminster,home_axe_yard,1660,2,23,walk,Mr. Fuller
+home_axe_yard,whitehall,1660,2,23,walk,
+whitehall,home_axe_yard,1660,2,23,walk,
+home_axe_yard,westminster_hall,1660,2,23,walk,
+westminster_hall,home_axe_yard,1660,2,23,coach,Mr. Crew; Mr. Anslow
+home_axe_yard,westminster_hall,1660,2,23,walk,
+westminster_hall,home_axe_yard,1660,2,23,walk,
+home_axe_yard,scotland_yard_stable,1660,2,24,walk,
+scotland_yard_stable,mr_pierces_house,1660,2,24,horse,
+mr_pierces_house,puckeridge,1660,2,24,horse,Mr. Pierce (surgeon); Mr. Blayton (from Ware)
+puckeridge,chequer_foulmer,1660,2,24,horse,Mr. Pierce (surgeon); Mr. Blayton
+chequer_foulmer,falcon_cambridge,1660,2,25,horse,Mr. Blayton
+falcon_cambridge,christs_college_cambridge,1660,2,25,walk,John Pepys (father); John Pepys (brother)
+christs_college_cambridge,magdalene_college_cambridge,1660,2,25,walk,
+magdalene_college_cambridge,falcon_cambridge,1660,2,25,walk,
+falcon_cambridge,cousin_angiers_cambridge,1660,2,25,walk,John Pepys (father)
+cousin_angiers_cambridge,mertons_shop_cambridge,1660,2,25,walk,
+mertons_shop_cambridge,three_tuns_cambridge,1660,2,25,walk,Mr. Fairbrother; Cousin Angier; Mr. Zanchy
+three_tuns_cambridge,magdalene_college_cambridge,1660,2,25,walk,Mr. Zanchy
+magdalene_college_cambridge,falcon_cambridge,1660,2,25,walk,
+falcon_cambridge,kings_college_cambridge,1660,2,26,walk,John Pepys (father)
+kings_college_cambridge,botolphs_church_cambridge,1660,2,26,walk,John Pepys (father); Mr. Fairbrother
+botolphs_church_cambridge,queens_college_cambridge,1660,2,26,walk,John Pepys (father)
+queens_college_cambridge,falcon_cambridge,1660,2,26,walk,John Pepys (father)
+falcon_cambridge,magdalene_college_cambridge,1660,2,26,walk,
+magdalene_college_cambridge,rose_tavern_cambridge,1660,2,26,walk,Mr. Zanchy
+rose_tavern_cambridge,falcon_cambridge,1660,2,26,walk,Mr. Zanchy
+falcon_cambridge,rose_tavern_cambridge,1660,2,26,walk,John Pepys (father); Mr. Pierce (surgeon); Mr. Blayton
+rose_tavern_cambridge,cousin_angiers_cambridge,1660,2,26,walk,John Pepys (father); Mr. Zanchy
+cousin_angiers_cambridge,falcon_cambridge,1660,2,26,walk,
+falcon_cambridge,white_hart_saffron_walden,1660,2,27,horse,Mr. Blayton
+white_hart_saffron_walden,audley_end_house,1660,2,27,walk,Mr. Blayton; master of the White Hart
+audley_end_house,almshouse_saffron_walden,1660,2,27,walk,Mr. Blayton; master of the White Hart
+almshouse_saffron_walden,white_hart_saffron_walden,1660,2,27,walk,Mr. Blayton; master of the White Hart
+white_hart_saffron_walden,epping_inn,1660,2,27,horse,Mr. Blayton
+epping_inn,st_pauls_cathedral,1660,2,28,horse,Mr. Blayton
+st_pauls_cathedral,home_axe_yard,1660,2,28,horse,Mr. Blayton
+home_axe_yard,mr_crews_house,1660,2,28,walk,
+mr_crews_house,sir_harry_wrights,1660,2,28,walk,
+sir_harry_wrights,father_house_salisbury_court,1660,2,28,walk,Will Howe
+father_house_salisbury_court,greyhound_fleet_street,1660,2,28,walk,Will Howe; Mr. Pierce (surgeon)
+greyhound_fleet_street,plough_fleet_street,1660,2,28,walk,Will Howe
+plough_fleet_street,mrs_jems_lodgings,1660,2,28,walk,
+mrs_jems_lodgings,home_axe_yard,1660,2,28,walk,
+home_axe_yard,exchequer_office,1660,2,29,walk,
+exchequer_office,wills_alehouse,1660,2,29,walk,Mr. Moore
+wills_alehouse,home_axe_yard,1660,2,29,walk,
+home_axe_yard,herings_merchant,1660,2,29,boat,Elizabeth Pepys
+herings_merchant,father_house_salisbury_court,1660,2,29,walk,Elizabeth Pepys
+father_house_salisbury_court,mrs_turner_house,1660,2,29,walk,Elizabeth Pepys
+mrs_turner_house,father_house_salisbury_court,1660,2,29,walk,Elizabeth Pepys
+father_house_salisbury_court,home_axe_yard,1660,2,29,walk,Elizabeth Pepys
+home_axe_yard,my_lords_lodgings_whitehall,1660,3,1,walk,
+my_lords_lodgings_whitehall,exchequer_office,1660,3,1,walk,
+exchequer_office,mr_crews_house,1660,3,1,walk,Mr. Sheply
+mr_crews_house,mr_laxtons,1660,3,1,walk,Mr. Sheply
+mr_laxtons,sun_tavern_westminster,1660,3,1,boat,Mr. Sheply
+sun_tavern_westminster,home_axe_yard,1660,3,1,walk,
+home_axe_yard,mr_crews_house,1660,3,2,walk,
+mr_crews_house,exchequer_office,1660,3,2,walk,
+exchequer_office,leg_kings_street,1660,3,2,walk,Mr. Eglin; Mr. Chetwind; Mr. Thomas
+leg_kings_street,swan_kings_street,1660,3,2,walk,Mr. Eglin; Mr. Chetwind; Mr. Thomas
+swan_kings_street,mrs_jems_lodgings,1660,3,2,walk,Mr. Moore
+mrs_jems_lodgings,westminster_hall,1660,3,2,walk,
+westminster_hall,home_axe_yard,1660,3,2,walk,
+home_axe_yard,westminster_hall,1660,3,3,walk,
+westminster_hall,swan_kings_street,1660,3,3,walk,Mr. Pierce (purser); Lieutenant Lambert; Mr. Creed; Will Howe
+swan_kings_street,exchequer_office,1660,3,3,walk,
+exchequer_office,home_axe_yard,1660,3,3,walk,
+home_axe_yard,warwick_house_holborn,1660,3,3,walk,
+warwick_house_holborn,mr_crews_house,1660,3,3,coach,Edward Montagu (my Lord)
+mr_crews_house,herings_merchant,1660,3,3,walk,
+herings_merchant,alehouse_city,1660,3,3,walk,Mr. Gifford
+alehouse_city,drinking_house_drury_lane,1660,3,3,walk,Tom Harper
+drinking_house_drury_lane,home_axe_yard,1660,3,3,walk,
+home_axe_yard,exeter_house_chapel,1660,3,4,walk,
+exeter_house_chapel,father_house_salisbury_court,1660,3,4,walk,
+father_house_salisbury_court,mr_mossums_church,1660,3,4,walk,Elizabeth Pepys; Jane (maid)
+mr_mossums_church,father_house_salisbury_court,1660,3,4,walk,Elizabeth Pepys; Jane (maid)
+father_house_salisbury_court,home_axe_yard,1660,3,4,walk,Elizabeth Pepys
+home_axe_yard,wills_alehouse,1660,3,5,walk,
+wills_alehouse,salutation_billingsgate,1660,3,5,boat,Mr. Sheply; Mr. Pinkney
+salutation_billingsgate,mr_pinkneys_house,1660,3,5,boat,Mr. Sheply; Mr. Pinkney
+mr_pinkneys_house,home_axe_yard,1660,3,5,walk,Mr. Sheply
+home_axe_yard,my_lords_lodgings_whitehall,1660,3,6,walk,
+my_lords_lodgings_whitehall,mr_crews_house,1660,3,6,walk,Mr. Sheply
+mr_crews_house,my_lords_lodgings_whitehall,1660,3,6,walk,Mr. Sheply
+my_lords_lodgings_whitehall,westminster_hall,1660,3,6,walk,Edward Montagu (my Lord)
+westminster_hall,exchequer_office,1660,3,6,walk,
+exchequer_office,wills_alehouse,1660,3,6,walk,Thomas Pepys (uncle)
+wills_alehouse,bell_tavern_kings_street,1660,3,6,walk,Mr. Day
+bell_tavern_kings_street,home_axe_yard,1660,3,6,walk,
+home_axe_yard,mrs_jems_lodgings,1660,3,6,walk,
+mrs_jems_lodgings,my_lords_lodgings_whitehall,1660,3,6,walk,
+my_lords_lodgings_whitehall,lion_tavern_westminster,1660,3,6,walk,
+lion_tavern_westminster,home_axe_yard,1660,3,6,walk,
+home_axe_yard,mr_crews_house,1660,3,7,walk,
+mr_crews_house,st_jamess_palace,1660,3,7,coach,Edward Montagu (my Lord)
+st_jamess_palace,whitehall,1660,3,7,walk,Edward Montagu (my Lord)
+whitehall,exchequer_office,1660,3,7,walk,
+exchequer_office,westminster_hall,1660,3,7,walk,
+westminster_hall,angel_kings_street,1660,3,7,walk,
+angel_kings_street,herings_merchant,1660,3,7,boat,Mr. Thomas
+herings_merchant,popes_head_alley,1660,3,7,walk,
+popes_head_alley,alehouse_city,1660,3,7,walk,Adam Chard
+alehouse_city,sun_behind_exchange,1660,3,7,walk,Uncle Wight
+sun_behind_exchange,cock_tavern_city,1660,3,7,walk,Uncle Wight
+cock_tavern_city,father_house_salisbury_court,1660,3,7,walk,Uncle Wight (as far as Fleet Street)
+father_house_salisbury_court,mr_woottons_shop,1660,3,7,walk,
+mr_woottons_shop,home_axe_yard,1660,3,7,walk,
+home_axe_yard,whitehall,1660,3,8,walk,
+whitehall,westminster_hall,1660,3,8,walk,
+westminster_hall,dog_tavern_westminster,1660,3,8,walk,
+dog_tavern_westminster,home_axe_yard,1660,3,8,walk,
+home_axe_yard,paternoster_row,1660,3,8,walk,Elizabeth Pepys
+paternoster_row,home_axe_yard,1660,3,8,walk,Elizabeth Pepys; Mr. Moore
+home_axe_yard,whitehall,1660,3,8,walk,Mr. Moore
+whitehall,admiralty,1660,3,8,walk,
+admiralty,harpers_alehouse,1660,3,8,walk,Mr. King
+harpers_alehouse,home_axe_yard,1660,3,8,walk,
+home_axe_yard,mr_crews_house,1660,3,9,walk,
+mr_crews_house,westminster_hall,1660,3,9,coach,Edward Montagu (my Lord); Mr. Dudley
+westminster_hall,exchequer_office,1660,3,9,walk,
+exchequer_office,mr_crews_house,1660,3,9,walk,
+mr_crews_house,navy_office,1660,3,9,coach,Mr. Butler (Mons. L'Impertinent)
+navy_office,whitehall,1660,3,9,coach,Mr. Butler (Mons. L'Impertinent)
+whitehall,harpers_alehouse,1660,3,9,walk,Mr. Butler (Mons. L'Impertinent)
+harpers_alehouse,home_axe_yard,1660,3,9,walk,
+home_axe_yard,father_house_salisbury_court,1660,3,10,walk,
+father_house_salisbury_court,navy_treasury,1660,3,10,walk,
+navy_treasury,mr_rawlinsons,1660,3,10,walk,
+mr_rawlinsons,sun_fish_street_hill,1660,3,10,walk,
+sun_fish_street_hill,home_axe_yard,1660,3,10,coach,
+home_axe_yard,mrs_jems_lodgings,1660,3,10,walk,
+mrs_jems_lodgings,mr_blackburnes,1660,3,10,walk,
+mr_blackburnes,sir_harry_wrights,1660,3,10,walk,
+sir_harry_wrights,exchequer_office,1660,3,10,walk,Will Howe
+exchequer_office,whitehall,1660,3,10,walk,
+whitehall,home_axe_yard,1660,3,10,walk,
+home_axe_yard,father_house_salisbury_court,1660,3,11,walk,Elizabeth Pepys
+father_house_salisbury_court,home_axe_yard,1660,3,11,walk,Elizabeth Pepys
+home_axe_yard,new_exchange,1660,3,12,walk,Elizabeth Pepys
+new_exchange,bedells_bookseller,1660,3,12,walk,
+bedells_bookseller,wilkinsons_cook_shop,1660,3,12,walk,
+wilkinsons_cook_shop,white_horse_kings_street,1660,3,12,walk,
+white_horse_kings_street,mr_bowyers_huntsmore,1660,3,12,horse,
+mr_bowyers_huntsmore,mr_crews_house,1660,3,13,horse,
+mr_crews_house,father_house_salisbury_court,1660,3,13,walk,
+father_house_salisbury_court,mr_woottons_shop,1660,3,13,walk,
+mr_woottons_shop,roberts_whitehall,1660,3,13,walk,
+roberts_whitehall,admiralty,1660,3,13,walk,
+admiralty,home_axe_yard,1660,3,13,walk,
+home_axe_yard,mr_crews_house,1660,3,14,walk,
+mr_crews_house,st_jamess_palace,1660,3,14,walk,Mr. Pierce (surgeon)
+st_jamess_palace,marshes_whitehall,1660,3,14,walk,Mr. Pierce (surgeon)
+marshes_whitehall,home_axe_yard,1660,3,14,walk,
+home_axe_yard,admiralty,1660,3,14,walk,
+admiralty,mr_creeds_chamber,1660,3,14,walk,
+mr_creeds_chamber,harpers_alehouse,1660,3,14,walk,
+harpers_alehouse,mr_crews_house,1660,3,14,coach,old Beard
+mr_crews_house,sir_harry_wrights,1660,3,14,coach,
+sir_harry_wrights,mrs_jems_lodgings,1660,3,14,coach,
+mrs_jems_lodgings,home_axe_yard,1660,3,14,walk,
+home_axe_yard,wills_alehouse,1660,3,15,walk,
+wills_alehouse,westminster_hall,1660,3,15,walk,
+westminster_hall,axe_tavern,1660,3,15,walk,
+axe_tavern,home_axe_yard,1660,3,15,walk,
+home_axe_yard,harpers_alehouse,1660,3,15,walk,Dick Matthews
+harpers_alehouse,sun_fish_street_hill,1660,3,15,boat,Elizabeth Pepys
+sun_fish_street_hill,mr_crews_house,1660,3,15,walk,Elizabeth Pepys
+mr_crews_house,mrs_jems_lodgings,1660,3,15,coach,Jemima Montagu (Mrs. Jem)
+mrs_jems_lodgings,home_axe_yard,1660,3,15,walk,
+home_axe_yard,fox_kings_street,1660,3,15,walk,
+fox_kings_street,westminster_hall,1660,3,15,walk,
+westminster_hall,fox_kings_street,1660,3,15,walk,
+fox_kings_street,home_axe_yard,1660,3,15,walk,Elizabeth Pepys
+home_axe_yard,priors_rhenish_wine_house,1660,3,16,walk,
+priors_rhenish_wine_house,home_axe_yard,1660,3,16,walk,
+home_axe_yard,father_house_salisbury_court,1660,3,16,walk,Elizabeth Pepys
+father_house_salisbury_court,rolls_chancery_lane,1660,3,16,walk,
+rolls_chancery_lane,home_axe_yard,1660,3,16,walk,
+home_axe_yard,admiralty,1660,3,16,walk,
+admiralty,home_axe_yard,1660,3,16,walk,
+home_axe_yard,westminster_hall,1660,3,16,walk,
+westminster_hall,home_axe_yard,1660,3,16,walk,
+home_axe_yard,mr_crews_house,1660,3,17,walk,Eliezer (boy)
+mr_crews_house,home_axe_yard,1660,3,17,walk,Mr. Moore
+home_axe_yard,chequer_holborn,1660,3,17,coach,Elizabeth Pepys
+chequer_holborn,mr_crews_house,1660,3,17,walk,Mr. Hawly
+mr_crews_house,home_axe_yard,1660,3,17,walk,
+home_axe_yard,admiralty,1660,3,17,walk,
+admiralty,mr_crews_house,1660,3,17,coach,Laud Crisp
+mr_crews_house,mrs_crisps_house,1660,3,17,coach,Laud Crisp
+mrs_crisps_house,jervas_barber,1660,3,18,walk,
+jervas_barber,my_lords_lodgings_whitehall,1660,3,18,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,3,18,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,3,18,walk,
+my_lords_lodgings_whitehall,mr_mossums_church,1660,3,18,walk,
+mr_mossums_church,mr_crews_house,1660,3,18,walk,
+mr_crews_house,drinking_house_drury_lane,1660,3,18,walk,Mr. Woodfine
+drinking_house_drury_lane,mr_blagraves,1660,3,18,walk,
+mr_blagraves,mrs_crisps_house,1660,3,18,walk,
+mrs_crisps_house,mr_crews_house,1660,3,19,walk,
+mr_crews_house,admiralty,1660,3,19,walk,
+admiralty,wilkinsons_cook_shop,1660,3,19,walk,
+wilkinsons_cook_shop,swan_kings_street,1660,3,19,walk,sea officers
+swan_kings_street,home_axe_yard,1660,3,19,walk,Crockford (carried him over the flood)
+home_axe_yard,admiralty,1660,3,19,walk,
+admiralty,tony_robins,1660,3,19,walk,
+tony_robins,mrs_crisps_house,1660,3,19,walk,
+mrs_crisps_house,home_axe_yard,1660,3,20,walk,
+home_axe_yard,mr_crews_house,1660,3,20,walk,
+mr_crews_house,admiralty,1660,3,20,coach,Captain Isham
+admiralty,marshes_whitehall,1660,3,20,walk,Captain Isham; Mr. Chetwind; Mr. Doling; Luellin
+marshes_whitehall,bull_head_tavern,1660,3,20,walk,Mr. Chetwind; Mr. Doling; Luellin
+bull_head_tavern,westminster_hall,1660,3,20,walk,
+westminster_hall,mr_crews_house,1660,3,20,coach,
+mr_crews_house,sir_harry_wrights,1660,3,20,walk,Mr. Sheply; William Howe
+sir_harry_wrights,mr_crews_house,1660,3,20,walk,Mr. Sheply; William Howe; Edward Montagu (my Lord)
+mr_crews_house,mrs_crisps_house,1660,3,20,coach,Mr. Sheply
+mrs_crisps_house,mr_crews_house,1660,3,21,walk,
+mr_crews_house,lord_widdringtons,1660,3,21,walk,
+lord_widdringtons,tavern_against_mr_pierces,1660,3,21,walk,Judge Advocate Fowler; Mr. Burr
+tavern_against_mr_pierces,mr_crews_house,1660,3,21,walk,
+mr_crews_house,father_house_salisbury_court,1660,3,21,walk,
+father_house_salisbury_court,mrs_crisps_house,1660,3,21,walk,
+mrs_crisps_house,home_axe_yard,1660,3,22,walk,
+home_axe_yard,mrs_crisps_house,1660,3,22,walk,
+mrs_crisps_house,mr_hunts_house,1660,3,22,walk,
+mr_hunts_house,my_lords_lodgings_whitehall,1660,3,22,walk,
+my_lords_lodgings_whitehall,mr_crews_house,1660,3,22,walk,Mr. Hawly
+mr_crews_house,popes_head_chancery_lane,1660,3,22,walk,Mr. Wotton; Mr. Brigden
+popes_head_chancery_lane,catans_lodging,1660,3,22,walk,
+catans_lodging,g_montagus_house,1660,3,22,walk,
+g_montagus_house,admiralty,1660,3,22,walk,
+admiralty,whitehall,1660,3,22,walk,
+whitehall,cockpit_whitehall,1660,3,22,walk,Mr. Doling; Luellin
+cockpit_whitehall,mr_crews_house,1660,3,22,walk,
+mr_crews_house,mr_william_montagus,1660,3,23,walk,
+mr_william_montagus,jervas_barber,1660,3,23,walk,
+jervas_barber,mr_crews_house,1660,3,23,walk,
+mr_crews_house,tower_of_london,1660,3,23,coach,Edward Montagu (my Lord); Captain Isham; Mr. Thomas; John Crew jr.; Will Howe
+tower_of_london,swiftsure,1660,3,23,boat,Will Howe and others (my Lord in the other barge)
+swiftsure,naseby,1660,4,2,boat,Eliezer (boy)
+naseby,shore_near_gravesend,1660,4,3,boat,Captain Sparling
+shore_near_gravesend,naseby,1660,4,3,boat,Captain Sparling
+naseby,london_ship,1660,4,24,boat,coxswain of the Vice-Admiral
+london_ship,naseby,1660,4,24,boat,Captain Cuttance
+naseby,speaker_ship,1660,4,25,boat,
+speaker_ship,naseby,1660,4,25,boat,
+naseby,fullers_ale_house_deal,1660,4,30,boat,W. Howe; Mr. Sheply
+fullers_ale_house_deal,pooles_tavern_deal,1660,4,30,walk,W. Howe; Mr. Sheply
+pooles_tavern_deal,assistance_ship,1660,4,30,boat,W. Howe; Mr. Sheply
+assistance_ship,naseby,1660,4,30,boat,W. Howe; Mr. Sheply
+naseby,london_ship,1660,5,3,boat,the Commanders of the Fleet; Sir R. Stayner
+london_ship,plymouth_ship,1660,5,3,boat,Captain Hayward
+plymouth_ship,essex_ship,1660,5,3,boat,Captain Hayward
+essex_ship,london_ship,1660,5,3,boat,
+london_ship,assistance_ship,1660,5,3,boat,
+assistance_ship,london_ship,1660,5,3,boat,
+london_ship,naseby,1660,5,3,boat,
+naseby,assistance_ship,1660,5,6,boat,
+assistance_ship,naseby,1660,5,6,boat,
+naseby,scheveningen,1660,5,14,boat,Eliezer (boy); Judge Advocate Fowler; Mr. Creed; Mr. North and Dr. Clerke's party
+scheveningen,the_hague,1660,5,14,coach,Mr. Creed; two Dutch gentlewomen
+the_hague,lodging_the_hague,1660,5,14,walk,Judge Advocate Fowler; Eliezer (boy)
+lodging_the_hague,the_hague,1660,5,15,walk,Judge Advocate Fowler; Dutch schoolmaster (guide)
+the_hague,grande_salle_hague,1660,5,15,walk,Judge Advocate Fowler
+grande_salle_hague,the_hague,1660,5,15,walk,Judge Advocate Fowler
+the_hague,scheveningen,1660,5,15,coach,Judge Advocate Fowler; Eliezer (boy)
+scheveningen,naseby,1660,5,15,boat,Judge Advocate Fowler; Eliezer (boy); gentleman from the Queen of Bohemia
+naseby,scheveningen,1660,5,17,boat,Mr. Edward Pickering; W. Howe; Pim (tailor); Edward Montagu (child)
+scheveningen,the_hague,1660,5,17,coach,Mr. Edward Pickering; W. Howe; Pim (tailor); Edward Montagu (child)
+the_hague,french_house_hague,1660,5,17,walk,Mr. Edward Pickering; W. Howe; Edward Montagu (child); Captain Whittington
+french_house_hague,kings_court_hague,1660,5,17,walk,Dr. Cade; Captain Whittington; Edward Montagu (child)
+kings_court_hague,lord_chancellors_hague,1660,5,17,walk,Edward Montagu (child)
+lord_chancellors_hague,queen_of_bohemias_hague,1660,5,17,walk,Edward Montagu (child); W. Howe
+queen_of_bohemias_hague,tavern_hague,1660,5,17,walk,Edward Montagu (child); W. Howe
+tavern_hague,princess_dowagers_house,1660,5,17,coach,Dr. Cade; W. Howe; Edward Montagu (child); Mr. Edward Pickering; Dr. Fuller
+princess_dowagers_house,the_hague,1660,5,17,coach,W. Howe; Edward Montagu (child); Mr. Edward Pickering
+the_hague,scheveningen,1660,5,17,wagon,W. Howe; Edward Montagu (child); Mr. Edward Pickering
+scheveningen,the_hague,1660,5,17,wagon,W. Howe; Edward Montagu (child); Mr. Edward Pickering
+the_hague,lodging_the_hague,1660,5,17,walk,W. Howe; Edward Montagu (child); Mr. Edward Pickering
+lodging_the_hague,scheveningen,1660,5,18,wagon,Mr. Edward Pickering
+scheveningen,the_hague,1660,5,18,wagon,Mr. Edward Pickering
+the_hague,delft,1660,5,18,boat,Mr. Edward Pickering; Mr. Ibbott
+delft,oude_kerk_delft,1660,5,18,walk,Mr. Edward Pickering; Mr. Ibbott; smith's boy (guide)
+oude_kerk_delft,nieuwe_kerk_delft,1660,5,18,walk,Mr. Edward Pickering; Mr. Ibbott; smith's boy (guide)
+nieuwe_kerk_delft,guesthouse_delft,1660,5,18,walk,Mr. Edward Pickering; Mr. Ibbott; smith's boy (guide)
+guesthouse_delft,english_house_delft,1660,5,18,walk,Mr. Edward Pickering; Mr. Ibbott
+english_house_delft,the_hague,1660,5,18,boat,Mr. Edward Pickering; Mr. Ibbott
+the_hague,princess_dowagers_house,1660,5,18,coach,Commissioner Pett; Mr. Ackworth; Mr. Dawes
+princess_dowagers_house,the_hague,1660,5,18,coach,Commissioner Pett; Mr. Ackworth; Mr. Dawes
+the_hague,commissioner_petts_lodging_hague,1660,5,18,walk,Mr. Ibbott
+commissioner_petts_lodging_hague,lodging_the_hague,1660,5,18,walk,Mr. Ibbott
+lodging_the_hague,scheveningen,1660,5,19,wagon,
+scheveningen,shell_womans_house,1660,5,19,wagon,Mr. Pinkney; Mr. Pinkney's sons
+shell_womans_house,the_hague,1660,5,19,wagon,Mr. Pinkney; Mr. Pinkney's sons
+the_hague,lodging_the_hague,1660,5,19,walk,
+lodging_the_hague,the_hague,1660,5,19,walk,
+the_hague,loosduinen,1660,5,19,wagon,Edward Montagu (child); Mr. Ibbott; W. Howe; Mr. Pinkney
+loosduinen,the_hague,1660,5,19,wagon,Edward Montagu (child); Mr. Ibbott; W. Howe; Mr. Pinkney
+the_hague,dutch_house_hague,1660,5,19,walk,Charles Anderson; Mr. Wright
+dutch_house_hague,lodging_the_hague,1660,5,19,walk,
+lodging_the_hague,scheveningen,1660,5,20,wagon,Mr. Pickering; Edward Montagu (child)
+scheveningen,church_scheveningen,1660,5,20,walk,
+church_scheveningen,scheveningen,1660,5,20,walk,
+scheveningen,naseby,1660,5,20,boat,Commissioner Pett; Mr. Pickering; Edward Montagu (child)
+naseby,london_ship,1660,5,22,boat,
+london_ship,speaker_ship,1660,5,22,boat,
+speaker_ship,naseby,1660,5,22,boat,General Penn; Edward Montagu (my Lord)
+naseby,dover,1660,5,25,boat,Mr. Mansell; the King's footman
+dover,naseby,1660,5,25,boat,Edward Montagu (my Lord); Mr. John Crew
+naseby,deal,1660,5,29,boat,Edward Montagu (my Lord); Edward Montagu (child); Mr. Hetley; servants
+deal,dover_cliff,1660,5,29,horse,Edward Montagu (my Lord); Edward Montagu (child); Mr. Hetley; Dr. Mathews; servants
+dover_cliff,deal,1660,5,29,horse,Edward Montagu (my Lord); Edward Montagu (child); Mr. Hetley; Dr. Mathews; servants
+deal,naseby,1660,5,29,boat,Edward Montagu (my Lord); Edward Montagu (child); Mr. Hetley; servants
+naseby,deal,1660,6,8,boat,my Lord's party; Mr. Moore; W. Howe
+deal,canterbury,1660,6,8,horse,my Lord's party; Mr. Moore; W. Howe
+canterbury,sittingbourne,1660,6,8,horse,my Lord's party; Mr. Moore; W. Howe
+sittingbourne,rochester_chatham,1660,6,8,horse,my Lord's party; Mr. Moore; W. Howe
+rochester_chatham,gravesend_inn,1660,6,8,horse,my Lord's party; Mr. Moore; W. Howe
+gravesend_inn,temple,1660,6,9,boat,Mr. Moore; W. Howe; Edward Montagu (child)
+temple,mr_crews_house,1660,6,9,walk,Mr. Moore
+mr_crews_house,father_house_salisbury_court,1660,6,9,walk,
+father_house_salisbury_court,whitehall,1660,6,9,coach,Edward Montagu (my Lord); Mr. Edward Montagu
+whitehall,st_jamess_park,1660,6,9,walk,Edward Montagu (my Lord)
+st_jamess_park,father_house_salisbury_court,1660,6,9,walk,
+father_house_salisbury_court,lincolns_inn,1660,6,10,walk,Elizabeth Pepys
+lincolns_inn,father_house_salisbury_court,1660,6,10,walk,Elizabeth Pepys
+father_house_salisbury_court,mr_crews_house,1660,6,11,walk,
+mr_crews_house,whitehall,1660,6,11,coach,Edward Montagu (my Lord)
+whitehall,covent_garden,1660,6,11,coach,Edward Montagu (my Lord)
+covent_garden,wills_alehouse,1660,6,11,walk,
+wills_alehouse,westminster_hall,1660,6,11,walk,
+westminster_hall,leg_kings_street,1660,6,11,walk,Mr. Moore; Mr. Butler (Mons. L'Impertinent)
+leg_kings_street,mr_watkins,1660,6,11,walk,Mr. Moore
+mr_watkins,mr_crews_house,1660,6,11,walk,
+mr_crews_house,dorset_house,1660,6,11,walk,Edward Montagu (my Lord)
+dorset_house,mr_crews_house,1660,6,11,walk,Edward Montagu (my Lord)
+mr_crews_house,father_house_salisbury_court,1660,6,11,walk,
+father_house_salisbury_court,mrs_turner_house,1660,6,11,walk,
+mrs_turner_house,father_house_salisbury_court,1660,6,11,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,12,walk,
+mr_crews_house,whitehall,1660,6,12,walk,Edward Montagu (my Lord)
+whitehall,speakers_house,1660,6,12,walk,
+speakers_house,mr_crews_house,1660,6,12,walk,
+mr_crews_house,faithornes,1660,6,12,walk,Mr. Greatorex
+faithornes,devil_tavern,1660,6,12,walk,Mr. Greatorex
+devil_tavern,mr_crews_house,1660,6,12,walk,
+mr_crews_house,father_house_salisbury_court,1660,6,12,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,13,walk,
+mr_crews_house,navy_treasury,1660,6,13,walk,
+navy_treasury,mr_rawlinsons,1660,6,13,walk,Mr. Creed; Mr. Pierce (purser); Uncle Wight
+mr_rawlinsons,mr_crews_house,1660,6,13,walk,
+mr_crews_house,admiralty,1660,6,13,boat,Edward Montagu (my Lord)
+admiralty,priors_rhenish_wine_house,1660,6,13,walk,Mr. Blackburne; Mr. Creed; Mr. Wivell
+priors_rhenish_wine_house,my_lords_lodgings_whitehall,1660,6,13,walk,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,6,13,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,14,walk,
+mr_crews_house,navy_treasury,1660,6,14,walk,
+navy_treasury,alehouse_city,1660,6,14,walk,Washington (purser)
+alehouse_city,mr_crews_house,1660,6,14,walk,
+mr_crews_house,lady_pickerings,1660,6,14,walk,
+lady_pickerings,wills_alehouse,1660,6,14,walk,
+wills_alehouse,bull_head_tavern,1660,6,14,walk,William Symons; Mr. Doling; Luellin
+bull_head_tavern,alehouse_brewers_yard,1660,6,14,walk,William Symons; Mr. Doling; Luellin
+alehouse_brewers_yard,father_house_salisbury_court,1660,6,14,walk,
+father_house_salisbury_court,navy_office,1660,6,15,walk,
+navy_office,dolphin_tavern,1660,6,15,walk,Mr. Turner (Navy Office)
+dolphin_tavern,w_symons_house,1660,6,15,boat,
+w_symons_house,mr_crews_house,1660,6,15,walk,
+mr_crews_house,father_house_salisbury_court,1660,6,15,walk,
+father_house_salisbury_court,uncle_fenners,1660,6,15,walk,
+uncle_fenners,father_house_salisbury_court,1660,6,15,walk,
+father_house_salisbury_court,harveys_tavern,1660,6,16,walk,Murford
+harveys_tavern,mr_crews_house,1660,6,16,walk,
+mr_crews_house,whitehall,1660,6,16,walk,Edward Montagu (my Lord)
+whitehall,admiralty,1660,6,16,walk,
+admiralty,mr_crews_house,1660,6,16,walk,
+mr_crews_house,whitehall,1660,6,16,walk,Edward Montagu (my Lord)
+whitehall,lady_wrights_house,1660,6,16,walk,Edward Montagu (my Lord)
+lady_wrights_house,father_house_salisbury_court,1660,6,16,walk,
+father_house_salisbury_court,mr_mossums_church,1660,6,17,walk,
+mr_mossums_church,father_house_salisbury_court,1660,6,17,walk,
+father_house_salisbury_court,mr_mossums_church,1660,6,17,walk,
+mr_mossums_church,mr_crews_house,1660,6,17,walk,
+mr_crews_house,grays_inn,1660,6,17,walk,Edward Montagu (child)
+grays_inn,father_house_salisbury_court,1660,6,17,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,18,walk,
+mr_crews_house,parliament_house,1660,6,18,walk,Edward Montagu (my Lord)
+parliament_house,mrs_browns,1660,6,18,walk,Edward Montagu (my Lord)
+mrs_browns,trinity_house_stepney,1660,6,18,boat,Edward Montagu (my Lord); Sir W. Penn; Sir H. Wright; Mr. Hetley; Mr. Pierce; Mr. Creed; Mr. Hill
+trinity_house_stepney,admiralty,1660,6,18,boat,Edward Montagu (my Lord); Sir W. Penn; Sir H. Wright; Mr. Hetley; Mr. Pierce; Mr. Creed; Mr. Hill
+admiralty,my_lords_lodgings_whitehall,1660,6,18,walk,
+my_lords_lodgings_whitehall,mr_crews_house,1660,6,18,walk,
+mr_crews_house,father_house_salisbury_court,1660,6,18,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,19,walk,
+mr_crews_house,whitehall,1660,6,19,walk,Edward Montagu (my Lord)
+whitehall,lady_pickerings,1660,6,19,walk,Lady Pickering's servant
+lady_pickerings,mr_crews_house,1660,6,19,walk,
+mr_crews_house,whitehall,1660,6,19,walk,Edward Montagu (my Lord)
+whitehall,lady_pickerings,1660,6,19,walk,Edward Montagu (my Lord)
+lady_pickerings,father_house_salisbury_court,1660,6,19,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,20,walk,
+mr_crews_house,parliament_house,1660,6,20,walk,Edward Montagu (my Lord)
+parliament_house,cockpit_whitehall,1660,6,20,walk,Edward Montagu (my Lord)
+cockpit_whitehall,home_axe_yard,1660,6,20,walk,
+home_axe_yard,lady_pickerings,1660,6,20,walk,
+lady_pickerings,cockpit_whitehall,1660,6,20,walk,Mr. Townsend
+cockpit_whitehall,admiralty,1660,6,20,walk,
+admiralty,kings_head_charing_cross,1660,6,20,walk,G. Vines
+kings_head_charing_cross,home_axe_yard,1660,6,20,walk,
+home_axe_yard,father_house_salisbury_court,1660,6,20,walk,Elizabeth Pepys
+father_house_salisbury_court,bear_tavern,1660,6,20,walk,William Swan; his friend; John Pepys (father); cousin Scott
+bear_tavern,father_house_salisbury_court,1660,6,20,walk,William Swan; his friend; John Pepys (father); cousin Scott
+father_house_salisbury_court,mr_crews_house,1660,6,21,walk,
+mr_crews_house,whitehall,1660,6,21,walk,Edward Montagu (my Lord)
+whitehall,dog_tavern_westminster,1660,6,21,walk,Murford; Captain Curle; two friends
+dog_tavern_westminster,parliament_house,1660,6,21,walk,
+parliament_house,mr_crews_house,1660,6,21,walk,
+mr_crews_house,the_wardrobe,1660,6,21,coach,Edward Montagu (my Lord)
+the_wardrobe,whitehall,1660,6,21,coach,Edward Montagu (my Lord)
+whitehall,home_axe_yard,1660,6,21,walk,Mr. Blagrave
+home_axe_yard,father_house_salisbury_court,1660,6,21,walk,Elizabeth Pepys
+father_house_salisbury_court,mr_crews_house,1660,6,22,walk,
+mr_crews_house,whitehall,1660,6,22,walk,Edward Montagu (my Lord)
+whitehall,my_lords_lodgings_whitehall,1660,6,22,walk,
+my_lords_lodgings_whitehall,sun_tavern_westminster,1660,6,22,walk,Mr. Fuller of Twickenham
+sun_tavern_westminster,my_lords_lodgings_whitehall,1660,6,22,walk,
+my_lords_lodgings_whitehall,brighams,1660,6,22,coach,
+brighams,half_moon_tavern,1660,6,22,walk,Brigham (coach-maker)
+half_moon_tavern,home_axe_yard,1660,6,22,walk,
+home_axe_yard,mrs_turner_house,1660,6,22,walk,Mr. Moore
+mrs_turner_house,father_house_salisbury_court,1660,6,22,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,22,walk,
+mr_crews_house,sir_harry_wrights,1660,6,22,walk,
+sir_harry_wrights,home_axe_yard,1660,6,22,walk,link boy
+home_axe_yard,my_lords_lodgings_whitehall,1660,6,23,boat,Mr. Hill
+my_lords_lodgings_whitehall,whitehall,1660,6,23,walk,Edward Montagu (my Lord)
+whitehall,bell_tavern_kings_street,1660,6,23,walk,
+bell_tavern_kings_street,my_lords_lodgings_whitehall,1660,6,23,walk,
+my_lords_lodgings_whitehall,lord_frezendorfes,1660,6,23,walk,Edward Montagu (my Lord)
+lord_frezendorfes,hargraves_st_martins,1660,6,23,walk,Mr. Chetwind
+hargraves_st_martins,backwells,1660,6,23,walk,Mr. Chetwind
+backwells,cardinals_cap,1660,6,23,walk,Mr. Chetwind; City Remembrancer
+cardinals_cap,westminster_hall,1660,6,23,walk,
+westminster_hall,home_axe_yard,1660,6,23,walk,
+home_axe_yard,harpers_alehouse,1660,6,24,walk,
+harpers_alehouse,g_montagus_house,1660,6,24,walk,
+g_montagus_house,home_axe_yard,1660,6,24,walk,
+home_axe_yard,mr_crews_house,1660,6,24,walk,Elizabeth Pepys (part way)
+mr_crews_house,mr_mossums_church,1660,6,24,walk,Mr. Moore
+mr_mossums_church,whitehall,1660,6,24,walk,
+whitehall,mr_crews_house,1660,6,24,walk,
+mr_crews_house,father_house_salisbury_court,1660,6,24,walk,
+father_house_salisbury_court,mr_crews_house,1660,6,24,walk,
+mr_crews_house,home_axe_yard,1660,6,24,walk,
+home_axe_yard,whitehall,1660,6,25,walk,
+whitehall,leg_kings_street,1660,6,25,walk,Mr. Powell; Mr. Southerne
+leg_kings_street,admiralty,1660,6,25,walk,
+admiralty,mr_crews_house,1660,6,25,coach,Edward Montagu (my Lord)
+mr_crews_house,home_axe_yard,1660,6,25,walk,
+home_axe_yard,dorset_house,1660,6,25,coach,Elizabeth Pepys; Mr. Fox (part way)
+dorset_house,home_axe_yard,1660,6,25,coach,Elizabeth Pepys
+home_axe_yard,my_lords_lodgings_whitehall,1660,6,25,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,6,25,walk,
+home_axe_yard,whitehall,1660,6,26,walk,
+whitehall,three_tuns_charing_cross,1660,6,26,walk,Mr. Throgmorton
+three_tuns_charing_cross,home_axe_yard,1660,6,26,walk,
+home_axe_yard,whitefriars,1660,6,26,boat,John Pepys (father); Elizabeth Pepys
+whitefriars,the_wardrobe,1660,6,26,boat,
+the_wardrobe,backwells,1660,6,26,walk,Mr. Townsend
+backwells,father_house_salisbury_court,1660,6,26,walk,
+father_house_salisbury_court,home_axe_yard,1660,6,26,walk,
+home_axe_yard,whitehall,1660,6,27,walk,
+whitehall,swan_dowgate,1660,6,27,coach,Edward Montagu (my Lord); officers of his regiment
+swan_dowgate,westminster_hall,1660,6,27,walk,
+westminster_hall,speakers_house,1660,6,27,coach,W. Howe
+speakers_house,my_lords_lodgings_whitehall,1660,6,27,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,6,27,walk,
+home_axe_yard,whitehall,1660,6,28,walk,
+whitehall,mr_downings_lodgings,1660,6,28,walk,
+mr_downings_lodgings,mr_pierces_house,1660,6,28,walk,
+mr_pierces_house,my_lords_lodgings_whitehall,1660,6,28,walk,
+my_lords_lodgings_whitehall,clothworkers_hall,1660,6,28,coach,Elizabeth Pepys; Mrs. Pierce
+clothworkers_hall,mr_rawlinsons,1660,6,28,walk,
+mr_rawlinsons,home_axe_yard,1660,6,28,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,6,28,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,6,28,walk,
+home_axe_yard,whitehall,1660,6,29,walk,
+whitehall,my_lords_lodgings_whitehall,1660,6,29,walk,
+my_lords_lodgings_whitehall,sir_geoffrey_palmers,1660,6,29,walk,
+sir_geoffrey_palmers,leg_kings_street,1660,6,29,walk,Mr. Townsend and others
+leg_kings_street,whitehall,1660,6,29,walk,
+whitehall,my_lords_lodgings_whitehall,1660,6,29,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,6,29,walk,
+home_axe_yard,sir_r_fanshawes,1660,6,30,walk,
+sir_r_fanshawes,my_lords_lodgings_whitehall,1660,6,30,walk,
+my_lords_lodgings_whitehall,whitehall,1660,6,30,walk,Edward Montagu (my Lord)
+whitehall,home_axe_yard,1660,6,30,walk,
+home_axe_yard,sir_edward_walkers,1660,6,30,walk,
+sir_edward_walkers,sir_r_fanshawes,1660,6,30,walk,
+sir_r_fanshawes,mr_crews_house,1660,6,30,walk,
+mr_crews_house,whitehall,1660,6,30,walk,Mr. Moore
+whitehall,my_lords_lodgings_whitehall,1660,6,30,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,6,30,walk,
+home_axe_yard,cooks_shop_westminster,1660,7,1,walk,
+cooks_shop_westminster,home_axe_yard,1660,7,1,walk,
+home_axe_yard,westminster_abbey,1660,7,1,walk,
+westminster_abbey,mrs_crisps_house,1660,7,1,walk,
+mrs_crisps_house,my_lords_lodgings_whitehall,1660,7,1,walk,
+my_lords_lodgings_whitehall,mr_creeds_chamber,1660,7,1,walk,
+mr_creeds_chamber,my_lords_lodgings_whitehall,1660,7,1,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,1,walk,
+home_axe_yard,bell_tavern_kings_street,1660,7,2,walk,Washington (purser); a lady
+bell_tavern_kings_street,my_lords_lodgings_whitehall,1660,7,2,walk,Edward Montagu (my Lord)
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,2,walk,
+home_axe_yard,sir_g_carterets,1660,7,3,walk,
+sir_g_carterets,my_lords_lodgings_whitehall,1660,7,3,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,3,walk,
+home_axe_yard,navy_treasury,1660,7,4,boat,Elizabeth Pepys (landed at Whitefriars)
+navy_treasury,navy_office,1660,7,4,walk,Commissioner Pett
+navy_office,excise_office,1660,7,4,walk,
+excise_office,backwells,1660,7,4,walk,
+backwells,my_lords_lodgings_whitehall,1660,7,4,coach,
+my_lords_lodgings_whitehall,secretary_nicholas,1660,7,4,walk,
+secretary_nicholas,westminster_hall,1660,7,4,walk,
+westminster_hall,sun_tavern_westminster,1660,7,4,walk,Mr. Butler (Mons. L'Impertinent); W. Bowyer
+sun_tavern_westminster,whitehall,1660,7,4,walk,
+whitehall,home_axe_yard,1660,7,4,walk,
+home_axe_yard,whitehall,1660,7,5,walk,
+whitehall,admiralty,1660,7,5,walk,
+admiralty,st_jamess_park,1660,7,5,walk,Mr. Blackburne
+st_jamess_park,mr_coventrys,1660,7,5,walk,
+mr_coventrys,my_lords_lodgings_whitehall,1660,7,5,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,5,walk,
+home_axe_yard,whitehall,1660,7,6,walk,
+whitehall,westminster_hall,1660,7,6,walk,
+westminster_hall,sun_tavern_westminster,1660,7,6,walk,the Doctor from the Hague
+sun_tavern_westminster,my_lords_lodgings_whitehall,1660,7,6,walk,
+my_lords_lodgings_whitehall,navy_office,1660,7,6,coach,Edward Montagu (my Lord); Mr. Coventry; Sir George Carteret
+navy_office,navy_treasury,1660,7,6,walk,Sir George Carteret
+navy_treasury,sir_geoffrey_palmers,1660,7,6,walk,
+sir_geoffrey_palmers,mr_pims_tailor,1660,7,6,walk,
+mr_pims_tailor,half_moon_tavern,1660,7,6,walk,Mr. Pim (tailor)
+half_moon_tavern,my_lords_lodgings_whitehall,1660,7,6,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,6,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,7,7,walk,
+my_lords_lodgings_whitehall,whitehall,1660,7,7,walk,
+whitehall,royal_exchange,1660,7,7,walk,
+royal_exchange,uncle_wights_house,1660,7,7,walk,
+uncle_wights_house,mr_rawlinsons,1660,7,7,walk,Uncle Wight
+mr_rawlinsons,navy_office,1660,7,7,walk,
+navy_office,my_lords_lodgings_whitehall,1660,7,7,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,7,walk,
+home_axe_yard,whitehall,1660,7,8,walk,Mr. Kipps
+whitehall,cooks_shop_westminster,1660,7,8,walk,Luellin; Salisbury
+cooks_shop_westminster,home_axe_yard,1660,7,8,walk,
+home_axe_yard,father_house_salisbury_court,1660,7,8,walk,Elizabeth Pepys; Mr. Fairbrother
+father_house_salisbury_court,home_axe_yard,1660,7,8,walk,Elizabeth Pepys
+home_axe_yard,sir_geoffrey_palmers,1660,7,9,walk,
+sir_geoffrey_palmers,navy_office,1660,7,9,walk,
+navy_office,alehouse_city,1660,7,9,walk,Captain Holland; Mr. Browne of Harwich
+alehouse_city,temple,1660,7,9,walk,
+temple,my_lords_lodgings_whitehall,1660,7,9,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,9,walk,
+home_axe_yard,swan_kings_street,1660,7,10,walk,Mr. Hall; Mr. Eglin
+swan_kings_street,home_axe_yard,1660,7,10,walk,
+home_axe_yard,goring_house,1660,7,10,walk,Elizabeth Pepys
+goring_house,mrs_turner_house,1660,7,10,coach,Elizabeth Pepys
+mrs_turner_house,sir_geoffrey_palmers,1660,7,10,walk,
+sir_geoffrey_palmers,mrs_turner_house,1660,7,10,walk,
+mrs_turner_house,home_axe_yard,1660,7,10,walk,Elizabeth Pepys
+home_axe_yard,whitehall,1660,7,10,walk,
+whitehall,secretary_nicholas,1660,7,10,walk,Edward Montagu (my Lord)
+secretary_nicholas,home_axe_yard,1660,7,10,walk,
+home_axe_yard,navy_office,1660,7,11,boat,Sir William Penn
+navy_office,dolphin_tavern,1660,7,11,walk,officers of the Navy; Major Brown
+dolphin_tavern,navy_office,1660,7,11,walk,
+navy_office,whitehall,1660,7,11,walk,
+whitehall,mr_watkins,1660,7,11,walk,
+mr_watkins,home_axe_yard,1660,7,11,walk,
+home_axe_yard,commissioner_willoughbys,1660,7,11,coach,Mr. Hater (clerk)
+commissioner_willoughbys,whitehall,1660,7,12,coach,Commissioner Pett
+whitehall,parliament_house,1660,7,12,walk,
+parliament_house,six_clerks_office,1660,7,12,walk,
+six_clerks_office,admiralty,1660,7,12,walk,
+admiralty,mr_kipps_lodgings,1660,7,12,walk,
+mr_kipps_lodgings,mr_spongs,1660,7,12,walk,
+mr_spongs,my_lords_lodgings_whitehall,1660,7,12,walk,Mr. Spong
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,12,walk,
+home_axe_yard,mr_spongs,1660,7,13,walk,
+mr_spongs,worcester_house,1660,7,13,walk,Mr. Spong
+worcester_house,mr_beales,1660,7,13,walk,
+mr_beales,navy_office,1660,7,13,walk,
+navy_office,mr_beales,1660,7,13,walk,
+mr_beales,mr_lillys,1660,7,13,walk,Mr. Spong
+mr_lillys,worcester_house,1660,7,13,walk,
+worcester_house,home_axe_yard,1660,7,13,walk,
+home_axe_yard,mr_beales,1660,7,13,coach,Elizabeth Pepys (left in coach at Hinde Court)
+mr_beales,navy_office,1660,7,13,coach,Elizabeth Pepys
+navy_office,home_axe_yard,1660,7,13,coach,Elizabeth Pepys (left at her mother's door)
+home_axe_yard,my_lords_lodgings_whitehall,1660,7,13,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,13,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,7,14,walk,
+my_lords_lodgings_whitehall,harpers_alehouse,1660,7,14,walk,Major Tollhurst and others
+harpers_alehouse,my_lords_lodgings_whitehall,1660,7,14,walk,
+my_lords_lodgings_whitehall,westminster_hall,1660,7,14,walk,
+westminster_hall,leg_kings_street,1660,7,14,walk,Mr. Eglin; Mr. Butler (Mons. L'Impertinent)
+leg_kings_street,navy_office,1660,7,14,coach,Mr. Butler (Mons. L'Impertinent)
+navy_office,mr_rawlinsons,1660,7,14,walk,Mr. Butler (Mons. L'Impertinent)
+mr_rawlinsons,my_lords_lodgings_whitehall,1660,7,14,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,14,walk,
+home_axe_yard,wilkinsons_cook_shop,1660,7,15,walk,Mr. Sheply; Jack Spicer
+wilkinsons_cook_shop,westminster_abbey,1660,7,15,walk,
+westminster_abbey,my_lords_lodgings_whitehall,1660,7,15,walk,
+my_lords_lodgings_whitehall,westminster_abbey,1660,7,15,walk,
+westminster_abbey,st_jamess_park,1660,7,15,walk,W. Bowyer
+st_jamess_park,harpers_alehouse,1660,7,15,walk,W. Bowyer
+harpers_alehouse,my_lords_lodgings_whitehall,1660,7,15,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,15,walk,
+home_axe_yard,navy_office,1660,7,16,walk,
+navy_office,home_axe_yard,1660,7,16,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,7,16,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,16,walk,
+home_axe_yard,my_lords_lodgings_whitehall,1660,7,17,walk,Mr. Barlow
+my_lords_lodgings_whitehall,home_axe_yard,1660,7,17,walk,
+home_axe_yard,home_seething_lane,1660,7,17,coach,Elizabeth Pepys; Mrs. Hunt
+home_seething_lane,my_lords_lodgings_whitehall,1660,7,17,boat,Will Hewer; Mrs. Hunt
+my_lords_lodgings_whitehall,home_seething_lane,1660,7,17,walk,link boy
+home_seething_lane,navy_office,1660,7,18,walk,
+navy_office,home_seething_lane,1660,7,18,walk,
+home_seething_lane,new_exchange,1660,7,18,boat,Mr. Carter; Mr. Cooke; Mr. Pierce (surgeon); Mr. Sheply
+new_exchange,my_lords_lodgings_whitehall,1660,7,18,walk,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,7,18,walk,
+father_house_salisbury_court,home_seething_lane,1660,7,18,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,7,19,boat,Elizabeth Pepys (landed at Whitefriars); her boy
+my_lords_lodgings_whitehall,westminster_hall,1660,7,19,walk,
+westminster_hall,dog_tavern_westminster,1660,7,19,walk,Mr. Michell; Mrs. Michell; Mrs. Murford
+dog_tavern_westminster,admiralty,1660,7,19,walk,
+admiralty,home_seething_lane,1660,7,19,walk,
+home_seething_lane,navy_office,1660,7,20,walk,
+navy_office,father_house_salisbury_court,1660,7,20,walk,
+father_house_salisbury_court,my_lords_lodgings_whitehall,1660,7,20,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,7,20,walk,
+home_seething_lane,golden_eagle_new_street,1660,7,21,walk,
+golden_eagle_new_street,mr_spongs,1660,7,21,walk,
+mr_spongs,my_lords_lodgings_whitehall,1660,7,21,walk,
+my_lords_lodgings_whitehall,six_clerks_office,1660,7,21,walk,
+six_clerks_office,home_seething_lane,1660,7,21,walk,
+home_seething_lane,whitehall,1660,7,21,walk,
+whitehall,home_seething_lane,1660,7,21,walk,
+home_seething_lane,uncle_fenners,1660,7,22,walk,
+uncle_fenners,whitehall,1660,7,22,walk,
+whitehall,st_jamess_park,1660,7,22,walk,
+st_jamess_park,my_lords_lodgings_whitehall,1660,7,22,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,7,22,boat,
+home_seething_lane,scrivener_fenchurch,1660,7,23,walk,Mr. Barlow
+scrivener_fenchurch,navy_office,1660,7,23,walk,
+navy_office,home_seething_lane,1660,7,23,walk,Mr. Barlow
+home_seething_lane,my_lords_lodgings_whitehall,1660,7,23,walk,
+my_lords_lodgings_whitehall,secretary_nicholas,1660,7,23,walk,Edward Montagu (my Lord)
+secretary_nicholas,kings_head_charing_cross,1660,7,23,walk,Mr. Cooling; his brother; Sam Hartlib; little Jennings and others
+kings_head_charing_cross,home_seething_lane,1660,7,23,boat,
+home_seething_lane,whitehall,1660,7,24,walk,
+whitehall,sun_tavern_westminster,1660,7,24,walk,Mr. Butler (Mons. L'Impertinent)
+sun_tavern_westminster,home_seething_lane,1660,7,24,walk,
+home_seething_lane,navy_office,1660,7,25,walk,
+navy_office,whitehall,1660,7,25,walk,
+whitehall,leg_kings_street,1660,7,25,walk,Mr. Creed; a Welsh schoolmaster
+leg_kings_street,whitehall,1660,7,25,walk,
+whitehall,barber_tower_street,1660,7,25,walk,
+barber_tower_street,home_seething_lane,1660,7,25,walk,
+home_seething_lane,whitehall,1660,7,26,walk,
+whitehall,leg_kings_street,1660,7,26,walk,Mr. Hooker; Mr. Crofts
+leg_kings_street,mr_pierces_house,1660,7,26,walk,
+mr_pierces_house,st_jamess_fair,1660,7,26,walk,T. Doling
+st_jamess_fair,woods_pall_mall,1660,7,26,walk,T. Doling; W. Symons; Mrs. Symons; Luellin; D. Scobell's wife and cousin
+woods_pall_mall,home_seething_lane,1660,7,26,walk,Will Hewer (with link)
+home_seething_lane,navy_office,1660,7,27,walk,
+navy_office,home_seething_lane,1660,7,27,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,7,27,walk,Will Hewer
+my_lords_lodgings_whitehall,st_dunstans,1660,7,27,coach,Will Hewer
+st_dunstans,home_seething_lane,1660,7,27,walk,Will Hewer (with link)
+home_seething_lane,my_lords_lodgings_whitehall,1660,7,28,walk,
+my_lords_lodgings_whitehall,swan_kings_street,1660,7,28,walk,Mr. Henson; Mr. Butler (Mons. L'Impertinent)
+swan_kings_street,home_seething_lane,1660,7,28,walk,
+home_seething_lane,whitehall,1660,7,29,walk,Will Hewer
+whitehall,my_lords_lodgings_whitehall,1660,7,29,walk,
+my_lords_lodgings_whitehall,lisson_green_marylebone,1660,7,29,walk,Dick Vines; Payton Vines
+lisson_green_marylebone,my_lords_lodgings_whitehall,1660,7,29,walk,Dick Vines; Payton Vines
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,7,29,walk,
+father_house_salisbury_court,home_seething_lane,1660,7,29,walk,
+home_seething_lane,navy_office,1660,7,30,walk,
+navy_office,westminster_hall,1660,7,30,walk,
+westminster_hall,priors_rhenish_wine_house,1660,7,30,walk,Mr. Moore; a bookseller of Paul's Churchyard; Mr. Man (sword-bearer)
+priors_rhenish_wine_house,home_seething_lane,1660,7,30,walk,Will Hewer (with torch)
+home_seething_lane,whitehall,1660,7,31,walk,
+whitehall,quakers_ordinary,1660,7,31,walk,Mr. Blackburne; Dr. Clerke
+quakers_ordinary,admiralty,1660,7,31,walk,
+admiralty,whitehall,1660,7,31,walk,
+whitehall,sun_tavern_westminster,1660,7,31,walk,Mr. Crofts; Mr. Mathews
+sun_tavern_westminster,ludgate,1660,7,31,coach,Mr. Mathews
+ludgate,home_seething_lane,1660,7,31,walk,Will Hewer
+home_seething_lane,my_lords_lodgings_whitehall,1660,8,1,boat,
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,1,walk,Commissioner Pett
+privy_seal_office,leg_kings_street,1660,8,1,walk,Mr. Harper
+leg_kings_street,privy_seal_office,1660,8,1,walk,
+privy_seal_office,whitehall,1660,8,1,walk,
+whitehall,privy_seal_office,1660,8,1,walk,
+privy_seal_office,beer_house_strand,1660,8,1,walk,Dick Scobell; Luellin
+beer_house_strand,sun_fish_street_hill,1660,8,1,boat,
+sun_fish_street_hill,home_seething_lane,1660,8,1,walk,
+home_seething_lane,admiralty,1660,8,2,boat,Sir William Batten; Sir William Penn
+admiralty,my_lords_lodgings_whitehall,1660,8,2,walk,
+my_lords_lodgings_whitehall,admiralty,1660,8,2,walk,Edward Montagu (my Lord)
+admiralty,mr_blackburnes,1660,8,2,walk,
+mr_blackburnes,privy_seal_office,1660,8,2,walk,Will Hewer
+privy_seal_office,home_seething_lane,1660,8,2,coach,
+home_seething_lane,navy_office,1660,8,3,walk,
+navy_office,home_seething_lane,1660,8,3,walk,
+home_seething_lane,dr_clerkes,1660,8,3,coach,Elizabeth Pepys
+dr_clerkes,privy_seal_office,1660,8,3,walk,
+privy_seal_office,red_bull_playhouse,1660,8,3,coach,
+red_bull_playhouse,dr_clerkes,1660,8,3,coach,
+dr_clerkes,home_seething_lane,1660,8,3,coach,Elizabeth Pepys
+home_seething_lane,my_lords_lodgings_whitehall,1660,8,4,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,4,walk,
+privy_seal_office,parliament_house,1660,8,4,walk,
+parliament_house,westminster_hall,1660,8,4,walk,
+westminster_hall,trumpet_tavern,1660,8,4,walk,Betty Lane
+trumpet_tavern,home_seething_lane,1660,8,4,coach,Mr. Butler (Mons. L'Impertinent) (set down at the Savoy)
+home_seething_lane,father_house_salisbury_court,1660,8,5,walk,
+father_house_salisbury_court,dr_williams_holborn,1660,8,5,walk,
+dr_williams_holborn,my_lords_lodgings_whitehall,1660,8,5,walk,
+my_lords_lodgings_whitehall,st_margarets_westminster,1660,8,5,walk,
+st_margarets_westminster,mr_pierces_house,1660,8,5,walk,Mr. Sheply
+mr_pierces_house,my_lords_lodgings_whitehall,1660,8,5,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,8,5,boat,
+home_seething_lane,navy_office,1660,8,6,walk,
+navy_office,home_seething_lane,1660,8,6,walk,
+home_seething_lane,privy_seal_office,1660,8,6,walk,
+privy_seal_office,mr_rawlinsons,1660,8,6,walk,Mr. Man
+mr_rawlinsons,home_seething_lane,1660,8,6,walk,
+home_seething_lane,privy_seal_office,1660,8,7,walk,
+privy_seal_office,my_lords_lodgings_whitehall,1660,8,7,walk,Mr. Moore
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,7,walk,
+privy_seal_office,holland_house_kensington,1660,8,7,coach,Sam Hartlib
+holland_house_kensington,kensington_inn,1660,8,7,walk,
+kensington_inn,bull_head_tavern,1660,8,7,coach,Sam Hartlib
+bull_head_tavern,home_seething_lane,1660,8,7,walk,
+home_seething_lane,navy_office,1660,8,8,walk,
+navy_office,home_seething_lane,1660,8,8,walk,
+home_seething_lane,catans_lodging,1660,8,8,boat,Elizabeth Pepys
+catans_lodging,mr_butlers_house,1660,8,8,walk,Elizabeth Pepys
+mr_butlers_house,mr_blackburnes,1660,8,8,walk,Elizabeth Pepys
+mr_blackburnes,privy_seal_office,1660,8,8,walk,
+privy_seal_office,sun_tavern_westminster,1660,8,8,walk,Mr. Woodson; Mr. Jennings
+sun_tavern_westminster,my_lords_lodgings_whitehall,1660,8,8,walk,
+my_lords_lodgings_whitehall,mr_hunts_house,1660,8,8,walk,Elizabeth Pepys
+mr_hunts_house,my_lords_lodgings_whitehall,1660,8,9,walk,
+my_lords_lodgings_whitehall,priors_rhenish_wine_house,1660,8,9,walk,Judge Advocate Fowler; Mr. Creed; Mr. Sheply; Captain Hayward
+priors_rhenish_wine_house,privy_seal_office,1660,8,9,walk,
+privy_seal_office,leg_kings_street,1660,8,9,walk,Mr. Moore; Dean Fuller
+leg_kings_street,mr_blackburnes,1660,8,9,walk,Elizabeth Pepys
+mr_blackburnes,privy_seal_office,1660,8,9,walk,
+privy_seal_office,mr_blackburnes,1660,8,9,walk,
+mr_blackburnes,home_seething_lane,1660,8,9,walk,Elizabeth Pepys
+home_seething_lane,navy_office,1660,8,10,walk,
+navy_office,home_seething_lane,1660,8,10,walk,
+home_seething_lane,privy_seal_office,1660,8,10,boat,
+privy_seal_office,hyde_park,1660,8,10,coach,Mr. Moore; Mr. Creed
+hyde_park,my_lords_lodgings_whitehall,1660,8,10,coach,Mr. Moore; Mr. Creed
+my_lords_lodgings_whitehall,home_seething_lane,1660,8,10,coach,Will Hewer
+home_seething_lane,my_lords_lodgings_whitehall,1660,8,11,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,11,walk,
+privy_seal_office,mrs_crisps_house,1660,8,11,walk,
+mrs_crisps_house,my_lords_lodgings_whitehall,1660,8,11,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,11,walk,
+privy_seal_office,home_seething_lane,1660,8,11,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,8,12,walk,
+my_lords_lodgings_whitehall,whitehall,1660,8,12,walk,Edward Montagu (my Lord)
+whitehall,my_lords_lodgings_whitehall,1660,8,12,walk,
+my_lords_lodgings_whitehall,westminster_hall,1660,8,12,walk,
+westminster_hall,my_lords_lodgings_whitehall,1660,8,12,walk,Betty Lane
+my_lords_lodgings_whitehall,home_axe_yard,1660,8,12,walk,Betty Lane
+home_axe_yard,father_house_salisbury_court,1660,8,12,walk,
+father_house_salisbury_court,mr_rawlinsons,1660,8,12,walk,
+mr_rawlinsons,home_seething_lane,1660,8,12,walk,
+home_seething_lane,navy_office,1660,8,13,walk,
+navy_office,home_seething_lane,1660,8,13,walk,
+home_seething_lane,privy_seal_office,1660,8,13,walk,
+privy_seal_office,priors_rhenish_wine_house,1660,8,13,walk,John Pepys (father); Mr. Creed
+priors_rhenish_wine_house,my_lords_lodgings_whitehall,1660,8,13,walk,
+my_lords_lodgings_whitehall,mr_rawlinsons,1660,8,13,coach,
+mr_rawlinsons,home_seething_lane,1660,8,13,coach,
+home_seething_lane,privy_seal_office,1660,8,14,walk,
+privy_seal_office,my_lords_lodgings_whitehall,1660,8,14,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,14,walk,
+privy_seal_office,home_seething_lane,1660,8,14,boat,
+home_seething_lane,privy_seal_office,1660,8,14,boat,Elizabeth Pepys
+privy_seal_office,home_seething_lane,1660,8,14,boat,Elizabeth Pepys
+home_seething_lane,navy_office,1660,8,15,walk,
+navy_office,home_seething_lane,1660,8,15,walk,
+home_seething_lane,whitehall,1660,8,15,boat,
+whitehall,privy_seal_office,1660,8,15,walk,
+privy_seal_office,westminster_hall,1660,8,15,walk,
+westminster_hall,my_lords_lodgings_whitehall,1660,8,15,walk,
+my_lords_lodgings_whitehall,mr_crews_house,1660,8,16,coach,Edward Montagu (my Lord)
+mr_crews_house,whitehall,1660,8,16,walk,
+whitehall,ordinary_charing_cross,1660,8,16,walk,Mr. Madge; Captain Cooke; masters of music
+ordinary_charing_cross,privy_seal_office,1660,8,16,walk,
+privy_seal_office,home_seething_lane,1660,8,16,walk,
+home_seething_lane,navy_office,1660,8,17,walk,
+navy_office,home_seething_lane,1660,8,17,walk,
+home_seething_lane,privy_seal_office,1660,8,17,boat,
+privy_seal_office,mr_pims_tailor,1660,8,17,walk,Mr. Creed; Judge Advocate Fowler
+mr_pims_tailor,half_moon_tavern,1660,8,17,walk,Mr. Pim (tailor); Mr. Creed; Judge Advocate Fowler
+half_moon_tavern,home_seething_lane,1660,8,17,coach,
+home_seething_lane,privy_seal_office,1660,8,18,boat,Elizabeth Pepys (landed at Whitefriars)
+privy_seal_office,leg_kings_street,1660,8,18,walk,Mr. Creed; Captain Hayward
+leg_kings_street,cockpit_whitehall,1660,8,18,walk,Captain Ferrers; Mr. Creed
+cockpit_whitehall,alehouse_westminster,1660,8,18,walk,Captain Ferrers; Mr. Creed; Kinaston (actor); actor who played Archas
+alehouse_westminster,home_seething_lane,1660,8,18,coach,
+home_seething_lane,st_olaves,1660,8,19,walk,Sir William Batten; Sir William Penn
+st_olaves,home_seething_lane,1660,8,19,walk,
+home_seething_lane,navy_office,1660,8,20,walk,
+navy_office,worcester_house,1660,8,20,coach,Mrs. Jane Turner; Theophila Turner
+worcester_house,parliament_house,1660,8,20,walk,
+parliament_house,privy_seal_office,1660,8,20,walk,
+privy_seal_office,harpers_alehouse,1660,8,20,walk,
+harpers_alehouse,worcester_house,1660,8,20,coach,Will Hewer (sent home from there)
+worcester_house,home_seething_lane,1660,8,20,walk,
+home_seething_lane,whitehall,1660,8,21,boat,Sir William Penn
+whitehall,mr_coventrys,1660,8,21,walk,Sir William Penn
+mr_coventrys,admiralty,1660,8,21,walk,Will Hewer
+admiralty,westminster_hall,1660,8,21,walk,
+westminster_hall,mr_crews_house,1660,8,21,walk,Mr. Crew
+mr_crews_house,mr_pims_tailor,1660,8,21,walk,
+mr_pims_tailor,privy_seal_office,1660,8,21,walk,
+privy_seal_office,whitehall,1660,8,21,walk,
+whitehall,privy_seal_office,1660,8,21,walk,
+privy_seal_office,brazennose_tavern,1660,8,21,walk,Mr. Moore; Monsieur Eschar
+brazennose_tavern,home_seething_lane,1660,8,21,coach,
+home_seething_lane,navy_office,1660,8,22,walk,
+navy_office,home_seething_lane,1660,8,22,walk,Mr. Hater (clerk)
+home_seething_lane,navy_office,1660,8,22,walk,Mr. Hater (clerk)
+navy_office,privy_seal_office,1660,8,22,walk,
+privy_seal_office,westminster_hall,1660,8,22,walk,John Pepys (father)
+westminster_hall,parliament_house,1660,8,22,walk,John Pepys (father)
+parliament_house,father_house_salisbury_court,1660,8,22,walk,Mr. Herring (minister of St Bride's)
+father_house_salisbury_court,sun_tavern_westminster,1660,8,22,walk,John Pepys (father); Mr. Herring
+sun_tavern_westminster,home_seething_lane,1660,8,22,boat,John Pepys (father) and Mr. Herring (landed at Blackfriars)
+home_seething_lane,doctors_commons,1660,8,23,boat,
+doctors_commons,alehouse_city,1660,8,23,walk,Mr. Pinkney
+alehouse_city,parliament_house,1660,8,23,boat,
+parliament_house,admiralty,1660,8,23,walk,
+admiralty,westminster_hall,1660,8,23,walk,
+westminster_hall,leg_kings_street,1660,8,23,walk,Mr. Bowyer; Mr. Spicer
+leg_kings_street,privy_seal_office,1660,8,23,walk,
+privy_seal_office,westminster_hall,1660,8,23,walk,
+westminster_hall,dog_tavern_westminster,1660,8,23,walk,W. Symons; T. Doling; Mr. Booth
+dog_tavern_westminster,home_seething_lane,1660,8,23,boat,
+home_seething_lane,navy_office,1660,8,24,walk,
+navy_office,st_olaves,1660,8,24,walk,Sir William Batten; Sir William Penn
+st_olaves,tavern_thames_street,1660,8,24,walk,Sir William Batten; Sir William Penn
+tavern_thames_street,privy_seal_office,1660,8,24,walk,
+privy_seal_office,father_house_salisbury_court,1660,8,24,walk,
+father_house_salisbury_court,st_pauls_churchyard,1660,8,24,walk,
+st_pauls_churchyard,home_seething_lane,1660,8,24,walk,
+home_seething_lane,navy_office,1660,8,25,walk,
+navy_office,doctors_commons,1660,8,25,coach,Mr. Turner (Navy Office)
+doctors_commons,sir_g_carterets,1660,8,25,coach,Mr. Turner (Navy Office)
+sir_g_carterets,leg_kings_street,1660,8,25,walk,Mr. Turner (Navy Office); Mr. Moore
+leg_kings_street,sun_tavern_westminster,1660,8,25,walk,Mr. Turner (Navy Office); Mr. Fowler (apothecary)
+sun_tavern_westminster,privy_seal_office,1660,8,25,walk,
+privy_seal_office,westminster_hall,1660,8,25,walk,
+westminster_hall,home_seething_lane,1660,8,25,boat,
+home_seething_lane,st_olaves,1660,8,26,walk,Sir William Penn
+st_olaves,home_seething_lane,1660,8,26,walk,
+home_seething_lane,st_olaves,1660,8,26,walk,Elizabeth Pepys
+st_olaves,home_seething_lane,1660,8,26,walk,Elizabeth Pepys
+home_seething_lane,navy_office,1660,8,27,walk,
+navy_office,privy_seal_office,1660,8,27,walk,
+privy_seal_office,bull_head_tavern,1660,8,27,walk,Mr. Mount; Luellin and others
+bull_head_tavern,home_seething_lane,1660,8,27,walk,
+home_seething_lane,privy_seal_office,1660,8,28,walk,
+privy_seal_office,home_seething_lane,1660,8,28,coach,
+home_seething_lane,navy_office,1660,8,29,walk,
+navy_office,st_olaves,1660,8,29,walk,officers of the Navy
+st_olaves,home_seething_lane,1660,8,29,walk,
+home_seething_lane,privy_seal_office,1660,8,29,walk,
+privy_seal_office,bull_head_tavern,1660,8,29,walk,Mr. Mount; Luellin and others
+bull_head_tavern,father_house_salisbury_court,1660,8,29,walk,
+father_house_salisbury_court,uncle_fenners,1660,8,29,walk,
+uncle_fenners,home_seething_lane,1660,8,29,walk,
+home_seething_lane,whitehall,1660,8,30,walk,
+whitehall,westminster_hall,1660,8,30,walk,
+westminster_hall,heaven_tavern,1660,8,30,walk,Mr. Paget (lawyer)
+heaven_tavern,my_lords_lodgings_whitehall,1660,8,30,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,8,30,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,8,31,walk,
+my_lords_lodgings_whitehall,whitehall,1660,8,31,walk,Edward Montagu (my Lord)
+whitehall,navy_office,1660,8,31,walk,
+navy_office,home_seething_lane,1660,8,31,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,8,31,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,8,31,walk,
+privy_seal_office,sun_tavern_westminster,1660,8,31,walk,Mr. Bickerstaffe; Mr. Matthews
+sun_tavern_westminster,home_seething_lane,1660,8,31,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,9,1,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,9,1,walk,
+privy_seal_office,bull_head_tavern,1660,9,1,walk,Mr. Moore; Mr. Goodman; Dr. Clerke and others
+bull_head_tavern,my_lords_lodgings_whitehall,1660,9,1,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,9,1,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,9,2,walk,
+my_lords_lodgings_whitehall,whitehall,1660,9,2,walk,
+whitehall,my_lords_lodgings_whitehall,1660,9,2,walk,
+my_lords_lodgings_whitehall,st_margarets_westminster,1660,9,2,walk,
+st_margarets_westminster,mrs_crisps_house,1660,9,2,walk,
+mrs_crisps_house,my_lords_lodgings_whitehall,1660,9,2,walk,
+my_lords_lodgings_whitehall,goldsmith_new_exchange,1660,9,3,walk,
+goldsmith_new_exchange,my_lords_lodgings_whitehall,1660,9,3,walk,
+my_lords_lodgings_whitehall,lambeth,1660,9,3,boat,Edward Montagu (my Lord)
+lambeth,home_seething_lane,1660,9,3,boat,Mr. Moore
+home_seething_lane,mr_crews_house,1660,9,3,walk,Mr. Moore
+mr_crews_house,home_seething_lane,1660,9,3,walk,
+home_seething_lane,navy_office,1660,9,4,walk,
+navy_office,whitehall,1660,9,4,walk,
+whitehall,bull_head_tavern,1660,9,4,walk,Mr. Moore; Dr. Clerke; Dr. Fuller
+bull_head_tavern,my_lords_lodgings_whitehall,1660,9,4,walk,
+my_lords_lodgings_whitehall,home_axe_yard,1660,9,4,walk,
+home_axe_yard,home_seething_lane,1660,9,4,boat,
+home_seething_lane,navy_office,1660,9,5,walk,
+navy_office,master_of_chancery,1660,9,5,coach,principal officers of the Navy
+master_of_chancery,mr_rawlinsons,1660,9,5,coach,Mr. Stowell
+mr_rawlinsons,navy_office,1660,9,5,walk,
+navy_office,home_seething_lane,1660,9,5,walk,
+home_seething_lane,sir_w_battens,1660,9,5,walk,
+sir_w_battens,home_seething_lane,1660,9,5,walk,
+home_seething_lane,shops_city,1660,9,5,walk,Elizabeth Pepys
+shops_city,home_seething_lane,1660,9,5,walk,Elizabeth Pepys
+home_seething_lane,whitehall,1660,9,6,boat,Sir William Batten
+whitehall,admiralty,1660,9,6,walk,
+admiralty,my_lords_lodgings_whitehall,1660,9,6,walk,Will Hewer
+my_lords_lodgings_whitehall,navy_office,1660,9,6,walk,
+navy_office,home_seething_lane,1660,9,6,walk,
+home_seething_lane,sir_w_penns,1660,9,8,walk,
+sir_w_penns,home_seething_lane,1660,9,8,walk,
+home_seething_lane,st_olaves,1660,9,9,walk,Sir William Penn
+st_olaves,home_seething_lane,1660,9,9,walk,Sir William Penn
+home_seething_lane,st_olaves,1660,9,9,walk,Elizabeth Pepys
+st_olaves,home_seething_lane,1660,9,9,walk,Elizabeth Pepys
+home_seething_lane,navy_office,1660,9,10,walk,
+navy_office,whitehall,1660,9,10,boat,Colonel Slingsby
+whitehall,bear_bridge_foot,1660,9,10,boat,Colonel Slingsby
+bear_bridge_foot,tower_wharf,1660,9,10,walk,Colonel Slingsby
+tower_wharf,navy_office,1660,9,10,walk,
+navy_office,home_seething_lane,1660,9,10,walk,
+home_seething_lane,alehouse_city,1660,9,10,walk,Mr. Snow; Shelston
+alehouse_city,home_seething_lane,1660,9,10,walk,
+home_seething_lane,sir_w_battens,1660,9,11,walk,Sir William Penn
+sir_w_battens,navy_office,1660,9,11,walk,
+navy_office,sir_w_battens,1660,9,11,walk,
+sir_w_battens,home_seething_lane,1660,9,11,walk,
+home_seething_lane,navy_office,1660,9,12,walk,
+navy_office,home_seething_lane,1660,9,12,walk,
+home_seething_lane,westminster_hall,1660,9,13,walk,
+westminster_hall,swan_kings_street,1660,9,13,walk,Mr. Hawly; W. Bowyer
+swan_kings_street,home_seething_lane,1660,9,13,boat,
+home_seething_lane,navy_office,1660,9,14,walk,
+navy_office,home_seething_lane,1660,9,14,walk,
+home_seething_lane,mitre_wood_street,1660,9,14,walk,Luellin
+mitre_wood_street,home_seething_lane,1660,9,14,walk,
+home_seething_lane,navy_office,1660,9,15,walk,
+navy_office,mr_daltons_office,1660,9,15,walk,
+mr_daltons_office,mr_vanlys,1660,9,15,boat,Mr. Dalton
+mr_vanlys,westminster_hall,1660,9,15,boat,Mr. Dalton
+westminster_hall,father_house_salisbury_court,1660,9,15,walk,
+father_house_salisbury_court,home_seething_lane,1660,9,15,walk,
+home_seething_lane,dr_hardys_church,1660,9,16,walk,
+dr_hardys_church,home_seething_lane,1660,9,16,walk,
+home_seething_lane,westminster_abbey,1660,9,16,walk,
+westminster_abbey,st_jamess_park,1660,9,16,walk,Ben Palmer; Fetters (watchmaker)
+st_jamess_park,whitehall,1660,9,16,walk,
+whitehall,home_seething_lane,1660,9,16,walk,
+home_seething_lane,navy_office,1660,9,17,walk,
+navy_office,home_seething_lane,1660,9,17,walk,
+home_seething_lane,mr_daltons_office,1660,9,17,walk,
+mr_daltons_office,whitehall,1660,9,17,walk,
+whitehall,axe_tavern,1660,9,17,walk,Mr. Dalton; Mr. Vanly; scrivener and friends
+axe_tavern,mr_daltons_office,1660,9,17,walk,Mr. Dalton; Mr. Vanly
+mr_daltons_office,home_seething_lane,1660,9,17,walk,link boy
+home_seething_lane,westminster_hall,1660,9,18,coach,Sir William Batten; Sir William Penn
+westminster_hall,parliament_house,1660,9,18,walk,Sir William Batten; Sir William Penn; Mr. Wayte
+parliament_house,priors_rhenish_wine_house,1660,9,18,walk,Mr. Wayte
+priors_rhenish_wine_house,mr_crews_house,1660,9,18,walk,
+mr_crews_house,home_seething_lane,1660,9,18,walk,
+home_seething_lane,navy_office,1660,9,19,walk,
+navy_office,home_seething_lane,1660,9,19,walk,
+home_seething_lane,mitre_wood_street,1660,9,19,walk,
+mitre_wood_street,home_seething_lane,1660,9,19,coach,Elizabeth Pepys
+home_seething_lane,navy_office,1660,9,20,walk,
+navy_office,home_seething_lane,1660,9,20,walk,
+home_seething_lane,mr_daltons_office,1660,9,20,walk,
+mr_daltons_office,home_axe_yard,1660,9,20,walk,Mr. Dalton
+home_axe_yard,mr_downings_lodgings,1660,9,20,walk,
+mr_downings_lodgings,major_harts_cannon_street,1660,9,20,boat,
+major_harts_cannon_street,home_seething_lane,1660,9,20,walk,
+home_seething_lane,navy_office,1660,9,21,walk,
+navy_office,my_lords_lodgings_whitehall,1660,9,21,walk,
+my_lords_lodgings_whitehall,hoop_tavern,1660,9,21,boat,
+hoop_tavern,mr_chaplins,1660,9,21,walk,Mr. Chaplin; Nicholas Osborne; Daniel
+mr_chaplins,home_seething_lane,1660,9,21,walk,
+home_seething_lane,mr_standings_salisbury_court,1660,9,22,walk,Luellin
+mr_standings_salisbury_court,my_lords_lodgings_whitehall,1660,9,22,walk,Luellin
+my_lords_lodgings_whitehall,harpers_alehouse,1660,9,22,walk,
+harpers_alehouse,new_exchange,1660,9,22,coach,
+new_exchange,home_seething_lane,1660,9,22,coach,
+home_seething_lane,st_olaves,1660,9,23,walk,Elizabeth Pepys; Sir William Batten
+st_olaves,home_seething_lane,1660,9,23,walk,Elizabeth Pepys
+home_seething_lane,whitehall,1660,9,23,walk,
+whitehall,westminster_abbey,1660,9,23,walk,Mr. Pierce (surgeon)
+westminster_abbey,whitehall,1660,9,23,walk,Mr. Pierce (surgeon)
+whitehall,my_lords_lodgings_whitehall,1660,9,23,walk,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,9,23,walk,
+father_house_salisbury_court,home_seething_lane,1660,9,23,walk,
+home_seething_lane,navy_office,1660,9,24,walk,
+navy_office,home_seething_lane,1660,9,24,walk,
+home_seething_lane,cousin_scotts,1660,9,24,coach,Elizabeth Pepys
+cousin_scotts,temple_church,1660,9,24,walk,
+temple_church,sir_heneage_finchs,1660,9,24,walk,Sir William Batten
+sir_heneage_finchs,whitehall,1660,9,24,boat,Sir William Batten; old Mr. Smith
+whitehall,three_tuns_charing_cross,1660,9,24,walk,Sir William Batten
+three_tuns_charing_cross,my_lords_lodgings_whitehall,1660,9,24,walk,
+my_lords_lodgings_whitehall,dancing_school_broad_street,1660,9,24,coach,Mr. Butler (Mons. L'Impertinent)
+dancing_school_broad_street,home_seething_lane,1660,9,24,walk,
+home_seething_lane,navy_office,1660,9,25,walk,
+navy_office,tower_wharf,1660,9,25,walk,Colonel Birch; Sir R. Browne
+tower_wharf,deptford,1660,9,25,boat,Colonel Birch; Sir R. Browne
+deptford,globe_deptford,1660,9,25,walk,Colonel Birch; Sir R. Browne and others
+globe_deptford,deptford,1660,9,25,walk,Colonel Birch; Sir R. Browne and others
+deptford,navy_office,1660,9,25,boat,Colonel Birch; Sir R. Browne; Sir George Carteret; Sir William Penn
+navy_office,my_lords_lodgings_whitehall,1660,9,25,coach,Colonel Slingsby (set down at his lodgings)
+my_lords_lodgings_whitehall,mr_crews_house,1660,9,25,walk,
+mr_crews_house,home_seething_lane,1660,9,25,coach,
+home_seething_lane,navy_office,1660,9,26,walk,
+navy_office,st_olaves,1660,9,26,walk,
+st_olaves,home_seething_lane,1660,9,26,walk,
+home_seething_lane,navy_office,1660,9,26,walk,
+navy_office,home_seething_lane,1660,9,26,walk,
+home_seething_lane,mr_crews_house,1660,9,27,walk,
+mr_crews_house,home_seething_lane,1660,9,27,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,9,27,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,9,27,walk,
+home_seething_lane,navy_office,1660,9,28,walk,
+navy_office,home_seething_lane,1660,9,28,walk,
+home_seething_lane,st_olaves,1660,9,30,walk,
+st_olaves,home_seething_lane,1660,9,30,walk,
+home_seething_lane,st_olaves,1660,9,30,walk,
+st_olaves,home_seething_lane,1660,9,30,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,1,walk,
+my_lords_lodgings_whitehall,navy_office,1660,10,1,walk,
+navy_office,home_seething_lane,1660,10,1,walk,
+home_seething_lane,mr_rawlinsons,1660,10,1,walk,John Pepys (father)
+mr_rawlinsons,home_seething_lane,1660,10,1,walk,
+home_seething_lane,whitehall,1660,10,2,boat,Sir William Penn
+whitehall,leg_kings_street,1660,10,2,walk,Captain Clerk; his purser
+leg_kings_street,whitehall,1660,10,2,walk,
+whitehall,dog_tavern_westminster,1660,10,2,walk,Luellin; Mr. Fage
+dog_tavern_westminster,wills_alehouse,1660,10,2,walk,
+wills_alehouse,westminster_abbey,1660,10,2,walk,Mr. Spicer
+westminster_abbey,robin_shaws,1660,10,2,walk,Mr. Spicer
+robin_shaws,father_house_salisbury_court,1660,10,2,coach,
+father_house_salisbury_court,home_seething_lane,1660,10,2,walk,
+home_seething_lane,major_harts_cannon_street,1660,10,2,walk,
+major_harts_cannon_street,home_seething_lane,1660,10,2,walk,
+home_seething_lane,whitehall,1660,10,3,boat,Sir William Batten; Sir William Penn
+whitehall,my_lords_lodgings_whitehall,1660,10,3,walk,
+my_lords_lodgings_whitehall,whitehall,1660,10,3,walk,
+whitehall,my_lords_lodgings_whitehall,1660,10,3,walk,
+my_lords_lodgings_whitehall,navy_office,1660,10,3,walk,
+navy_office,home_seething_lane,1660,10,3,walk,
+home_seething_lane,navy_office,1660,10,4,walk,
+navy_office,alehouse_seething_lane,1660,10,4,walk,Lieutenant Lambert; Thomas Pepys (turner); Mr. Pepys (new cousin); younger son of Sir Thomas Bendish
+alehouse_seething_lane,whitehall,1660,10,4,boat,Lieutenant Lambert; Mr. Pepys (new cousin); younger son of Sir Thomas Bendish
+whitehall,westminster_abbey,1660,10,4,walk,Lieutenant Lambert
+westminster_abbey,my_lords_lodgings_whitehall,1660,10,4,walk,Lieutenant Lambert
+my_lords_lodgings_whitehall,reindeer_tavern,1660,10,4,walk,Lieutenant Lambert; Mr. Sheply; W. Howe
+reindeer_tavern,my_lords_lodgings_whitehall,1660,10,4,walk,Lieutenant Lambert; Mr. Sheply; W. Howe
+my_lords_lodgings_whitehall,home_seething_lane,1660,10,4,boat,Lieutenant Lambert (landed at Blackfriars); Mr. Pierce (surgeon) and Mrs. Pierce (from Tower Hill)
+home_seething_lane,navy_office,1660,10,5,walk,
+navy_office,home_seething_lane,1660,10,5,walk,
+home_seething_lane,navy_office,1660,10,6,walk,
+navy_office,home_seething_lane,1660,10,6,walk,
+home_seething_lane,whitehall,1660,10,6,walk,Mr. Creed
+whitehall,home_seething_lane,1660,10,6,walk,
+home_seething_lane,father_house_salisbury_court,1660,10,7,walk,
+father_house_salisbury_court,whitehall,1660,10,7,walk,
+whitehall,my_lords_lodgings_whitehall,1660,10,7,walk,
+my_lords_lodgings_whitehall,westminster_abbey,1660,10,7,walk,
+westminster_abbey,home_seething_lane,1660,10,7,walk,
+home_seething_lane,navy_office,1660,10,8,walk,
+navy_office,home_seething_lane,1660,10,8,walk,
+home_seething_lane,father_house_salisbury_court,1660,10,8,walk,Mr. Moore
+father_house_salisbury_court,mr_crews_house,1660,10,8,walk,Mr. Moore
+mr_crews_house,my_lords_lodgings_whitehall,1660,10,8,walk,Mr. Moore
+my_lords_lodgings_whitehall,home_seething_lane,1660,10,8,boat,Mr. Moore
+home_seething_lane,navy_office,1660,10,9,walk,
+navy_office,whitehall,1660,10,9,walk,Sir William Penn
+whitehall,my_lords_lodgings_whitehall,1660,10,9,walk,
+my_lords_lodgings_whitehall,mr_coventrys,1660,10,9,walk,
+mr_coventrys,redriffe,1660,10,9,boat,Sir William Penn
+redriffe,deptford,1660,10,9,walk,Sir William Penn
+deptford,home_seething_lane,1660,10,9,boat,Sir William Penn
+home_seething_lane,navy_office,1660,10,10,walk,
+navy_office,home_seething_lane,1660,10,10,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,11,walk,
+my_lords_lodgings_whitehall,priors_rhenish_wine_house,1660,10,11,walk,Mr. Creed; Mr. Blackburne
+priors_rhenish_wine_house,leg_kings_street,1660,10,11,walk,Mr. Creed; Will Hewer
+leg_kings_street,st_jamess_park,1660,10,11,walk,Mr. Creed
+st_jamess_park,cockpit_whitehall,1660,10,11,walk,Mr. Salisbury; Mr. Creed
+cockpit_whitehall,hercules_pillars,1660,10,11,walk,Mr. Creed
+hercules_pillars,home_seething_lane,1660,10,11,walk,
+home_seething_lane,navy_office,1660,10,12,walk,
+navy_office,dolphin_tavern,1660,10,12,walk,Sir William Batten; officers of the Navy; Col. Washington; Sir Edward Brett; Major Norwood
+dolphin_tavern,home_seething_lane,1660,10,12,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,12,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,10,12,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,13,walk,
+my_lords_lodgings_whitehall,charing_cross,1660,10,13,walk,
+charing_cross,my_lords_lodgings_whitehall,1660,10,13,walk,
+my_lords_lodgings_whitehall,sun_tavern_westminster,1660,10,13,walk,Captain Cuttance; Mr. Sheply
+sun_tavern_westminster,home_seething_lane,1660,10,13,boat,
+home_seething_lane,father_house_salisbury_court,1660,10,14,walk,Dr. Fairbrother
+father_house_salisbury_court,whitehall,1660,10,14,walk,
+whitehall,my_lords_lodgings_whitehall,1660,10,14,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,10,14,boat,Elizabeth Pepys
+home_seething_lane,navy_office,1660,10,15,walk,
+navy_office,home_seething_lane,1660,10,15,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,15,boat,Elizabeth Pepys (landed at Whitefriars)
+my_lords_lodgings_whitehall,whitehall,1660,10,15,walk,
+whitehall,father_house_salisbury_court,1660,10,15,coach,
+father_house_salisbury_court,tom_pepys_turner_shop,1660,10,15,coach,Elizabeth Pepys
+tom_pepys_turner_shop,home_seething_lane,1660,10,15,coach,Elizabeth Pepys
+home_seething_lane,shops_city,1660,10,16,walk,Mr. Moore
+shops_city,cockpit_whitehall,1660,10,16,walk,Mr. Moore
+cockpit_whitehall,home_seething_lane,1660,10,16,boat,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,16,boat,
+my_lords_lodgings_whitehall,home_seething_lane,1660,10,16,boat,
+home_seething_lane,navy_office,1660,10,17,walk,
+navy_office,feathers_fish_street,1660,10,17,walk,Mr. Creed; Captain Cuttance; Mr. Dawes and his brother
+feathers_fish_street,home_seething_lane,1660,10,17,walk,Mr. Creed
+home_seething_lane,newgate,1660,10,18,walk,
+newgate,uncle_fenners,1660,10,18,walk,
+uncle_fenners,father_house_salisbury_court,1660,10,18,walk,
+father_house_salisbury_court,my_lords_lodgings_whitehall,1660,10,18,walk,
+my_lords_lodgings_whitehall,mr_blackburnes,1660,10,18,walk,
+mr_blackburnes,home_seething_lane,1660,10,18,coach,Elizabeth Pepys
+home_seething_lane,navy_office,1660,10,19,walk,
+navy_office,home_seething_lane,1660,10,19,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,20,walk,
+my_lords_lodgings_whitehall,crowes_upholsterer,1660,10,20,walk,
+crowes_upholsterer,home_seething_lane,1660,10,20,walk,
+home_seething_lane,st_olaves,1660,10,21,walk,
+st_olaves,home_seething_lane,1660,10,21,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,21,walk,
+my_lords_lodgings_whitehall,westminster_abbey,1660,10,21,walk,
+westminster_abbey,priors_rhenish_wine_house,1660,10,21,walk,Mr. Spicer; D. Vines; George Vines and others
+priors_rhenish_wine_house,mr_vines_house,1660,10,21,walk,George Vines
+mr_vines_house,crown_palace_yard,1660,10,21,walk,George Vines
+crown_palace_yard,westminster_abbey,1660,10,21,walk,
+westminster_abbey,my_lords_lodgings_whitehall,1660,10,21,walk,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,10,21,walk,
+father_house_salisbury_court,home_seething_lane,1660,10,21,walk,
+home_seething_lane,navy_office,1660,10,22,walk,
+navy_office,home_seething_lane,1660,10,22,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,10,22,walk,
+my_lords_lodgings_whitehall,warwick_house_holborn,1660,10,23,walk,
+warwick_house_holborn,whitehall,1660,10,23,walk,
+whitehall,leg_kings_street,1660,10,23,walk,brother Ashwell; Sam Ashwell; Mr. Mallard
+leg_kings_street,ironmongers_kings_street,1660,10,23,walk,Catan Sterpin (Mrs. Petit)
+ironmongers_kings_street,my_lords_lodgings_whitehall,1660,10,23,walk,
+my_lords_lodgings_whitehall,mrs_parkers,1660,10,23,coach,Lady Sandwich
+mrs_parkers,my_lords_lodgings_whitehall,1660,10,23,coach,Lady Sandwich
+my_lords_lodgings_whitehall,mr_de_cretz,1660,10,23,walk,
+mr_de_cretz,whitehall,1660,10,23,walk,
+whitehall,mr_spongs,1660,10,23,walk,Mr. Spong
+mr_spongs,home_seething_lane,1660,10,23,coach,
+home_seething_lane,navy_office,1660,10,24,walk,
+navy_office,home_seething_lane,1660,10,24,walk,
+home_seething_lane,whitehall,1660,10,24,walk,Mr. Moore
+whitehall,mr_de_cretz,1660,10,24,walk,
+mr_de_cretz,mr_lillys,1660,10,24,walk,
+mr_lillys,mr_greatorexs,1660,10,24,walk,
+mr_greatorexs,alehouse_city,1660,10,24,walk,Mr. Greatorex; Mr. Spong
+alehouse_city,mr_lillys,1660,10,24,walk,Mr. Spong
+mr_lillys,home_seething_lane,1660,10,24,coach,Mr. Booker (set down at Lime Street end)
+home_seething_lane,westminster_hall,1660,10,25,walk,
+westminster_hall,home_seething_lane,1660,10,25,walk,
+home_seething_lane,navy_office,1660,10,26,walk,
+navy_office,home_seething_lane,1660,10,26,walk,
+home_seething_lane,whitehall,1660,10,26,walk,
+whitehall,westminster_hall,1660,10,26,walk,
+westminster_hall,home_seething_lane,1660,10,26,walk,
+home_seething_lane,westminster_hall,1660,10,27,walk,
+westminster_hall,st_pauls_churchyard,1660,10,27,walk,
+st_pauls_churchyard,home_seething_lane,1660,10,27,walk,
+home_seething_lane,westminster_abbey,1660,10,28,walk,
+westminster_abbey,my_lords_lodgings_whitehall,1660,10,28,walk,
+my_lords_lodgings_whitehall,whitehall,1660,10,28,walk,Lady Sandwich; Lady Jemima Montagu
+whitehall,my_lords_lodgings_whitehall,1660,10,28,walk,Lady Sandwich; Lady Jemima Montagu
+my_lords_lodgings_whitehall,home_seething_lane,1660,10,28,walk,
+home_seething_lane,the_wardrobe,1660,10,29,walk,
+the_wardrobe,mr_isaacsons_cheapside,1660,10,29,coach,Lady Sandwich; Lady Pickering; Mr. Townsend (children set down at Mr. Nevill's)
+mr_isaacsons_cheapside,tavern_cheapside,1660,10,29,walk,Mr. Townsend; Mr. Isaacson
+tavern_cheapside,st_pauls_churchyard,1660,10,29,coach,Lady Sandwich; Lady Pickering
+st_pauls_churchyard,lady_pickerings,1660,10,29,walk,Lady Pickering
+lady_pickerings,home_seething_lane,1660,10,29,walk,
+home_seething_lane,cockpit_whitehall,1660,10,30,walk,
+cockpit_whitehall,mr_crews_house,1660,10,30,walk,
+mr_crews_house,hercules_pillars,1660,10,30,walk,Mr. Moore; Will (boy)
+hercules_pillars,home_seething_lane,1660,10,30,walk,Will (boy)
+home_seething_lane,navy_office,1660,10,31,walk,
+navy_office,home_seething_lane,1660,10,31,walk,
+home_seething_lane,westminster_hall,1660,10,31,walk,
+westminster_hall,home_seething_lane,1660,10,31,walk,
+home_seething_lane,sir_w_battens_walthamstow,1660,11,1,horse,Sir William Penn
+sir_w_battens_walthamstow,alehouse_walthamstow,1660,11,1,walk,Sir William Penn; Sir William Batten; Mr. Christmas and other gentlemen
+alehouse_walthamstow,bow,1660,11,1,horse,Sir William Penn; Sir William Batten; Mr. Johnson of Blackwall
+bow,home_seething_lane,1660,11,1,horse,Sir William Penn; Sir William Batten
+home_seething_lane,navy_office,1660,11,2,walk,
+navy_office,home_seething_lane,1660,11,2,walk,
+home_seething_lane,mr_stevens_silversmith,1660,11,2,walk,
+mr_stevens_silversmith,alehouse_city,1660,11,2,walk,Mr. Cooke; Mr. Stephens (silversmith)
+alehouse_city,whitehall,1660,11,2,walk,
+whitehall,lambeth,1660,11,2,boat,
+lambeth,whitehall,1660,11,2,boat,
+whitehall,my_lords_lodgings_whitehall,1660,11,2,walk,
+my_lords_lodgings_whitehall,ludgate,1660,11,2,coach,Mr. Child (set down in the Strand)
+ludgate,st_pauls_churchyard,1660,11,2,walk,
+st_pauls_churchyard,home_seething_lane,1660,11,2,walk,
+home_seething_lane,whitehall,1660,11,3,walk,
+whitehall,westminster_hall,1660,11,3,walk,
+westminster_hall,alehouse_westminster,1660,11,3,walk,Tom Doling; Betty Lane
+alehouse_westminster,home_seething_lane,1660,11,3,walk,
+home_seething_lane,st_olaves,1660,11,4,walk,
+st_olaves,home_seething_lane,1660,11,4,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,11,4,walk,
+my_lords_lodgings_whitehall,westminster_abbey,1660,11,4,walk,
+westminster_abbey,my_lords_lodgings_whitehall,1660,11,4,walk,
+my_lords_lodgings_whitehall,bell_tavern_kings_street,1660,11,4,walk,Mr. Pierce (surgeon); Mr. Sheply
+bell_tavern_kings_street,father_house_salisbury_court,1660,11,4,walk,
+father_house_salisbury_court,home_seething_lane,1660,11,4,walk,
+home_seething_lane,navy_office,1660,11,5,walk,
+navy_office,home_seething_lane,1660,11,5,walk,
+home_seething_lane,navy_office,1660,11,5,walk,
+navy_office,home_seething_lane,1660,11,5,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,11,6,boat,Sir William Batten; Sir William Penn
+my_lords_lodgings_whitehall,mr_de_cretz,1660,11,6,walk,Mr. Creed
+mr_de_cretz,westminster_hall,1660,11,6,walk,Mr. Creed
+westminster_hall,sun_tavern_westminster,1660,11,6,walk,Mr. Creed; Mr. Chetwind
+sun_tavern_westminster,wilkinsons_cook_shop,1660,11,6,walk,Mr. Creed
+wilkinsons_cook_shop,navy_office,1660,11,6,walk,
+navy_office,home_seething_lane,1660,11,6,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,11,7,boat,
+my_lords_lodgings_whitehall,mr_de_cretz,1660,11,7,walk,
+mr_de_cretz,mr_foxs,1660,11,7,walk,
+mr_foxs,harpers_alehouse,1660,11,7,walk,Mr. Bowyer
+harpers_alehouse,home_seething_lane,1660,11,7,coach,
+home_seething_lane,deptford,1660,11,8,boat,Sir William Batten; Sir George Carteret; Sir William Doyley; Mr. Prynne
+deptford,mr_davis_deptford,1660,11,8,walk,
+mr_davis_deptford,dutch_yacht,1660,11,8,walk,Commissioner Pett
+dutch_yacht,ratcliffe,1660,11,8,walk,Commissioner Pett
+ratcliffe,alehouse_ratcliffe,1660,11,8,walk,
+alehouse_ratcliffe,deptford,1660,11,8,walk,men going that way
+deptford,home_seething_lane,1660,11,8,boat,officers of the Navy
+home_seething_lane,navy_office,1660,11,9,walk,
+navy_office,hoop_tavern,1660,11,9,walk,Mr. Wivell; Mr. Shepley; Mr. Talbot; Mr. Adams; Mr. Chaplin; Nicholas Osborne; Mr. Ady; Mr. Wine
+hoop_tavern,my_lords_lodgings_whitehall,1660,11,9,walk,
+my_lords_lodgings_whitehall,sir_harry_wrights,1660,11,9,walk,
+sir_harry_wrights,father_house_salisbury_court,1660,11,9,walk,
+father_house_salisbury_court,home_seething_lane,1660,11,9,walk,
+home_seething_lane,navy_office,1660,11,10,walk,
+navy_office,whitehall,1660,11,10,walk,
+whitehall,parliament_house,1660,11,10,walk,Sir George Carteret; Colonel Slingsby
+parliament_house,coffee_club_westminster,1660,11,10,walk,Colonel Slingsby
+coffee_club_westminster,whitehall,1660,11,10,walk,
+whitehall,mr_crews_house,1660,11,10,walk,
+mr_crews_house,st_pauls_churchyard,1660,11,10,walk,
+st_pauls_churchyard,home_seething_lane,1660,11,10,walk,Will Hewer
+home_seething_lane,sir_w_battens,1660,11,11,walk,
+sir_w_battens,st_olaves,1660,11,11,walk,Sir William Batten
+st_olaves,home_seething_lane,1660,11,11,walk,
+home_seething_lane,mr_foxs,1660,11,11,walk,
+mr_foxs,my_lords_lodgings_whitehall,1660,11,11,walk,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,11,11,walk,
+father_house_salisbury_court,home_seething_lane,1660,11,11,walk,Elizabeth Pepys; Will Hewer; boy with link
+home_seething_lane,navy_office,1660,11,12,walk,
+navy_office,slingsby_lime_street,1660,11,12,walk,Colonel Slingsby
+slingsby_lime_street,westminster_hall,1660,11,12,coach,Colonel Slingsby; his sister (set down at the New Exchange)
+westminster_hall,mr_de_cretz,1660,11,12,walk,
+mr_de_cretz,westminster_hall,1660,11,12,walk,
+westminster_hall,heaven_tavern,1660,11,12,walk,Colonel Slingsby; three or four Parliament men
+heaven_tavern,wills_alehouse,1660,11,12,walk,
+wills_alehouse,mr_foxs,1660,11,12,walk,Jack Spicer
+mr_foxs,exchequer_office,1660,11,12,coach,Jack Spicer
+exchequer_office,father_house_salisbury_court,1660,11,12,walk,
+father_house_salisbury_court,mr_standings_salisbury_court,1660,11,12,walk,John Pepys (father)
+mr_standings_salisbury_court,father_house_salisbury_court,1660,11,12,walk,John Pepys (father)
+father_house_salisbury_court,home_seething_lane,1660,11,12,coach,Elizabeth Pepys
+home_seething_lane,the_wardrobe,1660,11,13,boat,Mr. Moore
+the_wardrobe,exchequer_office,1660,11,13,walk,
+exchequer_office,dog_tavern_westminster,1660,11,13,walk,Jack Spicer; his fellow clerks
+dog_tavern_westminster,home_seething_lane,1660,11,13,walk,
+home_seething_lane,mr_beauchamps,1660,11,14,walk,
+mr_beauchamps,st_pauls_churchyard,1660,11,14,walk,
+st_pauls_churchyard,home_seething_lane,1660,11,14,walk,
+home_seething_lane,navy_office,1660,11,14,walk,
+navy_office,dolphin_tavern,1660,11,14,walk,Sir William Penn; Colonel Slingsby
+dolphin_tavern,home_seething_lane,1660,11,14,walk,
+home_seething_lane,sun_tavern_westminster,1660,11,15,boat,
+sun_tavern_westminster,mr_de_cretz,1660,11,15,walk,
+mr_de_cretz,my_lords_lodgings_whitehall,1660,11,15,walk,porter carrying the picture
+my_lords_lodgings_whitehall,sir_w_battens,1660,11,15,coach,Sir William Penn; Sir Arnold Brames
+sir_w_battens,mr_foxs,1660,11,15,boat,
+mr_foxs,wills_alehouse,1660,11,15,walk,two porters carrying the money
+wills_alehouse,exchequer_office,1660,11,15,walk,Jack Spicer
+exchequer_office,wills_alehouse,1660,11,15,walk,
+wills_alehouse,sir_w_battens,1660,11,15,boat,
+sir_w_battens,home_seething_lane,1660,11,15,walk,
+home_seething_lane,father_house_salisbury_court,1660,11,16,walk,
+father_house_salisbury_court,temple,1660,11,16,walk,Mr. Moore
+temple,westminster_hall,1660,11,16,walk,Mr. Moore
+westminster_hall,swan_kings_street,1660,11,16,walk,Mr. Fontleroy
+swan_kings_street,home_seething_lane,1660,11,16,boat,
+home_seething_lane,navy_office,1660,11,16,walk,
+navy_office,sir_w_battens,1660,11,16,walk,
+sir_w_battens,home_seething_lane,1660,11,16,walk,
+home_seething_lane,privy_seal_office,1660,11,17,walk,
+privy_seal_office,my_lords_lodgings_whitehall,1660,11,17,walk,
+my_lords_lodgings_whitehall,mr_crews_house,1660,11,17,walk,Major Hart
+mr_crews_house,devil_tavern,1660,11,17,walk,Mr. Shepley; Mr. Moore
+devil_tavern,home_seething_lane,1660,11,17,walk,
+home_seething_lane,st_olaves,1660,11,18,walk,
+st_olaves,home_seething_lane,1660,11,18,walk,
+home_seething_lane,st_olaves,1660,11,18,walk,Elizabeth Pepys
+st_olaves,sir_w_battens,1660,11,18,walk,Elizabeth Pepys; Lady Batten; Sir William Batten; Sir William Penn
+sir_w_battens,home_seething_lane,1660,11,18,walk,Elizabeth Pepys
+home_seething_lane,navy_office,1660,11,19,walk,
+navy_office,whitehall,1660,11,19,coach,Sir George Carteret
+whitehall,sun_tavern_westminster,1660,11,19,walk,Mr. Shepley
+sun_tavern_westminster,mr_de_cretz,1660,11,19,walk,Mr. Shepley
+mr_de_cretz,westminster_hall,1660,11,19,walk,
+westminster_hall,leg_kings_street,1660,11,19,walk,Sir William Batten; Trinity House men
+leg_kings_street,globe_cornhill,1660,11,19,boat,
+globe_cornhill,navy_office,1660,11,19,walk,
+navy_office,home_seething_lane,1660,11,19,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,11,20,walk,Will Hewer
+my_lords_lodgings_whitehall,mr_foxs,1660,11,20,walk,
+mr_foxs,my_lords_lodgings_whitehall,1660,11,20,walk,
+my_lords_lodgings_whitehall,temple,1660,11,20,walk,
+temple,new_playhouse,1660,11,20,walk,Mr. Shepley
+new_playhouse,alehouse_holborn,1660,11,20,walk,Mr. Shepley
+alehouse_holborn,father_house_salisbury_court,1660,11,20,walk,
+father_house_salisbury_court,uncle_fenners,1660,11,20,walk,
+uncle_fenners,home_seething_lane,1660,11,20,walk,link boy
+home_seething_lane,paternoster_row,1660,11,21,walk,Elizabeth Pepys
+paternoster_row,mr_cades,1660,11,21,walk,Elizabeth Pepys
+mr_cades,popes_head_alley,1660,11,21,walk,
+popes_head_alley,home_seething_lane,1660,11,21,walk,
+home_seething_lane,navy_office,1660,11,21,walk,
+navy_office,home_seething_lane,1660,11,21,walk,
+home_seething_lane,royal_exchange,1660,11,22,walk,Elizabeth Pepys
+royal_exchange,mr_foxs,1660,11,22,coach,Elizabeth Pepys
+mr_foxs,whitehall,1660,11,22,walk,Mr. Fox; Elizabeth Pepys
+whitehall,mr_foxs,1660,11,22,walk,Elizabeth Pepys
+mr_foxs,charing_cross,1660,11,22,walk,
+charing_cross,mr_foxs,1660,11,22,walk,
+mr_foxs,maypole_strand,1660,11,22,coach,Elizabeth Pepys (sent home in the coach)
+maypole_strand,new_playhouse,1660,11,22,walk,
+new_playhouse,my_lords_lodgings_whitehall,1660,11,22,walk,
+my_lords_lodgings_whitehall,whitehall,1660,11,22,walk,Laud Crisp (page)
+whitehall,home_seething_lane,1660,11,22,walk,
+home_seething_lane,dolphin_tavern,1660,11,23,walk,Captain Straughan
+dolphin_tavern,home_seething_lane,1660,11,23,walk,
+home_seething_lane,navy_office,1660,11,23,walk,
+navy_office,dolphin_tavern,1660,11,23,walk,Mr. Creed
+dolphin_tavern,home_seething_lane,1660,11,23,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,11,24,walk,
+my_lords_lodgings_whitehall,priors_rhenish_wine_house,1660,11,24,walk,Mr. Townsend; Mr. Rumball; Mr. Blackburne; Mr. Creed; Mr. Shepley
+priors_rhenish_wine_house,westminster_hall,1660,11,24,walk,Mr. Creed
+westminster_hall,my_lords_lodgings_whitehall,1660,11,24,walk,
+my_lords_lodgings_whitehall,mr_de_cretz,1660,11,24,walk,
+mr_de_cretz,home_seething_lane,1660,11,24,boat,Will Hewer
+home_seething_lane,st_olaves,1660,11,25,walk,
+st_olaves,home_seething_lane,1660,11,25,walk,
+home_seething_lane,temple_church,1660,11,25,walk,
+temple_church,father_house_salisbury_court,1660,11,25,walk,
+father_house_salisbury_court,home_seething_lane,1660,11,25,walk,
+home_seething_lane,navy_office,1660,11,26,walk,
+navy_office,home_seething_lane,1660,11,26,walk,
+home_seething_lane,navy_office,1660,11,26,walk,
+navy_office,mr_rawlinsons,1660,11,26,walk,Colonel Slingsby
+mr_rawlinsons,home_seething_lane,1660,11,26,walk,
+home_seething_lane,whitehall,1660,11,27,walk,
+whitehall,westminster_hall,1660,11,27,walk,
+westminster_hall,hell_tavern,1660,11,27,walk,Mr. Creed
+hell_tavern,my_lords_lodgings_whitehall,1660,11,27,walk,
+my_lords_lodgings_whitehall,new_playhouse,1660,11,27,walk,
+new_playhouse,father_house_salisbury_court,1660,11,27,walk,Mr. Moore
+father_house_salisbury_court,mr_standings_salisbury_court,1660,11,27,walk,Mr. Moore; John Pepys (father)
+mr_standings_salisbury_court,home_seething_lane,1660,11,27,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,11,28,walk,
+my_lords_lodgings_whitehall,sun_tavern_westminster,1660,11,28,walk,Mr. Shepley; Mr. Pinkney
+sun_tavern_westminster,home_seething_lane,1660,11,28,walk,
+home_seething_lane,navy_office,1660,11,28,walk,
+navy_office,home_seething_lane,1660,11,28,walk,
+home_seething_lane,navy_office,1660,11,29,walk,
+navy_office,home_seething_lane,1660,11,29,walk,
+home_seething_lane,navy_office,1660,11,30,walk,
+navy_office,home_seething_lane,1660,11,30,walk,
+home_seething_lane,navy_office,1660,11,30,walk,
+navy_office,home_seething_lane,1660,11,30,walk,
+home_seething_lane,privy_seal_office,1660,12,1,walk,
+privy_seal_office,lord_st_albans,1660,12,1,walk,
+lord_st_albans,my_lords_lodgings_whitehall,1660,12,1,walk,
+my_lords_lodgings_whitehall,mr_pinkneys_house,1660,12,1,walk,Mr. Shepley
+mr_pinkneys_house,alehouse_city,1660,12,1,walk,Mr. Pinkney; Mr. Shepley; old Mr. Flower
+alehouse_city,st_pauls_churchyard,1660,12,1,walk,Mr. Shepley
+st_pauls_churchyard,star_cheapside,1660,12,1,walk,Mr. Shepley; Mr. Kirton's man
+star_cheapside,home_seething_lane,1660,12,1,walk,
+home_seething_lane,st_olaves,1660,12,2,walk,
+st_olaves,home_seething_lane,1660,12,2,walk,
+home_seething_lane,st_olaves,1660,12,2,walk,
+st_olaves,home_seething_lane,1660,12,2,walk,
+home_seething_lane,navy_office,1660,12,3,walk,
+navy_office,home_seething_lane,1660,12,3,walk,
+home_seething_lane,navy_office,1660,12,3,walk,
+navy_office,home_seething_lane,1660,12,3,walk,
+home_seething_lane,sir_g_carterets,1660,12,4,walk,
+sir_g_carterets,whitehall,1660,12,4,walk,principal officers of the Navy
+whitehall,sir_g_carterets,1660,12,4,walk,principal officers of the Navy
+sir_g_carterets,my_lords_lodgings_whitehall,1660,12,4,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,12,4,boat,
+home_seething_lane,sir_w_battens,1660,12,4,walk,
+sir_w_battens,home_seething_lane,1660,12,4,walk,Sir William Penn
+home_seething_lane,navy_office,1660,12,5,walk,
+navy_office,home_seething_lane,1660,12,5,walk,
+home_seething_lane,new_playhouse,1660,12,5,walk,
+new_playhouse,mr_william_montagus,1660,12,5,walk,
+mr_william_montagus,father_house_salisbury_court,1660,12,5,walk,
+father_house_salisbury_court,home_seething_lane,1660,12,5,walk,
+home_seething_lane,privy_seal_office,1660,12,6,boat,Elizabeth Pepys (landed at Whitefriars)
+privy_seal_office,leg_kings_street,1660,12,6,walk,Mr. Moore
+leg_kings_street,mr_crews_house,1660,12,6,coach,Mr. Moore
+mr_crews_house,mr_greatorexs,1660,12,6,walk,
+mr_greatorexs,five_bells,1660,12,6,walk,Mr. Jonas Moore
+five_bells,temple,1660,12,6,walk,
+temple,alehouse_westminster,1660,12,6,boat,
+alehouse_westminster,home_seething_lane,1660,12,6,boat,
+home_seething_lane,navy_office,1660,12,7,walk,
+navy_office,my_lords_lodgings_whitehall,1660,12,7,walk,
+my_lords_lodgings_whitehall,exchequer_office,1660,12,7,walk,
+exchequer_office,privy_seal_office,1660,12,7,walk,
+privy_seal_office,home_seething_lane,1660,12,7,boat,
+home_seething_lane,privy_seal_office,1660,12,8,walk,
+privy_seal_office,mr_pierces_house,1660,12,8,walk,
+mr_pierces_house,westminster_hall,1660,12,8,walk,
+westminster_hall,navy_office,1660,12,8,boat,Sir William Penn
+navy_office,home_seething_lane,1660,12,8,walk,
+home_seething_lane,pierce_pursers_house,1660,12,8,walk,Elizabeth Pepys; Mr. Pierce (surgeon); Mrs. Pierce
+pierce_pursers_house,home_seething_lane,1660,12,8,walk,Elizabeth Pepys
+home_seething_lane,sir_w_battens,1660,12,9,walk,
+sir_w_battens,mr_coventrys,1660,12,9,boat,company going to Whitehall from the Old Swan
+mr_coventrys,whitehall,1660,12,9,walk,
+whitehall,my_lords_lodgings_whitehall,1660,12,9,walk,
+my_lords_lodgings_whitehall,mr_kennards,1660,12,9,walk,
+mr_kennards,mr_denhams,1660,12,9,walk,Mr. Kennard
+mr_denhams,my_lords_lodgings_whitehall,1660,12,9,walk,Mr. Kennard
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,12,9,walk,
+father_house_salisbury_court,home_seething_lane,1660,12,9,walk,
+home_seething_lane,slingsby_lime_street,1660,12,9,walk,Griffin with lanthorn
+slingsby_lime_street,home_seething_lane,1660,12,9,walk,
+home_seething_lane,cornhill,1660,12,10,walk,
+cornhill,slingsby_lime_street,1660,12,10,walk,
+slingsby_lime_street,home_seething_lane,1660,12,10,walk,
+home_seething_lane,mr_bowyers_westminster,1660,12,10,boat,Elizabeth Pepys
+mr_bowyers_westminster,westminster_hall,1660,12,10,walk,
+westminster_hall,navy_office,1660,12,10,coach,Colonel Slingsby
+navy_office,home_seething_lane,1660,12,10,walk,
+home_seething_lane,coffee_house_cornhill,1660,12,10,walk,Colonel Slingsby
+coffee_house_cornhill,sir_w_battens,1660,12,10,walk,
+sir_w_battens,home_seething_lane,1660,12,10,walk,
+home_seething_lane,woolwich,1660,12,11,boat,Elizabeth Pepys; Lady Batten; her maid
+woolwich,privy_seal_office,1660,12,11,boat,a gentleman friend of Sir William Penn
+privy_seal_office,alehouse_seething_lane,1660,12,11,walk,Mr. Moore
+alehouse_seething_lane,home_seething_lane,1660,12,11,walk,
+home_seething_lane,navy_office,1660,12,12,walk,
+navy_office,my_lords_lodgings_whitehall,1660,12,12,walk,
+my_lords_lodgings_whitehall,privy_seal_office,1660,12,12,walk,
+privy_seal_office,mr_bowyers_westminster,1660,12,12,walk,
+mr_bowyers_westminster,exchequer_office,1660,12,12,walk,Jack Spicer
+exchequer_office,father_house_salisbury_court,1660,12,12,coach,
+father_house_salisbury_court,home_seething_lane,1660,12,12,coach,
+home_seething_lane,sir_w_battens,1660,12,12,walk,
+sir_w_battens,home_seething_lane,1660,12,12,walk,
+home_seething_lane,sir_w_battens,1660,12,13,walk,
+sir_w_battens,home_seething_lane,1660,12,13,walk,
+home_seething_lane,navy_office,1660,12,14,walk,
+navy_office,home_seething_lane,1660,12,14,walk,
+home_seething_lane,navy_office,1660,12,14,walk,
+navy_office,coffee_house_cornhill,1660,12,14,walk,Colonel Slingsby
+coffee_house_cornhill,home_seething_lane,1660,12,14,walk,
+home_seething_lane,st_olaves,1660,12,16,walk,
+st_olaves,home_seething_lane,1660,12,16,walk,
+home_seething_lane,whitehall,1660,12,16,walk,
+whitehall,scotland_yard_guard,1660,12,16,walk,Simon Beale (trumpeter); Tom Doling
+scotland_yard_guard,prices,1660,12,16,walk,Tom Doling; Boston; D. Vines
+prices,my_lords_lodgings_whitehall,1660,12,16,walk,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,12,16,walk,
+father_house_salisbury_court,home_seething_lane,1660,12,16,walk,Elizabeth Pepys; link boy
+home_seething_lane,navy_office,1660,12,17,walk,
+navy_office,home_seething_lane,1660,12,17,walk,
+home_seething_lane,my_lords_lodgings_whitehall,1660,12,19,walk,
+my_lords_lodgings_whitehall,navy_office,1660,12,19,walk,
+navy_office,home_seething_lane,1660,12,19,walk,
+home_seething_lane,privy_seal_office,1660,12,21,boat,Elizabeth Pepys (landed at Whitefriars)
+privy_seal_office,exchequer_office,1660,12,21,walk,two porters carrying the money
+exchequer_office,swan_kings_street,1660,12,21,walk,Mr. Hales; W. Bowyer
+swan_kings_street,my_lords_lodgings_whitehall,1660,12,21,walk,
+my_lords_lodgings_whitehall,navy_office,1660,12,21,walk,
+navy_office,my_lords_lodgings_whitehall,1660,12,21,walk,
+my_lords_lodgings_whitehall,home_seething_lane,1660,12,21,walk,
+home_seething_lane,sun_fish_street_hill,1660,12,22,walk,
+sun_fish_street_hill,home_seething_lane,1660,12,22,walk,Sir William Penn
+home_seething_lane,st_olaves,1660,12,23,walk,
+st_olaves,home_seething_lane,1660,12,23,walk,
+home_seething_lane,st_olaves,1660,12,23,walk,Elizabeth Pepys
+st_olaves,home_seething_lane,1660,12,23,walk,Elizabeth Pepys
+home_seething_lane,navy_office,1660,12,24,walk,
+navy_office,home_seething_lane,1660,12,24,walk,
+home_seething_lane,backwells,1660,12,24,walk,
+backwells,navy_office,1660,12,24,walk,
+navy_office,home_seething_lane,1660,12,24,walk,
+home_seething_lane,st_olaves,1660,12,25,walk,
+st_olaves,home_seething_lane,1660,12,25,walk,
+home_seething_lane,st_olaves,1660,12,25,walk,Elizabeth Pepys
+st_olaves,home_seething_lane,1660,12,25,walk,Elizabeth Pepys
+home_seething_lane,backwells,1660,12,26,walk,
+backwells,mr_crews_house,1660,12,26,coach,
+mr_crews_house,my_lords_lodgings_whitehall,1660,12,26,walk,
+my_lords_lodgings_whitehall,mr_coventrys,1660,12,26,walk,Sir Thomas Bond
+mr_coventrys,navy_office,1660,12,26,boat,
+navy_office,sir_w_penns,1660,12,26,walk,
+sir_w_penns,my_lords_lodgings_whitehall,1660,12,26,boat,
+my_lords_lodgings_whitehall,mr_bowyers_westminster,1660,12,26,walk,
+mr_bowyers_westminster,home_seething_lane,1660,12,26,boat,Elizabeth Pepys
+home_seething_lane,backwells,1660,12,27,walk,
+backwells,my_lords_lodgings_whitehall,1660,12,27,coach,Alderman Backwell
+my_lords_lodgings_whitehall,home_seething_lane,1660,12,27,walk,
+home_seething_lane,sir_w_battens,1660,12,27,walk,Elizabeth Pepys
+sir_w_battens,home_seething_lane,1660,12,27,walk,
+home_seething_lane,navy_office,1660,12,28,walk,
+navy_office,home_seething_lane,1660,12,28,walk,
+home_seething_lane,sir_w_penns,1660,12,29,walk,Captain Robert Blake
+sir_w_penns,home_seething_lane,1660,12,29,walk,Captain Robert Blake; Sir William Penn
+home_seething_lane,backwells,1660,12,29,walk,
+backwells,my_lords_lodgings_whitehall,1660,12,29,coach,
+my_lords_lodgings_whitehall,father_house_salisbury_court,1660,12,29,walk,
+father_house_salisbury_court,uncle_fenners,1660,12,29,walk,
+uncle_fenners,home_seething_lane,1660,12,29,walk,John Pepys (father) (part way)
+home_seething_lane,my_lords_lodgings_whitehall,1660,12,30,walk,Will Hewer
+my_lords_lodgings_whitehall,westminster_abbey,1660,12,30,walk,
+westminster_abbey,father_house_salisbury_court,1660,12,30,walk,
+father_house_salisbury_court,home_seething_lane,1660,12,30,walk,
+home_seething_lane,navy_office,1660,12,31,walk,
+navy_office,home_seething_lane,1660,12,31,walk,
+home_seething_lane,st_pauls_churchyard,1660,12,31,walk,
+st_pauls_churchyard,mr_crews_house,1660,12,31,walk,
+mr_crews_house,new_playhouse,1660,12,31,walk,
+new_playhouse,my_lords_lodgings_whitehall,1660,12,31,walk,
+my_lords_lodgings_whitehall,harpers_alehouse,1660,12,31,walk,Mr. Shepley
+harpers_alehouse,whitehall,1660,12,31,walk,
+whitehall,home_seething_lane,1660,12,31,coach,a one-eyed Frenchman (shared coach; set down in Fenchurch Street)
